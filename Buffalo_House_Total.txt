@@ -1,0 +1,2244 @@
+"Name" "price" "lon" "lat"
+"1" "1059 Parker BlvdKenilworth, Buffalo, NY" "$138,900" -78.838003 42.9663093
+"2" "178 Albany StGrant Ferry, Buffalo, NY" "$154,900" -78.8950498 42.9130157
+"3" "112 Carmel RdStarin Central, Buffalo, NY" "$189,900" -78.8380054 42.9507236
+"4" "519 Woodlawn AveKingsley, Buffalo, NY" "$29,900" -78.845569 42.913588
+"5" "337 Crowley AveRiverside Park, Buffalo, NY" "$59,000" -78.898264 42.951796
+"6" "103 Parkside CirBuffalo, NY" "$30,000" -78.8516791 42.9326273
+"7" "418 Dearborn StBlack Rock, Buffalo, NY" "$49,900" NA NA
+"8" "70 Harmonia StBroadway - Fillmore, Buffalo, NY" "$9,000" NA NA
+"9" "19 Nottingham TerPark Meadow, Buffalo, NY" "$1,045,000" NA NA
+"10" "234 Riley StMasten Park, Buffalo, NY" "$10,000" -78.85765 42.909631
+"11" "3473 S Park Ave #A18Buffalo, NY" "$11,900" -78.82527 42.805278
+"12" "149 Arkansas StGrant Ferry, Buffalo, NY" "$49,900" -78.8918031 42.9139743
+"13" "230 Potomac AveForest, Buffalo, NY" "$58,800" NA NA
+"14" "388 Bristol StBabcock, Buffalo, NY" "$39,900" NA NA
+"15" "127 Hayden StCazenovia Park, Buffalo, NY" "$39,000" -78.8081094 42.8594705
+"16" "145 Heath StUniversity, Buffalo, NY" "$77,826" NA NA
+"17" "1198 Center RdBuffalo, NY" "$115,000" -78.738303 42.840102
+"18" "2 Melody LnBuffalo, NY" "$41,900" -78.8355026 42.9817522
+"19" "194 Person St #2Emerson, Buffalo, NY" "$36,000" -78.8761995 35.0518798
+"20" "440 Niagara Falls BlvdKenilworth, Buffalo, NY" "$5,500" -78.823867 42.966022
+"21" "75 Harlem RdBuffalo, NY" "$45,356" -78.789311 42.844942
+"22" "102 Howell StBlack Rock, Buffalo, NY" "$59,900" -78.88745 42.940328
+"23" "760 Auburn AveDelaware-West Ferry, Buffalo, NY" "$469,000" NA NA
+"24" "860 William StBroadway - Fillmore, Buffalo, NY" "$79,000" NA NA
+"25" "245 Watson StEmslie, Buffalo, NY" "$7,500" NA NA
+"26" "80 Townsend StBroadway - Fillmore, Buffalo, NY" "$35,000" -78.8412714 42.8872555
+"27" "1342 Clinton StBabcock, Buffalo, NY" "$38,900" -78.8260658 42.8745822
+"28" "546 Richmond AveGrant Ferry, Buffalo, NY" "$369,000" -78.8823784 42.9172381
+"29" "584 Potomac AveForest, Buffalo, NY" "$450,000" -78.8776375 42.9243918
+"30" "148 Grandview AveKenilworth, Buffalo, NY" "$110,000" NA NA
+"31" "944 West AveGrant Ferry, Buffalo, NY" "$79,900" -78.8976719 42.9159361
+"32" "712 Hopkins StTifft, Buffalo, NY" "$79,999" -78.832492 42.8570588
+"33" "480 7th StFront Park, Buffalo, NY" "$109,000" -78.8909835 42.8978817
+"34" "1340 Maple Rd #8Buffalo, NY" "$99,900" NA NA
+"35" "363 Rhode Island StFront Park, Buffalo, NY" "$71,500" -78.8876269 42.9103345
+"36" "29 Lewis StBabcock, Buffalo, NY" "$49,900" -78.8342277 42.8785061
+"37" "35 Pine Ridge RdBuffalo, NY" "$101,289" NA NA
+"38" "133 Burch AveBuffalo, NY" "$35,095" -78.7494047 43.0056266
+"39" "106 Morris AveStarin Central, Buffalo, NY" "$77,390" -78.84216 42.94298
+"40" "720 West AveFront Park, Buffalo, NY" "$250,000" NA NA
+"41" "223 Wyoming AveGenesee Moselle, Buffalo, NY" "$35,000" -78.8234844 42.9207033
+"42" "188 Hodge AveBryant, Buffalo, NY" "$269,900" -78.8779779 42.9097009
+"43" "276 Dewitt StForest, Buffalo, NY" "$69,900" NA NA
+"44" "82 Hodge AveBryant, Buffalo, NY" "$384,900" -78.873906 42.909643
+"45" "418 Goodyear AveGenesee Moselle, Buffalo, NY" "$39,900" -78.8224403 42.9075221
+"46" "103 Guernsey StBlack Rock, Buffalo, NY" "$27,691" -78.90201 42.941564
+"47" "25 Theodore StSchiller Park, Buffalo, NY" "$59,900" NA NA
+"48" "160 Fox StBroadway - Fillmore, Buffalo, NY" "$19,900" NA NA
+"49" "81 Hagen StSchiller Park, Buffalo, NY" "$59,900" NA NA
+"50" "624 Niagara Falls BlvdBuffalo, NY" "$118,500" NA NA
+"51" "44 Montrose AveUniversity, Buffalo, NY" "$160,000" NA NA
+"52" "197 Locust StMedical Park, Buffalo, NY" "$60,000" NA NA
+"53" "134 Congress StGrant Ferry, Buffalo, NY" "$169,000" -78.8917116 42.921453
+"54" "316 W Utica StBryant, Buffalo, NY" "$325,000" -78.8782428 42.9110755
+"55" "246 Sherman StEmslie, Buffalo, NY" "$29,900" NA NA
+"56" "215 Greene StLovejoy, Buffalo, NY" "$39,900" NA NA
+"57" "26 Dewitt StGrant Ferry, Buffalo, NY" "$44,900" NA NA
+"58" "431 Humboldt PkwyHamlin Park, Buffalo, NY" "$59,431" -78.8449899 42.9230441
+"59" "77 Krettner StEmslie, Buffalo, NY" "$54,000" -78.847716 42.8855228
+"60" "12 Krupp AveLovejoy, Buffalo, NY" "$40,000" -78.8238256 42.8916161
+"61" "333 Potomac AveForest, Buffalo, NY" "$189,900" -78.8870718 42.9238939
+"62" "1055 Parker BlvdKenilworth, Buffalo, NY" "$64,354" -78.837989 42.9661848
+"63" "706 Hopkins StTifft, Buffalo, NY" "$69,900" -78.8324984 42.8569047
+"64" "142 Scoville AveBabcock, Buffalo, NY" "$55,000" -78.8266668 42.8761663
+"65" "837 Starin AveWilton Argonne, Buffalo, NY" "$134,900" -78.843496 42.9632537
+"66" "347 Traverse BlvdBuffalo, NY" "$131,861" -78.8596175 42.9837826
+"67" "34 Richmond AveFront Park, Buffalo, NY" "$334,999" -78.882297 42.9032989
+"68" "355 Parkdale AveForest, Buffalo, NY" "$129,000" -78.8870073 42.9251188
+"69" "303 Darlington DrBuffalo, NY" "$109,900" -78.8404905 42.9713033
+"70" "43 Aldrich PlSouth Park, Buffalo, NY" "$84,900" -78.8221313 42.8326822
+"71" "24 Junior AveCazenovia Park, Buffalo, NY" "$45,946" -78.8009694 42.8531637
+"72" "210 Center StBuffalo, NY" "$79,000" -78.831929 42.819991
+"73" "132 Lakefront Blvd #604Waterfront, Buffalo, NY" "$649,000" -78.884667 42.8836827
+"74" "29 Gold StLovejoy, Buffalo, NY" "$69,900" NA NA
+"75" "331 University AveKenilworth, Buffalo, NY" "$114,900" -78.8280231 42.9612614
+"76" "759 S Ogden StKaisertown, Buffalo, NY" "$32,000" -78.8009126 42.8822506
+"77" "237 Kenmore AveKenilworth, Buffalo, NY" "$164,900" -78.826449 42.958424
+"78" "832 Abbott RdSouth Abbott, Buffalo, NY" "$50,000" -78.808238 42.841589
+"79" "584 W Utica StFront Park, Buffalo, NY" "$99,900" -78.8884417 42.9111595
+"80" "6 Winslow AveKingsley, Buffalo, NY" "$59,900" -78.852758 42.9133063
+"81" "37 Wright AveKenfield, Buffalo, NY" "$34,000" -78.7995678 42.9238029
+"82" "211-213 Grape StMedical Park, Buffalo, NY" "$74,000" -78.855169 42.90154
+"83" "23 Dogwood DrBuffalo, NY" "$40,000" NA NA
+"84" "94 Thompson StBlack Rock, Buffalo, NY" "$35,900" NA NA
+"85" "129 Clarence AveLaSalle, Buffalo, NY" "$85,748" -78.8223951 42.9379609
+"86" "333 Dartmouth AveKensington, Buffalo, NY" "$63,331" NA NA
+"87" "42 Gesl StLeroy, Buffalo, NY" "$55,000" -78.8403146 42.9299628
+"88" "16 Burlington AveLaSalle, Buffalo, NY" "$80,773" -78.8177225 42.9324742
+"89" "353 Hampshire StGrant Ferry, Buffalo, NY" "$72,900" -78.8890637 42.9142672
+"90" "234 Keystone StSchiller Park, Buffalo, NY" "$19,000" -78.8107524 42.9081975
+"91" "392 Fulton StSouth Ellicott, Buffalo, NY" "$29,000" NA NA
+"92" "118 Welker StMasten Park, Buffalo, NY" "$30,000" NA NA
+"93" "216 Villa AveNorth Park, Buffalo, NY" "$130,000" -78.8613585 42.9581052
+"94" "21 Lyth AveCold Springs, Buffalo, NY" "$29,900" -78.8557412 42.9183815
+"95" "201 Dodge StMasten Park, Buffalo, NY" "$69,900" NA NA
+"96" "64 N Ogden StLovejoy, Buffalo, NY" "$64,548" -78.8027639 42.8864594
+"97" "86 Burlington AveLaSalle, Buffalo, NY" "$29,500" NA NA
+"98" "343 Hampshire StGrant Ferry, Buffalo, NY" "$59,000" NA NA
+"99" "895 Losson RdBuffalo, NY" "$33,000" -78.72745 42.880465
+"100" "93 Chenango StFront Park, Buffalo, NY" "$199,900" NA NA
+"101" "16 Aldrich PlSouth Park, Buffalo, NY" "$109,900" -78.8232607 42.8331004
+"102" "85 Verplanck StMasten Park, Buffalo, NY" "$37,900" NA NA
+"103" "126 Box AveMLK Park, Buffalo, NY" "$39,900" NA NA
+"104" "1230 Kensington AveKensington, Buffalo, NY" "$49,193" -78.8099697 42.9397026
+"105" "611 Adams StJohnson, Buffalo, NY" "$12,178" -78.8507134 42.8967156
+"106" "19 Oakmont AveKenfield, Buffalo, NY" "$38,553" NA NA
+"107" "355 Bristol StBabcock, Buffalo, NY" "$63,000" NA NA
+"108" "49 Riverside AveRiverside Park, Buffalo, NY" "$43,000" -78.9072344 42.952129
+"109" "53 Parkside CirBuffalo, NY" "$35,000" -78.852727 42.9316107
+"110" "165 Arkansas StGrant Ferry, Buffalo, NY" "$37,917" -78.8913 42.913914
+"111" "721 Busti AveFront Park, Buffalo, NY" "$249,900" -78.8969345 42.9033294
+"112" "54 Paige AveKenilworth, Buffalo, NY" "$90,641" NA NA
+"113" "36 Clemo StBabcock, Buffalo, NY" "$33,919" NA NA
+"114" "40 Freund StSchiller Park, Buffalo, NY" "$61,582" -78.80251 42.9183423
+"115" "225 Dearborn StBlack Rock, Buffalo, NY" "$53,126" NA NA
+"116" "428 Weimar StKaisertown, Buffalo, NY" "$52,903" -78.806577 42.8756584
+"117" "60 N Central AveLovejoy, Buffalo, NY" "$49,900" -78.8157797 42.8960342
+"118" "218 Northampton StMasten Park, Buffalo, NY" "$39,900" -78.8588119 42.9077051
+"119" "1042 Elmwood AveForest, Buffalo, NY" "$349,000" -78.8773766 42.9255203
+"120" "389 14th StFront Park, Buffalo, NY" "$16,999" -78.8905489 42.91087
+"121" "87 Fernhill AveGrider, Buffalo, NY" "$27,303" -78.825795 42.927755
+"122" "25 Grace StBlack Rock, Buffalo, NY" "$39,900" -78.904921 42.941822
+"123" "329 Orchard DrBuffalo, NY" "$54,096" -78.8610489 42.9889173
+"124" "17 Tudor PlDelaware-West Ferry, Buffalo, NY" "$925,000" NA NA
+"125" "1141 Delaware Ave #5SDelaware-West Ferry, Buffalo, NY" "$474,900" -78.8687103 42.9149393
+"126" "83 Emslie StSouth Ellicott, Buffalo, NY" "$56,000" -78.848668 42.8785719
+"127" "164 Montrose AveUniversity, Buffalo, NY" "$129,900" -78.829649 42.957907
+"128" "242-244 Virginia StLakeview, Buffalo, NY" "$175,000" NA NA
+"129" "45 Durham AveGrider, Buffalo, NY" "$41,500" -78.8276805 42.9235664
+"130" "310 Norwood AveFront Park, Buffalo, NY" "$400,000" NA NA
+"131" "531 Linwood AveDelaware-West Ferry, Buffalo, NY" "$567,000" NA NA
+"132" "67 Harvard PlDelaware-West Ferry, Buffalo, NY" "$180,000" NA NA
+"133" "1834 William Diverted NKaisertown, Buffalo, NY" "$100,000" NA NA
+"134" "121 Auburn AveGrant Ferry, Buffalo, NY" "$59,000" -78.896238 42.9182947
+"135" "35 Peach StWillert Park, Buffalo, NY" "$64,900" -78.8579125 42.8962589
+"136" "5 Wyandotte AveRiverside Park, Buffalo, NY" "$69,900" -78.901361 42.959105
+"137" "274 Potomac AveForest, Buffalo, NY" "$94,900" NA NA
+"138" "71 Rogers AveSchiller Park, Buffalo, NY" "$54,900" -78.8037543 42.9186019
+"139" "600 Main St #702Central Business District, Buffalo, NY" "$342,700" -78.87282 42.890319
+"140" "742 Tonawanda StRiverside Park, Buffalo, NY" "$99,900" -78.9037589 42.9489708
+"141" "99 Mayer AveRiverside Park, Buffalo, NY" "$59,900" -78.899191 42.949658
+"142" "71 Haven StSchiller Park, Buffalo, NY" "$86,638" NA NA
+"143" "19 Linwood TerDelaware-West Ferry, Buffalo, NY" "$174,900" NA NA
+"144" "166 Wakefield AveLeroy, Buffalo, NY" "$42,199" -78.8329733 42.9346197
+"145" "20 Harding RdSouth Park, Buffalo, NY" "$63,675" -78.822974 42.840703
+"146" "337 Faraday RdBuffalo, NY" "$54,731" -78.8402647 42.9722096
+"147" "644 Harrison AveBuffalo, NY" "$40,586" -78.829322 42.9754987
+"148" "37 Glor StBlack Rock, Buffalo, NY" "$44,900" NA NA
+"149" "52 Herkimer StGrant Ferry, Buffalo, NY" "$25,134" NA NA
+"150" "450 14th StFront Park, Buffalo, NY" "$104,900" NA NA
+"151" "323 Herman StMedical Park, Buffalo, NY" "$56,900" NA NA
+"152" "28 Grace StBlack Rock, Buffalo, NY" "$39,900" -78.905064 42.9422985
+"153" "150 Brunswick BlvdHamlin Park, Buffalo, NY" "$18,591" NA NA
+"154" "214 Landon StKingsley, Buffalo, NY" "$32,000" -78.8459635 42.9102729
+"155" "33 Clay StBlack Rock, Buffalo, NY" "$45,890" -78.8931237 42.9387461
+"156" "8 Mayfair LnBryant, Buffalo, NY" "$364,900" -78.875243 42.902637
+"157" "47 Urban StMLK Park, Buffalo, NY" "$21,327" NA NA
+"158" "249 Holly StKaisertown, Buffalo, NY" "$63,032" NA NA
+"159" "33 Blaine AveHamlin Park, Buffalo, NY" "$224,900" NA NA
+"160" "57 S Crossman StSchiller Park, Buffalo, NY" "$6,900" NA NA
+"161" "359 Southwood DrBuffalo, NY" "$126,233" -78.8568403 42.9854902
+"162" "16 Zimmerman BlvdBuffalo, NY" "$109,900" NA NA
+"163" "289 Cable StKaisertown, Buffalo, NY" "$60,000" NA NA
+"164" "42 Woodette PlBlack Rock, Buffalo, NY" "$147,686" NA NA
+"165" "235 Woodland DrBuffalo, NY" "$129,900" -78.843887 42.979541
+"166" "66 Gladstone StMilitary, Buffalo, NY" "$59,900" -78.8930172 42.9471109
+"167" "707 Mount Vernon RdBuffalo, NY" "$61,480" -78.787241 42.945413
+"168" "934 Kensington AveLaSalle, Buffalo, NY" "$34,900" -78.8195727 42.9357873
+"169" "40 W Woodside AveSouth Park, Buffalo, NY" "$99,900" -78.830814 42.8427941
+"170" "88 Rano StRiverside Park, Buffalo, NY" "$200,000" NA NA
+"171" "221 Virginia StLakeview, Buffalo, NY" "$395,000" NA NA
+"172" "721 Ashland AveForest, Buffalo, NY" "$950,000" NA NA
+"173" "235 W Utica StDelaware-West Ferry, Buffalo, NY" "$229,900" NA NA
+"174" "600 Main St #901Central Business District, Buffalo, NY" "$219,000" -76.8524117 39.1077176
+"175" "20 Lester StBabcock, Buffalo, NY" "$69,000" -78.8290404 42.8692034
+"176" "268 Newburgh AveSchiller Park, Buffalo, NY" "$49,000" -78.8089463 42.9220554
+"177" "458 Mang AveKenmore, Buffalo, NY" "$98,900" NA NA
+"178" "290 Hazelwood AveKenfield, Buffalo, NY" "$49,900" -78.8059733 42.9270707
+"179" "148 Pries AveTriangle, Buffalo, NY" "$99,900" NA NA
+"180" "4307 Linwood AveBuffalo, NY" "$169,900" -78.8193066 42.7993942
+"181" "588 Potomac AveForest, Buffalo, NY" "$300,000" -78.8774964 42.9243875
+"182" "224 Athens BlvdBuffalo, NY" "$139,900" -78.844498 42.977413
+"183" "33 Monticello PlHamlin Park, Buffalo, NY" "$99,933" -78.8471722 42.9266612
+"184" "600 Main St #901Central Business District, Buffalo, NY" "$219,000" -78.87282 42.890319
+"185" "790 Walden AveSchiller Park, Buffalo, NY" "$119,900" -78.8068665 42.9060415
+"186" "59 A StBroadway - Fillmore, Buffalo, NY" "$129,900" NA NA
+"187" "138 Central AveLovejoy, Buffalo, NY" "$64,900" -78.8155762 42.8887903
+"188" " Steubenville Pike #Lot C3Central Business District, Buffalo, NY" "$45,000" -80.1862492 40.4428596
+"189" "254 Ashland AveFront Park, Buffalo, NY" "$299,900" -78.8789735 42.9116846
+"190" "270 Tudor BlvdBuffalo, NY" "$107,000" -78.7958679 42.8306594
+"191" "342 Cornwall AveGrider, Buffalo, NY" "$55,000" -78.822171 42.9241041
+"192" "49 Massachusetts AveFront Park, Buffalo, NY" "$79,900" -78.8982986 42.9072647
+"193" "95 Victory AveBuffalo, NY" "$175,000" NA NA
+"194" "118 Rano StRiverside Park, Buffalo, NY" "$50,000" NA NA
+"195" "247 Northwood DrBuffalo, NY" "$129,900" NA NA
+"196" "2566 Main StLeroy, Buffalo, NY" "$155,000" -78.8407877 42.9381935
+"197" "231 Richmond Ave #11Bryant, Buffalo, NY" "$257,777" -78.8816631 42.9087035
+"198" "1026 Genesee StBroadway - Fillmore, Buffalo, NY" "$25,000" -78.8402392 42.902161
+"199" "99 Elkhart StBuffalo, NY" "$116,000" -78.826796 42.815192
+"200" "608 S Park AveSouth Ellicott, Buffalo, NY" "$64,900" -78.8570159 42.8706228
+"201" "105 Hubbell AveAbbott McKinley, Buffalo, NY" "$72,000" -78.819762 42.8516715
+"202" "98 Folger StTriangle, Buffalo, NY" "$74,900" -78.8277563 42.8496954
+"203" "199 Greene StLovejoy, Buffalo, NY" "$54,500" -78.8093411 42.8903615
+"204" "56 Sweeney StBroadway - Fillmore, Buffalo, NY" "$52,994" NA NA
+"205" "338 Claremont AveKenilworth, Buffalo, NY" "$149,900" -78.8313571 42.9675969
+"206" "123 Crowley AveRiverside Park, Buffalo, NY" "$59,900" NA NA
+"207" "67 Moeller StSchiller Park, Buffalo, NY" "$47,500" -78.8237008 42.8976916
+"208" "185 Meadow LnKenmore NE, Buffalo, NY" "$169,900" -78.859358 42.976187
+"209" "78 Kerns AveSchiller Park, Buffalo, NY" "$27,900" -78.8107203 42.9171712
+"210" "16 Robie StDelaware Park, Buffalo, NY" "$139,900" NA NA
+"211" "1255 Colvin BlvdBuffalo, NY" "$185,000" -78.857968 42.975315
+"212" "110 Domedion AveSchiller Park, Buffalo, NY" "$50,000" NA NA
+"213" "15 Ritt AveMilitary, Buffalo, NY" "$79,900" NA NA
+"214" "221 Crowley AveRiverside Park, Buffalo, NY" "$69,900" -78.9017742 42.9535919
+"215" "1110 Parker BlvdKenilworth, Buffalo, NY" "$155,000" -78.8384976 42.9677817
+"216" "372 Fulton StSouth Ellicott, Buffalo, NY" "$50,000" -78.8574196 42.8717259
+"217" "14 Centerview DrBuffalo, NY" "$154,900" -78.761736 42.841023
+"218" "95 Milburn StLovejoy, Buffalo, NY" "$49,900" NA NA
+"219" "20 Paige AveKenilworth, Buffalo, NY" "$74,382" NA NA
+"220" "771 Taunton PlStarin Central, Buffalo, NY" "$143,000" NA NA
+"221" "263 Midland AveKenilworth, Buffalo, NY" "$124,900" -78.8368817 42.9681313
+"222" "37 Sprenger AveSchiller Park, Buffalo, NY" "$39,900" -78.8034561 42.9109113
+"223" "3278 Bailey AveLaSalle, Buffalo, NY" "$110,000" -78.814004 42.944083
+"224" "155 Tuscarora RdSouth Abbott, Buffalo, NY" "$80,000" NA NA
+"225" "247 Hazelwood AveKenfield, Buffalo, NY" "$48,500" NA NA
+"226" "117 Grider StGrider, Buffalo, NY" "$49,900" NA NA
+"227" "21 Fisher StSchiller Park, Buffalo, NY" "$50,000" NA NA
+"228" "146 Hastings AveKensington, Buffalo, NY" "$60,000" -78.8081163 42.9367172
+"229" "2054 Transit RdBuffalo, NY" "$145,000" -78.698454 42.823181
+"230" "92 Albany StGrant Ferry, Buffalo, NY" "$49,900" NA NA
+"231" "367 Voorhees AveStarin Central, Buffalo, NY" "$259,900" -78.8410719 42.9508581
+"232" "95 Gibson StBroadway - Fillmore, Buffalo, NY" "$59,900" NA NA
+"233" "231 Richmond Ave #11Bryant, Buffalo, NY" "$257,777" -78.8816631 42.9087035
+"234" "157 15th StFront Park, Buffalo, NY" "$79,900" -78.8873656 42.9090738
+"235" "443 University AveKenilworth, Buffalo, NY" "$99,777" -78.8278323 42.9642934
+"236" "768 Ashland AveForest, Buffalo, NY" "$329,500" -78.8785935 42.9259231
+"237" "335 Saint Lawrence AveNorth Park, Buffalo, NY" "$169,900" -78.856966 42.955902
+"238" "402 Admirals Walk #402Waterfront, Buffalo, NY" "$319,000" -81.5469187 30.7655976
+"239" "148 Hazelwood AveKenfield, Buffalo, NY" "$39,900" -78.806011 42.923197
+"240" "360 Wellington AveKenilworth, Buffalo, NY" "$139,900" -78.8340334 42.9691063
+"241" "182 Whitney PlLakeview, Buffalo, NY" "$86,900" -78.8838391 42.8951917
+"242" "110 Newburgh AveSchiller Park, Buffalo, NY" "$54,900" NA NA
+"243" "340 Barnard StKaisertown, Buffalo, NY" "$64,500" -78.8059778 42.8743041
+"244" "83 Courtland AveSchiller Park, Buffalo, NY" "$49,983" -78.8065477 42.9219421
+"245" "3338 Ashley DrBuffalo, NY" "$154,900" -78.8093294 42.7946954
+"246" "116 Landon StKingsley, Buffalo, NY" "$49,800" -78.849542 42.910399
+"247" "227 Forest AveForest, Buffalo, NY" "$85,900" NA NA
+"248" "56 Ashton PlSouth Park, Buffalo, NY" "$49,000" -78.825062 42.836692
+"249" "259 Breckenridge StGrant Ferry, Buffalo, NY" "$95,900" -78.8919914 42.9165726
+"250" "319 Abbington AveBuffalo, NY" "$134,900" -78.8408885 42.9787763
+"251" "1113 West AveGrant Ferry, Buffalo, NY" "$189,900" NA NA
+"252" "103 Crystal AveTriangle, Buffalo, NY" "$100,000" -78.8283775 42.8457068
+"253" "55 Wakefield AveLeroy, Buffalo, NY" "$125,000" -78.8370396 42.934322
+"254" "30 Cable StKaisertown, Buffalo, NY" "$50,000" NA NA
+"255" "79 Wilkes AveKenfield, Buffalo, NY" "$74,900" -78.8043153 42.9250075
+"256" "136 N Ellwood AveKenilworth, Buffalo, NY" "$159,900" -78.840472 42.9688343
+"257" "22 Ritt AveMilitary, Buffalo, NY" "$119,500" NA NA
+"258" "424 East StBlack Rock, Buffalo, NY" "$82,900" -78.9047159 42.942599
+"259" "431 Zimmerman BlvdBuffalo, NY" "$124,360" NA NA
+"260" "4676 Brompton DrBuffalo, NY" "$275,000" NA NA
+"261" "114 Waverly AveBuffalo, NY" "$98,900" NA NA
+"262" "26 Carl StGrider, Buffalo, NY" "$12,000" NA NA
+"263" "126 Auburn AveGrant Ferry, Buffalo, NY" "$74,900" -78.8959859 42.9186561
+"264" "147 Fordham DrPark Meadow, Buffalo, NY" "$274,900" NA NA
+"265" "134 Kingsley StKingsley, Buffalo, NY" "$29,900" -78.8489218 42.9083387
+"266" "2010 Hertel AveStarin Central, Buffalo, NY" "$179,900" -78.8338074 42.9471531
+"267" "1574 Electric AveBuffalo, NY" "$109,000" NA NA
+"268" "1483 S Park AveTriangle, Buffalo, NY" "$124,900" NA NA
+"269" "20 Hilldale AveBuffalo, NY" "$129,000" -78.764982 42.830001
+"270" "270 Straley AveBuffalo, NY" "$110,000" -78.7859941 42.9119715
+"271" "920 Prospect AveFront Park, Buffalo, NY" "$179,900" -78.8994192 42.9104163
+"272" "33 Goulding AveHamlin Park, Buffalo, NY" "$79,900" NA NA
+"273" "493 Riley StKingsley, Buffalo, NY" "$59,900" NA NA
+"274" "57 Martin RdBuffalo, NY" "$89,500" -78.821727 42.816056
+"275" "45 Edgewood AveKenilworth, Buffalo, NY" "$119,900" -78.8348328 42.9610852
+"276" "138 Dunlop AveLaSalle, Buffalo, NY" "$47,900" NA NA
+"277" "36 Susan LnSouth Abbott, Buffalo, NY" "$149,900" NA NA
+"278" "3231 Clearview WayBuffalo, NY" "$159,900" NA NA
+"279" "57 Virginia PlAllen, Buffalo, NY" "$599,000" NA NA
+"280" "18 Weyand AveCazenovia Park, Buffalo, NY" "$60,000" NA NA
+"281" "16 Commonwealth AveNorth Park, Buffalo, NY" "$240,000" -78.8621728 42.945137
+"282" "554 Harlem RdBuffalo, NY" "$129,900" -78.7882319 42.858029
+"283" "95 Floss AveSchiller Park, Buffalo, NY" "$45,000" -78.8046908 42.9187781
+"284" "180 W Ferry StGrant Ferry, Buffalo, NY" "$74,500" -78.8950421 42.9153571
+"285" "173 Selkirk StBabcock, Buffalo, NY" "$70,000" NA NA
+"286" "92 Humason AveSchiller Park, Buffalo, NY" "$49,900" -78.799805 42.9162814
+"287" "15 W Northrup PlLaSalle, Buffalo, NY" "$120,900" -78.8270623 42.9510211
+"288" "220 Carl StGrider, Buffalo, NY" "$34,900" NA NA
+"289" "214 Cleveland DrBuffalo, NY" "$65,000" NA NA
+"290" "135 Madison AveBuffalo, NY" "$84,900" -78.8304725 42.7957798
+"291" "387 Woodbridge AveNorth Park, Buffalo, NY" "$424,900" -78.8477725 42.945283
+"292" "24 Holland PlMasten Park, Buffalo, NY" "$65,000" -78.8639613 42.9083488
+"293" "132 Sweet AveBroadway - Fillmore, Buffalo, NY" "$38,900" -78.8338284 42.8933043
+"294" "2307 Niagara StRiverside Park, Buffalo, NY" "$94,900" -78.9094822 42.9533851
+"295" "335 Dearborn StBlack Rock, Buffalo, NY" "$64,900" -78.902849 42.9383443
+"296" "1897-1899 Niagara StBlack Rock, Buffalo, NY" "$255,000" -78.902458 42.935702
+"297" "731 W Ferry St #WDelaware-West Ferry, Buffalo, NY" "$849,000" -78.8732001 42.9151269
+"298" "148 W Delavan AveForest, Buffalo, NY" "$59,900" -78.8942028 42.9224107
+"299" "654 Taunton PlStarin Central, Buffalo, NY" "$139,900" -78.8399826 42.9545469
+"300" "2009 Hertel AveStarin Central, Buffalo, NY" "$199,900" -78.8339851 42.9467643
+"301" "28 Lobue Lane Plan in Sky HarborBuffalo, NY" "$73,545+" NA NA
+"302" "81 Jenny Lane Plan in Sky HarborBuffalo, NY" "$71,995+" NA NA
+"303" "146-148 Congress StGrant Ferry, Buffalo, NY" "$85,000" -78.8914008 42.9217779
+"304" "31 Roeder StMLK Park, Buffalo, NY" "$41,500" -78.8379994 42.9117643
+"305" "134 Best StMasten Park, Buffalo, NY" "$175,000" -78.8599625 42.9058938
+"306" "34 Sandrock RdRiverside Park, Buffalo, NY" "$99,000" -78.904039 42.94737
+"307" "235 Northland AveHamlin Park, Buffalo, NY" "$62,000" -78.851222 42.919055
+"308" "813 West AveGrant Ferry, Buffalo, NY" "$68,900" -78.8973481 42.9126151
+"309" "874 Hertel AveNorth Delaware, Buffalo, NY" "$119,000" -78.876074 42.9480379
+"310" "52 Navel AveSchiller Park, Buffalo, NY" "$35,000" -78.8116374 42.9180047
+"311" "164 Farmer StBlack Rock, Buffalo, NY" "$65,000" -78.9001774 42.9413586
+"312" "127 Aldrich PlSouth Park, Buffalo, NY" "$165,000" -78.8190043 42.8327059
+"313" "83 Theodore StSchiller Park, Buffalo, NY" "$79,900" -78.8080191 42.9121183
+"314" "134 French StMLK Park, Buffalo, NY" "$29,900" NA NA
+"315" "65 Villa AveNorth Park, Buffalo, NY" "$139,900" -78.866893 42.95776
+"316" "552 Crescent AveParkside, Buffalo, NY" "$224,800" NA NA
+"317" "29 Hunt AveRiverside Park, Buffalo, NY" "$59,800" NA NA
+"318" "43 Lewis StBabcock, Buffalo, NY" "$42,000" NA NA
+"319" "176 W Delavan AveForest, Buffalo, NY" "$109,900" -78.89306 42.9221952
+"320" "622 Taunton PlStarin Central, Buffalo, NY" "$110,000" -78.8412152 42.9545892
+"321" "92 Garner AveForest, Buffalo, NY" "$144,900" NA NA
+"322" "8 Schreck AveKenfield, Buffalo, NY" "$60,000" -78.8175455 42.9255843
+"323" "137 Peabody StBabcock, Buffalo, NY" "$39,900" NA NA
+"324" "327 W Delavan AveForest, Buffalo, NY" "$214,900" -78.8873136 42.9219098
+"325" "40 Glenmar DrBuffalo, NY" "$168,900" NA NA
+"326" "23 Celtic PlKingsley, Buffalo, NY" "$64,900" -78.8463448 42.911749
+"327" "53 La Force PlMilitary, Buffalo, NY" "$4,000" -78.889345 42.948225
+"328" "751 W Ferry St #7ADelaware-West Ferry, Buffalo, NY" "$189,900" -78.8729364 42.9151026
+"329" "39 Junior AveCazenovia Park, Buffalo, NY" "$70,000" -78.8009311 42.852607
+"330" "29 Inter Park AveGrider, Buffalo, NY" "$49,000" -78.8419538 42.9153096
+"331" "127 Lyndale AveKenilworth, Buffalo, NY" "$99,127" NA NA
+"332" "425 Winspear AveKensington, Buffalo, NY" "$56,719" -78.8106874 42.9487448
+"333" "451 Moore AveBuffalo, NY" "$144,900" -78.8360661 42.9758981
+"334" "92 Guilford StBroadway - Fillmore, Buffalo, NY" "$79,900" NA NA
+"335" "96 Beckford CtBuffalo, NY" "$899,900" NA NA
+"336" "178 Kosciuszko StBroadway - Fillmore, Buffalo, NY" "$79,900" -78.8310812 42.899571
+"337" "30 Cleveland DrBuffalo, NY" "$169,900" -78.8691827 42.9884789
+"338" "73 Euclid AveBuffalo, NY" "$79,573" -78.797195 42.909002
+"339" "110 Sage AveSeneca, Buffalo, NY" "$55,436" NA NA
+"340" "305 King Peterson RdWillert Park, Buffalo, NY" "$64,148" -78.866308 42.881499
+"341" "112 Cantwell DrSouth Park, Buffalo, NY" "$52,066" NA NA
+"342" "245 Potters RdSouth Abbott, Buffalo, NY" "$72,594" -78.8044 42.841278
+"343" "76 Oxford AveDelaware-West Ferry, Buffalo, NY" "Contact For Estimate" NA NA
+"344" "227 Dearborn StBlack Rock, Buffalo, NY" "$53,126" -78.901386 42.935609
+"345" "33 Dakota StNorth Park, Buffalo, NY" "$64,531" NA NA
+"346" "156 Villa AveNorth Park, Buffalo, NY" "$135,000" -78.8635364 42.9581259
+"347" "86 Clayton StMilitary, Buffalo, NY" "$36,753" NA NA
+"348" "69 Remington PlSeneca, Buffalo, NY" "$71,855" -78.8198536 42.8602814
+"349" "26 Grey StJohnson, Buffalo, NY" "$45,580" -78.850088 42.891668
+"350" "45 Sunnyside PlMilitary, Buffalo, NY" "$65,427" -78.887178 42.948014
+"351" "470 Roycroft BlvdBuffalo, NY" "$219,642" NA NA
+"352" "649 Lisbon AveKensington, Buffalo, NY" "Contact For Estimate" -78.8042451 42.9464218
+"353" "206 Tuscarora RdSouth Abbott, Buffalo, NY" "Contact For Estimate" -78.8040893 42.8403782
+"354" "185 Sprenger AveSchiller Park, Buffalo, NY" "$39,400" -78.8033802 42.9149101
+"355" "126 Breckenridge StGrant Ferry, Buffalo, NY" "$49,900" -78.8970079 42.9171526
+"356" "90 Andover AveLaSalle, Buffalo, NY" "$51,900" NA NA
+"357" "190 Hamburg StBuffalo, NY" "$52,000" -78.8591224 42.869038
+"358" "326 Winslow AveMLK Park, Buffalo, NY" "$125,000" -78.8407881 42.9132234
+"359" "2184 Clinton StBuffalo, NY" "$156,900" -78.79559 42.871908
+"360" "229 Orange StMedical Park, Buffalo, NY" "$35,000" -78.857446 42.900788
+"361" "190 Labelle AveBuffalo, NY" "$35,900" -78.829511 42.792786
+"362" "143 Weaver StKaisertown, Buffalo, NY" "$79,900" -78.8037764 42.8758115
+"363" "107 Amherst StBlack Rock, Buffalo, NY" "$84,900" NA NA
+"364" "51 Weber AveSchiller Park, Buffalo, NY" "$40,137" -78.8030452 42.9205403
+"365" "142 Harrison StBabcock, Buffalo, NY" "$3,000" NA NA
+"366" "144 Harrison StBabcock, Buffalo, NY" "$3,000" NA NA
+"367" "376 Villa AveNorth Park, Buffalo, NY" "$131,515" -78.8553232 42.9580851
+"368" "401 Northland AveHamlin Park, Buffalo, NY" "$359,000" NA NA
+"369" "192 Bidwell PkwyAlbright, Buffalo, NY" "$506,413" -78.8761499 42.9246114
+"370" "43 Military RdBlack Rock, Buffalo, NY" "$49,900" -78.8925469 42.9378389
+"371" "181 Lyndale AveKenilworth, Buffalo, NY" "$179,500" -78.826701 42.9634245
+"372" "196 Wilmuth AveBuffalo, NY" "$55,806" -78.843563 42.816817
+"373" "1586 S Park AveTriangle, Buffalo, NY" "$159,900" NA NA
+"374" "133 Hastings AveKensington, Buffalo, NY" "$59,900" NA NA
+"375" "117 Schiller StLovejoy, Buffalo, NY" "$67,400" -78.8009234 42.8882178
+"376" "15 Linwood TerDelaware-West Ferry, Buffalo, NY" "$54,185" NA NA
+"377" "215 Keystone StSchiller Park, Buffalo, NY" "$15,000" -78.8103329 42.9077363
+"378" "406 Lasalle AveLaSalle, Buffalo, NY" "$23,208" -78.8152683 42.9453224
+"379" "28 Edgewood AveAbbott McKinley, Buffalo, NY" "$77,342" -78.8174054 42.8475779
+"380" "37 Marjorie DrBuffalo, NY" "$119,999" -78.8422842 42.965163
+"381" "91 Hammerschmidt AveSeneca, Buffalo, NY" "$75,425" NA NA
+"382" "135 Herkimer StGrant Ferry, Buffalo, NY" "$88,422" -78.892802 42.9164598
+"383" "206 Merrimac StUniversity, Buffalo, NY" "$79,900" -78.7889697 43.0008093
+"384" "155 Zelmer StSchiller Park, Buffalo, NY" "Contact For Estimate" -78.8069178 42.9142013
+"385" "66 N Ogden StLovejoy, Buffalo, NY" "$64,548" NA NA
+"386" "20 Orchard PlLeroy, Buffalo, NY" "$99,500" -78.8411228 42.9382401
+"387" "3382 Bailey AveLaSalle, Buffalo, NY" "$900,000" -78.8140449 42.947123
+"388" "638 Lasalle AveKensington, Buffalo, NY" "$91,435" NA NA
+"389" "135 Carmel RdStarin Central, Buffalo, NY" "$110,539" NA NA
+"390" "295 Parkridge AveLaSalle, Buffalo, NY" "$87,104" -78.821347 42.942967
+"391" "132 Lakefront Blvd #303Waterfront, Buffalo, NY" "$619,000" NA NA
+"392" "22 Milford StAbbott McKinley, Buffalo, NY" "$99,900" -78.8170013 42.8527956
+"393" "294 Massachusetts AveFront Park, Buffalo, NY" "$47,528" NA NA
+"394" "459 Massachusetts AveFront Park, Buffalo, NY" "$259,900" -78.885519 42.9137562
+"395" "394 Starin AveNorth Park, Buffalo, NY" "$344,070" NA NA
+"396" "106 Irene StOld Town, Buffalo, NY" "$49,900" -78.9099241 42.9623689
+"397" "447 S Ogden StKaisertown, Buffalo, NY" "$38,000" NA NA
+"398" "86 Beverly RdHamlin Park, Buffalo, NY" "$54,900" -78.850686 42.9214591
+"399" "120 Gatchell StEmerson, Buffalo, NY" "$37,900" -78.8151576 42.90031
+"400" "800 W Ferry St #5AADelaware-West Ferry, Buffalo, NY" "$200,000" -78.8710495 42.9160086
+"401" "94 Rumsey RdAlbright, Buffalo, NY" "$459,900" -78.8707047 42.9295692
+"402" "220 Bering AveBuffalo, NY" "$179,900" NA NA
+"403" "149 Stockbridge AveLaSalle, Buffalo, NY" "$42,939" NA NA
+"404" "151 Louisiana StBuffalo, NY" "$72,000" -78.8661623 42.8658655
+"405" "81 15th StFront Park, Buffalo, NY" "$159,900" NA NA
+"406" "375 Voorhees AveStarin Central, Buffalo, NY" "$289,000" NA NA
+"407" "346 Hopkins StSouth Park, Buffalo, NY" "$4,500,000" NA NA
+"408" "344 Pine StWillert Park, Buffalo, NY" "$92,500" NA NA
+"409" "2822 Elmwood AveKenmore NW, Buffalo, NY" "$165,000" -78.879113 42.974294
+"410" "375 Northwood DrBuffalo, NY" "$175,000" NA NA
+"411" "57 Kenefick AveAbbott McKinley, Buffalo, NY" "$95,501" -78.8214059 42.8502755
+"412" "176 Dearborn StBlack Rock, Buffalo, NY" "$48,571" -78.9011775 42.9341238
+"413" "109 Mayer AveRiverside Park, Buffalo, NY" "$9,000" -78.898876 42.949497
+"414" " V L Tifft StAbbott McKinley, Buffalo, NY" "$4,500,000" -78.8204169 42.8469307
+"415" "53 Colton StBuffalo, NY" "Contact For Estimate" -78.796104 42.882537
+"416" "117 Central AveLovejoy, Buffalo, NY" "$67,500" -78.8151028 42.8881219
+"417" "373 Parkdale AveForest, Buffalo, NY" "$215,000" -78.8869642 42.9256174
+"418" "502 Niagara StLakeview, Buffalo, NY" "$235,000" -78.8889614 42.8974602
+"419" "210 Clark StBroadway - Fillmore, Buffalo, NY" "$32,919" -78.8364142 42.8921423
+"420" "205 Dodge StMasten Park, Buffalo, NY" "$150,000" -78.859854 42.9055518
+"421" "12 Appletree Ct #8Buffalo, NY" "$104,900" NA NA
+"422" "21 Stevenson StAbbott McKinley, Buffalo, NY" "$129,900" -78.8192358 42.8542422
+"423" "1 Brittany LnDelaware-West Ferry, Buffalo, NY" "$499,000" NA NA
+"424" "137 Edison AveKenfield, Buffalo, NY" "$36,900" -78.8015909 42.9265691
+"425" "44 Cottage StAllen, Buffalo, NY" "$229,900" -78.8717115 42.8992147
+"426" "241 Monroe StEmslie, Buffalo, NY" "$97,500" -78.8516428 42.8869482
+"427" "41 Chamberlin DrBuffalo, NY" "$135,500" NA NA
+"428" "171 Grace StRiverside Park, Buffalo, NY" "$180,000" -78.9000697 42.9439337
+"429" "15 Horton PlDelaware-West Ferry, Buffalo, NY" "$295,000" NA NA
+"430" "4572 Gentwood DrBuffalo, NY" "$401,000" NA NA
+"431" "41 Marsdale RdBuffalo, NY" "$78,252" -78.786257 42.943702
+"432" "13 Ward CtSouth Abbott, Buffalo, NY" "$85,000" -78.8082355 42.8325936
+"433" "158 Fancher AveBuffalo, NY" "$144,900" -78.8295924 42.9772016
+"434" "40 Stewart AveSchiller Park, Buffalo, NY" "$59,900" NA NA
+"435" "139 Ramona AveSouth Abbott, Buffalo, NY" "$95,000" -78.809639 42.8408343
+"436" "96 Whitfield AveAbbott McKinley, Buffalo, NY" "$160,000" -78.8199435 42.8438373
+"437" "1670 Colvin BlvdBuffalo, NY" "$189,900" -78.8575776 42.9869469
+"438" "204 Cleveland DrBuffalo, NY" "$100,000" -78.792137 42.9451759
+"439" "76 Knox AvePark Meadow, Buffalo, NY" "$209,000" -78.8650669 42.9435466
+"440" "19 Blick StBuffalo, NY" "$79,900" -78.787627 42.893794
+"441" "121 Bloomfield AveAbbott McKinley, Buffalo, NY" "$139,900" -78.8191031 42.8450831
+"442" "95 Bush StBlack Rock, Buffalo, NY" "$99,900" NA NA
+"443" "343 Eden StSouth Abbott, Buffalo, NY" "$180,000" -78.8109275 42.8361547
+"444" "54 Henrietta AveRiverside Park, Buffalo, NY" "$55,000" -78.9000284 42.9565089
+"445" "47 Herman StBroadway - Fillmore, Buffalo, NY" "$210,000" -78.8440886 42.89319
+"446" "72 Hammerschmidt AveSeneca, Buffalo, NY" "$83,865" -78.816891 42.8588689
+"447" "83 Cantwell DrSouth Park, Buffalo, NY" "$129,900" -78.820672 42.835286
+"448" "92-94 Claremont AveForest, Buffalo, NY" "$490,000" -78.880101 42.924814
+"449" "223 Virgil AveNorth Park, Buffalo, NY" "$189,900" -78.864096 42.9540025
+"450" "105 Weimar StKaisertown, Buffalo, NY" "$84,900" -78.8075848 42.8676082
+"451" "12 S Hedley StBuffalo, NY" "$162,900" NA NA
+"452" "145 Culver RdSouth Park, Buffalo, NY" "$115,000" NA NA
+"453" "732 Walden AveSchiller Park, Buffalo, NY" "$115,000" -78.8090129 42.905737
+"454" "109 Bering AveBuffalo, NY" "$139,900" -78.849091 42.970526
+"455" "65 Byron AveWilton Argonne, Buffalo, NY" "$157,500" -78.8411887 42.960328
+"456" "320 Grimsby RdDeerhurst Park, Buffalo, NY" "$229,900" -78.8541414 42.971867
+"457" "360 Beard AveStarin Central, Buffalo, NY" "$259,900" -78.8339429 42.9461684
+"458" "300 Edgewood AveKenilworth, Buffalo, NY" "$124,900" -78.8351012 42.9681138
+"459" "235 Morris AveStarin Central, Buffalo, NY" "$625,000" -78.8373071 42.9423691
+"460" "274 Sobieski StBroadway - Fillmore, Buffalo, NY" "$65,500" -78.8329294 42.9019136
+"461" "253 Sanders RdNorth Park, Buffalo, NY" "$179,900" NA NA
+"462" "200 Laird AveRiverside Park, Buffalo, NY" "$79,900" -78.9039663 42.9555182
+"463" "145 Grote StBlack Rock, Buffalo, NY" "$99,900" -78.8862293 42.9422389
+"464" "296 Sobieski StBroadway - Fillmore, Buffalo, NY" "$99,900" NA NA
+"465" "180 Glencove RdKenmore NE, Buffalo, NY" "$149,500" -78.865433 42.980052
+"466" "371 14th StFront Park, Buffalo, NY" "$198,000" -78.890114 42.910407
+"467" "96 Gallatin AveRiverside Park, Buffalo, NY" "$59,900" -78.8996112 42.9494769
+"468" "25 Progressive AveRiverside Park, Buffalo, NY" "$139,900" NA NA
+"469" "55 Baynes StGrant Ferry, Buffalo, NY" "$269,900" -78.8854343 42.9169998
+"470" "182 Saranac AveNorth Park, Buffalo, NY" "$213,000" -78.8576568 42.9509455
+"471" "32 Henley RdNorth Park, Buffalo, NY" "$219,900" -78.8475774 42.9531513
+"472" "72 Keystone StSchiller Park, Buffalo, NY" "$59,900" -78.8106638 42.9036092
+"473" "9 Brittany LnDelaware-West Ferry, Buffalo, NY" "$650,000" NA NA
+"474" "261 Bird AveForest, Buffalo, NY" "$149,000" -78.8892346 42.9255513
+"475" "145 Fenton StKaisertown, Buffalo, NY" "$114,900" -78.8047903 42.8665141
+"476" "351 Breckenridge StGrant Ferry, Buffalo, NY" "$230,000" NA NA
+"477" "33 West AveColumbus, Buffalo, NY" "$379,900" -78.8802775 42.8945558
+"478" "297 Choate AveAbbott McKinley, Buffalo, NY" "$164,900" -78.8131255 42.8454644
+"479" "91 Loepere StBroadway - Fillmore, Buffalo, NY" "$129,000" NA NA
+"480" "538 Glenwood AveKingsley, Buffalo, NY" "$85,000" -78.8453809 42.9124874
+"481" "209 Louvaine DrWilton Argonne, Buffalo, NY" "$345,000" NA NA
+"482" "3566 Horton AveBuffalo, NY" "$155,000" NA NA
+"483" "239 Davidson AveKensington, Buffalo, NY" "$89,900" -78.8046162 42.9371046
+"484" "163 Norwalk AveNorth Park, Buffalo, NY" "$205,000" -78.8540891 42.949125
+"485" "349 Parkdale AveForest, Buffalo, NY" "$110,000" -78.8870281 42.9249577
+"486" " V L Reserve RdBuffalo, NY" "$600,000" NA NA
+"487" "69 Starin AveStarin Central, Buffalo, NY" "$699,000" -78.8437352 42.9422838
+"488" "186 Norwalk AveNorth Park, Buffalo, NY" "$229,900" -78.8547612 42.9496854
+"489" "24 Tacoma AveNorth Delaware, Buffalo, NY" "$259,900" -78.8718914 42.9516949
+"490" "337 Breckenridge StGrant Ferry, Buffalo, NY" "$119,900" -78.8890714 42.916612
+"491" "788 Tifft StTriangle, Buffalo, NY" "$119,900" NA NA
+"492" "76 Thompson StBlack Rock, Buffalo, NY" "$119,900" -78.8993393 42.9362913
+"493" "427 Berkshire AveKensington, Buffalo, NY" "Contact For Estimate" NA NA
+"494" "231 Oxford AveDelaware-West Ferry, Buffalo, NY" "Contact For Estimate" NA NA
+"495" "103 Austin StBlack Rock, Buffalo, NY" "$69,900" NA NA
+"496" "34 Gorski StKaisertown, Buffalo, NY" "$33,269" -78.8099401 42.8678905
+"497" "380 Oakvale BlvdBuffalo, NY" "$139,900" NA NA
+"498" "100 Fairbanks AveWilton Argonne, Buffalo, NY" "$149,900" -78.8430358 42.9613027
+"499" "156 Hollywood AveSouth Abbott, Buffalo, NY" "$135,900" -78.8090696 42.8391686
+"500" "132 Lakefront Blvd #604Waterfront, Buffalo, NY" "$649,000" NA NA
+"501" "22 Choate AveAbbott McKinley, Buffalo, NY" "$169,929" -78.8228359 42.8446887
+"502" "192 Kay StKensington, Buffalo, NY" "$79,900" -78.802365 42.9399463
+"503" "455 Crescent AveParkside, Buffalo, NY" "$264,900" -78.8457782 42.9397699
+"504" "629 Moore AveBuffalo, NY" "$141,000" -78.8519006 42.8970223
+"505" "97 Wilkes AveKenfield, Buffalo, NY" "$62,500" -78.8043107 42.9255174
+"506" "22 Starin AveNorth Park, Buffalo, NY" "$400,000" NA NA
+"507" "1885 Hertel AveStarin Central, Buffalo, NY" "$234,500" -78.8380732 42.9472808
+"508" "60 Downing StSouth Park, Buffalo, NY" "$160,000" -78.821558 42.835009
+"509" "196 Soldiers PlAlbright, Buffalo, NY" "$1,357,000" NA NA
+"510" "29 Crowley AveRiverside Park, Buffalo, NY" "$95,926" NA NA
+"511" "73 Ideal StLovejoy, Buffalo, NY" "$82,500" -78.8072761 42.8867778
+"512" "191 Roslyn StSchiller Park, Buffalo, NY" "$59,029" NA NA
+"513" "126 W Humboldt PkwyDelaware Park, Buffalo, NY" "$339,000" -78.8522153 42.9291624
+"514" "265 Tudor BlvdBuffalo, NY" "$109,562" -78.7965033 42.8308198
+"515" "58 Cottage StAllen, Buffalo, NY" "$227,885" -78.8723722 42.8994139
+"516" "249 Northland AveHamlin Park, Buffalo, NY" "$65,185" -78.850695 42.9190449
+"517" "20 Fairchild PlNorth Park, Buffalo, NY" "$245,000" NA NA
+"518" "849 Delaware Ave #701Bryant, Buffalo, NY" "$280,000" NA NA
+"519" "95 Thatcher AveLaSalle, Buffalo, NY" "$71,601" -78.8181297 42.9389797
+"520" "1537 S Park AveTriangle, Buffalo, NY" "$5,000" NA NA
+"521" "1517 E Delavan AveSchiller Park, Buffalo, NY" "$5,000" -78.800561 42.922523
+"522" "699 Jefferson AveJohnson, Buffalo, NY" "$5,000" NA NA
+"523" "43 Fernhill AveGrider, Buffalo, NY" "$75,109" -78.8274405 42.9277769
+"524" "83 Roesch AveRiverside Park, Buffalo, NY" "$143,277" NA NA
+"525" "315 University AveKenilworth, Buffalo, NY" "Contact For Estimate" NA NA
+"526" "944 Niagara StFront Park, Buffalo, NY" "$244,000" -78.899435 42.908552
+"527" "324 Pennsylvania StFront Park, Buffalo, NY" "$330,000" -78.8844835 42.9007749
+"528" "22 Littlefield AveSchiller Park, Buffalo, NY" "$44,900" NA NA
+"529" "849 Delaware Ave #701Bryant, Buffalo, NY" "$280,000" NA NA
+"530" "441 Genesee StWillert Park, Buffalo, NY" "$144,900" -78.8588892 42.893918
+"531" "209 Davey StLovejoy, Buffalo, NY" "$84,999" -78.8034421 42.8904986
+"532" "18 Regina PlHamlin Park, Buffalo, NY" "Contact For Estimate" -78.8447263 42.9207281
+"533" "161 Woodward AveParkside, Buffalo, NY" "$269,000" -78.849812 42.933227
+"534" "138 Adams StEmslie, Buffalo, NY" "$109,900" -78.8510631 42.8839194
+"535" "356 Hopkins StTifft, Buffalo, NY" "$4,900,000" -78.8328717 42.8474098
+"536" "9 Colvin AvePark Meadow, Buffalo, NY" "$230,000" NA NA
+"537" "271 Grimsby RdDeerhurst Park, Buffalo, NY" "$259,900" NA NA
+"538" "272 Dushane DrBuffalo, NY" "$51,049" -78.8427609 42.9736235
+"539" "731 Northampton StMLK Park, Buffalo, NY" "$85,000" -78.8396984 42.9070984
+"540" "30 Hoffman PlBlack Rock, Buffalo, NY" "$154,900" -78.9009941 42.9377732
+"541" "304 Straley AveBuffalo, NY" "$69,900" NA NA
+"542" "302 W Delavan AveForest, Buffalo, NY" "$220,000" -78.8883445 42.9222809
+"543" "152 Heath StUniversity, Buffalo, NY" "$119,900" NA NA
+"544" "105 Germain StBlack Rock, Buffalo, NY" "$189,000" NA NA
+"545" "2298 Seneca StCazenovia Park, Buffalo, NY" "$150,000" -78.8042968 42.8509883
+"546" "35 Millicent AveKensington, Buffalo, NY" "$49,900" -78.8121792 42.9348905
+"547" "92 Roswell AveOld Town, Buffalo, NY" "$89,900" NA NA
+"548" "147 Kosciuszko StBroadway - Fillmore, Buffalo, NY" "$7,500" -78.830585 42.898742
+"549" "151 Kosciuszko StBroadway - Fillmore, Buffalo, NY" "$7,500" -78.830585 42.898824
+"550" "22 Bloomfield AveAbbott McKinley, Buffalo, NY" "$89,900" -78.8227837 42.8455062
+"551" "253 High StMedical Park, Buffalo, NY" "$199,000" -78.8596753 42.9000946
+"552" "1340 Seneca Creek RdBuffalo, NY" "$39,900" NA NA
+"553" "3030 S Park AveBuffalo, NY" "$102,900" NA NA
+"554" "1735 Amherst StLeroy, Buffalo, NY" "$300,000" -78.840019 42.939972
+"555" "412 Baynes StForest, Buffalo, NY" "$284,900" -78.885065 42.926791
+"556" "302 Lafayette AveForest, Buffalo, NY" "$245,000" NA NA
+"557" "51 Sirret StTriangle, Buffalo, NY" "$129,999" NA NA
+"558" "4578 Gentwood DrBuffalo, NY" "$463,000" -78.68737 42.9704659
+"559" "58 Clay StBlack Rock, Buffalo, NY" "$90,000" -78.8939334 42.9393134
+"560" "201 Deumant TerWilton Argonne, Buffalo, NY" "$192,900" -78.848391 42.9665665
+"561" "435 W Ferry StFront Park, Buffalo, NY" "$269,900" -78.8856072 42.9152332
+"562" "121 Seymour StSouth Ellicott, Buffalo, NY" "$107,500" NA NA
+"563" "326 Grimsby RdDeerhurst Park, Buffalo, NY" "$190,000" NA NA
+"564" "14 Gallatin AveRiverside Park, Buffalo, NY" "$53,150" -78.9020343 42.9506949
+"565" "3454 Dickens RdBuffalo, NY" "$169,990" NA NA
+"566" "240 Doat StSchiller Park, Buffalo, NY" "$56,363" -78.8119139 42.9099466
+"567" "145 Ontario StRiverside Park, Buffalo, NY" "$240,000" -78.904144 42.94895
+"568" "715 Northampton StMLK Park, Buffalo, NY" "$65,000" NA NA
+"569" "166 Blaine AveHamlin Park, Buffalo, NY" "$185,000" -78.8476353 42.923885
+"570" "9 Thistle CtBuffalo, NY" "$239,900" -78.786637 42.820017
+"571" "200 Wallace AveNorth Park, Buffalo, NY" "$275,000" -78.8471019 42.9486598
+"572" "57 Florida StCold Springs, Buffalo, NY" "$89,900" NA NA
+"573" "1141 McKinley PkwyBuffalo, NY" "$235,500" -78.8168759 42.831547
+"574" "15 Barnard StKaisertown, Buffalo, NY" "Contact For Estimate" -78.8057835 42.8653922
+"575" "61 S Crossman StSchiller Park, Buffalo, NY" "$49,900" NA NA
+"576" "354 Dearborn StBlack Rock, Buffalo, NY" "$49,900" NA NA
+"577" "31 Pawnee PkwySeneca, Buffalo, NY" "$87,133" -78.8095374 42.8603867
+"578" "214 Cortland AveBuffalo, NY" "$334,900" -78.8070715 42.9259256
+"579" "77 William Price PkwyStarin Central, Buffalo, NY" "$415,462" NA NA
+"580" "68 Gerald AveKenfield, Buffalo, NY" "Contact For Estimate" -78.8110705 42.9253319
+"581" "70 Sussex StGrider, Buffalo, NY" "$59,900" -78.8264389 42.927468
+"582" "80 Pulaski StKaisertown, Buffalo, NY" "$99,000" -78.8051365 42.8740504
+"583" "172 Kosciuszko StBroadway - Fillmore, Buffalo, NY" "$79,900" -78.8311153 42.8994032
+"584" "161 Midshore DrBuffalo, NY" "$379,900" -78.859497 42.779177
+"585" "45 Arundel RdNorth Park, Buffalo, NY" "$279,000" -78.848078 42.954164
+"586" "21 Ryan StCazenovia Park, Buffalo, NY" "$139,500" -78.8104806 42.8570413
+"587" "141 Donaldson RdHamlin Park, Buffalo, NY" "$82,288" NA NA
+"588" "141 Edson StBuffalo, NY" "$107,246" -78.79868 42.851971
+"589" "26 Cushing PlSouth Abbott, Buffalo, NY" "$128,551" -78.8062499 42.8376027
+"590" "71 Decker StKenfield, Buffalo, NY" "Contact For Estimate" -78.815672 42.9286219
+"591" "68 Davidson AveKensington, Buffalo, NY" "$69,900" -78.811053 42.9375201
+"592" "126 Block StSchiller Park, Buffalo, NY" "$59,472" NA NA
+"593" "802 Richmond AveForest, Buffalo, NY" "$469,900" -78.881428 42.925217
+"594" "71 Orange StMedical Park, Buffalo, NY" "$75,000" -78.8588003 42.8967752
+"595" "161 Southampton StMasten Park, Buffalo, NY" "$39,900" NA NA
+"596" "120 Rother AveBroadway - Fillmore, Buffalo, NY" "$75,000" NA NA
+"597" "921 Fillmore AveBroadway - Fillmore, Buffalo, NY" "$7,000" -78.838768 42.898408
+"598" "83 Progressive AveRiverside Park, Buffalo, NY" "$58,961" NA NA
+"599" "107 Jones StBabcock, Buffalo, NY" "$49,900" -78.8337032 42.8808176
+"600" "539 E Ferry StKingsley, Buffalo, NY" "$9,900" NA NA
+"601" "340 Parkdale AveForest, Buffalo, NY" "$20,000" NA NA
+"602" "238 Norwalk AveNorth Park, Buffalo, NY" "$100,482" -78.8546567 42.9511582
+"603" "59 Beckford CtBuffalo, NY" "$599,900" -78.719391 42.968537
+"604" "90 Radcliffe RdUniversity, Buffalo, NY" "$189,999" NA NA
+"605" "3943 Allendale PkwyBuffalo, NY" "$132,162" -78.8093191 42.7773834
+"606" "24 Conant DrKenilworth, Buffalo, NY" "$170,000" -78.8279883 42.9679701
+"607" "35 Leamington PlSeneca, Buffalo, NY" "$80,000" NA NA
+"608" "90 Hallam RdPark Meadow, Buffalo, NY" "$399,900" NA NA
+"609" "85 Hertel AveBlack Rock, Buffalo, NY" "$49,900" -78.9033317 42.9415368
+"610" "219 Riverside AveRiverside Park, Buffalo, NY" "$70,770" NA NA
+"611" "314 Ontario StRiverside Park, Buffalo, NY" "$59,900" -78.9008029 42.9529057
+"612" "35 Humason AveSchiller Park, Buffalo, NY" "$34,900" NA NA
+"613" "82 Royal AveRiverside Park, Buffalo, NY" "$94,900" NA NA
+"614" "268 Parker AveStarin Central, Buffalo, NY" "$92,348" -78.8392265 42.9466876
+"615" "261 Fairfield AveKenilworth, Buffalo, NY" "$77,335" -78.8357976 42.9654586
+"616" "117 Grace StBlack Rock, Buffalo, NY" "$49,900" -78.9018487 42.9432268
+"617" "112 Masten AveMasten Park, Buffalo, NY" "$99,000" -78.8599292 42.9053071
+"618" "27 Deumant TerWilton Argonne, Buffalo, NY" "$129,900" -78.8486299 42.961806
+"619" "172 Hagen StSchiller Park, Buffalo, NY" "$27,264" NA NA
+"620" "185 Saint Lawrence AveNorth Park, Buffalo, NY" "$69,618" -78.8626746 42.9560327
+"621" "141 Austin StBlack Rock, Buffalo, NY" "$44,500" -78.899846 42.939065
+"622" "185 Texas StSchiller Park, Buffalo, NY" "$32,474" -78.8103861 42.9216296
+"623" "30 Sattler AveSchiller Park, Buffalo, NY" "$42,136" -78.8063722 42.9106921
+"624" "2110 Seneca StCazenovia Park, Buffalo, NY" "$80,000" NA NA
+"625" "2415-2419 Seneca StCazenovia Park, Buffalo, NY" "$159,900" NA NA
+"626" "277 Barnard StKaisertown, Buffalo, NY" "$43,764" -78.8056121 42.8725868
+"627" "104 Thatcher AveLaSalle, Buffalo, NY" "$47,881" -78.8186459 42.9390466
+"628" "110 Keystone StSchiller Park, Buffalo, NY" "$43,098" -78.8106886 42.9046842
+"629" "600 Main St #1004Central Business District, Buffalo, NY" "$429,900" -78.87282 42.890319
+"630" "214 Northampton StMasten Park, Buffalo, NY" "$39,900" -78.858982 42.907784
+"631" "136 W Ferry StGrant Ferry, Buffalo, NY" "$84,361" -78.8967196 42.9153151
+"632" "53 Leonard StKensington, Buffalo, NY" "$44,802" -78.8033375 42.9389323
+"633" "104 Taunton PlNorth Park, Buffalo, NY" "$147,200" NA NA
+"634" "82 Stevens AveGrider, Buffalo, NY" "$64,900" -78.8256366 42.9168103
+"635" "93 Sattler AveSchiller Park, Buffalo, NY" "$50,000" -78.8058745 42.9124161
+"636" "204 Vermont StFront Park, Buffalo, NY" "$121,326" -78.8910832 42.9067235
+"637" "87 Elgas StRiverside Park, Buffalo, NY" "$69,900" NA NA
+"638" "49 Briggs AveRiverside Park, Buffalo, NY" "$42,900" -78.9069612 42.9504797
+"639" "473 Minnesota AveKensington, Buffalo, NY" "$73,899" -78.8119421 42.945658
+"640" "239 Lafayette AveGrant Ferry, Buffalo, NY" "$689,900" -78.8894504 42.9198706
+"641" "200 Delaware Ave #1509Central Business District, Buffalo, NY" "$1,300,000" -78.87798 42.889801
+"642" "123 Harbridge MnrBuffalo, NY" "$584,900" -78.7186926 42.9720184
+"643" "2080 Delaware AvePark Meadow, Buffalo, NY" "$700,000" -78.8680381 42.9408753
+"644" "17 Sprenger AveSchiller Park, Buffalo, NY" "$76,953" NA NA
+"645" "166 Bickford AveKensington, Buffalo, NY" "$81,598" -78.8077393 42.939689
+"646" "852 Niagara StFront Park, Buffalo, NY" "$129,900" -78.8972596 42.9062752
+"647" "210 Ellicott St #505Central Business District, Buffalo, NY" "$269,900" -78.8727507 42.8843319
+"648" "38 Heward AveRiverside Park, Buffalo, NY" "$85,587" NA NA
+"649" "VL Vl Union RdBuffalo, NY" "$449,000" NA NA
+"650" "345 Skillen StRiverside Park, Buffalo, NY" "$100,192" -78.8990418 42.9618902
+"651" "75 Haller AveBuffalo, NY" "$124,000" -78.7940705 42.9093267
+"652" "218 Waverly StCold Springs, Buffalo, NY" "$132,539" NA NA
+"653" "15 Hastings AveKensington, Buffalo, NY" "$76,433" -78.8129542 42.9363547
+"654" "4251 Salem DrBuffalo, NY" "$277,615" -78.8215572 42.8017094
+"655" "1141 Delaware Ave #5SDelaware-West Ferry, Buffalo, NY" "$474,900" -78.8687103 42.9149393
+"656" "34 Loxley RdBuffalo, NY" "Contact For Estimate" -78.789576 42.920039
+"657" "111 Thatcher AveLaSalle, Buffalo, NY" "Contact For Estimate" NA NA
+"658" "504 Cambridge AveGrider, Buffalo, NY" "Contact For Estimate" -78.823329 42.9283985
+"659" "115 Wood AveSchiller Park, Buffalo, NY" "$500" -78.8092663 42.9049338
+"660" "62 Northrup PlLaSalle, Buffalo, NY" "Contact For Estimate" -78.8242038 42.9498758
+"661" "699 Lafayette AveDelaware-West Ferry, Buffalo, NY" "Contact For Estimate" NA NA
+"662" "191 Condon AveRiverside Park, Buffalo, NY" "Contact For Estimate" -78.906184 42.9592679
+"663" "204 Benzinger StLovejoy, Buffalo, NY" "$49,174" -78.806501 42.8903454
+"664" "473 Olympic AveLaSalle, Buffalo, NY" "Contact For Estimate" -78.8181396 42.9353893
+"665" "64 Mayer AveRiverside Park, Buffalo, NY" "Contact For Estimate" NA NA
+"666" "257 Minnesota AveLaSalle, Buffalo, NY" "Contact For Estimate" -78.8199247 42.9462385
+"667" "699 Prospect AveFront Park, Buffalo, NY" "$48,410" -78.894175 42.90582
+"668" "514 Linden AveNorth Park, Buffalo, NY" "$77,451" NA NA
+"669" "441 Schiller StLovejoy, Buffalo, NY" "$51,641" -78.800714 42.897016
+"670" "77 Susan LnSouth Abbott, Buffalo, NY" "$101,274" -78.8095522 42.8335361
+"671" "551 E Utica StKingsley, Buffalo, NY" "$6,500" -78.845168 42.910738
+"672" "338 Parkdale AveForest, Buffalo, NY" "$20,000" -78.8876049 42.924641
+"673" "47 Weber AveSchiller Park, Buffalo, NY" "$40,137" NA NA
+"674" "510 Highgate AveKensington, Buffalo, NY" "$82,392" -78.8087673 42.9483327
+"675" "1336 West AveForest, Buffalo, NY" "Contact For Estimate" -78.8960894 42.9266476
+"676" "123 Fredro StKaisertown, Buffalo, NY" "$136,245" NA NA
+"677" "185 Westminster AveKensington, Buffalo, NY" "$39,168" NA NA
+"678" "14 Seabrook StRiverside Park, Buffalo, NY" "Contact For Estimate" NA NA
+"679" "4251 Meadowbrook PkwyBuffalo, NY" "Contact For Estimate" NA NA
+"680" "709 Moore AveBuffalo, NY" "Contact For Estimate" -78.8264361 42.9758932
+"681" "69 Hayden StCazenovia Park, Buffalo, NY" "$88,011" NA NA
+"682" "524 Potters RdBuffalo, NY" "Contact For Estimate" -78.7950739 42.838079
+"683" "8 Block StSchiller Park, Buffalo, NY" "$33,705" -78.8112451 42.9128991
+"684" "36 Glidden StBuffalo, NY" "$39,580" NA NA
+"685" "73 Weber AveSchiller Park, Buffalo, NY" "$76,621" -78.803017 42.92113
+"686" "707 Montrose AveBuffalo, NY" "$69,900" NA NA
+"687" "3473 S Park Ave #A5Buffalo, NY" "$17,900" -78.82527 42.805278
+"688" "675 Norfolk AveLaSalle, Buffalo, NY" "$40,000" -78.8192766 42.9334686
+"689" "105 Titus AveEmerson, Buffalo, NY" "$31,900" -78.8225652 42.8990888
+"690" "120 Leonard Post DrBuffalo, NY" "$90,998" -78.7863133 42.9108804
+"691" "58 Paul PlSeneca, Buffalo, NY" "$99,904" NA NA
+"692" "3968 Seneca StBuffalo, NY" "$109,900" -78.756189 42.830459
+"693" "801 Richmond AveForest, Buffalo, NY" "Contact For Estimate" -78.8806779 42.9251993
+"694" "96 Baxter StRiverside Park, Buffalo, NY" "Contact For Estimate" -78.9094822 42.9533851
+"695" "98 Fennimore AveKensington, Buffalo, NY" "$49,000" NA NA
+"696" "65 Theodore StSchiller Park, Buffalo, NY" "$45,000" -78.8080197 42.9116239
+"697" "183 Laurel StMasten Park, Buffalo, NY" "$37,500" -78.857935 42.909927
+"698" "1497 Broadway StLovejoy, Buffalo, NY" "$36,900" -78.8196529 42.8959328
+"699" "512 Genesee StWillert Park, Buffalo, NY" "$92,229" -78.8569729 42.8951842
+"700" "89 Sheffield AveSouth Park, Buffalo, NY" "$39,519" -78.8202687 42.8426145
+"701" "499 Moore AveBuffalo, NY" "$149,900" -78.8342569 42.9758856
+"702" "435 Goethe StLovejoy, Buffalo, NY" "$88,694" NA NA
+"703" "62 Winslow AveKingsley, Buffalo, NY" "$34,900" NA NA
+"704" "287 Wohlers AveKingsley, Buffalo, NY" "Contact For Estimate" -78.8478402 42.9117638
+"705" "145 Krettner StEmslie, Buffalo, NY" "$59,000" NA NA
+"706" "2332 S Park AveSouth Park, Buffalo, NY" "$15,000" -78.823523 42.835098
+"707" "1268 Orchard Park RdBuffalo, NY" "$119,900" -78.766188 42.81567
+"708" "475 Delaware AveAllen, Buffalo, NY" "$829,900" NA NA
+"709" "52 Frontier DrBuffalo, NY" "$93,750" -78.826308 42.800835
+"710" "11 Daytona PlBabcock, Buffalo, NY" "$35,000" -78.8424062 42.8728809
+"711" "560 Doat StSchiller Park, Buffalo, NY" "$45,000" NA NA
+"712" "39-43 Florida St #49Cold Springs, Buffalo, NY" "$29,900" -82.6914916 27.7712997
+"713" "3387 Emerling DrBuffalo, NY" "$101,206" -78.8064712 42.7928322
+"714" "1720 S Park AveTriangle, Buffalo, NY" "$84,900" -78.825024 42.8518929
+"715" "93 Hoerner AveBuffalo, NY" "$54,972" -78.7950362 42.9097056
+"716" "85 Landon StKingsley, Buffalo, NY" "$59,985" NA NA
+"717" "20 Easton AveKenfield, Buffalo, NY" "$23,584" NA NA
+"718" "114 Central AveLovejoy, Buffalo, NY" "$40,000" -78.8155826 42.88793
+"719" "92 Trowbridge StTriangle, Buffalo, NY" "$79,000" NA NA
+"720" "102 E End AveSchiller Park, Buffalo, NY" "$54,900" NA NA
+"721" "4001 Crystal Beach Hill RdCentral Business District, Buffalo, NY" "$475,000" NA NA
+"722" "1338 E Lovejoy StBuffalo, NY" "$74,900" -78.798764 42.890028
+"723" "28 Lehigh StBuffalo, NY" "$40,000" NA NA
+"724" "451 S Park AveBuffalo, NY" "$50,000" NA NA
+"725" "23 19th StFront Park, Buffalo, NY" "$56,657" NA NA
+"726" "433 Harrison AveBuffalo, NY" "Contact For Estimate" -78.8371423 42.9749788
+"727" "133 Ivanhoe RdBuffalo, NY" "$59,900" NA NA
+"728" "195 Lockwood AveSouth Park, Buffalo, NY" "$79,900" NA NA
+"729" "1166 Abbott RdSouth Abbott, Buffalo, NY" "$69,040" -78.8055252 42.832748
+"730" "287 Peach StMedical Park, Buffalo, NY" "$49,900" -78.855986 42.9028458
+"731" "295 Hartwell RdNorth Park, Buffalo, NY" "$127,171" -78.8653289 42.9529036
+"732" "231 Richmond Ave #9Bryant, Buffalo, NY" "$479,000" NA NA
+"733" "3 E Woodlawn AveMLK Park, Buffalo, NY" "$4,000" -78.826227 42.913401
+"734" "868 Tonawanda StRiverside Park, Buffalo, NY" "$65,000" -78.9051298 42.9522735
+"735" "131 Tacoma AveNorth Park, Buffalo, NY" "$72,959" -78.8678365 42.9513406
+"736" "140 Brunswick BlvdHamlin Park, Buffalo, NY" "$40,590" -78.8486138 42.9171874
+"737" "56 Rejtan StKaisertown, Buffalo, NY" "$15,840" -78.8103797 42.8735041
+"738" "39 Bremen StBryant, Buffalo, NY" "$19,197" -78.8861601 42.9104506
+"739" "124 Sunshine DrBuffalo, NY" "$127,802" NA NA
+"740" "158 Peter StBlack Rock, Buffalo, NY" "$32,891" NA NA
+"741" "143 Durham AveGrider, Buffalo, NY" "$10,000" NA NA
+"742" "106 Reiman StLovejoy, Buffalo, NY" "$25,254" -78.8054297 42.89521
+"743" "159 Pries AveTriangle, Buffalo, NY" "$40,213" NA NA
+"744" "49 Groveland StStarin Central, Buffalo, NY" "$16,627" -78.8363851 42.9515373
+"745" "40 Connelly AveLaSalle, Buffalo, NY" "$10,182" -78.8168857 42.9298735
+"746" "35 Mandan StNorth Delaware, Buffalo, NY" "$29,521" -78.874972 42.946537
+"747" "1108 Orchard Park RdBuffalo, NY" "$93,473" -78.7700863 42.8193295
+"748" "16 Claremont AveForest, Buffalo, NY" "$53,432" -78.880204 42.9226399
+"749" "1076 West AveGrant Ferry, Buffalo, NY" "$27,713" -78.8970847 42.9195434
+"750" "125 Deerfield AveGrider, Buffalo, NY" "$11,655" -78.8264719 42.9258618
+"751" "550 Busti AveFront Park, Buffalo, NY" "$25,467" -78.8938124 42.8990926
+"752" "11 Winston RdStarin Central, Buffalo, NY" "$56,818" NA NA
+"753" "32 Lester StBabcock, Buffalo, NY" "$18,686" NA NA
+"754" "18 Chadduck AveRiverside Park, Buffalo, NY" "$14,470" -78.899556 42.955211
+"755" "42 Paige AveKenilworth, Buffalo, NY" "$64,671" -78.8251966 42.9655328
+"756" "221 Sterling AveNorth Park, Buffalo, NY" "$76,000" NA NA
+"757" "99 Mortimer StWillert Park, Buffalo, NY" "$130,000" -78.8548293 42.8880411
+"758" "297 Dearborn StBlack Rock, Buffalo, NY" "$19,257" -78.9023308 42.9373997
+"759" "27 Collingwood AveLaSalle, Buffalo, NY" "$21,275" -78.817303 42.9346195
+"760" "145 E Utica StMasten Park, Buffalo, NY" "$40,590" NA NA
+"761" "37 4th St #Fl FranklinColumbus, Buffalo, NY" "$399,000" -122.4050056 37.7851288
+"762" "330 Fairfield AveKenilworth, Buffalo, NY" "$129,900" -78.8363277 42.9673737
+"763" "22 Victory AveBuffalo, NY" "$36,095" -78.824949 42.82509
+"764" "225 Kenmore AveKenilworth, Buffalo, NY" "$132,218" -78.8260662 42.9583798
+"765" "18 Wendel AveKenilworth, Buffalo, NY" "$128,420" NA NA
+"766" "163 Tacoma AveNorth Park, Buffalo, NY" "$90,929" -78.8666043 42.9513291
+"767" "167 Florida StHamlin Park, Buffalo, NY" "$32,451" -78.85285 42.919998
+"768" "716 Norfolk AveLaSalle, Buffalo, NY" "$18,751" -78.8197665 42.9345628
+"769" "37 Rounds AveKensington, Buffalo, NY" "$27,747" -78.8121702 42.9472014
+"770" "897 7th StFront Park, Buffalo, NY" "$39,789" -78.899286 42.907641
+"771" "121 Folger StTriangle, Buffalo, NY" "$67,451" -78.8264918 42.8497277
+"772" "425 Hinman AveMilitary, Buffalo, NY" "$81,842" -78.8854774 42.956753
+"773" "147 Masten AveMasten Park, Buffalo, NY" "$44,870" NA NA
+"774" "71 Eller AveSchiller Park, Buffalo, NY" "$34,999" NA NA
+"775" "61 Beverly RdHamlin Park, Buffalo, NY" "$42,732" -78.8516713 42.9210971
+"776" "153 Arkansas StGrant Ferry, Buffalo, NY" "$80,000" -78.8916931 42.9139806
+"777" "263 Parkdale AveForest, Buffalo, NY" "$26,009" NA NA
+"778" "87 Lockwood AveSouth Park, Buffalo, NY" "$38,300" NA NA
+"779" "464 Fargo AveFront Park, Buffalo, NY" "$90,000" -78.8957962 42.9084169
+"780" "37 Arundel RdNorth Park, Buffalo, NY" "$71,272" NA NA
+"781" "78 Mineral Springs RdSeneca, Buffalo, NY" "Contact For Estimate" -78.810604 42.859477
+"782" "66 Pooley PlForest, Buffalo, NY" "$52,297" NA NA
+"783" "200 Delaware Ave #1509Central Business District, Buffalo, NY" "$1,300,000" NA NA
+"784" "62 Cable StBuffalo, NY" "$118,440" NA NA
+"785" "130 Parkdale AveGrant Ferry, Buffalo, NY" "$48,875" -78.8883198 42.9189943
+"786" "19 Erb StSchiller Park, Buffalo, NY" "$37,000" -78.79988 42.9186812
+"787" "20 Randolph AveBuffalo, NY" "$105,000" -78.799038 42.907501
+"788" "489 Northampton StKingsley, Buffalo, NY" "$39,489" NA NA
+"789" "35 Herkimer StGrant Ferry, Buffalo, NY" "$40,881" NA NA
+"790" "395 Dartmouth AveKensington, Buffalo, NY" "$34,418" -78.8099527 42.9432388
+"791" "343 Humboldt PkwyHamlin Park, Buffalo, NY" "$47,440" -78.8466547 42.9247849
+"792" "325 Herkimer StGrant Ferry, Buffalo, NY" "$33,792" NA NA
+"793" "180 Hinman AveNorth Delaware, Buffalo, NY" "$29,285" -78.8761535 42.9565609
+"794" "736 Parkhurst BlvdBuffalo, NY" "$86,928" -78.8314216 42.9789765
+"795" "159 Lafayette AveGrant Ferry, Buffalo, NY" "$36,375" NA NA
+"796" "179 Brinton StUniversity, Buffalo, NY" "$59,765" NA NA
+"797" "114 Lonsdale RdHamlin Park, Buffalo, NY" "$42,098" -78.8524016 42.918006
+"798" "163 Paramount PkwyBuffalo, NY" "$140,000" -78.8653082 42.9863122
+"799" "200 Abbott RdAbbott McKinley, Buffalo, NY" "$68,127" -78.8217917 42.8555459
+"800" "16 Peoria StBlack Rock, Buffalo, NY" "$48,730" -78.9030689 42.9434843
+"801" "26 Lyndhurst AveNorth Park, Buffalo, NY" "$61,568" -78.8506746 42.9483956
+"802" "140 French Lea RdBuffalo, NY" "$133,751" -78.733879 42.860701
+"803" "600 Main St #1004Central Business District, Buffalo, NY" "$429,900" -78.87282 42.890319
+"804" "252 Abbington AveBuffalo, NY" "$120,000" -78.843422 42.979224
+"805" "9 Toledo PlNorth Delaware, Buffalo, NY" "$70,000" NA NA
+"806" "782 Highland AveBuffalo, NY" "$85,321" -78.8366162 42.9745489
+"807" "4055 Clinton StBuffalo, NY" "$143,500" NA NA
+"808" "266 Abbington AveBuffalo, NY" "$129,900" -78.842918 42.979219
+"809" "60 Warring AveSchiller Park, Buffalo, NY" "$49,000" -78.8328902 42.8925599
+"810" "899 Niagara StFront Park, Buffalo, NY" "$50,000" NA NA
+"811" "313 Weimar StKaisertown, Buffalo, NY" "$55,000" -78.8074618 42.8732717
+"812" "127 Edna PlMasten Park, Buffalo, NY" "$200,000" NA NA
+"813" "4886 Milestrip RdBuffalo, NY" "$109,000" NA NA
+"814" "63 Rano StRiverside Park, Buffalo, NY" "$169,000" -78.9002919 42.947279
+"815" "16 Ritt AveMilitary, Buffalo, NY" "$160,000" NA NA
+"816" "36 Minnesota AveLaSalle, Buffalo, NY" "$60,019" -78.8278563 42.9479344
+"817" "321 Herkimer StGrant Ferry, Buffalo, NY" "$33,070" -78.8923521 42.9214976
+"818" "426 Davey StLovejoy, Buffalo, NY" "Contact For Estimate" -78.8038369 42.8965529
+"819" "4296 Greenfield PkwyBuffalo, NY" "$53,473" -78.8199422 42.7780593
+"820" "24 Winston RdStarin Central, Buffalo, NY" "$93,315" -78.8404571 42.948272
+"821" "20 Gail AveKensington, Buffalo, NY" "Contact For Estimate" -78.8013017 42.9339356
+"822" "50 Burlington AveLaSalle, Buffalo, NY" "$23,346" -78.8165244 42.9324587
+"823" "274 Wellington AveKenilworth, Buffalo, NY" "$76,820" -78.8339786 42.9667013
+"824" "94 Royal AveRiverside Park, Buffalo, NY" "$50,000" -78.9057163 42.9521367
+"825" "231 Pine StWillert Park, Buffalo, NY" "$142,930" -78.863524 42.886242
+"826" "54 Clayton StMilitary, Buffalo, NY" "$78,290" NA NA
+"827" "129 Liddell StEmerson, Buffalo, NY" "$25,794" -78.8197926 42.8998516
+"828" "329 Baynes StForest, Buffalo, NY" "$112,759" NA NA
+"829" "3301 McKinley PkwyBuffalo, NY" "$129,900" -78.8105635 42.7955184
+"830" "20 Sidway StBuffalo, NY" "$36,009" -78.8589611 42.8663068
+"831" "114 Stanley StLovejoy, Buffalo, NY" "$34,834" -78.8097465 42.8923226
+"832" "98 Ledger StNorth Delaware, Buffalo, NY" "$99,900" -78.874551 42.94679
+"833" "67 Flower StUniversity, Buffalo, NY" "$81,583" NA NA
+"834" "4128 Bryant StBuffalo, NY" "$87,826" -78.8341399 42.7724977
+"835" "122 Tacoma AveNorth Park, Buffalo, NY" "$142,179" NA NA
+"836" "19 Melvin PlSeneca, Buffalo, NY" "$40,000" -78.8249752 42.8634831
+"837" "751 W Ferry St #5E-FDelaware-West Ferry, Buffalo, NY" "$289,000" NA NA
+"838" "30 Roehrer AveKingsley, Buffalo, NY" "$39,995" -78.8493318 42.9048394
+"839" "346 Westgate RdKenmore, Buffalo, NY" "$149,900" NA NA
+"840" "42 Woodlawn AveMasten Park, Buffalo, NY" "$66,060" NA NA
+"841" "757 Amherst StPark Meadow, Buffalo, NY" "$147,626" NA NA
+"842" "77 Deshler StLovejoy, Buffalo, NY" "$52,500" -78.8187147 42.8954963
+"843" "78 Oakmont AveKenfield, Buffalo, NY" "$36,318" -78.8107798 42.9325144
+"844" "344 Hoyt StForest, Buffalo, NY" "Contact For Estimate" -78.8862819 42.9250723
+"845" "41 Manchester PlForest, Buffalo, NY" "$67,356" -78.882743 42.925337
+"846" "3720 Lake Shore RdBuffalo, NY" "$250,000" NA NA
+"847" "56 Rose StMedical Park, Buffalo, NY" "$42,900" NA NA
+"848" "107 Titus AveEmerson, Buffalo, NY" "$29,900" -78.822525 42.899168
+"849" "449 W Ferry StFront Park, Buffalo, NY" "$140,000" -78.8850105 42.9152259
+"850" "54 Woodside AveSouth Park, Buffalo, NY" "$59,812" -78.8216466 42.8422478
+"851" "16 Townsend StBroadway - Fillmore, Buffalo, NY" "$9,900" -78.841327 42.885531
+"852" "1183 Broadway StBroadway - Fillmore, Buffalo, NY" "$20,000" -78.831116 42.894285
+"853" "969 Exchange StBabcock, Buffalo, NY" "$35,000" -78.842347 42.8730637
+"854" "545 Lisbon AveKensington, Buffalo, NY" "$84,604" -78.8081612 42.9464667
+"855" "55 Progressive AveRiverside Park, Buffalo, NY" "$112,440" NA NA
+"856" "7 Keystone StSchiller Park, Buffalo, NY" "$42,500" NA NA
+"857" "81 Henrietta AveRiverside Park, Buffalo, NY" "$54,999" NA NA
+"858" "132 Edison AveKenfield, Buffalo, NY" "$46,619" -78.8023496 42.9264915
+"859" "349 Dewey AveLeroy, Buffalo, NY" "$43,931" -78.8344322 42.9310718
+"860" "762 Glenwood AveGrider, Buffalo, NY" "$85,900" NA NA
+"861" "131 Lemon StMedical Park, Buffalo, NY" "$55,900" -78.859408 42.897864
+"862" "64 Tennyson AveNorth Park, Buffalo, NY" "$135,652" NA NA
+"863" "51 Remoleno StTriangle, Buffalo, NY" "$51,611" NA NA
+"864" "61 Georgian Ln #CBuffalo, NY" "$69,999" -78.756675 42.994811
+"865" "115 Grape StMedical Park, Buffalo, NY" "$32,264" -78.8496511 42.8940839
+"866" "355 Dewey AveLeroy, Buffalo, NY" "$48,319" -78.8341447 42.9310704
+"867" "32 Edson StCazenovia Park, Buffalo, NY" "$54,326" -78.801174 42.845175
+"868" "295 Borden RdBuffalo, NY" "$93,279" -78.708123 42.861945
+"869" "284 Riverside AveRiverside Park, Buffalo, NY" "$41,709" -78.8996208 42.9521041
+"870" "110 Gerald AveKenfield, Buffalo, NY" "$51,934" -78.8095093 42.9253517
+"871" "39 Kenefick AveAbbott McKinley, Buffalo, NY" "$58,382" -78.8220855 42.8502647
+"872" "68 Glor StBlack Rock, Buffalo, NY" "$57,359" NA NA
+"873" "39 Liberty LnBuffalo, NY" "$186,374" -78.701113 42.831717
+"874" "164 Traverse BlvdBuffalo, NY" "$99,351" -78.8665922 42.9842759
+"875" "142 Dartmouth AveLaSalle, Buffalo, NY" "$59,683" -78.8188435 42.9439871
+"876" "320 Dartmouth AveKensington, Buffalo, NY" "$27,451" -78.8127083 42.9436118
+"877" "36 Heussy AveTriangle, Buffalo, NY" "$115,000" -78.8269986 42.8577693
+"878" "51 Comstock AveLaSalle, Buffalo, NY" "$57,000" -78.8170906 42.9380072
+"879" "370 Hewitt AveKensington, Buffalo, NY" "$45,667" -78.8110236 42.9428595
+"880" "71 Littlefield AveSchiller Park, Buffalo, NY" "Contact For Estimate" -78.7995114 42.9088081
+"881" "88 California StGrant Ferry, Buffalo, NY" "$59,900" -78.894132 42.913769
+"882" "49 Parkridge AveLaSalle, Buffalo, NY" "$21,947" -78.8213642 42.9362241
+"883" "203 Dodge StMasten Park, Buffalo, NY" "$47,900" NA NA
+"884" "256 Cortland AveBuffalo, NY" "$334,999" -78.8067915 42.9270843
+"885" "435 Southside PkwySeneca, Buffalo, NY" "$74,999" -78.8213749 42.8602607
+"886" "459 Lisbon AveKensington, Buffalo, NY" "Contact For Estimate" NA NA
+"887" "67 Liddell StEmerson, Buffalo, NY" "$42,900" NA NA
+"888" "73 Lamson RdKenilworth, Buffalo, NY" "$120,441" NA NA
+"889" "83 Parkridge AveLaSalle, Buffalo, NY" "$59,423" NA NA
+"890" "45 Bennett Village TerLeroy, Buffalo, NY" "$40,778" -78.8331781 42.9389386
+"891" "247 Laird AveRiverside Park, Buffalo, NY" "$57,283" NA NA
+"892" "448 Taunton PlNorth Park, Buffalo, NY" "$130,283" NA NA
+"893" "150 Fancher AveBuffalo, NY" "$106,515" -78.8298807 42.9771952
+"894" "57 Collins AveBuffalo, NY" "$110,413" -78.78522 42.856155
+"895" "292 Lafayette AveGrant Ferry, Buffalo, NY" "$69,483" -78.8876 42.9204528
+"896" "316 Davey StLovejoy, Buffalo, NY" "$36,594" NA NA
+"897" "95 Mercer AveStarin Central, Buffalo, NY" "$117,875" -78.8313246 42.9419141
+"898" "18 Labelle AveBuffalo, NY" "$87,583" NA NA
+"899" "38 Ladner AveSouth Park, Buffalo, NY" "$37,641" -78.8308635 42.8419785
+"900" "34 Vulcan StOld Town, Buffalo, NY" "$40,333" NA NA
+"901" "59 Knox AvePark Meadow, Buffalo, NY" "$134,700" -78.865625 42.9430926
+"902" "9 Malta PlLakeview, Buffalo, NY" "$60,787" -78.8819314 42.8976056
+"903" "59 Grafton AveBuffalo, NY" "$59,426" NA NA
+"904" "151 Schiller StLovejoy, Buffalo, NY" "$43,592" -78.8009282 42.889122
+"905" "75 Oakgrove AveHamlin Park, Buffalo, NY" "$51,861" -78.846344 42.9239905
+"906" "25 Cecil StNorth Delaware, Buffalo, NY" "$73,490" -78.8736103 42.9539371
+"907" "225 Wagner StBuffalo, NY" "$45,279" -78.792056 42.88379
+"908" "130 Kelburn StKaisertown, Buffalo, NY" "$29,059" -78.8151638 42.8713383
+"909" "60 Pries AveTriangle, Buffalo, NY" "$34,120" -78.8299831 42.8500353
+"910" "134 Zittel StCazenovia Park, Buffalo, NY" "$59,900" -78.8043375 42.8565502
+"911" "133 Park StAllen, Buffalo, NY" "$399,000" -78.8749093 42.8995341
+"912" "812 William StBroadway - Fillmore, Buffalo, NY" "$9,900" -78.841292 42.885259
+"913" "119 Young StBroadway - Fillmore, Buffalo, NY" "$10,000" -78.8279391 42.8943637
+"914" "5 Corwin DrBuffalo, NY" "$278,500" -78.7767889 42.813998
+"915" "405 Parkside AveParkside, Buffalo, NY" "$198,358" -78.8503459 42.9410518
+"916" "320 Weimar StKaisertown, Buffalo, NY" "$64,999" NA NA
+"917" "55 Zittel StCazenovia Park, Buffalo, NY" "$59,900" -78.8063326 42.8549276
+"918" "349 Bissell AveGenesee Moselle, Buffalo, NY" "$44,900" -78.8230253 42.9133075
+"919" "1100 Michigan AveMedical Park, Buffalo, NY" "$40,000,000" -78.8630601 42.9033758
+"920" "79 Academy RdSchiller Park, Buffalo, NY" "$51,607" -78.805319 42.908161
+"921" "39 A StBroadway - Fillmore, Buffalo, NY" "$41,487" -78.837742 42.9007355
+"922" "156 Butler AveHamlin Park, Buffalo, NY" "$73,574" -78.8462351 42.9163901
+"923" "30 Deumant TerWilton Argonne, Buffalo, NY" "$129,900" -78.8492088 42.9618306
+"924" "2272 William StBuffalo, NY" "$82,256" -78.7864471 42.8845719
+"925" "2069 Broadway StBuffalo, NY" "$65,000" NA NA
+"926" "551 Dingens StBuffalo, NY" "$89,000" -78.795087 42.877394
+"927" "18 Randolph AveBuffalo, NY" "$105,000" -78.799041 42.907413
+"928" "61 Manchester PlForest, Buffalo, NY" "$339,900" -78.8834711 42.9252861
+"929" "22 Buffum StCazenovia Park, Buffalo, NY" "$34,123" -78.8059743 42.85317
+"930" "334 Cambridge AveGrider, Buffalo, NY" "$50,497" -78.8233289 42.9237355
+"931" "154 Hollywood AveSouth Abbott, Buffalo, NY" "$80,843" NA NA
+"932" "171 Dorchester RdForest, Buffalo, NY" "$59,453" NA NA
+"933" "383 Herkimer StForest, Buffalo, NY" "$55,000" -78.8921349 42.9232117
+"934" "4111 Burke PkwyBuffalo, NY" "$39,900" -78.813142 42.7728343
+"935" "100 Shoshone StStarin Central, Buffalo, NY" "$145,458" NA NA
+"936" "264 Orchard DrBuffalo, NY" "$123,591" -78.8635458 42.9892978
+"937" "391 Herkimer StForest, Buffalo, NY" "$56,900" -78.892052 42.923356
+"938" "352 West AveFront Park, Buffalo, NY" "$97,003" -78.8876256 42.9017314
+"939" "55 Arundel RdNorth Park, Buffalo, NY" "$146,748" -78.8480724 42.9543674
+"940" "469 W Delavan AveForest, Buffalo, NY" "$68,118" -78.8820235 42.9219673
+"941" "20 Roslyn StSchiller Park, Buffalo, NY" "$23,484" NA NA
+"942" "129 Newburgh AveSchiller Park, Buffalo, NY" "$34,155" NA NA
+"943" "1020 Englewood AveWilton Argonne, Buffalo, NY" "$91,789" NA NA
+"944" "160 Courtland AveKenfield, Buffalo, NY" "$47,500" -78.8070052 42.9244371
+"945" "3694 5th StBuffalo, NY" "$64,900" NA NA
+"946" "342 Downing StSouth Abbott, Buffalo, NY" "$53,885" NA NA
+"947" "626 Lisbon AveKensington, Buffalo, NY" "$79,900" NA NA
+"948" "70 Euclid AveBuffalo, NY" "$36,770" NA NA
+"949" "200 Commonwealth AveNorth Park, Buffalo, NY" "Contact For Estimate" -78.8620716 42.9506175
+"950" "4325 Big Tree RdBuffalo, NY" "$130,303" NA NA
+"951" "110 Armin PlSeneca, Buffalo, NY" "$69,272" -78.812308 42.8619506
+"952" "76 Weber AveSchiller Park, Buffalo, NY" "$74,900" -78.8036608 42.9211919
+"953" "68 Lockwood AveSouth Park, Buffalo, NY" "$42,861" -78.829738 42.844423
+"954" "1239 Michigan AveMasten Park, Buffalo, NY" "$150,000" -78.8622101 42.9069868
+"955" "618 Wyoming AveLeroy, Buffalo, NY" "$65,875" -78.8245914 42.9315359
+"956" "200 Delaware Ave #1502Central Business District, Buffalo, NY" "$479,000" -78.87798 42.889801
+"957" "374 Germania StTifft, Buffalo, NY" "$94,900" NA NA
+"958" "2254 Main StParkside, Buffalo, NY" "$119,145" NA NA
+"959" "179 Oxford AveDelaware-West Ferry, Buffalo, NY" "$170,113" NA NA
+"960" "57 Josephine StMLK Park, Buffalo, NY" "$43,334" -78.833432 42.908844
+"961" "307 Herkimer StGrant Ferry, Buffalo, NY" "$56,666" NA NA
+"962" "304 Covington DrBuffalo, NY" "$51,056" -78.7945786 42.829133
+"963" "37 Fennimore AveKensington, Buffalo, NY" "$39,329" -78.8096732 42.9378917
+"964" "217 Smith StValley, Buffalo, NY" "$64,900" -78.8459679 42.867789
+"965" "16 Swinburne StLovejoy, Buffalo, NY" "$48,681" -78.8213525 42.8928279
+"966" "49 California StGrant Ferry, Buffalo, NY" "$67,024" -78.89556 42.9134324
+"967" "36 Fleming StBabcock, Buffalo, NY" "$33,853" NA NA
+"968" "159 Indian Church RdCazenovia Park, Buffalo, NY" "$77,594" -78.8004104 42.8541794
+"969" "86 Roanoke PkwySeneca, Buffalo, NY" "$77,944" -78.8121192 42.8609567
+"970" "308 PortsideWaterfront, Buffalo, NY" "$729,900" NA NA
+"971" "415 Lasalle AveLaSalle, Buffalo, NY" "$53,698" NA NA
+"972" "145 Royal AveRiverside Park, Buffalo, NY" "$59,660" -78.9039174 42.9524702
+"973" "93 Mayer AveRiverside Park, Buffalo, NY" "$32,145" -78.8992991 42.9498252
+"974" "92 Unger AveSeneca, Buffalo, NY" "$62,295" -78.8189438 42.8600519
+"975" "737 Moore AveBuffalo, NY" "$107,207" -78.8519006 42.8970223
+"976" "206 Thompson StBlack Rock, Buffalo, NY" "$48,567" -78.9010486 42.9396873
+"977" "99 Alma AveKenfield, Buffalo, NY" "Contact For Estimate" -78.814634 42.9268968
+"978" "100 Pacific StBlack Rock, Buffalo, NY" "$59,511" -78.8991353 42.9424035
+"979" "80 Garvey AveTriangle, Buffalo, NY" "$67,670" -78.8292884 42.8486575
+"980" "58 Martha AveKensington, Buffalo, NY" "$50,868" NA NA
+"981" "62 Seabrook StRiverside Park, Buffalo, NY" "$43,530" -78.8972608 42.963825
+"982" "32 Weyand AveCazenovia Park, Buffalo, NY" "$57,239" -78.8092047 42.8563519
+"983" "751 W Ferry StDelaware-West Ferry, Buffalo, NY" "$775,000" -78.8710739 42.916018
+"984" "125 Welker StMasten Park, Buffalo, NY" "$40,000" NA NA
+"985" "122 Rano StRiverside Park, Buffalo, NY" "$53,559" NA NA
+"986" "75 Weber AveSchiller Park, Buffalo, NY" "$76,621" -78.8031062 42.9212139
+"987" "128 Ideal StLovejoy, Buffalo, NY" "$57,029" -78.8077223 42.8882807
+"988" "136 Wright AveKenfield, Buffalo, NY" "$62,000" -78.800169 42.926571
+"989" "24 Norman AveCazenovia Park, Buffalo, NY" "$80,000" -78.8080654 42.8552188
+"990" "16 Oakdale PlBabcock, Buffalo, NY" "$54,178" NA NA
+"991" "508 Glenwood AveKingsley, Buffalo, NY" "$63,970" -78.8463846 42.9125086
+"992" "276 E Utica StMasten Park, Buffalo, NY" "$59,743" NA NA
+"993" "88 Wellington RdNorth Park, Buffalo, NY" "$158,500" -78.8517515 42.9467505
+"994" "41 Evanston PlSouth Park, Buffalo, NY" "$76,210" -78.8191626 42.8335228
+"995" "35 Lockwood AveSouth Park, Buffalo, NY" "$90,568" -78.8309545 42.8440293
+"996" "623 Hopkins StTifft, Buffalo, NY" "$92,327" -78.8319695 42.8544713
+"997" "137 Weyand AveCazenovia Park, Buffalo, NY" "$53,676" -78.805854 42.8580243
+"998" "168 Aldrich PlSouth Park, Buffalo, NY" "$77,795" -78.817543 42.8331329
+"999" "52 Olcott AveAbbott McKinley, Buffalo, NY" "$69,492" NA NA
+"1000" "163 Nicholson StUniversity, Buffalo, NY" "$128,898" -78.8370482 42.9570603
+"1001" "118 Sattler AveSchiller Park, Buffalo, NY" "$37,395" -78.8062893 42.913097
+"1002" "106 Eller AveSchiller Park, Buffalo, NY" "$36,900" -78.8237087 42.8987321
+"1003" "94 Rosedale StRiverside Park, Buffalo, NY" "$59,800" -78.902948 42.961874
+"1004" "81 Richfield AveAbbott McKinley, Buffalo, NY" "$81,384" -78.8205951 42.8459126
+"1005" "125 Theodore StSchiller Park, Buffalo, NY" "$33,069" -78.8080606 42.9132765
+"1006" "613 Montrose AveBuffalo, NY" "$112,800" -78.8284272 42.9701966
+"1007" "255 McConkey DrBuffalo, NY" "$120,527" -78.863328 42.989713
+"1008" "198 Roslyn StSchiller Park, Buffalo, NY" "$36,972" NA NA
+"1009" "37 Tuxedo PlMilitary, Buffalo, NY" "$40,000" NA NA
+"1010" "145 Hastings AveKensington, Buffalo, NY" "$40,258" -78.8081112 42.936383
+"1011" "46 Sprenger AveSchiller Park, Buffalo, NY" "$21,470" NA NA
+"1012" "26 Whitfield AveSouth Park, Buffalo, NY" "$70,275" NA NA
+"1013" "169 Leslie StGenesee Moselle, Buffalo, NY" "$46,233" -78.8174924 42.9157527
+"1014" "57 Leamington PlSeneca, Buffalo, NY" "$45,714" -78.8177244 42.863564
+"1015" "408 Hewitt AveKensington, Buffalo, NY" "$58,813" NA NA
+"1016" "484 Dartmouth AveKensington, Buffalo, NY" "$56,940" NA NA
+"1017" "51 Quincy StLovejoy, Buffalo, NY" "$28,446" NA NA
+"1018" "72 Albemarle StRiverside Park, Buffalo, NY" "$41,951" -78.8989311 42.962551
+"1019" "674 Norfolk AveLaSalle, Buffalo, NY" "$52,326" NA NA
+"1020" "110 Fisher StSchiller Park, Buffalo, NY" "$54,632" -78.8014081 42.9207492
+"1021" "422 Davey StLovejoy, Buffalo, NY" "$63,416" -78.8038321 42.8963927
+"1022" "614 E Delavan AveGrider, Buffalo, NY" "$47,615" -78.834191 42.922092
+"1023" "20 Persia StSchiller Park, Buffalo, NY" "$43,048" NA NA
+"1024" "48 Colfax AveLeroy, Buffalo, NY" "$51,661" NA NA
+"1025" "74 Davidson AveKensington, Buffalo, NY" "$54,670" NA NA
+"1026" "418 Shirley AveKensington, Buffalo, NY" "$47,350" -78.809196 42.94437
+"1027" "19 Phyllis AveKensington, Buffalo, NY" "$52,127" NA NA
+"1028" "5482 Village Station CirBuffalo, NY" "$217,500" -78.6941297 42.9951776
+"1029" "28 Deer StMilitary, Buffalo, NY" "$56,606" -78.893536 42.9464169
+"1030" "172 Wendel AveKenilworth, Buffalo, NY" "$118,865" -78.8303696 42.9630197
+"1031" "15 Whitehall AveSouth Park, Buffalo, NY" "$96,977" -78.8143563 42.8352821
+"1032" "82 Oconnor AveTifft, Buffalo, NY" "$72,426" -78.8363731 42.8563359
+"1033" "132 Dunlop AveLaSalle, Buffalo, NY" "$55,576" NA NA
+"1034" "355 Dartmouth AveKensington, Buffalo, NY" "$56,356" -78.8114944 42.9432496
+"1035" "474 S Ogden StKaisertown, Buffalo, NY" "$59,320" -78.802218 42.8740791
+"1036" "81 Whitehall AveSouth Abbott, Buffalo, NY" "$62,220" -78.8118669 42.8352319
+"1037" "82 John Paul CtBabcock, Buffalo, NY" "$66,921" NA NA
+"1038" "169 Northland AveCold Springs, Buffalo, NY" "$50,809" -78.853764 42.919057
+"1039" "121 Davey StLovejoy, Buffalo, NY" "$44,995" -78.8034967 42.8880762
+"1040" "405 Lasalle AveLaSalle, Buffalo, NY" "$35,236" -78.8153207 42.9448919
+"1041" "51 Saint Florian StMilitary, Buffalo, NY" "$72,043" -78.8856387 42.9455791
+"1042" "36 Schreck AveKenfield, Buffalo, NY" "$63,300" -78.8165395 42.9256114
+"1043" "354 Roesch AveRiverside Park, Buffalo, NY" "$68,380" NA NA
+"1044" "109 Fisher StSchiller Park, Buffalo, NY" "$63,133" -78.8009465 42.9208286
+"1045" "52 Wick StEmerson, Buffalo, NY" "$64,429" NA NA
+"1046" "34 Meriden StAbbott McKinley, Buffalo, NY" "$100,173" NA NA
+"1047" "68 Hammerschmidt AveSeneca, Buffalo, NY" "$75,443" -78.8170729 42.858871
+"1048" "94 Avondale PlSeneca, Buffalo, NY" "$78,423" NA NA
+"1049" "241 Bedford AvePark Meadow, Buffalo, NY" "$195,030" -78.8739848 42.9398436
+"1050" "214 Dearborn StBlack Rock, Buffalo, NY" "$68,635" -78.9016801 42.9350524
+"1051" "58 Fay StEmerson, Buffalo, NY" "$50,000" NA NA
+"1052" "261 Dartmouth AveLaSalle, Buffalo, NY" "$64,863" -78.8144496 42.9432406
+"1053" "99 Roesch AveRiverside Park, Buffalo, NY" "$67,533" NA NA
+"1054" "120 Central AveLovejoy, Buffalo, NY" "$72,120" -78.8156019 42.8881806
+"1055" "112 Dunlop AveLaSalle, Buffalo, NY" "$60,112" NA NA
+"1056" "199 Chadduck AveRiverside Park, Buffalo, NY" "$68,446" -78.9055777 42.956159
+"1057" "564 Fargo AveFront Park, Buffalo, NY" "$99,900" -78.898003 42.910737
+"1058" "354 Riverside AveRiverside Park, Buffalo, NY" "$67,687" -78.8974928 42.9510208
+"1059" "163 Gorton StBlack Rock, Buffalo, NY" "Contact For Estimate" NA NA
+"1060" "26 N Park AveNorth Park, Buffalo, NY" "$207,417" -78.8561684 42.9453251
+"1061" "432 Lisbon AveKensington, Buffalo, NY" "$67,040" NA NA
+"1062" "102 Briscoe AveSchiller Park, Buffalo, NY" "$50,414" NA NA
+"1063" "336 Cable StKaisertown, Buffalo, NY" "$19,900" NA NA
+"1064" "34 Hennepin StLovejoy, Buffalo, NY" "$74,013" -78.8128119 42.8881949
+"1065" "537 Lasalle AveKensington, Buffalo, NY" "$67,293" NA NA
+"1066" "248 Trenton AveLakeview, Buffalo, NY" "$16,000" NA NA
+"1067" "1818 Kensington AveBuffalo, NY" "$67,372" -78.790304 42.947794
+"1068" "30 Jewett PkwyParkside, Buffalo, NY" "$247,664" NA NA
+"1069" "4708 E Highland PkwyBuffalo, NY" "$151,273" -78.8062403 42.7800693
+"1070" "47 Floss AveSchiller Park, Buffalo, NY" "$49,900" NA NA
+"1071" "124 Auburn AveGrant Ferry, Buffalo, NY" "$74,900" NA NA
+"1072" "210 Huntington AveStarin Central, Buffalo, NY" "$229,620" -78.8401318 42.9460339
+"1073" "299 Fenton StKaisertown, Buffalo, NY" "$77,100" -78.8047209 42.8707192
+"1074" "112 Spann StKaisertown, Buffalo, NY" "$98,900" -78.8117123 42.8708568
+"1075" "84 Alexander PlCold Springs, Buffalo, NY" "$158,112" NA NA
+"1076" "3370 S Park AveBuffalo, NY" "$395,000" NA NA
+"1077" "7189 Reserve RdBuffalo, NY" "$219,900" NA NA
+"1078" "53 Littlefield AveSchiller Park, Buffalo, NY" "$89,900" -78.7995408 42.9083157
+"1079" "482 Lisbon AveKensington, Buffalo, NY" "$70,358" NA NA
+"1080" "14 Grattan StBuffalo, NY" "Contact For Estimate" NA NA
+"1081" "5160 Roseview AveBuffalo, NY" "Contact For Estimate" -78.7914502 42.7845691
+"1082" "37 Glencove RdKenmore NE, Buffalo, NY" "$189,665" -78.8706974 42.9798111
+"1083" "84 Humason AveSchiller Park, Buffalo, NY" "$65,048" -78.799839 42.9160273
+"1084" "90 Morris CresBuffalo, NY" "$330,823" -78.73262 42.8613969
+"1085" "925 Delaware Ave #4Bryant, Buffalo, NY" "$599,000" -78.8704899 42.9092677
+"1086" "228 Ora Wrighter DrWillert Park, Buffalo, NY" "$109,900" -78.8655579 42.8823269
+"1087" "68 Polish PlSeneca, Buffalo, NY" "$111,866" -78.8015095 42.8632077
+"1088" "21 Junior AveCazenovia Park, Buffalo, NY" "$128,163" -78.801459 42.852994
+"1089" "81 Rogers AveSchiller Park, Buffalo, NY" "$77,052" -78.8037662 42.9187931
+"1090" "246 Highgate AveLaSalle, Buffalo, NY" "$94,340" -78.8186649 42.9484189
+"1091" "520 Madison StJohnson, Buffalo, NY" "$84,790" -78.8531628 42.894619
+"1092" "4649 Seneca StBuffalo, NY" "$187,225" -78.731751 42.830301
+"1093" "49 Seminole PkwySeneca, Buffalo, NY" "$98,290" -78.8118555 42.8593969
+"1094" "473 Division StWillert Park, Buffalo, NY" "$136,711" NA NA
+"1095" "20 Haller AveBuffalo, NY" "$99,520" NA NA
+"1096" "118 Harbridge MnrBuffalo, NY" "$899,900" -78.7189349 42.9724075
+"1097" "324 Highgate AveLaSalle, Buffalo, NY" "$114,014" -78.815702 42.9482654
+"1098" "59 Cleveland DrBuffalo, NY" "$115,167" -78.796948 42.943375
+"1099" "94 Ontario StRiverside Park, Buffalo, NY" "$88,961" -78.9058017 42.947867
+"1100" "174 Butler AveHamlin Park, Buffalo, NY" "$99,435" -78.845574 42.9163848
+"1101" "95 Huetter AveOld Town, Buffalo, NY" "$118,584" -78.9099525 42.9588918
+"1102" "978 Walden AveSchiller Park, Buffalo, NY" "$75,991" -78.8000815 42.9069071
+"1103" "411 Doat StSchiller Park, Buffalo, NY" "$72,191" NA NA
+"1104" "134 Winspear AveLaSalle, Buffalo, NY" "$70,107" -78.8215087 42.949157
+"1105" "61 Texas StSchiller Park, Buffalo, NY" "$111,496" -78.810321 42.9182665
+"1106" "4571 Gentwood DrBuffalo, NY" "$549,900" NA NA
+"1107" "31 Kane StWillert Park, Buffalo, NY" "$85,461" NA NA
+"1108" "151 Rounds AveKensington, Buffalo, NY" "$91,940" -78.8078789 42.9471869
+"1109" "102 Ontario StRiverside Park, Buffalo, NY" "$93,468" -78.9055653 42.9481692
+"1110" "15 Barthel StGenesee Moselle, Buffalo, NY" "$85,000" NA NA
+"1111" "34 Eggert RdBuffalo, NY" "$73,435" -78.798964 42.92378
+"1112" "342 Cable StKaisertown, Buffalo, NY" "$98,793" NA NA
+"1113" "477 Amherst StBlack Rock, Buffalo, NY" "$74,362" NA NA
+"1114" "116 Goethe StLovejoy, Buffalo, NY" "$108,862" -78.8003559 42.888379
+"1115" "164 Edson StBuffalo, NY" "$135,799" -78.798437 42.852687
+"1116" "1275 Walden AveBuffalo, NY" "$61,913" -78.788869 42.9071
+"1117" "12 Leonard Post DrBuffalo, NY" "$69,927" NA NA
+"1118" "159 Goulding AveHamlin Park, Buffalo, NY" "$101,191" -78.8462514 42.9152518
+"1119" "455 Zimmerman BlvdBuffalo, NY" "$196,019" -78.8558198 42.9846633
+"1120" "65 Beckford CtBuffalo, NY" "$599,900" -78.719392 42.968987
+"1121" "258 Cambridge AveGenesee Moselle, Buffalo, NY" "$97,142" -78.8228786 42.9216947
+"1122" "281 Roslyn StSchiller Park, Buffalo, NY" "$71,225" -78.8094329 42.922227
+"1123" "126 Harriet AveKenfield, Buffalo, NY" "$88,619" NA NA
+"1124" "199 Phyllis AveKensington, Buffalo, NY" "$104,378" NA NA
+"1125" "268 Cass AveBuffalo, NY" "$80,053" -78.781721 42.883781
+"1126" "44 Altruria StSouth Park, Buffalo, NY" "$129,906" -78.8306972 42.8435874
+"1127" "257 Vermont StFront Park, Buffalo, NY" "$179,700" -78.889019 42.907236
+"1128" "360 Southwood DrBuffalo, NY" "$171,211" -78.8568485 42.985909
+"1129" "464 Dartmouth AveKensington, Buffalo, NY" "Contact For Estimate" -78.8074102 42.9436291
+"1130" "269 Parkside AveParkside, Buffalo, NY" "Contact For Estimate" NA NA
+"1131" "360 Dearborn StBlack Rock, Buffalo, NY" "Contact For Estimate" -78.9035982 42.9387993
+"1132" "180 Massachusetts AveFront Park, Buffalo, NY" "Contact For Estimate" -78.8944049 42.9096947
+"1133" "16 Inwood PlAlbright, Buffalo, NY" "Contact For Estimate" -78.8709142 42.9253991
+"1134" "135 Phyllis AveKensington, Buffalo, NY" "Contact For Estimate" -78.8084828 42.935637
+"1135" "320 Niagara Falls BlvdKenilworth, Buffalo, NY" "Contact For Estimate" -78.8239649 42.9628367
+"1136" "98 Cable StBuffalo, NY" "Contact For Estimate" -78.8070899 42.8675899
+"1137" "264 Skillen StRiverside Park, Buffalo, NY" "Contact For Estimate" -78.8970854 42.9600356
+"1138" "38 Bridgeman StBlack Rock, Buffalo, NY" "Contact For Estimate" -78.8834932 42.9417301
+"1139" "2243 William StBuffalo, NY" "Contact For Estimate" -78.788177 42.8841729
+"1140" "66 Chester StMasten Park, Buffalo, NY" "Contact For Estimate" -78.8587201 42.9143177
+"1141" "70 Ridge Park AveBuffalo, NY" "Contact For Estimate" -78.7898109 42.9093826
+"1142" "540 Willett StKaisertown, Buffalo, NY" "Contact For Estimate" -78.8031839 42.8768784
+"1143" "60 Crossman AveSchiller Park, Buffalo, NY" "Contact For Estimate" -78.80294 42.915322
+"1144" "19 Palos PlLeroy, Buffalo, NY" "Contact For Estimate" -78.8252565 42.9322883
+"1145" "25 Ritt AveMilitary, Buffalo, NY" "Contact For Estimate" NA NA
+"1146" "337 Norwalk AveNorth Park, Buffalo, NY" "$149,900" -78.8540051 42.9539064
+"1147" "353 Dushane DrBuffalo, NY" "Contact For Estimate" NA NA
+"1148" "51 Bogardus StLovejoy, Buffalo, NY" "Contact For Estimate" -78.8121183 42.8886565
+"1149" "446 Woodland DrBuffalo, NY" "Contact For Estimate" NA NA
+"1150" "112 Camden AveNorth Delaware, Buffalo, NY" "Contact For Estimate" -78.8731552 42.9509395
+"1151" "241 Wyoming AveGenesee Moselle, Buffalo, NY" "Contact For Estimate" -78.8235003 42.921195
+"1152" "159 Cantwell DrSouth Park, Buffalo, NY" "Contact For Estimate" -78.817864 42.83525
+"1153" "37 Choate AveSouth Park, Buffalo, NY" "Contact For Estimate" -78.8222455 42.8442923
+"1154" "384 Northland AveHamlin Park, Buffalo, NY" "Contact For Estimate" -78.8457475 42.919397
+"1155" "1148 Bailey AveLovejoy, Buffalo, NY" "Contact For Estimate" NA NA
+"1156" "168 Stevenson StCazenovia Park, Buffalo, NY" "Contact For Estimate" NA NA
+"1157" "62 Carlyle AveSouth Abbott, Buffalo, NY" "Contact For Estimate" NA NA
+"1158" "121 Texas StSchiller Park, Buffalo, NY" "Contact For Estimate" -78.8104 42.9198938
+"1159" "66 Reiman StLovejoy, Buffalo, NY" "Contact For Estimate" -78.8069338 42.8952175
+"1160" "883 Tifft StTriangle, Buffalo, NY" "Contact For Estimate" -78.8266085 42.8467234
+"1161" "227 Potomac AveForest, Buffalo, NY" "Contact For Estimate" NA NA
+"1162" "23 Guilford StBroadway - Fillmore, Buffalo, NY" "Contact For Estimate" -78.8431816 42.8928017
+"1163" "41 Tillotson PlKenilworth, Buffalo, NY" "Contact For Estimate" NA NA
+"1164" "168 Minnesota AveLaSalle, Buffalo, NY" "Contact For Estimate" -78.8232206 42.947048
+"1165" "345 Connecticut StFront Park, Buffalo, NY" "Contact For Estimate" NA NA
+"1166" "32 Brunswick BlvdHamlin Park, Buffalo, NY" "Contact For Estimate" -78.852655 42.917271
+"1167" "76 Garvey AveTriangle, Buffalo, NY" "Contact For Estimate" NA NA
+"1168" "478 Southside PkwySeneca, Buffalo, NY" "Contact For Estimate" -78.8208125 42.8616389
+"1169" "115 Newburgh AveSchiller Park, Buffalo, NY" "Contact For Estimate" NA NA
+"1170" "34 Coronada StTriangle, Buffalo, NY" "Contact For Estimate" NA NA
+"1171" "89 Stanley StLovejoy, Buffalo, NY" "Contact For Estimate" NA NA
+"1172" "246 W Delavan AveForest, Buffalo, NY" "Contact For Estimate" -78.8903964 42.9222383
+"1173" "163 Kilhoffer StGenesee Moselle, Buffalo, NY" "Contact For Estimate" -78.8165231 42.9160052
+"1174" "120 Pries AveTriangle, Buffalo, NY" "Contact For Estimate" NA NA
+"1175" "310 Weimar StKaisertown, Buffalo, NY" "Contact For Estimate" -78.8078959 42.8731967
+"1176" "301 Grandview AveKenilworth, Buffalo, NY" "Contact For Estimate" -78.8243574 42.9666405
+"1177" "137 Midland AveKenilworth, Buffalo, NY" "Contact For Estimate" NA NA
+"1178" "72 Paige AveKenilworth, Buffalo, NY" "Contact For Estimate" NA NA
+"1179" "119 Hastings AveKensington, Buffalo, NY" "Contact For Estimate" NA NA
+"1180" "45 Mann StBuffalo, NY" "Contact For Estimate" -78.7882992 42.8857852
+"1181" "75 Sterling AveNorth Park, Buffalo, NY" "Contact For Estimate" -78.8527251 42.9466979
+"1182" "297 Pratt StWillert Park, Buffalo, NY" "Contact For Estimate" NA NA
+"1183" "1213 Tonawanda StOld Town, Buffalo, NY" "Contact For Estimate" NA NA
+"1184" "377 Hastings AveKensington, Buffalo, NY" "Contact For Estimate" -78.7994028 42.9363765
+"1185" "39 Copsewood AveLaSalle, Buffalo, NY" "Contact For Estimate" -78.8159117 42.9359705
+"1186" "1637 Clinton StKaisertown, Buffalo, NY" "Contact For Estimate" NA NA
+"1187" "71 Crestwood AveNorth Park, Buffalo, NY" "Contact For Estimate" -78.8602789 42.9466158
+"1188" "29 Iroquois AveBuffalo, NY" "Contact For Estimate" NA NA
+"1189" "71 Poplar AveSchiller Park, Buffalo, NY" "Contact For Estimate" NA NA
+"1190" "208 Hewitt AveLaSalle, Buffalo, NY" "Contact For Estimate" -78.8164604 42.9426738
+"1191" "349 Martha AveKensington, Buffalo, NY" "Contact For Estimate" -78.8005234 42.9342376
+"1192" "868 Delaware RdBuffalo, NY" "Contact For Estimate" -78.8712709 42.985048
+"1193" "84 Hagen StSchiller Park, Buffalo, NY" "Contact For Estimate" NA NA
+"1194" "70 Edgewood AveKenilworth, Buffalo, NY" "Contact For Estimate" -78.835338 42.9617823
+"1195" "47 Reo AveBuffalo, NY" "Contact For Estimate" -78.7880836 42.9088481
+"1196" "590 Moselle StGrider, Buffalo, NY" "Contact For Estimate" -78.8246583 42.9197233
+"1197" "495 Hewitt AveKensington, Buffalo, NY" "Contact For Estimate" -78.8062389 42.9424799
+"1198" "27 Garner AveForest, Buffalo, NY" "Contact For Estimate" NA NA
+"1199" "100 Dewitt StGrant Ferry, Buffalo, NY" "Contact For Estimate" -78.8956841 42.9196239
+"1200" "118 Kelburn StKaisertown, Buffalo, NY" "Contact For Estimate" -78.8151679 42.8709235
+"1201" "82 Mineral Springs RdSeneca, Buffalo, NY" "Contact For Estimate" -78.8104175 42.859376
+"1202" "46 Riverside AveRiverside Park, Buffalo, NY" "Contact For Estimate" -78.9073172 42.9520915
+"1203" "532 Saint Lawrence AveNorth Park, Buffalo, NY" "Contact For Estimate" -78.849539 42.9562219
+"1204" "24 Stanton StEmslie, Buffalo, NY" "$46,000" -78.8462693 42.8840347
+"1205" "192 May StGenesee Moselle, Buffalo, NY" "Contact For Estimate" -78.8415764 42.936949
+"1206" "295 Riverside AveRiverside Park, Buffalo, NY" "Contact For Estimate" -78.899552 42.951586
+"1207" "48 Boyd StGrant Ferry, Buffalo, NY" "Contact For Estimate" -78.8888394 42.9176665
+"1208" "3683 Harrison AveBuffalo, NY" "Contact For Estimate" NA NA
+"1209" "118 Davey StLovejoy, Buffalo, NY" "Contact For Estimate" -78.8040301 42.8879997
+"1210" "158 Huntington AveStarin Central, Buffalo, NY" "Contact For Estimate" NA NA
+"1211" "153 Normal AveFront Park, Buffalo, NY" "Contact For Estimate" -78.8865605 42.9047407
+"1212" "38 Center StBuffalo, NY" "Contact For Estimate" -78.831859 42.82482
+"1213" "81 Crossman AveSchiller Park, Buffalo, NY" "Contact For Estimate" -78.8023932 42.9159316
+"1214" "468 Dartmouth AveKensington, Buffalo, NY" "Contact For Estimate" -78.8072956 42.943632
+"1215" "80 Center StBuffalo, NY" "Contact For Estimate" -78.83188 42.8236459
+"1216" "126 Steelawanna AveBuffalo, NY" "Contact For Estimate" -78.8460482 42.8238665
+"1217" "33 Center StBuffalo, NY" "Contact For Estimate" NA NA
+"1218" "126 Humber AveGrider, Buffalo, NY" "Contact For Estimate" NA NA
+"1219" "20 Amber StTriangle, Buffalo, NY" "$61,557" -78.8315389 42.8452271
+"1220" "63 Clay StBlack Rock, Buffalo, NY" "$72,000" -78.893429 42.939516
+"1221" "3 Cottage PlBuffalo, NY" "Contact For Estimate" -78.831348 42.815626
+"1222" "155 Liston StKenmore NE, Buffalo, NY" "Contact For Estimate" NA NA
+"1223" "619 Minnesota AveKensington, Buffalo, NY" "Contact For Estimate" NA NA
+"1224" "142 W Delavan AveForest, Buffalo, NY" "$19,500" NA NA
+"1225" "51 Eagan DrBuffalo, NY" "$12,000" NA NA
+"1226" "656 Norfolk AveLaSalle, Buffalo, NY" "$9,500" -78.81987 42.932893
+"1227" "660 Norfolk AveLaSalle, Buffalo, NY" "$9,500" -78.81987 42.932978
+"1228" "810 William StBroadway - Fillmore, Buffalo, NY" "$9,900" NA NA
+"1229" "170 Carlton StMedical Park, Buffalo, NY" "$39,900" -78.862886 42.8987
+"1230" "1312 Clinton StBabcock, Buffalo, NY" "$9,999" NA NA
+"1231" "143 Gelston StGrant Ferry, Buffalo, NY" "$13,499" -78.89752 42.919313
+"1232" "190 James StBabcock, Buffalo, NY" "$25,131" NA NA
+"1233" "202 W Ferry StGrant Ferry, Buffalo, NY" "$7,500" -78.894297 42.915415
+"1234" "840 Wilson St WBuffalo, NY" "$24,500" -78.8400619 42.9019558
+"1235" "259 Mineral Springs RdCazenovia Park, Buffalo, NY" "$59,000" -78.802983 42.860109
+"1236" "62 Pries AveTriangle, Buffalo, NY" "$34,120" NA NA
+"1237" "436 Woodlawn AveKingsley, Buffalo, NY" "$6,000" NA NA
+"1238" "619 Hopkins StTifft, Buffalo, NY" "$92,327" NA NA
+"1239" "173 Emporium AveBuffalo, NY" "$9,900" -78.790508 42.859411
+"1240" "416 Davey StLovejoy, Buffalo, NY" "$63,416" -78.803951 42.896288
+"1241" "419 Dearborn StBlack Rock, Buffalo, NY" "$55,300" -78.9039405 42.9405295
+"1242" "111 Grape StMedical Park, Buffalo, NY" "$32,264" -78.8496503 42.8940009
+"1243" " V L Broadway StBuffalo, NY" "$89,000" -78.801042 42.8985429
+"1244" "147 E Utica StMasten Park, Buffalo, NY" "$40,590" NA NA
+"1245" " Main St Main and CampbellBuffalo, NY" "$195,000" -78.817505 42.954412
+"1246" "VL McKinley PkwyBuffalo, NY" "$36,500" NA NA
+"1247" "5384 Berg RdBuffalo, NY" "$34,900" -78.786137 42.805668
+"1248" "344 Katherine StBuffalo, NY" "$395,000" -78.7529885 42.9829932
+"1249" "165 Richmond AveBryant, Buffalo, NY" "$848,147" NA NA
+"1250" "58 Hertel AveBlack Rock, Buffalo, NY" "$255,000" -78.904576 42.941565
+"1251" "128 Harriet AveKenfield, Buffalo, NY" "$88,619" -78.803707 42.926345
+"1252" "123 Argus StRiverside Park, Buffalo, NY" "$61,450" -78.9043113 42.9611679
+"1253" "57 Argus StRiverside Park, Buffalo, NY" "$115,206" -78.9025544 42.9598985
+"1254" "63 Red Jacket PkwyAbbott McKinley, Buffalo, NY" "$55,911" -78.8118289 42.8450875
+"1255" "49 Enola AveKenmore, Kenmore, NY" "$139,900" -78.869208 42.972215
+"1256" "630 Youngs RdAmherst, NY" "$129,900" -78.725681 42.9790459
+"1257" "357 Bernhardt DrAmherst, NY" "$169,900" -78.782062 42.952863
+"1258" "46 S Warren AveWest Seneca, NY" "$99,900" -78.7505123 42.8354225
+"1259" "63 Chapel AveCheektowaga, NY" "$79,900" -78.751665 42.924771
+"1260" "85 Unionvale Rd #14225Cheektowaga, NY" "$151,500" NA NA
+"1261" "3674 Fuller AveBlasdell, NY" "$123,900" -78.8208131 42.7847315
+"1262" "94 Dirkson AveWest Seneca, NY" "$14,900" -78.7903 42.846103
+"1263" "16 Harmony LnCheektowaga, NY" "$49,956" NA NA
+"1264" "6 Rolling Woods LnWest Seneca, NY" "$349,900" -78.7513698 42.8198746
+"1265" "21 Marseille AveWest Seneca, NY" "$60,000" NA NA
+"1266" "58 Marseille AveWest Seneca, NY" "$45,900" -78.7614089 42.871285
+"1267" "91 Enola AveKenmore, Kenmore, NY" "$169,000" -78.867733 42.972218
+"1268" "122 Burgundy CirWest Seneca, NY" "$49,900" -78.7614089 42.871285
+"1269" "101 Pheasant Run RdAmherst, NY" "$179,900" NA NA
+"1270" "2296 Union Rd #34Cheektowaga, NY" "$12,000" NA NA
+"1271" "35 Bellwood AveWest Seneca, NY" "$94,900" -78.788121 42.843396
+"1272" "40 Melody LnCheektowaga, NY" "$22,000" -78.7061066 42.9328588
+"1273" "58 Lorraine PlWest Seneca, NY" "$42,000" -78.761424 42.8712779
+"1274" "200 Westminster RdWest Seneca, NY" "$189,000" NA NA
+"1275" "277 Hirschfield DrWilliamsville, NY" "$209,900" -78.732989 42.957111
+"1276" "186 Millhurst RdLackawanna, NY" "$134,900" -78.796518 42.826434
+"1277" "60 Henry StCheektowaga, NY" "$79,900" -78.77455 42.8828
+"1278" "1140 Campbell BlvdAmherst, NY" "$32,162" NA NA
+"1279" "129 Carefree LnCheektowaga, NY" "$52,000" -78.7565248 42.8800928
+"1280" "37 Allegany AveKenmore, Kenmore, NY" "$119,800" NA NA
+"1281" "291 W Klein RdWilliamsville, NY" "$137,500" NA NA
+"1282" "47 Avery PlCheektowaga, NY" "$84,438" -78.7979299 42.917403
+"1283" "69 Woodbine AveWest Seneca, NY" "$60,000" -78.7523226 42.8591219
+"1284" "821 N Forest RdAmherst, NY" "$470,000" NA NA
+"1285" "144 Margaret RdAmherst, NY" "$138,650" NA NA
+"1286" "3381 McKinley PkwyBlasdell, NY" "$147,000" -78.810608 42.793195
+"1287" "102 Emerson DrAmherst, NY" "$128,900" -78.815402 42.9751959
+"1288" "48 Alpine PlCheektowaga, NY" "$69,900" -78.798321 42.9169989
+"1289" "235 Viscount DrWilliamsville, NY" "$368,000" NA NA
+"1290" "270 Reist StWilliamsville, NY" "$234,900" -78.7535807 42.9684703
+"1291" "304 Joe McCarthy Dr #2Amherst, NY" "$99,900" -78.8205386 43.0163948
+"1292" "72 Girard AveCheektowaga, NY" "$114,900" NA NA
+"1293" "240 N Forest RdWilliamsville, NY" "$199,900" -78.75959 42.9669013
+"1294" "89 Sundown TrlAmherst, NY" "$199,999" -78.7534433 42.9993012
+"1295" "60 E Summerset LnAmherst, NY" "$199,000" -78.819511 43.044024
+"1296" "1001 Reserve Rd #8West Seneca, NY" "$65,000" NA NA
+"1297" "4128 Oakwood DrWilliamsville, NY" "$174,900" NA NA
+"1298" "100 Danielle DrCheektowaga, NY" "$67,537" -78.742852 42.864676
+"1299" "162 Allendale RdWest Seneca, NY" "$220,000" -78.7601876 42.81566
+"1300" "1090 Cleveland DrCheektowaga, NY" "$94,900" NA NA
+"1301" "75 Theresa DrCheektowaga, NY" "$135,900" -78.737948 42.865251
+"1302" "30 Chateau TerAmherst, NY" "$169,900" -78.7812764 42.9636811
+"1303" "17 Pulaski StLackawanna, NY" "$89,900" -78.8315095 42.8214224
+"1304" "465 Hopkins Rd #3Amherst, NY" "$93,500" -78.7390755 42.9918304
+"1305" "465 Hopkins Rd #3Amherst, NY" "$93,500" NA NA
+"1306" "480 Capen BlvdAmherst, NY" "$110,000" -78.8209878 42.9694562
+"1307" "116 Ridgewood DrAmherst, NY" "$120,000" -78.767622 42.9558128
+"1308" "50 Lake AveBlasdell, NY" "$54,900" -78.826215 42.796928
+"1309" "81 Huth RdCheektowaga, NY" "$47,279" -78.780998 42.938899
+"1310" "135 Seminole PkwyCheektowaga, NY" "$143,409" -78.7568546 42.9204737
+"1311" "77 McNair RdWilliamsville, NY" "$189,900" -78.7274998 42.988112
+"1312" "2615 Clinton StWest Seneca, NY" "$96,203" -78.780164 42.869557
+"1313" "71 Parkledge DrAmherst, NY" "$75,071" NA NA
+"1314" "146 Ivyhurst RdAmherst, NY" "$165,000" -78.80035 42.968538
+"1315" "11 Stevenson BlvdAmherst, NY" "$149,000" -78.813279 42.965012
+"1316" "10 Miami PkwyCheektowaga, NY" "$52,781" -78.764795 42.92021
+"1317" "54 Yvette DrCheektowaga, NY" "$144,292" -78.745806 42.866175
+"1318" "400 Windermere BlvdAmherst, NY" "$129,900" -78.8195417 42.9681505
+"1319" "155 Franklin StLackawanna, NY" "$67,900" -78.8298472 42.8214868
+"1320" "449 Borden RdWest Seneca, NY" "$67,685" -78.70851 42.867092
+"1321" "14 Plymouth PlWilliamsville, NY" "$119,875" -78.7555397 42.9594519
+"1322" "946 Colvin BlvdKenmore, Kenmore, NY" "$163,000" -78.8586573 42.9668207
+"1323" "439 McConkey DrTonawanda, NY" "$129,900" -78.8564711 42.9901059
+"1324" "4330 Connection DrWilliamsville, NY" "$184,900" NA NA
+"1325" "518 Windermere BlvdAmherst, NY" "$51,115" -78.8194582 42.9714105
+"1326" "1340 Maple Rd #8Amherst, NY" "$99,900" NA NA
+"1327" "8300 Vernon CirWilliamsville, NY" "$116,359" -78.685513 42.968369
+"1328" "259 Halstead AveSloan, NY" "$59,900" -78.793644 42.897608
+"1329" "75 Seton RdCheektowaga, NY" "$94,900" -78.780678 42.935949
+"1330" "46 Lynette LnAmherst, NY" "$169,900" NA NA
+"1331" "4 Elm CtSnyder, NY" "$164,900" NA NA
+"1332" "311 Pine Ridge RdCheektowaga, NY" "$115,000" NA NA
+"1333" "54 Creekside DrCheektowaga, NY" "$149,500" -78.7837764 42.8733785
+"1334" "309 Stillwell AveKenmore, Kenmore, NY" "$86,977" NA NA
+"1335" "842 Robin RdAmherst, NY" "Contact For Estimate" -78.769803 43.022261
+"1336" "118 Southcrest AveCheektowaga, NY" "$89,900" -78.749519 42.923605
+"1337" "64 Koster RowAmherst, NY" "$529,000" NA NA
+"1338" "140 Parkledge DrAmherst, NY" "$189,967" NA NA
+"1339" "32 S Parrish CtAmherst, NY" "$259,307" -78.765403 43.03537
+"1340" "8540 Nottingham TerWilliamsville, NY" "$142,000" -78.674224 42.9644059
+"1341" "863 Wehrle DrWilliamsville, NY" "$219,999" -78.750503 42.949345
+"1342" "66 Bramble RdWilliamsville, NY" "$279,900" NA NA
+"1343" "610 Youngs Rd #BAmherst, NY" "$136,900" NA NA
+"1344" "224 E Hazeltine AveKenmore, Kenmore, NY" "$144,900" -78.861028 42.959586
+"1345" "58 Raymond AveCheektowaga, NY" "$119,900" NA NA
+"1346" "35 Winkler RdCheektowaga, NY" "$40,573" NA NA
+"1347" "173 Wardman RdKenmore, Kenmore, NY" "$62,612" NA NA
+"1348" "124 Sundown TrlWilliamsville, NY" "$161,000" -78.7531272 42.9979965
+"1349" "355 Brompton RdAmherst, NY" "$315,000" NA NA
+"1350" "18 Treehaven RdWest Seneca, NY" "$184,000" NA NA
+"1351" "1150 Orchard Park RdWest Seneca, NY" "$44,135" -78.768727 42.818237
+"1352" "1693 Electric AveLackawanna, NY" "$44,900" NA NA
+"1353" "2 Burdette DrCheektowaga, NY" "$117,500" -78.760752 42.940103
+"1354" "321 N Forest RdWilliamsville, NY" "$285,000" NA NA
+"1355" "70 Coventry RdKenmore, NY" "$84,131" NA NA
+"1356" "27 Vera AveCheektowaga, NY" "$63,938" NA NA
+"1357" "219 North AveWest Seneca, NY" "$55,419" -78.753233 42.857982
+"1358" "8475 Ericson DrWilliamsville, NY" "$185,000" -78.6779318 42.9691487
+"1359" "136 Denrose Dr #3Amherst, NY" "$89,900" -78.820064 43.016588
+"1360" "17 Georgian Ln #3Amherst, NY" "$109,900" -78.75855 42.99441
+"1361" "17 Georgian Ln #3Amherst, NY" "$109,900" NA NA
+"1362" "1370 Maple Rd #3Amherst, NY" "$130,000" -78.7368704 42.9914453
+"1363" "111 Nantucket Dr ECheektowaga, NY" "$134,900" NA NA
+"1364" "473 Springville AveAmherst, NY" "$129,900" NA NA
+"1365" "125 Lemoine AveCheektowaga, NY" "$132,900" NA NA
+"1366" "102 Mount Vernon RdAmherst, NY" "$625,000" -78.786843 42.960702
+"1367" "174 Nokomis PkwyCheektowaga, NY" "$99,900" -78.7591939 42.918874
+"1368" "633 Cottonwood DrWilliamsville, NY" "$243,900" -78.7619 43.005142
+"1369" "89 Woodgate DrCheektowaga, NY" "$127,500" -78.722416 42.875146
+"1370" "96 Kelsey DrWest Seneca, NY" "$120,000" NA NA
+"1371" "12 Sandra DrLackawanna, NY" "$79,900" NA NA
+"1372" "164 N French RdAmherst, NY" "$169,900" -78.818394 43.034763
+"1373" "26 Garden CtAmherst, NY" "$164,900" -78.8113213 42.962307
+"1374" "4965 Seneca StWest Seneca, NY" "$129,900" NA NA
+"1375" "1363 Cleveland DrCheektowaga, NY" "$98,500" -78.749825 42.943047
+"1376" "2533 Genesee StCheektowaga, NY" "$89,900" -78.7887159 42.920795
+"1377" "33 Hennepin RdAmherst, NY" "$112,434" -78.820843 43.0294979
+"1378" "105 Columbia PkwyWest Seneca, NY" "$139,900" -78.795241 42.848462
+"1379" "61 Fernald AveLackawanna, NY" "$75,000" NA NA
+"1380" "207 Crown Royal DrWilliamsville, NY" "$259,000" -78.7116309 42.99246
+"1381" "72 Fowler AveKenmore NW, Kenmore, NY" "$130,000" -78.8816024 42.9714831
+"1382" "54 Somersby CtWilliamsville, NY" "$209,900" -78.7717944 42.9744007
+"1383" "53 Lucille DrCheektowaga, NY" "$109,900" NA NA
+"1384" "479 Lakewood PkwyAmherst, NY" "$115,000" -78.774304 42.970964
+"1385" "65 Gardenvale DrCheektowaga, NY" "$115,000" -78.772487 42.936704
+"1386" "46 Lille LnCheektowaga, NY" "$170,000" NA NA
+"1387" "204 French Lea RdWest Seneca, NY" "$174,900" -78.73382 42.862309
+"1388" "42 Leroy RdCheektowaga, NY" "$47,000" NA NA
+"1389" "335 S Cayuga Rd #BAmherst, NY" "$129,999" NA NA
+"1390" "16 Wichita RdWest Seneca, NY" "$149,900" -78.796544 42.84461
+"1391" "180 Saint Felix AveCheektowaga, NY" "$120,000" NA NA
+"1392" "408 Frankhauser RdWilliamsville, NY" "$189,900" NA NA
+"1393" "301 Doncaster RdDeerhurst Park, Kenmore, NY" "$319,000" -78.8622525 42.9700872
+"1394" "4450 Union RdCheektowaga, NY" "$109,900" NA NA
+"1395" "73 Washington HwyAmherst, NY" "$234,900" NA NA
+"1396" "82 Lynnette CtCheektowaga, NY" "$159,900" NA NA
+"1397" "3593 Wabash AveBlasdell, NY" "$125,000" NA NA
+"1398" "73 Dorrance AveLackawanna, NY" "$65,000" -78.82106 42.831771
+"1399" "337 Shetland DrWilliamsville, NY" "$209,900" NA NA
+"1400" "55 Maplewood AveWest Seneca, NY" "$92,000" -78.745582 42.857483
+"1401" "155 Angelacrest LnWest Seneca, NY" "$137,000" NA NA
+"1402" "6 Mayberry Dr WCheektowaga, NY" "$134,900" -78.740643 42.868581
+"1403" "73 Wheaton DrCheektowaga, NY" "$79,900" -78.770087 42.921016
+"1404" "156 Hamilton BlvdKenmore, Kenmore, NY" "$119,900" -78.876715 42.9682559
+"1405" "4407 Overlook DrAmherst, NY" "$385,000" -78.663344 42.967193
+"1406" "5429 Village Station CirWilliamsville, NY" "$215,000" -78.69291 42.9954139
+"1407" "630 Youngs Rd #FAmherst, NY" "$129,900" -78.725681 42.9790459
+"1408" "482 Maynard DrAmherst, NY" "$134,800" NA NA
+"1409" "1454 Harlem RdCheektowaga, NY" "$71,900" -78.784975 42.88276
+"1410" "73 Bradwood RdWest Seneca, NY" "$159,900" NA NA
+"1411" "1190 Maryvale DrCheektowaga, NY" "$99,941" -78.7445586 42.933408
+"1412" "183 Lorfield DrAmherst, NY" "$175,000" -78.7719427 42.9545909
+"1413" "22 Mayberry Dr WCheektowaga, NY" "$112,500" -78.740622 42.869157
+"1414" "4593 Chestnut Ridge Rd #10Amherst, NY" "$119,900" -78.80905 43.003992
+"1415" "81 Modern AveLackawanna, NY" "$69,900" NA NA
+"1416" "684 Main StWest Seneca, NY" "$165,000" -78.7499838 42.8341668
+"1417" "177 Noel DrAmherst, NY" "$224,900" -78.7557269 42.9861689
+"1418" "382 Collins AveWest Seneca, NY" "$89,900" NA NA
+"1419" "210 Hopkins RdWilliamsville, NY" "$195,000" -78.7400007 42.9843839
+"1420" "34 Wainwright RdCheektowaga, NY" "$91,000" -78.791631 42.948203
+"1421" "97 Starlite AveCheektowaga, NY" "$99,000" -78.7710309 42.887471
+"1422" "55 Westbrook DrCheektowaga, NY" "$89,900" -78.781918 42.9335049
+"1423" "58 Carmen RdAmherst, NY" "$142,900" -78.816751 42.974186
+"1424" "18 Willow Ridge DrAmherst, NY" "$180,000" NA NA
+"1425" "68 Collins AveWest Seneca, NY" "$139,900" -78.785847 42.856425
+"1426" "1205 Youngs Rd #HAmherst, NY" "$176,500" -78.721587 42.995078
+"1427" "110 N Seine DrCheektowaga, NY" "$133,000" -78.733649 42.872069
+"1428" "1225 Campbell BlvdAmherst, NY" "$184,900" -78.765119 43.049548
+"1429" "403 Beach RdCheektowaga, NY" "$89,900" -78.7619239 42.931933
+"1430" "104 Eiseman AveKenmore NW, Kenmore, NY" "$68,888" NA NA
+"1431" "179 Sundown TrlWilliamsville, NY" "$249,900" -78.7537823 42.9963607
+"1432" "225 Macarthur DrWilliamsville, NY" "$257,777" NA NA
+"1433" "36 Wickham DrWilliamsville, NY" "$249,900" -78.7462076 42.9855502
+"1434" "44 Harwood DrAmherst, NY" "$154,900" -78.785916 42.953657
+"1435" "96 Shannon DrLackawanna, NY" "$114,500" -78.805076 42.815785
+"1436" "309 Cindy DrWilliamsville, NY" "$187,900" -78.7876319 42.9903649
+"1437" "59 E Cavalier DrCheektowaga, NY" "$145,000" NA NA
+"1438" "20 Longmeadow RdAmherst, NY" "$79,900" -78.8223987 42.9725371
+"1439" "4694 Harlem RdAmherst, NY" "$169,900" -78.7843701 42.9698272
+"1440" "3071 Sweet Home RdAmherst, NY" "$198,500" -78.799125 43.043694
+"1441" "840 Robin RdAmherst, NY" "$188,000" NA NA
+"1442" "88 Empress AveAmherst, NY" "$193,000" -78.80652 42.983415
+"1443" "45 Roycroft BlvdAmherst, NY" "$339,000" -78.7799768 42.9610075
+"1444" "93 Maynard DrAmherst, NY" "$192,900" -78.808689 42.964486
+"1445" "200 Palmdale DrWilliamsville, NY" "$220,000" NA NA
+"1446" "14 Keph Dr #3Amherst, NY" "$129,900" -78.805761 43.001948
+"1447" "2 Keph Dr #3Amherst, NY" "$124,900" -78.805254 43.002487
+"1448" "58 Farber LnWilliamsville, NY" "$159,900" NA NA
+"1449" "84 Garland DrAmherst, NY" "$139,900" NA NA
+"1450" "73 Strasbourg DrCheektowaga, NY" "$149,900" -78.73503 42.870707
+"1451" "367 Wardman RdKenmore, Kenmore, NY" "$134,900" -78.855991 42.962693
+"1452" "20 Lorry DrWest Seneca, NY" "$134,900" NA NA
+"1453" "24 Starcrest DrCheektowaga, NY" "$62,813" -78.777225 42.929151
+"1454" "65 Forest DrWest Seneca, NY" "$189,900" NA NA
+"1455" "20 Ganna CtWest Seneca, NY" "$264,900" -78.721067 42.836999
+"1456" "94 Chapel WoodsWilliamsville, NY" "$399,900" -78.722858 43.0048249
+"1457" "1953 N Forest RdWilliamsville, NY" "$179,900" -78.767498 43.006848
+"1458" "46 Louis AveWest Seneca, NY" "$164,900" NA NA
+"1459" "58 Dutchmill DrWilliamsville, NY" "$294,000" -78.735376 43.019278
+"1460" "58 Dutchman DrAmherst, NY" "$294,000" NA NA
+"1461" "1054 Mineral Springs RdWest Seneca, NY" "$134,900" -78.777869 42.859743
+"1462" "98 Marycrest LnWest Seneca, NY" "$169,999" -78.786367 42.818111
+"1463" "98 Lyndale CtWest Seneca, NY" "$135,000" -78.779691 42.8427
+"1464" "1170 Maple RdWilliamsville, NY" "$199,900" -78.74389 42.9914025
+"1465" "260 Wimbledon CtWest Seneca, NY" "$123,000" -78.773135 42.84236
+"1466" "55 Oakbrook Dr #CAmherst, NY" "$164,900" -78.735075 42.992438
+"1467" "62 Garland DrAmherst, NY" "$158,600" -78.8051657 42.9674667
+"1468" "40 Canterbury CtAmherst, NY" "$139,900" -78.8023157 42.9588353
+"1469" "50 Calla WayCheektowaga, NY" "$119,900" NA NA
+"1470" "636 Lebrun RdAmherst, NY" "$980,000" -78.798166 42.956297
+"1471" "99 Pullman AveKenmore NW, Kenmore, NY" "$129,900" -78.882592 42.9732032
+"1472" "430 Country PkwyWilliamsville, NY" "$209,900" -78.7140243 42.9898325
+"1473" "101 Stillwell AveKenmore, Kenmore, NY" "$135,900" -78.864058 42.967763
+"1474" "268 Donna Lea BlvdWilliamsville, NY" "$189,900" -78.7777829 42.9891518
+"1475" "707 Mineral Springs RdWest Seneca, NY" "$139,900" NA NA
+"1476" "4310 Fairfield DrWilliamsville, NY" "$174,900" -78.666994 42.964345
+"1477" "41 Maynard DrAmherst, NY" "$189,900" NA NA
+"1478" "56 Robin LnWest Seneca, NY" "$124,900" -78.7372696 42.8412107
+"1479" "79 Pamela CtWest Seneca, NY" "$159,900" NA NA
+"1480" "2797 Tonawanda Creek RdAmherst, NY" "$205,000" NA NA
+"1481" "2 Keph Dr #4Amherst, NY" "$122,900" -78.805254 43.002487
+"1482" "2 Vernon DrCheektowaga, NY" "$99,900" -78.773925 42.94644
+"1483" "1090 New RdAmherst, NY" "$169,900" NA NA
+"1484" "2 Keph Dr #4Amherst, NY" "$122,900" -78.805254 43.002487
+"1485" "578 Roycroft BlvdCheektowaga, NY" "$130,000" -78.7792429 42.946187
+"1486" "210 Hamilton DrAmherst, NY" "$159,000" -78.782566 42.952884
+"1487" "1196 Harlem RdCheektowaga, NY" "$139,900" -78.7851092 42.8755363
+"1488" "4220 Harlem RdAmherst, NY" "$179,000" -78.784304 42.958939
+"1489" "98 Sable Palm DrCheektowaga, NY" "$109,900" NA NA
+"1490" "36 Parkwood AveKenmore, Kenmore, NY" "$147,500" -78.868238 42.960323
+"1491" "24 Eaton StLackawanna, NY" "$82,616" -78.841378 42.825359
+"1492" "85 E Toulon DrCheektowaga, NY" "$179,650" NA NA
+"1493" "2769 S Park AveLackawanna, NY" "$130,000" -78.824391 42.824655
+"1494" "187 Edison StLackawanna, NY" "$88,000" -78.798999 42.808798
+"1495" "15 Adrian AveLackawanna, NY" "$64,950" NA NA
+"1496" "4607 Chestnut Ridge Rd #LAmherst, NY" "$92,000" NA NA
+"1497" "79 Mayberry Dr WCheektowaga, NY" "$120,000" NA NA
+"1498" "358 S Cayuga RdAmherst, NY" "$372,000" NA NA
+"1499" "75 Lisa Ann LnWest Seneca, NY" "$327,500" -78.737739 42.823239
+"1500" "960 Mineral Springs RdWest Seneca, NY" "$143,493" -78.7811204 42.8622328
+"1501" "300 Springville AveAmherst, NY" "$94,900" -78.8159196 42.9670303
+"1502" "54 Sargent DrAmherst, NY" "$284,900" -78.773391 42.964454
+"1503" "36 Mayfield DrWest Seneca, NY" "$179,900" -78.747167 42.863067
+"1504" "28 Gardenville On The GrnWest Seneca, NY" "$169,900" -78.7564495 42.8569366
+"1505" "7 Jamaica LnCheektowaga, NY" "$129,900" -78.749667 42.91193
+"1506" "60 Rushford Hollow DrCheektowaga, NY" "$205,000" NA NA
+"1507" "51 Crestwood LnWilliamsville, NY" "$399,000" NA NA
+"1508" "7 Cathedral CtWest Seneca, NY" "$204,900" NA NA
+"1509" "132 Ivanhoe RdCheektowaga, NY" "$48,188" -78.797991 42.926471
+"1510" "19 Timberlane DrWilliamsville, NY" "$707,552" -78.75057 43.012647
+"1511" "211 Bentham Pkwy EAmherst, NY" "$209,900" -78.771208 42.958218
+"1512" "241 Boncroft DrWest Seneca, NY" "$116,000" -78.760865 42.83884
+"1513" "75 Basswood DrCheektowaga, NY" "$137,862" NA NA
+"1514" "105 Keever AveLackawanna, NY" "$67,371" -78.826841 42.80969
+"1515" "244 Wagner AveSloan, NY" "$68,941" NA NA
+"1516" "18 Pinelake DrWilliamsville, NY" "$383,239" NA NA
+"1517" "24 Kenwood RdKenmore, Kenmore, NY" "$188,582" -78.869794 42.968668
+"1518" "41 Heather RdCheektowaga, NY" "$128,260" -78.769581 42.937609
+"1519" "890 Klein RdWilliamsville, NY" "$228,000" -78.70672 43.000125
+"1520" "341 Saratoga RdAmherst, NY" "$189,900" -78.785181 42.95277
+"1521" "49 Four Winds WayAmherst, NY" "$1,199,000" -78.7941189 42.9667575
+"1522" "96 Neubauer CtWest Seneca, NY" "$110,079" -78.783214 42.81469
+"1523" "262 Willow Ridge DrAmherst, NY" "$179,900" -78.812419 43.012232
+"1524" "1064 Harlem RdCheektowaga, NY" "$150,000" -78.7870697 42.8726753
+"1525" "43 Princeton BlvdKenmore NE, Kenmore, NY" "$149,900" -78.869717 42.973846
+"1526" "2941 William StCheektowaga, NY" "$1,500,000" NA NA
+"1527" "390 Getzville RdAmherst, NY" "Contact For Estimate" -78.7921811 42.9743352
+"1528" "569 French RdCheektowaga, NY" "$144,900" NA NA
+"1529" "81 Jenny LnCheektowaga, NY" "$71,995" -78.7077008 42.9328651
+"1530" "317 Forest DrWest Seneca, NY" "$239,900" -78.7448 42.8607159
+"1531" "125 Cunard AveCheektowaga, NY" "$74,113" -78.761561 42.928965
+"1532" "121 Woodbury DrAmherst, NY" "$263,900" -78.792828 42.970506
+"1533" "794 French RdCheektowaga, NY" "$1,900,000" -78.7248928 42.8682178
+"1534" "198 Hendricks BlvdAmherst, NY" "$269,900" NA NA
+"1535" "61 Penny LnTriangle, Amherst, NY" "$464,900" NA NA
+"1536" "8300 Greiner RdWilliamsville, NY" "$699,900" -78.685299 42.990175
+"1537" "24 Old Orchard StAmherst, NY" "$319,500" -78.7600847 42.9983808
+"1538" "55 Foisset AveCheektowaga, NY" "$180,000" -78.7638183 42.9414263
+"1539" "13 Doster PlWest Seneca, NY" "$140,000" -78.755473 42.852206
+"1540" "25 Fernald AveLackawanna, NY" "$120,194" -78.80237 42.824987
+"1541" "8146 Golden Oak CirWilliamsville, NY" "$549,900" -78.688864 42.994306
+"1542" "2160 N Forest RdAmherst, NY" "$109,900" -78.769426 43.006433
+"1543" "2 Astor Ridge Dr #BAmherst, NY" "$194,000" -78.808462 43.002711
+"1544" "115 Tennyson TerWilliamsville, NY" "$200,000" NA NA
+"1545" "18 Lorraine LnCheektowaga, NY" "$168,219" -78.775271 42.917995
+"1546" "136 Basswood DrCheektowaga, NY" "$84,900" -78.717798 42.875393
+"1547" "28 White RdCheektowaga, NY" "$118,000" NA NA
+"1548" "282 Burroughs DrAmherst, NY" "$199,900" -78.778892 42.969636
+"1549" "67 Iris AveWest Seneca, NY" "$108,217" -78.76718 42.8332679
+"1550" "91 Pine Ct NWest Seneca, NY" "$199,900" -78.701764 42.850386
+"1551" "146 Thorndale AveWest Seneca, NY" "$148,900" -78.784944 42.845701
+"1552" "30 Mayberry Dr WCheektowaga, NY" "$97,500" -78.740611 42.869445
+"1553" "205 Towers BlvdCheektowaga, NY" "$223,843" NA NA
+"1554" "243 Chamberlin DrWest Seneca, NY" "$129,900" -78.794961 42.852672
+"1555" "15 Starwood DrCheektowaga, NY" "Contact For Estimate" -78.7106079 42.875138
+"1556" "420 3rd AveWilliamsville, NY" "$146,282" NA NA
+"1557" "173 Kinsey AveKenmore, Kenmore, NY" "$120,161" -78.877229 42.967881
+"1558" "226 Temple DrCheektowaga, NY" "$145,000" -78.726403 42.924736
+"1559" "4705 Union RdCheektowaga, NY" "$95,000" NA NA
+"1560" "154 Garry DrWest Seneca, NY" "$149,900" NA NA
+"1561" "232 Sunrise BlvdWilliamsville, NY" "$199,900" NA NA
+"1562" "69 Shamokin DrLackawanna, NY" "$132,500" -78.808578 42.817369
+"1563" "53 Sugnet RdCheektowaga, NY" "$152,500" NA NA
+"1564" "27 Rolling Woods LnWest Seneca, NY" "$319,900" -78.749968 42.818678
+"1565" "257 Clearfield DrWilliamsville, NY" "$199,900" -78.7439649 42.9985477
+"1566" "333 N French RdAmherst, NY" "$549,900" -78.811503 43.033444
+"1567" "3667 Genesee StCheektowaga, NY" "$359,000" -78.749691 42.927723
+"1568" "205 Maryknoll DrLackawanna, NY" "$110,000" -78.8120222 42.8177442
+"1569" "114 Burch AveWest Seneca, NY" "$92,335" NA NA
+"1570" "81 Heritage Rd WWilliamsville, NY" "$285,000" NA NA
+"1571" "4 Roswell RdKensington, Cheektowaga, NY" "$81,553" NA NA
+"1572" "3201 Tonawanda Creek RdAmherst, NY" "$299,900" -78.736299 43.074682
+"1573" "770 Highland AveTonawanda, NY" "$126,393" NA NA
+"1574" "201 Orchard PlCheektowaga, NY" "$118,924" -78.7470329 42.9233967
+"1575" "338 Washington AveKenmore, Kenmore, NY" "$124,900" -78.883494 42.966301
+"1576" "135 Wayne AveAmherst, NY" "$164,900" -78.818312 43.0299369
+"1577" "285 Ridgewood DrAmherst, NY" "$179,500" -78.7688618 42.9512069
+"1578" "200 Cloverside DrWest Seneca, NY" "$173,900" NA NA
+"1579" "77 E Summerset LnAmherst, NY" "$195,000" -78.8198689 43.0435187
+"1580" "661 Mill StWilliamsville, NY" "$279,900" NA NA
+"1581" "305 N Rockingham WayAmherst, NY" "$525,000" NA NA
+"1582" "25 John Alex DrWest Seneca, NY" "$339,000" NA NA
+"1583" "263 Brantwood RdAmherst, NY" "$369,000" -78.793819 42.9566919
+"1584" "49 Sandra DrCheektowaga, NY" "$124,900" -78.7468054 42.9321581
+"1585" "18 Sandra DrLackawanna, NY" "$129,900" -78.806993 42.813929
+"1586" "290 Berryman DrAmherst, NY" "$289,900" -78.79178 42.955858
+"1587" "12 The AveCheektowaga, NY" "$189,777" -78.778144 42.912746
+"1588" "614 Dorrance AveWest Seneca, NY" "$119,900" -78.800122 42.83225
+"1589" "1940 Ridge RdWest Seneca, NY" "$200,000" -78.7801713 42.8295175
+"1590" "23 Glenfield DrWest Seneca, NY" "$234,900" -78.7471599 42.863339
+"1591" "5 Winfield DrWest Seneca, NY" "$214,900" -78.7480439 42.863176
+"1592" "4100 Gentwood DrAmherst, NY" "$389,000" NA NA
+"1593" "13 Keph Dr #4Amherst, NY" "$159,900" NA NA
+"1594" "3 Hillside DrWilliamsville, NY" "$165,000" -78.752527 42.963982
+"1595" "183 Gardenvale DrCheektowaga, NY" "$109,900" -78.773906 42.939045
+"1596" "141 Klas AveWest Seneca, NY" "$129,900" NA NA
+"1597" "13 Keph Dr #4Amherst, NY" "$159,900" -78.805972 43.001613
+"1598" "4578 E Overlook DrWilliamsville, NY" "$259,900" -78.663467 42.972475
+"1599" "5 W Cavalier DrCheektowaga, NY" "$149,900" -78.735482 42.867767
+"1600" "304 Hedstrom DrAmherst, NY" "$184,500" -78.7948755 42.9725912
+"1601" "56 Caldwell DrWest Seneca, NY" "$289,900" -78.7788436 42.8142986
+"1602" "76 Round Trail RdWest Seneca, NY" "$199,900" -78.771332 42.807071
+"1603" "239 Halstead AveSloan, NY" "$82,770" -78.793646 42.89707
+"1604" "98 Alaska StCheektowaga, NY" "$129,900" NA NA
+"1605" "188 Franklin StLackawanna, NY" "$129,000" -78.8293945 42.8205414
+"1606" "38 Cove HolwWest Seneca, NY" "$379,000" NA NA
+"1607" "640 Borden RdCheektowaga, NY" "$189,900" NA NA
+"1608" "159 Mona DrAmherst, NY" "$169,000" NA NA
+"1609" "54 Cree Ton DrAmherst, NY" "$194,900" -78.815045 43.048256
+"1610" "41 Vern LnCheektowaga, NY" "$159,900" -78.764708 42.887986
+"1611" "103 Caldwell DrWest Seneca, NY" "$279,900" NA NA
+"1612" "51 Mang AveKenmore, Kenmore, NY" "$159,900" NA NA
+"1613" "133 Losson RdCheektowaga, NY" "$197,000" -78.747698 42.881761
+"1614" "311 Getzville RdAmherst, NY" "$215,000" -78.7909335 42.9727485
+"1615" "37 Rushford Hollow DrCheektowaga, NY" "$178,000" -78.747831 42.88415
+"1616" "89 Woodward DrWest Seneca, NY" "$195,000" -78.749708 42.824246
+"1617" "105 Lord Byron LnWilliamsville, NY" "$379,900" NA NA
+"1618" "65 Ivyhurst RdAmherst, NY" "$274,900" -78.7991939 42.9663469
+"1619" "54 Tamark CtCheektowaga, NY" "$175,000" -78.77024 42.886306
+"1620" "65 Ivyhurst RdAmherst, NY" "$274,900" -78.7991939 42.9663469
+"1621" "54 Tamark CtCheektowaga, NY" "$175,000" NA NA
+"1622" "24 Michelle DrLackawanna, NY" "$149,900" -78.813155 42.815266
+"1623" "5080 Ledge LnWilliamsville, NY" "$289,900" -78.6894783 42.9846808
+"1624" "3905 S Park AveBlasdell, NY" "$109,000" -78.8241989 42.791129
+"1625" "234 Doncaster RdDeerhurst Park, Kenmore, NY" "$439,999" -78.8594437 42.9700187
+"1626" "124 Euclid AveKenmore, Kenmore, NY" "$174,999" NA NA
+"1627" "124 Nancycrest LnWest Seneca, NY" "$171,900" NA NA
+"1628" "121 Rockdale DrAmherst, NY" "$229,000" -78.811323 43.0178926
+"1629" "7 Mayfield CtWest Seneca, NY" "$235,900" -78.745491 42.862625
+"1630" "125 Shepard AveKenmore, Kenmore, NY" "$109,000" -78.875503 42.969411
+"1631" "1257 Mineral Springs RdWest Seneca, NY" "$159,900" -78.773343 42.855325
+"1632" "24 S Rossler AveCheektowaga, NY" "$110,000" NA NA
+"1633" "172 Halwill DrAmherst, NY" "$239,900" NA NA
+"1634" "413 Mount Vernon RdAmherst, NY" "$194,900" -78.7876302 42.9522003
+"1635" "25 Eagles TrceAmherst, NY" "$279,900" NA NA
+"1636" "78 Keswick RdAmherst, NY" "$419,900" -78.795145 42.963214
+"1637" "120 Nadine DrCheektowaga, NY" "$144,900" -78.7438899 42.91978
+"1638" "398 Darwin DrAmherst, NY" "$209,900" -78.778335 42.950724
+"1639" "137 Diane DrCheektowaga, NY" "$134,900" -78.730336 42.923568
+"1640" "171 Oakridge AveKenmore, NY" "$164,899" -78.8794329 42.9857204
+"1641" "100 Heritage Rd EWilliamsville, NY" "$265,000" -78.7468187 42.9990333
+"1642" "150 Old Orchard StAmherst, NY" "$340,000" NA NA
+"1643" "294 Allendale RdWest Seneca, NY" "$159,900" -78.755347 42.81586
+"1644" "3565 Wabash AveBlasdell, NY" "$139,900" -78.824574 42.788008
+"1645" "334 Country PkwyWilliamsville, NY" "$194,900" NA NA
+"1646" "880 Edgewater DrAmherst, NY" "$169,900" -78.80897 43.0107519
+"1647" "35 Spicebush LnWilliamsville, NY" "$254,900" -78.736085 43.00792
+"1648" "306 Atlantic AveSloan, NY" "$109,900" -78.798014 42.896505
+"1649" "1403 Cleveland DrCheektowaga, NY" "$134,900" -78.748464 42.942322
+"1650" "721 Mount Vernon RdCheektowaga, NY" "$210,000" NA NA
+"1651" "26 Ambrose CtAmherst, NY" "$530,000" -78.762516 43.042147
+"1652" "65 Joliet LnAmherst, NY" "$469,900" NA NA
+"1653" "164 Jackson AveSloan, NY" "$114,900" -78.786626 42.8993139
+"1654" "90 Round Trail RdWest Seneca, NY" "$239,900" NA NA
+"1655" "222 Sprucewood TerWilliamsville, NY" "$338,400" -78.707843 42.982121
+"1656" "34 Sunrise TerWest Seneca, NY" "$215,000" -78.708474 42.8174
+"1657" "11 Sanctuary CtAmherst, NY" "$199,900" -78.70537 42.989985
+"1658" "21 Vista CtWest Seneca, NY" "$354,900" -78.770231 42.820142
+"1659" "50 Vista CtWest Seneca, NY" "$309,900" NA NA
+"1660" "10 Clearview DrWest Seneca, NY" "$354,900" NA NA
+"1661" "65 Shannon DrLackawanna, NY" "$149,900" -78.8062 42.81525
+"1662" "24 Della DrLackawanna, NY" "$124,900" NA NA
+"1663" "81 E Melcourt DrCheektowaga, NY" "$139,900" -78.766994 42.920222
+"1664" "14 Sunrise DrBlasdell, NY" "$138,000" NA NA
+"1665" "8 Cathedral CtWest Seneca, NY" "$192,500" -78.746278 42.84117
+"1666" "7 Forrester CtAmherst, NY" "$439,888" -78.7661849 43.0407525
+"1667" "99 Chateau TerAmherst, NY" "$220,000" NA NA
+"1668" "25 Foisset AveCheektowaga, NY" "$129,900" -78.7637541 42.9405659
+"1669" "27 Vista CtWest Seneca, NY" "$364,900" -78.6926411 42.9909213
+"1670" "39 Tillotson AveCheektowaga, NY" "$132,900" -78.780555 42.9102729
+"1671" "66 Mayville AveKenmore NW, Kenmore, NY" "$125,000" -78.881332 42.96964
+"1672" "3 Bahama LnCheektowaga, NY" "$129,793" NA NA
+"1673" "845 Wehrle DrWilliamsville, NY" "Contact For Estimate" -78.751882 42.949298
+"1674" "83 Windsor AveAmherst, NY" "$170,000" -78.801857 42.9859859
+"1675" "75 Castlewood DrCheektowaga, NY" "$144,500" -78.712932 42.876485
+"1676" "49 Bramble RdWilliamsville, NY" "$329,000" -78.7257791 43.0006823
+"1677" "15 Preston RdCheektowaga, NY" "$69,900" -78.795441 42.923255
+"1678" "46 Newgate RdAmherst, NY" "$174,900" -78.806205 42.985193
+"1679" "791 French RdAmherst, NY" "$124,694" -78.796059 43.034417
+"1680" "26 Chamberlin DrWest Seneca, NY" "$129,900" NA NA
+"1681" "39 Pinewood DrWest Seneca, NY" "$244,900" -78.724114 42.832605
+"1682" "17 Treehaven RdWest Seneca, NY" "$199,900" -78.7421763 42.8261751
+"1683" "133 Lafayette BlvdWilliamsville, NY" "$340,000" NA NA
+"1684" "213 Rossler AveCheektowaga, NY" "$92,634" -78.79429 42.8835059
+"1685" "4170 Thornwood LnWilliamsville, NY" "$424,900" NA NA
+"1686" "4 Deer TrlCheektowaga, NY" "$259,900" -78.7275 42.895337
+"1687" "445 Ruskin RdAmherst, NY" "$369,900" NA NA
+"1688" "61 Princeton BlvdKenmore NE, Kenmore, NY" "$169,900" -78.869063 42.9738479
+"1689" "9 Ashleaf DrCheektowaga, NY" "$189,900" -78.7455888 42.8808386
+"1690" "4645 Seneca StWest Seneca, NY" "Contact For Estimate" -78.731875 42.830537
+"1691" "2849 William StCheektowaga, NY" "$99,500" -78.765017 42.882728
+"1692" "56 South DrAmherst, NY" "$200,000" -78.801734 42.950144
+"1693" "5556 Seneca StWest Seneca, NY" "$219,900" -78.700892 42.828825
+"1694" "28 Rowley HolwCheektowaga, NY" "$207,500" NA NA
+"1695" "253 Hedstrom DrAmherst, NY" "$229,900" -78.7940896 42.9711522
+"1696" "279 Nagel DrCheektowaga, NY" "$154,800" -78.747114 42.91204
+"1697" "3780 Clinton StWest Seneca, NY" "$255,000" -78.744297 42.858215
+"1698" "2085 Maple RdWilliamsville, NY" "$229,900" -78.709633 42.9896725
+"1699" "405 McKinley AveKenmore, Kenmore, NY" "$179,900" -78.853623 42.964408
+"1700" "66 Steinway CtWilliamsville, NY" "$114,000" -78.75059 42.989431
+"1701" "148-150 Stoney St #2Lackawanna, NY" "$245,000" -78.841433 42.818178
+"1702" "3932 Ridge Lea Rd #CAmherst, NY" "$67,000" -80.0958531 37.2105675
+"1703" "13 Mallard CtAmherst, NY" "$234,900" -78.781468 43.020294
+"1704" "32 Empress AveAmherst, NY" "$209,900" -78.8060054 42.98186
+"1705" "49 Mitchell PlLackawanna, NY" "$112,000" NA NA
+"1706" "45 Tartan LnWilliamsville, NY" "$339,900" -78.7348583 43.0005291
+"1707" "13 Roycroft DrWest Seneca, NY" "$224,900" NA NA
+"1708" "91 Gary LnCheektowaga, NY" "$139,000" -78.712154 42.870361
+"1709" "161 Fairlawn DrEggertsville, NY" "$424,900" -78.7956041 42.9687757
+"1710" "106 Evergreen PlCheektowaga, NY" "$120,000" -78.760363 42.922842
+"1711" "73 Century DrWest Seneca, NY" "$219,900" -78.76084 42.8353449
+"1712" "16 Marann TerWest Seneca, NY" "$99,900" -78.795023 42.87068
+"1713" "5101 Anfield Road DrAmherst, NY" "$389,000" NA NA
+"1714" "207 Allendale RdWest Seneca, NY" "$174,900" -78.7586807 42.8152016
+"1715" "41 Newcastle DrWilliamsville, NY" "$389,000" -78.7059928 42.9948319
+"1716" "4928 Lynwood AveBlasdell, NY" "$169,900" NA NA
+"1717" "50 Hidden Creek CtLakeview, Williamsville, NY" "$579,900" NA NA
+"1718" "43 McKinley AveKenmore, Kenmore, NY" "$164,900" -78.867282 42.964435
+"1719" "1 Lakewood PkwyAmherst, NY" "$399,900" -78.769724 42.962638
+"1720" "68 Baker CtLackawanna, NY" "$91,921" -78.810922 42.826285
+"1721" "621 Mount Vernon RdCheektowaga, NY" "$60,609" -78.787223 42.947989
+"1722" "144 Stillwell AveKenmore, Kenmore, NY" "$159,900" -78.862405 42.968236
+"1723" "84 S Rockingham WayAmherst, NY" "$460,000" NA NA
+"1724" "96 Winspear RdWest Seneca, NY" "$249,900" -78.706304 42.828565
+"1725" "4200 Clardon DrWilliamsville, NY" "$309,000" NA NA
+"1726" "66 Century DrWest Seneca, NY" "$169,900" -78.760798 42.834771
+"1727" "143 Willow Green DrAmherst, NY" "$234,900" -78.809329 43.012587
+"1728" "178 Lydia LnCheektowaga, NY" "$149,900" NA NA
+"1729" "450 Mapleview RdCheektowaga, NY" "$114,900" -78.772181 42.944014
+"1730" "59 Kaymar DrAmherst, NY" "$225,000" -78.813334 43.010853
+"1731" "3 Veronica DrWest Seneca, NY" "$305,000" -78.7224604 42.8510937
+"1732" "3767 Clinton StWest Seneca, NY" "$249,900" -78.744789 42.855037
+"1733" "105 Clearfield DrWilliamsville, NY" "$273,404" NA NA
+"1734" "4774 Sheridan Dr #4780Amherst, NY" "$999,900" -78.757037 42.978817
+"1735" "6 Carefree LnCheektowaga, NY" "$52,000" NA NA
+"1736" "1112 Indian Church Rd #26West Seneca, NY" "$71,500" -78.7634379 42.8543499
+"1737" "135 Penny LnAmherst, NY" "$699,900" NA NA
+"1738" "151 Brompton RdWilliamsville, NY" "$248,900" NA NA
+"1739" "274 Euclid AveKenmore, Kenmore, NY" "$139,721" -78.8593829 42.9607835
+"1740" "274 Euclid AveKenmore, Kenmore, NY" "$139,721" NA NA
+"1741" "82 Meadowdale LnWest Seneca, NY" "$239,900" -78.705578 42.840328
+"1742" "90 Cloverside DrWest Seneca, NY" "$189,900" -78.757788 42.832004
+"1743" "33 Morris CresWest Seneca, NY" "$275,000" -78.731847 42.862603
+"1744" "69 Yorktown RdAmherst, NY" "$159,900" -78.7848328 42.9512206
+"1745" "22 Sandy LnCheektowaga, NY" "$167,900" NA NA
+"1746" "5498 Pine Loch LnWilliamsville, NY" "$469,900" NA NA
+"1747" "126 McParlin AveCheektowaga, NY" "$109,900" -78.778568 42.910871
+"1748" "13 Girard AveLackawanna, NY" "$111,000" NA NA
+"1749" "84 Ebenezer DrWest Seneca, NY" "$157,000" -78.7518795 42.832417
+"1750" "87 Steinway CtWilliamsville, NY" "$364,900" -78.749719 42.9900314
+"1751" "826 E And West RdWest Seneca, NY" "$329,900" NA NA
+"1752" "249 Danbury DrCheektowaga, NY" "$86,288" -78.774663 42.935172
+"1753" "3575 James StBlasdell, NY" "$140,000" -78.8212789 42.7877779
+"1754" "52 Kirby AveLackawanna, NY" "$99,000" -78.831179 42.817001
+"1755" "162 Boxelder LnAmherst, NY" "$379,900" -78.8195156 43.049681
+"1756" "161 Leydecker RdWest Seneca, NY" "$367,900" -78.7060943 42.8155628
+"1757" "1396 Harlem RdCheektowaga, NY" "$79,900" -78.785033 42.88118
+"1758" "37 John Alex DrWest Seneca, NY" "$354,900" -78.7356344 42.8140192
+"1759" "305 Renaissance DrWilliamsville, NY" "$479,900" -78.708141 42.99637
+"1760" "2790 Clinton StWest Seneca, NY" "$895,000" -78.7737309 42.8665311
+"1761" "16 Mar Del WayWilliamsville, NY" "$399,900" -78.7527358 42.9904261
+"1762" "186 Ridgewood DrAmherst, NY" "$149,900" NA NA
+"1763" "55 Nancy PlCheektowaga, NY" "$149,900" NA NA
+"1764" "884 N Forest RdWilliamsville, NY" "$160,000" NA NA
+"1765" "80 Oakview DrWilliamsville, NY" "$369,900" -78.753462 43.011819
+"1766" "181 Autumnwood DrCheektowaga, NY" "$121,476" -78.717721 42.874051
+"1767" "43 Federal AveCheektowaga, NY" "$107,306" -78.758794 42.9396289
+"1768" "59 Ayrault DrAmherst, NY" "$149,900" NA NA
+"1769" "48 Summerset LnAmherst, NY" "$182,429" NA NA
+"1770" "28 Lobue LnCheektowaga, NY" "$73,545" NA NA
+"1771" "94 Yvette DrCheektowaga, NY" "$134,900" -78.74587 42.864754
+"1772" "74 Ashdale CirAmherst, NY" "$659,900" -78.7572634 43.0461384
+"1773" "33 Crescent PlLackawanna, NY" "$121,000" -78.825153 42.823918
+"1774" "5535 Via MarinaWilliamsville, NY" "$429,000" -78.690546 42.9966099
+"1775" "1383 Campbell BlvdAmherst, NY" "$209,900" -78.769631 43.054397
+"1776" "4694 Mosey LnBlasdell, NY" "$299,900" NA NA
+"1777" "9 Boynton StWest Seneca, NY" "$149,140" -78.7970038 42.8689184
+"1778" "4284 Roxbury DrWilliamsville, NY" "$249,500" -78.663246 42.963484
+"1779" "264 Seton RdCheektowaga, NY" "$115,054" NA NA
+"1780" "55 Oakbrook Dr #CAmherst, NY" "$164,900" -78.735075 42.992438
+"1781" "1281 Abbott RdLackawanna, NY" "$149,900" -78.8052091 42.8298333
+"1782" "112 Campbell RdCheektowaga, NY" "$68,222" -78.794594 42.936539
+"1783" "67 Saint Boniface RdCheektowaga, NY" "$115,000" NA NA
+"1784" "4217 Big Tree RdBlasdell, NY" "$199,900" NA NA
+"1785" "4185 Heather DrWilliamsville, NY" "$439,900" -78.664415 42.960248
+"1786" "30 Brompton CirWilliamsville, NY" "$424,900" -78.7098553 42.975467
+"1787" "471 Willow Green DrAmherst, NY" "$223,012" -78.810513 43.013323
+"1788" "343 Wagner AveSloan, NY" "$84,900" -78.798436 42.897594
+"1789" "4582 Gentwood Dr #27Amherst, NY" "$539,900" -95.1814612 30.0498501
+"1790" "74 Fontaine DrCheektowaga, NY" "$119,900" NA NA
+"1791" "134 Maple RdWilliamsville, NY" "$350,000" -78.7832034 42.9417287
+"1792" "5460 Via Del SoleWilliamsville, NY" "$459,900" -78.684569 42.992071
+"1793" "82 Nassau AveKenmore, Tonawanda, NY" "$166,838" NA NA
+"1794" "2368 Harlem RdCheektowaga, NY" "$119,900" -78.784965 42.908366
+"1795" "301 McNaughton AveCheektowaga, NY" "$168,291" -78.770826 42.914676
+"1796" "209 Oehman BlvdCheektowaga, NY" "Contact For Estimate" -78.774424 42.94226
+"1797" "12 Mildred DrCheektowaga, NY" "Contact For Estimate" -78.773167 42.9195319
+"1798" "21 Rosewood DrWest Seneca, NY" "Contact For Estimate" -78.7503022 42.8210624
+"1799" "87 Crown Royal DrWilliamsville, NY" "$367,500" -78.71542 42.99348
+"1800" "24 Roland StSloan, NY" "$59,767" -78.78965 42.89286
+"1801" "455 McKinley AveWilliamsville, NY" "$38,000" NA NA
+"1802" "247 Wimbledon CtWest Seneca, NY" "Contact For Estimate" -78.774008 42.8423919
+"1803" "41 Fleetwood TerWilliamsville, NY" "$192,597" -78.757636 42.9794168
+"1804" "63 Basswood DrCheektowaga, NY" "$90,382" -78.714044 42.874906
+"1805" "4662 Seneca StWest Seneca, NY" "$121,864" -78.731058 42.831825
+"1806" "84 Baywood DrCheektowaga, NY" "$372,241" -78.715434 42.877772
+"1807" "419 Walton DrCheektowaga, NY" "$168,883" -78.777278 42.948363
+"1808" "1100 Reserve Rd #3West Seneca, NY" "$56,900" NA NA
+"1809" "86 Herbert AveCheektowaga, NY" "$47,797" -78.795956 42.916509
+"1810" "159 Danbury DrCheektowaga, NY" "$109,900" -78.778032 42.935191
+"1811" "390 Vine LnAmherst, NY" "Contact For Estimate" -78.8062196 43.0487083
+"1812" "33 Caldwell PlLackawanna, NY" "$64,900" NA NA
+"1813" "79 Fairoaks LnCheektowaga, NY" "$165,900" -78.758739 42.893749
+"1814" "19 Normandy AveCheektowaga, NY" "$80,203" -78.792237 42.919554
+"1815" "34 Beechwood PlCheektowaga, NY" "$174,103" -78.775148 42.925291
+"1816" "41 Wainwright RdCheektowaga, NY" "$86,450" -78.79098 42.947853
+"1817" "64 Ludwig AveWest Seneca, NY" "$114,900" -78.7952378 42.8429711
+"1818" "28 Love TerLackawanna, NY" "$213,000" -78.8105857 42.8149863
+"1819" "34 Wintergreen PlLackawanna, NY" "$114,142" -78.8071 42.8240399
+"1820" "259 Tonawanda Creek RdAmherst, NY" "$194,108" NA NA
+"1821" "219 Alaska StCheektowaga, NY" "$50,000" -78.788757 42.883615
+"1822" "32 Ashley DrWest Seneca, NY" "$396,523" -78.732377 42.81452
+"1823" "47 Callodine AveAmherst, NY" "$78,108" NA NA
+"1824" "92 Sweetwood DrAmherst, NY" "$224,900" -78.815984 43.009621
+"1825" "315 W Klein RdWilliamsville, NY" "$204,900" -78.7466052 43.0019218
+"1826" "119 Edson StWest Seneca, NY" "$107,330" -78.799172 42.851657
+"1827" "280 Merrymont RdCheektowaga, NY" "$109,900" -78.78312 42.9475
+"1828" "865 New RdAmherst, NY" "$115,000" -78.723915 43.060076
+"1829" "112 Foisset AveCheektowaga, NY" "$71,642" NA NA
+"1830" "91 Troy View LnWilliamsville, NY" "$419,900" -78.736019 42.9795406
+"1831" "212 Knox AveWest Seneca, NY" "Contact For Estimate" -78.783463 42.8602078
+"1832" "256 Catherine StWilliamsville, NY" "$177,100" -78.754883 42.983545
+"1833" "81 Regency CtAmherst, NY" "$164,000" NA NA
+"1834" "41 Hampton CtWilliamsville, NY" "$105,000" -78.7775939 42.98232
+"1835" "139 North AveWest Seneca, NY" "$95,000" -78.756086 42.857994
+"1836" "1219 Eggert RdAmherst, NY" "$99,000" -78.803489 42.961563
+"1837" "72 Henry StCheektowaga, NY" "$107,900" -78.774536 42.883171
+"1838" "59 Fisher Pond CtAmherst, NY" "$354,900" NA NA
+"1839" "397 Wardman RdKenmore, Kenmore, NY" "$172,900" NA NA
+"1840" "337 N French RdAmherst, NY" "$260,000" NA NA
+"1841" "105 Mona DrAmherst, NY" "$86,355" -78.80774 42.950105
+"1842" "32 Layton AveAmherst, NY" "$169,900" -78.8025788 42.9559093
+"1843" "3016 William StCheektowaga, NY" "$59,493" NA NA
+"1844" "100 Cottonwood DrWilliamsville, NY" "$149,123" -78.7460084 43.0024876
+"1845" "1535 Maple RdAmherst, NY" "$39,900" -78.730418 42.98936
+"1846" "60 Fernwood AveWest Seneca, NY" "$23,232" -78.796431 42.870282
+"1847" "27 Olcott PlCheektowaga, NY" "$29,391" -78.796378 42.917579
+"1848" "88 Cadman DrWilliamsville, NY" "$99,066" -78.733536 42.954424
+"1849" "291 McKinley AveWilliamsville, NY" "$96,232" -78.698558 42.957236
+"1850" "133 Telfair DrWilliamsville, NY" "$105,561" -78.7324261 42.9837034
+"1851" "99 Dirkson AveWest Seneca, NY" "$62,046" -78.789692 42.846022
+"1852" "221 Ranch TrlWilliamsville, NY" "$129,376" -78.749471 42.998614
+"1853" "192 Ellen DrCheektowaga, NY" "$50,345" NA NA
+"1854" "98 Larch RdAmherst, NY" "$53,308" -78.807413 42.97716
+"1855" "133 Westgate RdKenmore, Kenmore, NY" "$20,346" -78.875238 42.964739
+"1856" "34 Jenawood LnWilliamsville, NY" "$165,163" -78.7150491 42.9804367
+"1857" "285 Cayuga Creek RdCheektowaga, NY" "$43,403" -78.775547 42.876905
+"1858" "64 Harlem RdWest Seneca, NY" "$64,627" -78.790038 42.844842
+"1859" "94 Ingham AveLackawanna, NY" "$42,107" NA NA
+"1860" "66 Lawnwood DrAmherst, NY" "$129,686" NA NA
+"1861" "2979 Clinton StWest Seneca, NY" "$49,900" -78.7699206 42.8631132
+"1862" "106 Hartford RdAmherst, NY" "$81,413" -78.804127 42.980969
+"1863" "27 Dorchester RdAmherst, NY" "$75,277" -78.78522 42.9579499
+"1864" "305 Oakwood DrWilliamsville, NY" "$132,618" NA NA
+"1865" "73 N End AveKenmore, Kenmore, NY" "$57,908" -78.874163 42.972924
+"1866" "38 Argyle AveAmherst, NY" "$72,404" -78.8023416 42.9541538
+"1867" "665 Mount Vernon RdCheektowaga, NY" "$61,809" -78.787234 42.9466309
+"1868" "4121 Bailey AveAmherst, NY" "$99,888" -78.8138365 42.9673063
+"1869" "4363 Bailey AveAmherst, NY" "$72,206" -78.8134861 42.9739367
+"1870" "54 Brooklane DrWilliamsville, NY" "$108,975" -78.7865939 42.9861099
+"1871" "3 Floreis CtCheektowaga, NY" "$80,453" NA NA
+"1872" "8591 Sunset DrWilliamsville, NY" "$134,774" -78.706486 43.0207799
+"1873" "736 Union RdWest Seneca, NY" "$169,900" -78.753282 42.8206029
+"1874" "39 Thurston AveKenmore NW, Kenmore, NY" "$65,610" -78.880353 42.974963
+"1875" "27 Highland AveWest Seneca, NY" "$98,874" -78.758664 42.830587
+"1876" "55 Beech RdAmherst, NY" "$80,000" -78.803554 42.977507
+"1877" "46 Bellwood AveWest Seneca, NY" "$149,329" -78.788528 42.843791
+"1878" "325 School StKenmore, NY" "$108,291" -78.8847654 42.9822629
+"1879" "8219 Oakway LnWilliamsville, NY" "$549,900" -78.682452 42.995528
+"1880" "373 Troy Del WayWilliamsville, NY" "$262,872" NA NA
+"1881" "17 Buckeye RdAmherst, NY" "$99,900" NA NA
+"1882" "182 W Hazeltine AveKenmore, Kenmore, NY" "$77,346" -78.8765899 42.959185
+"1883" "293 Capen BlvdAmherst, NY" "$187,500" -78.8207212 42.9643991
+"1884" "450 French RdCheektowaga, NY" "$49,900" -78.737397 42.868442
+"1885" "47 Dellwood PlCheektowaga, NY" "$52,799" -78.77235 42.9259259
+"1886" "483 Niagara Falls BlvdAmherst, NY" "$82,604" -78.8230896 42.9670922
+"1887" "16 Singer DrWest Seneca, NY" "$86,566" -78.757727 42.826152
+"1888" "318 E Hazeltine AveKenmore, Kenmore, NY" "$80,281" -78.8576439 42.959564
+"1889" "151 French RdAmherst, NY" "$64,003" -78.818688 43.033391
+"1890" "56 Hazeltine AveKenmore, Kenmore, NY" "$91,601" -78.871872 42.959213
+"1891" "360 Pine Ridge RdCheektowaga, NY" "$81,218" NA NA
+"1892" "15 Westland PkwyCheektowaga, NY" "$96,780" NA NA
+"1893" "9 Joanne LnCheektowaga, NY" "$85,000" NA NA
+"1894" "432 Borden RdWest Seneca, NY" "$47,088" NA NA
+"1895" "28 Hampton CtWilliamsville, NY" "$251,921" -78.778287 42.982816
+"1896" "1301 George Urban BlvdCheektowaga, NY" "$75,918" -78.744279 42.9185609
+"1897" "40 Sprucewood DrCheektowaga, NY" "$119,900" -78.718114 42.869606
+"1898" "227 Schultz RdWest Seneca, NY" "$299,950" NA NA
+"1899" "139 Colony CtAmherst, NY" "$299,000" -78.7875611 42.9738355
+"1900" "4343 Union RdCheektowaga, NY" "$139,000" NA NA
+"1901" "56 Spruce RdAmherst, NY" "$114,900" -78.8043685 42.9787149
+"1902" "204 Ridgewood DrAmherst, NY" "$145,000" -78.76745 42.953288
+"1903" "259 Emporium AveWest Seneca, NY" "$90,159" -78.790419 42.861795
+"1904" "66 Argyle AveAmherst, NY" "$153,000" NA NA
+"1905" "55 Autumnwood DrCheektowaga, NY" "$151,677" -78.71164 42.874121
+"1906" "832 Edgewater DrAmherst, NY" "Contact For Estimate" -78.810509 43.011154
+"1907" "776 Union RdWest Seneca, NY" "$159,900" -78.7533683 42.8214424
+"1908" "942 Main StWest Seneca, NY" "$136,867" NA NA
+"1909" "46 Royal Palm DrCheektowaga, NY" "$91,131" NA NA
+"1910" "44 Dorchester RdAmherst, NY" "Contact For Estimate" -78.7858027 42.9576303
+"1911" "56 Summit AveWest Seneca, NY" "$99,900" -78.7532093 42.8416482
+"1912" "4898 Ledge LnWilliamsville, NY" "$234,900" -78.689499 42.980806
+"1913" "38 Pine Ct NWest Seneca, NY" "$159,910" NA NA
+"1914" "573 Mill RdWest Seneca, NY" "$129,900" NA NA
+"1915" "18 Cunard AveCheektowaga, NY" "$61,000" -78.7620977 42.9260382
+"1916" "119 Callodine AveAmherst, NY" "$70,365" NA NA
+"1917" "3 Timothy CtWest Seneca, NY" "$30,000" NA NA
+"1918" "14 Atwood PlCheektowaga, NY" "$79,944" -78.7986137 42.9217806
+"1919" "36 Crescent CtCheektowaga, NY" "$146,243" -78.769668 42.920764
+"1920" "85 Century RdCheektowaga, NY" "$115,000" -78.796873 42.94644
+"1921" "33 Norman WayLackawanna, NY" "$233,000" NA NA
+"1922" "287 Union RdWest Seneca, NY" "$115,487" -78.7513304 42.8081207
+"1923" "55 Daniel AveCheektowaga, NY" "$95,900" NA NA
+"1924" "35 Joseph StCheektowaga, NY" "$145,999" NA NA
+"1925" "317 Lebrun RdAmherst, NY" "$559,900" -78.8048589 42.951831
+"1926" "56 Girard AveCheektowaga, NY" "$159,900" NA NA
+"1927" "73 Rosemead LnCheektowaga, NY" "$129,900" -78.760475 42.890185
+"1928" "1257 Kenmore AveKenmore, Kenmore, NY" "$95,680" -78.864574 42.958897
+"1929" "155 Ansley CtWest Seneca, NY" "$109,849" -78.761077 42.8425719
+"1930" "635 Maple RdWilliamsville, NY" "Contact For Estimate" -78.7640591 42.9908278
+"1931" "1444 Cleveland DrCheektowaga, NY" "$60,432" -78.746861 42.942141
+"1932" "64 Country PkwyWilliamsville, NY" "$112,922" -78.715148 42.979687
+"1933" "202 Barnsdale AveWest Seneca, NY" "$68,300" -78.78464 42.860154
+"1934" "199 Eastland PkwyCheektowaga, NY" "$72,659" NA NA
+"1935" "311 Capen BlvdAmherst, NY" "$125,785" -78.820396 42.964827
+"1936" "76 High Park BlvdAmherst, NY" "$399,500" NA NA
+"1937" "133 Milsom AveCheektowaga, NY" "$137,173" NA NA
+"1938" "1405 Maple RdWilliamsville, NY" "$151,260" -78.7355581 42.9909302
+"1939" "11 Leo PlLackawanna, NY" "$85,534" NA NA
+"1940" "96 Avery PlCheektowaga, NY" "$83,966" -78.7974859 42.9157491
+"1941" "60 Autumnwood DrCheektowaga, NY" "$125,000" NA NA
+"1942" "162 Cayuga RdCheektowaga, NY" "$64,804" NA NA
+"1943" "96 Toulon DrCheektowaga, NY" "$117,486" -78.726723 42.87412
+"1944" "46 Ponderosa DrWilliamsville, NY" "$142,026" NA NA
+"1945" "21 Westwood DrWest Seneca, NY" "$144,749" -78.713961 42.817866
+"1946" "638 Indian Church RdWest Seneca, NY" "$133,100" NA NA
+"1947" "50 Chamberlin DrWest Seneca, NY" "$81,477" NA NA
+"1948" "134 Lebrun CirAmherst, NY" "$779,999" NA NA
+"1949" "14 Vista CtWest Seneca, NY" "$379,900" -76.512952 43.4586884
+"1950" "80 S Cayuga RdWilliamsville, NY" "$449,900" -78.745982 42.9603769
+"1951" "50 Boxelder LnAmherst, NY" "$394,900" -78.8206073 43.0472606
+"1952" "860 Union RdWest Seneca, NY" "$599,000" -78.7537272 42.8239348
+"1953" "1620 Center RdWest Seneca, NY" "$224,000" -78.722627 42.839722
+"1954" "9 Augusta AveAmherst, NY" "$148,900" NA NA
+"1955" "220 W Grand BlvdCheektowaga, NY" "$150,302" NA NA
+"1956" "102 S Forest RdWilliamsville, NY" "$234,103" -78.7588765 42.9575423
+"1957" "151 N Long StWilliamsville, NY" "$142,540" -78.754086 42.965607
+"1958" "3397 Bethford DrBlasdell, NY" "$84,223" NA NA
+"1959" "52 Kirkwood DrWest Seneca, NY" "$88,108" NA NA
+"1960" "20 Parish RdCheektowaga, NY" "$62,461" -78.781925 42.937111
+"1961" "154 Huxley DrCheektowaga, NY" "$97,411" -78.776492 42.940767
+"1962" "27 Exeter RdAmherst, NY" "$199,900" NA NA
+"1963" "139 Rossler AveCheektowaga, NY" "$70,588" -78.7945838 42.8815575
+"1964" "5191 AnfieldAmherst, NY" "$389,000" NA NA
+"1965" "41 Kinsey AveKenmore, Kenmore, NY" "$110,076" NA NA
+"1966" "87 Wardman RdKenmore, Kenmore, NY" "$114,595" -78.866412 42.9627671
+"1967" "44 Southwood DrWest Seneca, NY" "$181,877" -78.752143 42.8280061
+"1968" "94 Elm StLackawanna, NY" "$39,619" NA NA
+"1969" "1 South DrWest Seneca, NY" "$189,900" -78.8035164 42.9498168
+"1970" "190 Lamont DrAmherst, NY" "Contact For Estimate" NA NA
+"1971" "288 Kirkwood DrWest Seneca, NY" "$89,236" NA NA
+"1972" "1211 N French RdAmherst, NY" "$101,638" NA NA
+"1973" "346 Grover Cleveland HwyAmherst, NY" "$161,252" -78.812179 42.965524
+"1974" "14 Robin CtWest Seneca, NY" "$236,499" NA NA
+"1975" "31 Catherine StAmherst, NY" "$45,000" -78.76357 42.982821
+"1976" "40 Sturbridge LnWilliamsville, NY" "$320,455" -78.7065226 42.9744016
+"1977" "43 S Woodside LnWilliamsville, NY" "$699,900" -78.7050267 42.975599
+"1978" "91 Fernleaf TerAmherst, NY" "$399,800" NA NA
+"1979" "140 Parkwood DrAmherst, NY" "$219,900" NA NA
+"1980" "1567 Kensington AveCheektowaga, NY" "$119,900" -78.798518 42.943765
+"1981" "91 Boxelder LnAmherst, NY" "$369,900" NA NA
+"1982" "58 Angelacrest LnWest Seneca, NY" "$100,191" NA NA
+"1983" "8667 Sheridan Hill DrWilliamsville, NY" "$210,286" -78.6858202 42.97824
+"1984" "84 Kelsey DrWest Seneca, NY" "$126,424" -78.783288 42.8420879
+"1985" "344 W Girard BlvdKenmore NW, Kenmore, NY" "$96,392" -78.883892 42.970383
+"1986" "17 Bay LnCheektowaga, NY" "$77,221" -78.728502 42.926712
+"1987" "311 Wimbledon CtWest Seneca, NY" "$90,731" -78.771422 42.8431039
+"1988" "275 Siegfried DrWilliamsville, NY" "$128,982" -78.7548574 42.9852807
+"1989" "109 Beech StLackawanna, NY" "$48,736" -78.8437269 42.8101297
+"1990" "81 Firestone StLackawanna, NY" "$66,838" -78.802891 42.808185
+"1991" "3 Eastland PkwyCheektowaga, NY" "$77,875" -78.778148 42.915076
+"1992" "35 N Brier RdAmherst, NY" "$193,750" -78.81117 43.014103
+"1993" "195 Bernhardt DrAmherst, NY" "$169,900" -78.782012 42.95719
+"1994" "75 Tulane RdKenmore NW, Kenmore, NY" "$152,321" -78.874447 42.974542
+"1995" "17 Villa Moraine DrCheektowaga, NY" "$128,541" NA NA
+"1996" "1 Mitchell PlLackawanna, NY" "$105,900" NA NA
+"1997" "238 Washington AveKenmore, Kenmore, NY" "$114,614" -78.879732 42.96636
+"1998" "990 Hopkins Rd #IAmherst, NY" "$139,022" -78.7406756 43.0050163
+"1999" "965 E Saratoga RdWilliamsville, NY" "$111,589" -78.7615963 42.9531782
+"2000" "879 French RdCheektowaga, NY" "$63,000" NA NA
+"2001" "151 Alberta DrAmherst, NY" "$129,653" -78.81722 42.976613
+"2002" "169 Harding RdWilliamsville, NY" "$128,937" -78.6997559 42.960706
+"2003" "252 Wellington AveKenilworth, Tonawanda, NY" "$102,269" -78.8340114 42.9661148
+"2004" "8 Hillsboro RdCheektowaga, NY" "$79,163" -78.7710589 42.939895
+"2005" "4520 Union RdCheektowaga, NY" "$77,275" -78.754579 42.937339
+"2006" "48 Lois DrCheektowaga, NY" "$96,172" NA NA
+"2007" "180 Rossler AveCheektowaga, NY" "$50,307" -78.794973 42.882525
+"2008" "114 Suzette DrCheektowaga, NY" "$91,373" -78.709856 42.866791
+"2009" "176 Hillpine RdCheektowaga, NY" "$205,000" NA NA
+"2010" "8 Mayfair CtCheektowaga, NY" "$108,000" -78.771454 42.93836
+"2011" "5025 Richmond Ave #DoubleBlasdell, NY" "$157,000" -78.7964423 42.7833833
+"2012" "109 Smith DrLackawanna, NY" "$69,391" -78.80119 42.807505
+"2013" "153 N End AveKenmore, Kenmore, NY" "$110,158" NA NA
+"2014" "29 Briarhurst RdWilliamsville, NY" "$145,064" -78.7442605 42.9843921
+"2015" "756 Edgewater DrAmherst, NY" "$125,029" -78.813991 43.010476
+"2016" "273 Parkwood AveKenmore, Kenmore, NY" "$108,381" -78.859405 42.9598609
+"2017" "20 Arnold PlLackawanna, NY" "$102,943" NA NA
+"2018" "45 Cloister CtBlasdell, NY" "$79,230" -78.8210548 42.8059376
+"2019" "148 Roland AveLackawanna, NY" "$84,540" NA NA
+"2020" "26 E Milnor AveLackawanna, NY" "$279,000" NA NA
+"2021" "213 Carriage ParkWest Seneca, NY" "$132,708" -78.719049 42.817799
+"2022" "43 Johnson StLackawanna, NY" "$82,949" -78.8265289 42.811834
+"2023" "233 Red Oak DrWilliamsville, NY" "$201,543" NA NA
+"2024" "117 Ralston AveKenmore NW, Kenmore, NY" "$150,980" -78.8832591 42.9757722
+"2025" "605 Ayer RdWilliamsville, NY" "$205,374" -78.7180171 42.9940925
+"2026" "118 Westgate BlvdWest Seneca, NY" "$139,757" -78.738776 42.807084
+"2027" "180 Dartwood DrCheektowaga, NY" "$85,644" -78.721965 42.875144
+"2028" "75 Summit AveWest Seneca, NY" "$116,329" -78.752537 42.8413113
+"2029" "8550 Nottingham TerWilliamsville, NY" "$234,414" NA NA
+"2030" "78 Rossler AveCheektowaga, NY" "$53,394" -78.795057 42.879759
+"2031" "29 Maple StLackawanna, NY" "$112,755" -78.821129 42.831223
+"2032" "105 Rose AveWest Seneca, NY" "$241,386" -78.763532 42.839047
+"2033" "27 Exeter RdWilliamsville, NY" "$199,900" -78.746718 42.985447
+"2034" "218 Rossler AveCheektowaga, NY" "$85,523" NA NA
+"2035" "60 Poinciana PkwyCheektowaga, NY" "$175,814" -78.735254 42.925537
+"2036" "1104 Maple RdAmherst, NY" "$40,000" -78.746319 42.991451
+"2037" "6254 Main StWilliamsville, NY" "$29,777" -78.720522 42.966571
+"2038" "298 Crosby AveKenmore, Kenmore, NY" "$179,900" -78.857111 42.965846
+"2039" "4329 Union RdCheektowaga, NY" "$85,755" NA NA
+"2040" "127 Bellwood AveWest Seneca, NY" "$128,025" NA NA
+"2041" "24 Adlon PlCheektowaga, NY" "$78,343" -78.7957474 42.9187564
+"2042" "3309 Harlem RdCheektowaga, NY" "$107,264" -78.78363 42.934073
+"2043" "103 N Forest RdWilliamsville, NY" "$239,255" NA NA
+"2044" "364 Ivyhurst Rd NAmherst, NY" "$156,365" NA NA
+"2045" "640 Cottonwood DrWilliamsville, NY" "$200,158" -78.7622352 43.0044597
+"2046" "840 Sweet Home RdAmherst, NY" "$104,900" NA NA
+"2047" "15 Dorr StWest Seneca, NY" "$42,638" -78.798299 42.853799
+"2048" "70 Seminole PkwyCheektowaga, NY" "$103,190" -78.759074 42.9198809
+"2049" "322 Cherokee DrCheektowaga, NY" "$96,932" -78.7637332 42.9215861
+"2050" "188 Reist StWilliamsville, NY" "$173,000" -78.752893 42.966799
+"2051" "93 Balbach DrCheektowaga, NY" "$100,380" -78.757806 42.937559
+"2052" "175 S Forest RdWilliamsville, NY" "$210,601" -78.7596676 42.9555418
+"2053" "92 Parkwood AveKenmore, Kenmore, NY" "$90,205" -78.866127 42.960317
+"2054" "1714 Kensington AveCheektowaga, NY" "$49,204" -78.794146 42.946281
+"2055" "109 Keever AveLackawanna, NY" "$96,158" NA NA
+"2056" "204 Aurora AveWest Seneca, NY" "$123,621" -78.7900219 42.860155
+"2057" "71 Barnsdale AveWest Seneca, NY" "$77,671" -78.784121 42.856462
+"2058" "308 Mang AveKenmore, Kenmore, NY" "$119,061" -78.8815 42.961834
+"2059" "110 Rosemont DrAmherst, NY" "$152,018" NA NA
+"2060" "184 W Maplemere RdWilliamsville, NY" "$166,602" -78.781842 42.9869714
+"2061" "186 S Shore BlvdLackawanna, NY" "$93,636" -78.809528 42.827328
+"2062" "113 Sharon PkwyLackawanna, NY" "$74,903" -78.821113 42.811455
+"2063" "64 Hiler AveKenmore, Kenmore, NY" "$88,407" NA NA
+"2064" "55 Beale AveCheektowaga, NY" "$104,514" -78.780404 42.934337
+"2065" "3633 Grafton AveBlasdell, NY" "$89,960" -78.827688 42.785897
+"2066" "329 Wimbledon CtWest Seneca, NY" "$117,900" NA NA
+"2067" "26 Crosby AveKenmore, Kenmore, NY" "$164,900" -78.8674829 42.965883
+"2068" "42 Kennedy DrLackawanna, NY" "$63,492" -78.800773 42.806645
+"2069" "354 N Pleasant PkwyCheektowaga, NY" "$150,000" -78.798153 42.882607
+"2070" "29 Brandon CtAmherst, NY" "$379,900" -78.766491 43.037857
+"2071" "42 Love TerLackawanna, NY" "$227,000" NA NA
+"2072" "575 Union RdWest Seneca, NY" "$209,900" NA NA
+"2073" "109 Boxelder LnAmherst, NY" "$339,900" -78.8187541 43.0481107
+"2074" "138 Electric AveWest Seneca, NY" "$73,147" NA NA
+"2075" "106 Dirkson AveWest Seneca, NY" "$78,122" -78.790077 42.846433
+"2076" "40 Kent StBlasdell, NY" "$130,792" -78.8246829 42.7920425
+"2077" "42 Judith DrCheektowaga, NY" "$141,546" NA NA
+"2078" "30 Belcourt StAmherst, NY" "$171,516" NA NA
+"2079" "5670 Sheridan DrWilliamsville, NY" "$259,900" -78.7233931 42.9781829
+"2080" "128 Ralston AveKenmore NW, Kenmore, NY" "$140,452" NA NA
+"2081" "42 Carol DrCheektowaga, NY" "$63,672" -78.795045 42.924199
+"2082" "71 Nash StWest Seneca, NY" "$74,812" -78.798775 42.869611
+"2083" "280 Meadowlawn RdCheektowaga, NY" "Contact For Estimate" -78.727943 42.922353
+"2084" "105 Martin AveBlasdell, NY" "$138,344" -78.831783 42.793585
+"2085" "135 Ivanhoe RdCheektowaga, NY" "$67,653" -78.79738 42.926596
+"2086" "194 Currier AveSloan, NY" "$69,095" -78.790372 42.896808
+"2087" "1908 Union Rd #12West Seneca, NY" "$50,000" -78.755007 42.852157
+"2088" "860 Elm AveWest Seneca, NY" "$177,554" NA NA
+"2089" "17 Concord DrCheektowaga, NY" "$84,057" -78.785157 42.945556
+"2090" "101 Toelsin RdCheektowaga, NY" "$173,717" NA NA
+"2091" "52 Sprucewood DrCheektowaga, NY" "$154,155" -78.717539 42.8696119
+"2092" "21 Chesterfield DrCheektowaga, NY" "$68,054" NA NA
+"2093" "109 Viscount DrWilliamsville, NY" "$679,900" -78.725736 43.009648
+"2094" "3 Hubbardston PlAmherst, NY" "$212,528" NA NA
+"2095" "63 Fruehauf AveAmherst, NY" "$203,113" NA NA
+"2096" "73 Jeffrey DrAmherst, NY" "$216,952" -78.796912 43.030975
+"2097" "3605 Harlem RdCheektowaga, NY" "$88,278" NA NA
+"2098" "39 Clearview DrWest Seneca, NY" "$329,900" NA NA
+"2099" "334 McNaughton AveCheektowaga, NY" "$103,803" -78.771587 42.915825
+"2100" "5171 Anfield RdAmherst, NY" "$489,900" NA NA
+"2101" "15 Wellington RdCheektowaga, NY" "$124,900" NA NA
+"2102" "294 Cleveland DrCheektowaga, NY" "$136,043" -78.788839 42.945154
+"2103" "61 Colton StCheektowaga, NY" "$107,651" NA NA
+"2104" "5572 Pine Loch LnWilliamsville, NY" "$823,617" -78.68241 42.9999449
+"2105" "14 Briarcliff RdCheektowaga, NY" "$178,667" NA NA
+"2106" "64 Santin DrCheektowaga, NY" "$151,384" -78.741837 42.920049
+"2107" "6188 Sheridan DrAmherst, NY" "$840,000" -78.7026689 42.9783753
+"2108" "4059 Main StAmherst, NY" "$288,232" -78.7998627 42.9641874
+"2109" "160 Summer Hill LnBryant, Amherst, NY" "$490,000" NA NA
+"2110" "91 N Seine DrCheektowaga, NY" "$75,000" -78.734757 42.871813
+"2111" "2643 Union RdCheektowaga, NY" "$340,442" -78.7537183 42.883915
+"2112" "110 Century RdCheektowaga, NY" "$113,208" -78.7978603 42.946802
+"2113" "51 Pine Ct NWest Seneca, NY" "$339,308" -78.701425 42.848543
+"2114" "426 Irvington DrAmherst, NY" "$749,500" NA NA
+"2115" "74 Harris CtCheektowaga, NY" "$146,706" NA NA
+"2116" "8195 Golden Oak CirWilliamsville, NY" "$480,000" -78.685872 42.9922501
+"2117" "100 Kenview AveKenmore NW, Kenmore, NY" "$169,900" NA NA
+"2118" "226 Griffith StSloan, NY" "$148,539" -78.7921031 42.8971636
+"2119" "155 Avery PlCheektowaga, NY" "$172,722" -78.798074 42.913794
+"2120" "85 Nantucket Dr WCheektowaga, NY" "$182,432" NA NA
+"2121" "153 Bucyrus DrAmherst, NY" "$251,259" NA NA
+"2122" "704 Cleveland DrCheektowaga, NY" "$191,595" -78.7734849 42.94531
+"2123" "15 Thomas Jefferson LnAmherst, NY" "$546,023" -78.782647 42.975433
+"2124" "19 Coralwood CtCheektowaga, NY" "$119,900" -78.788918 42.94541
+"2125" "111 Wilshire RdCheektowaga, NY" "$128,500" NA NA
+"2126" "113 E Grand BlvdCheektowaga, NY" "$184,585" -78.775738 42.920375
+"2127" "300 Schoelles RdAmherst, NY" "$238,993" -78.758382 43.052418
+"2128" "83 Preston RdCheektowaga, NY" "$106,391" -78.795418 42.925178
+"2129" "150 Autumnwood DrCheektowaga, NY" "$165,227" -78.716207 42.874544
+"2130" "627 S Ellicott Creek RdAmherst, NY" "$498,000" -78.801809 43.01976
+"2131" "84 Gates StSloan, NY" "$161,571" -78.7906749 42.893602
+"2132" "23 Burgundy TerAmherst, NY" "$239,137" NA NA
+"2133" "305 Bellingham DrWilliamsville, NY" "$521,764" -78.7103173 42.9575378
+"2134" "875 New RdAmherst, NY" "$297,858" NA NA
+"2135" "28 Willink AveWest Seneca, NY" "$88,268" -78.80038 42.846466
+"2136" "26 Vista CtWest Seneca, NY" "$499,900" -78.7791038 42.8094753
+"2137" "47 Croy AveKensington, Cheektowaga, NY" "$191,537" -78.7984752 42.9461072
+"2138" "82 Grand BlvdCheektowaga, NY" "$132,686" -78.7798261 42.92247
+"2139" "119 Hemenway RdCheektowaga, NY" "$182,106" -78.7637481 42.9356452
+"2140" "136 Helen StCheektowaga, NY" "$137,283" -78.7771764 42.8809654
+"2141" "17 Roswell RdCheektowaga, NY" "$119,000" -78.798286 42.941474
+"2142" "138 Steven DrCheektowaga, NY" "$208,313" -78.7222488 42.8637884
+"2143" "3436 Dickens RdBlasdell, NY" "$209,322" -78.8101049 42.792326
+"2144" "14 Yvette DrCheektowaga, NY" "$216,178" -78.745747 42.8675799
+"2145" "1 Anthony DrLackawanna, NY" "$139,185" -78.811744 42.819701
+"2146" "31 Willink AveWest Seneca, NY" "$116,545" -78.79988 42.846168
+"2147" "38 Thomas Jefferson LnAmherst, NY" "$507,567" -78.7817139 42.974886
+"2148" "401 Lamarck DrCheektowaga, NY" "$124,722" -78.775214 42.949041
+"2149" "5151 Anfield RdAmherst, NY" "$514,900" NA NA
+"2150" "5111 Anfield RdAmherst, NY" "$504,900" NA NA
+"2151" "13 Princess DrCheektowaga, NY" "$359,816" -78.757756 42.942152
+"2152" "29 Eastland PkwyCheektowaga, NY" "$133,125" -78.778139 42.915773
+"2153" "67 Marne RdCheektowaga, NY" "$120,275" NA NA
+"2154" "142 Angelacrest LnWest Seneca, NY" "$186,148" NA NA
+"2155" "21 Shepard AveKenmore, Kenmore, NY" "$198,189" -78.871759 42.969451
+"2156" "520 Meadow DrWest Seneca, NY" "$187,431" NA NA
+"2157" "98 Campbell RdCheektowaga, NY" "$95,000" -78.795155 42.9365359
+"2158" "256 Cortland AveTonawanda, NY" "$334,999" NA NA
+"2159" "4582 Gentwood Dr #27Amherst, NY" "$539,900" -95.1814612 30.0498501
+"2160" "18 Brookside DrWilliamsville, NY" "Contact For Estimate" -78.7371579 42.954118
+"2161" "192 Rossler AveCheektowaga, NY" "Contact For Estimate" -78.7949639 42.882885
+"2162" "31 Johnson StLackawanna, NY" "Contact For Estimate" -78.8264537 42.8121863
+"2163" "109 Arthur AveBlasdell, NY" "Contact For Estimate" -78.829101 42.79662
+"2164" "2223 Union RdWest Seneca, NY" "Contact For Estimate" -78.754102 42.8607609
+"2165" "1435 Hopkins RdWilliamsville, NY" "Contact For Estimate" NA NA
+"2166" "99 Princeton CtCheektowaga, NY" "Contact For Estimate" -78.746165 42.938635
+"2167" "36 Barbara PlCheektowaga, NY" "Contact For Estimate" NA NA
+"2168" "13 Virginia RdCheektowaga, NY" "Contact For Estimate" -78.755338 42.945701
+"2169" "332 Center RdWest Seneca, NY" "$72,160" -78.7705174 42.8401501
+"2170" "62 Spruce RdAmherst, NY" "Contact For Estimate" -78.804157 42.97898
+"2171" "306 Sundown Trl #5BAmherst, NY" "Contact For Estimate" -78.7509932 42.9923169
+"2172" "115 Smith DrLackawanna, NY" "Contact For Estimate" -78.8009708 42.8075
+"2173" "242 Coventry RdKenmore, NY" "Contact For Estimate" -78.8819113 42.9835285
+"2174" "46 Glenmar DrWest Seneca, NY" "Contact For Estimate" -78.718667 42.8154759
+"2175" "430 Kinsey AveKenmore, Kenmore, NY" "$92,000" -78.88707 42.9670599
+"2176" "2445 Genesee StCheektowaga, NY" "Contact For Estimate" -78.792428 42.919866
+"2177" "520 Emerson DrAmherst, NY" "Contact For Estimate" -78.813793 42.986479
+"2178" "50 Lynncrest TerCheektowaga, NY" "Contact For Estimate" NA NA
+"2179" "73 Pacific AveLackawanna, NY" "Contact For Estimate" -78.797976 42.815713
+"2180" "61 South DrAmherst, NY" "Contact For Estimate" -78.801508 42.9495379
+"2181" "71 Long AveCheektowaga, NY" "Contact For Estimate" -78.7945699 42.921714
+"2182" "46 Awood PlCheektowaga, NY" "Contact For Estimate" -78.776234 42.925187
+"2183" "274 Cherokee DrCheektowaga, NY" "Contact For Estimate" -78.765568 42.92158
+"2184" "40 Fradine DrCheektowaga, NY" "Contact For Estimate" NA NA
+"2185" "7 Keph Dr #6Amherst, NY" "Contact For Estimate" -78.806491 43.002424
+"2186" "51 Oakland RdWilliamsville, NY" "Contact For Estimate" NA NA
+"2187" "65 Long AveCheektowaga, NY" "Contact For Estimate" -78.7945699 42.92161
+"2188" "92 Brompton RdWilliamsville, NY" "Contact For Estimate" -78.7086321 42.968372
+"2189" "228 Halstead AveSloan, NY" "Contact For Estimate" -78.7942829 42.896726
+"2190" "40 Lynncrest TerCheektowaga, NY" "$165,000" -78.771541 42.947135
+"2191" "116 Delray AveWest Seneca, NY" "Contact For Estimate" NA NA
+"2192" "62 Strasbourg DrCheektowaga, NY" "$127,200" -78.735655 42.870223
+"2193" "76 Edward StWilliamsville, NY" "Contact For Estimate" NA NA
+"2194" "194 Harding RdWilliamsville, NY" "Contact For Estimate" -78.699056 42.959938
+"2195" "821 Eggert RdAmherst, NY" "Contact For Estimate" -78.803465 42.950579
+"2196" "8410 Wehrle DrWilliamsville, NY" "Contact For Estimate" -78.680514 42.956567
+"2197" "2110 N Forest RdWilliamsville, NY" "Contact For Estimate" -78.7681571 43.006338
+"2198" "208 W Elmview AveLackawanna, NY" "Contact For Estimate" -78.803582 42.822137
+"2199" "55 Eggert RdCheektowaga, NY" "Contact For Estimate" -78.798436 42.924445
+"2200" "169 Dwyer StWest Seneca, NY" "Contact For Estimate" NA NA
+"2201" "69 Steiner AveWest Seneca, NY" "Contact For Estimate" NA NA
+"2202" "223 Center StLackawanna, NY" "Contact For Estimate" -78.832531 42.819674
+"2203" "83 Roland StSloan, NY" "Contact For Estimate" -78.789062 42.894398
+"2204" "161 Ellen DrCheektowaga, NY" "Contact For Estimate" -78.755334 42.948445
+"2205" "125 Victoria BlvdKenmore, Kenmore, NY" "Contact For Estimate" -78.874923 42.963895
+"2206" "22 Edna PlLackawanna, NY" "Contact For Estimate" -78.8327709 42.823633
+"2207" "45 Willowdale DrWest Seneca, NY" "Contact For Estimate" NA NA
+"2208" "1780 Transit RdWest Seneca, NY" "Contact For Estimate" NA NA
+"2209" "116 Relich AveLackawanna, NY" "Contact For Estimate" -78.807058 42.828894
+"2210" "57 Baywood DrCheektowaga, NY" "Contact For Estimate" NA NA
+"2211" "404 Cherokee DrCheektowaga, NY" "Contact For Estimate" -78.760674 42.921931
+"2212" "263 Cayuga Creek RdCheektowaga, NY" "Contact For Estimate" NA NA
+"2213" "79 Dona StLackawanna, NY" "Contact For Estimate" -78.7592641 42.9288645
+"2214" "21 Fernald AveLackawanna, NY" "Contact For Estimate" -78.802504 42.82499
+"2215" "18 Glenwood AveLackawanna, NY" "Contact For Estimate" -78.8454 42.824521
+"2216" "3369 Clinton StWest Seneca, NY" "Contact For Estimate" -78.759142 42.855806
+"2217" "82 E Girard BlvdKenmore, Kenmore, NY" "Contact For Estimate" -78.867892 42.971115
+"2218" "86 Montfort DrCheektowaga, NY" "Contact For Estimate" -78.7530915 42.9473913
+"2219" "374 Bernhardt DrAmherst, NY" "Contact For Estimate" -78.7816826 42.9523147
+"2220" "44 Marne RdCheektowaga, NY" "Contact For Estimate" NA NA
+"2221" "8686 Sheridan DrWilliamsville, NY" "Contact For Estimate" -78.668669 42.978403
+"2222" "23 Huntleigh CirEggertsville, NY" "$280,416" -78.8016278 42.9824735
+"2223" "75 Le Havre DrCheektowaga, NY" "Contact For Estimate" NA NA
+"2224" "36 Harper RdAmherst, NY" "$230,335" NA NA
+"2225" "48 Leonore RdAmherst, NY" "Contact For Estimate" NA NA
+"2226" "870 Losson Rd #5Cheektowaga, NY" "$32,000" NA NA
+"2227" "870 Losson Rd #9Cheektowaga, NY" "$32,000" NA NA
+"2228" "870 Losson Rd #10Cheektowaga, NY" "$32,000" NA NA
+"2229" " French RdCheektowaga, NY" "$50,000" -78.7258679 42.867831
+"2230" "281 Bennett RdCheektowaga, NY" "$29,900" -78.744373 42.890228
+"2231" " V L Clinton StWest Seneca, NY" "$110,000" -78.7472728 42.8559993
+"2232" "160 Smith RdAmherst, NY" "$74,900" NA NA
+"2233" "665 Tonawanda Creek RdAmherst, NY" "$64,900" -78.808501 43.052124
+"2234" "3350 Niagara Falls BlvdAmherst, NY" "$69,900" NA NA
+"2235" "47 Langner RdWest Seneca, NY" "$29,900" -78.783636 42.81983
+"2236" "37 Orchard PlLackawanna, NY" "$137,725" NA NA
+"2237" "47 Loxley RdCheektowaga, NY" "$114,271" -78.788954 42.920418
+"2238" "105 Campbell RdCheektowaga, NY" "$46,237" NA NA
+"2239" "75 Cresthaven DrCheektowaga, NY" "$110,451" NA NA
+"2240" "262 Heather Hill DrWest Seneca, NY" "Contact For Estimate" -78.746342 42.810421
+"2241" "66 Forest Hill DrWilliamsville, NY" "$153,722" -78.7610944 42.9858241
+"2242" "101 Midland DrCheektowaga, NY" "$127,801" NA NA
+"2243" "328 Wabash AveKenmore, Kenmore, NY" "$96,478" -78.882684 42.96472
