@@ -1,6 +1,7 @@
 install.packages("ggmap")
 install.packages("rvest") #install the package if you do not have it before.
 install.packages("ape")
+library(maptools)
 library(ggmap)
 library(rvest)
 library(ape)
@@ -16,7 +17,7 @@ library(dplyr)
 
 Buffalo_House=data.frame(Name=character(0),price=numeric(0),lon=numeric(0),lat=numeric(0))
 Buffalo_House
-for(i in 1:78){ 
+for(i in 1:75){ 
   #geocode()function link the google map API to get the adress's location, but it just can get nearly 2500 location a time.
   url=sprintf("https://www.trulia.com/NY/Buffalo/%s_p/",i)
   housingPriceLink<-read_html(url,encoding="UTF-8")
