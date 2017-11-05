@@ -56,7 +56,7 @@ Buffalo_House=data.frame(Name=character(0),price=numeric(0),lon=numeric(0),lat=n
 Buffalo_House
 for(i in 1:2){ 
   #geocode()function link the google map API to get the adress's location, but it just can get nearly 2500 location a time.
-  #So here just downloading the first 3 web pages data as an example.
+  #So here just downloading the first 2 web pages data as an example.
   url=sprintf("https://www.trulia.com/NY/Buffalo/%s_p/",i)
   housingPriceLink<-read_html(url,encoding="UTF-8")
   price<-housingPriceLink %>% html_nodes("#resultsColumn ul li .cardPrice") %>% html_text()#"#resultsColumn ul li .cardPrice"is the CSS selectors in the HTML page.
