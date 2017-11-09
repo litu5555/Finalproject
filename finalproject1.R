@@ -19,10 +19,12 @@ Buffalo_House=data.frame(Name=character(0),price=numeric(0),lon=numeric(0),lat=n
 Buffalo_House
 for(i in 1:75){ 
   #geocode()function link the google map API to get the adress's location, but it just can get nearly 2500 location a time.
-  url=sprintf("https://www.trulia.com/NY/Buffalo/%s_p/",i)
+   url=sprintf("https://www.trulia.com/NY/Buffalo/%s_p/",i)
   housingPriceLink<-read_html(url,encoding="UTF-8")
   price<-housingPriceLink %>% html_nodes("#resultsColumn ul li .cardPrice") %>% html_text()#"#resultsColumn ul li .cardPrice"is the CSS selectors in the HTML page.
-  Name<-housingPriceLink %>% html_nodes("#resultsColumn ul li .addressDetail") %>% html_text()
+  Name1<-housingPriceLink %>% html_nodes("#resultsColumn ul li .addressDetail .typeWeightNormal") %>% html_text()
+  Name2<-housingPriceLink %>% html_nodes("#resultsColumn ul li .cardFooter") %>% html_text()
+  Name<-paste(Name1, Name2)
   coordinate<-geocode(Name, output = c("latlon", "latlona", "more", "all"),source = c("google", "dsk"), messaging = FALSE)
   housePrice<-data.frame(Name,price,coordinate)
   Buffalo_House=rbind(Buffalo_House,housePrice)
