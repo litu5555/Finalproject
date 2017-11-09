@@ -1,11 +1,3 @@
-#container{
-    width: 100%;
-    height: 500px;
-    margin: 0;
-}
-.displayoff{
-    display: none;
-}
-.displayon{
-    display: block;
+.title{
+    text-align: center!important;
 }
