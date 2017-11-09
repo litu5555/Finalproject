@@ -4,7 +4,7 @@ title: The spatial distribution and the spatial auto correlation of the house pr
 author: "JunjieLi"
 output:
   html_document: 
-    theme: sandstone
+  theme: sandstone
 ---
 
 ```{r setup, include=FALSE}
@@ -57,17 +57,19 @@ Buffalo_House
 for(i in 1:2){ 
   #geocode()function link the google map API to get the adress's location, but it just can get nearly 2500 location a time.
   #So here just downloading the first 2 web pages data as an example.
-  url=sprintf("https://www.trulia.com/NY/Buffalo/%s_p/",i)
+   url=sprintf("https://www.trulia.com/NY/Buffalo/%s_p/",i)
   housingPriceLink<-read_html(url,encoding="UTF-8")
   price<-housingPriceLink %>% html_nodes("#resultsColumn ul li .cardPrice") %>% html_text()#"#resultsColumn ul li .cardPrice"is the CSS selectors in the HTML page.
-  Name<-housingPriceLink %>% html_nodes("#resultsColumn ul li .addressDetail") %>% html_text()
+  Name1<-housingPriceLink %>% html_nodes("#resultsColumn ul li .addressDetail .typeWeightNormal") %>% html_text()
+  Name2<-housingPriceLink %>% html_nodes("#resultsColumn ul li .cardFooter") %>% html_text()
+  Name<-paste(Name1, Name2)
   coordinate<-geocode(Name, output = c("latlon", "latlona", "more", "all"),source = c("google", "dsk"), messaging = FALSE)
   housePrice<-data.frame(Name,price,coordinate)
   Buffalo_House=rbind(Buffalo_House,housePrice)
 }
 Buffalo_House
 #getwd() 
-write.table(Buffalo_House, file = "C:/Users/MaiBenBen/Desktop/finalproject1/Buffalo_House_example.txt")#the total data table can see in the UBlearns.  
+write.table(Buffalo_House, file = "C:/Users/MaiBenBen/Desktop/finalproject1/Buffalo_House_example.txt")#the total data table can see in the UBlearns or github.  
 #newtable<-read.table(file = "Buffalo_House.txt")
 #newtable
 #filter(Buffalo_House,lat<42.7)
