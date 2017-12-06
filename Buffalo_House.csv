@@ -1,0 +1,1586 @@
+ID,name,price,lon,lat
+1,"81 Hagen St Schiller Park, Buffalo, NY",59900,-78.8076569,42.9172442
+2,"615 Englewood Ave Buffalo, NY",154300,-78.8419377,42.9637968
+3,"329 Hampshire St Grant Ferry, Buffalo, NY",239000,-78.889799,42.9138869
+4,"44 Blantyre Rd North Park, Buffalo, NY",239900,-78.845347,42.9537659
+5,"3697 Blair Ct Buffalo, NY",119900,-78.8168858,42.783946
+6,"171 Stockbridge Ave LaSalle, Buffalo, NY",39900,-78.8197725,42.9414242
+7,"17 Wilkes Ave Kenfield, Buffalo, NY",34900,-78.8043281,42.9232985
+8,"75 Edison Ave Kenfield, Buffalo, NY",29900,-78.8019249,42.9249242
+9,"166 Dodge St Masten Park, Buffalo, NY",56000,-78.8614585,42.9059623
+10,"320 Sherman St Johnson, Buffalo, NY",24900,-78.8472631,42.8923879
+11,"687 Eggert Rd Kensington, Buffalo, NY",62284,-78.80306,42.947002
+12,"282 Saranac Ave North Park, Buffalo, NY",149900,-78.8575602,42.9536699
+13,"370 Colvin Ave North Park, Buffalo, NY",149900,-78.859356,42.9509661
+14,"77 Aspinwood Pl Buffalo, NY",175000,-78.8498645,42.9788611
+15,"852 Delaware Rd Buffalo, NY",182900,-78.8710872,42.9846528
+16,"69 Avery Pl Buffalo, NY",69900,-78.797939,42.916818
+17,"36 Clemo St Babcock, Buffalo, NY",28497,-78.8336578,42.8785001
+18,"125 Helen Ave Buffalo, NY",114900,-78.829978,42.795144
+19,"1010 E Lovejoy St Lovejoy, Buffalo, NY",59900,-78.8110339,42.8899776
+20,"22 Viola Park Hamlin Park, Buffalo, NY",79900,-78.846068,42.921385
+21,"959 West Ave Grant Ferry, Buffalo, NY",119000,-78.896814,42.916319
+22,"52 Fredro St Kaisertown, Buffalo, NY",35000,-78.8108329,42.8691987
+23,"44 Carpenter Ave Buffalo, NY",129900,-78.8338076,42.9790476
+24,"381 Marilla St South Park, Buffalo, NY",145000,-78.826076,42.8370879
+25,"49 Parkridge Ave LaSalle, Buffalo, NY",4900,-78.8213642,42.9362241
+26,"137 Pawnee Pkwy Seneca, Buffalo, NY",70000,-78.811623,42.8628188
+27,"150 Victoria Ave Leroy, Buffalo, NY",79500,-78.8336279,42.9354411
+28,"28 Domedion Ave Schiller Park, Buffalo, NY",46900,-78.8019568,42.9144248
+29,"42 Castle Pl Leroy, Buffalo, NY",45000,-78.8316406,42.9320007
+30,"929 Hertel Ave North Delaware, Buffalo, NY",120000,-78.873864,42.947539
+31,"63 Bardol St MLK Park, Buffalo, NY",39000,-78.8333351,42.9058733
+32,"347 Greene St Lovejoy, Buffalo, NY",39900,-78.8092798,42.8943816
+33,"187 Heath St University, Buffalo, NY",99888,-78.8305473,42.9553065
+34,"49 Hobmoor Ave North Park, Buffalo, NY",149900,-78.8539798,42.9575923
+35,"502 High St Medical Park, Buffalo, NY",69900,-78.8500271,42.9003567
+36,"207 Vermont St Front Park, Buffalo, NY",20000,-78.8906422,42.9064613
+37,"732 Montrose Ave Buffalo, NY",82900,-78.8290279,42.9734433
+38,"1198 Center Rd Buffalo, NY",115000,-78.738303,42.840102
+39,"519 Woodlawn Ave Kingsley, Buffalo, NY",29900,-78.845569,42.913588
+40,"1342 Clinton St Babcock, Buffalo, NY",38900,-78.8260658,42.8745822
+41,"303 Darlington Dr Buffalo, NY",89900,-78.8404905,42.9713033
+42,"149 Arkansas St Grant Ferry, Buffalo, NY",49900,-78.8918031,42.9139743
+43,"2 Melody Ln Buffalo, NY",39900,-78.8355026,42.9817522
+44,"245 Watson St Emslie, Buffalo, NY",7500,-78.8496481,42.8866653
+45,"26 Dewitt St Grant Ferry, Buffalo, NY",44900,-78.8961661,42.9177142
+46,"210 Center St Buffalo, NY",79000,-78.831929,42.819991
+47,"223 Wyoming Ave Genesee Moselle, Buffalo, NY",35000,-78.8234844,42.9207033
+48,"102 Howell St Black Rock, Buffalo, NY",59900,-78.88745,42.940328
+49,"234 Riley St Masten Park, Buffalo, NY",10000,-78.85765,42.909631
+50,"38 Flower St University, Buffalo, NY",129500,-78.8300152,42.9522662
+51,"231 Richmond Ave #11 Bryant, Buffalo, NY",257777,-78.8816631,42.9087035
+52,"67 Moeller St Schiller Park, Buffalo, NY",47500,-78.811141,42.910352
+53,"944 West Ave Grant Ferry, Buffalo, NY",79900,-78.8976719,42.9159361
+54,"20 Lester St Babcock, Buffalo, NY",59000,-78.8290404,42.8692034
+55,"126 Auburn Ave Grant Ferry, Buffalo, NY",69000,-78.8959859,42.9186561
+56,"52 Navel Ave Schiller Park, Buffalo, NY",35000,-78.8116374,42.9180047
+57,"98 Ledger St North Delaware, Buffalo, NY",99900,-78.874551,42.94679
+58,"720 West Ave Front Park, Buffalo, NY",250000,-78.89585,42.910194
+59,"43 Aldrich Pl South Park, Buffalo, NY",84900,-78.8221313,42.8326822
+60,"721 Ashland Ave Forest, Buffalo, NY",899000,-78.8779872,42.9246335
+61,"290 Hazelwood Ave Kenfield, Buffalo, NY",47000,-78.8059733,42.9270707
+62,"331 University Ave Kenilworth, Buffalo, NY",114900,-78.8280231,42.9612614
+63,"274 Potomac Ave Forest, Buffalo, NY",89900,-78.8891289,42.9242366
+64,"56 Ashton Pl South Park, Buffalo, NY",49000,-78.825062,42.836692
+65,"588 Potomac Ave Forest, Buffalo, NY",300000,-78.8774964,42.9243875
+66,"56 Sweeney St Broadway - Fillmore, Buffalo, NY",52994,-78.8418019,42.9029626
+67,"263 Midland Ave Kenilworth, Buffalo, NY",119900,-78.8368817,42.9681313
+68,"254 Ashland Ave Front Park, Buffalo, NY",299900,-78.8789735,42.9116846
+69,"20 Paige Ave Kenilworth, Buffalo, NY",86411,-78.8243742,42.9655234
+70,"268 Newburgh Ave Schiller Park, Buffalo, NY",49000,-78.8089463,42.9220554
+71,"116 Landon St Kingsley, Buffalo, NY",49800,-78.849542,42.910399
+72,"65 Villa Ave North Park, Buffalo, NY",139900,-78.866893,42.95776
+73,"16 Aldrich Pl South Park, Buffalo, NY",109900,-78.8232607,42.8331004
+74,"72 Hammerschmidt Ave Seneca, Buffalo, NY",38977,-78.816891,42.8588689
+75,"64 N Ogden St Lovejoy, Buffalo, NY",64548,-78.8027639,42.8864594
+76,"4676 Brompton Dr Buffalo, NY",275000,-78.8056153,42.7776737
+77,"289 Cable St Kaisertown, Buffalo, NY",60000,-78.8065171,42.8728483
+78,"333 Potomac Ave Forest, Buffalo, NY",189900,-78.8870718,42.9238939
+79,"272 Dushane Dr Buffalo, NY",51049,-78.8427609,42.9736235
+80,"387 Woodbridge Ave North Park, Buffalo, NY",399900,-78.8477725,42.945283
+81,"224 Athens Blvd Buffalo, NY",139900,-78.844498,42.977413
+82,"137 Edison Ave Kenfield, Buffalo, NY",36900,-78.8015909,42.9265691
+83,"49 Massachusetts Ave Front Park, Buffalo, NY",79900,-78.8982986,42.9072647
+84,"138 Dunlop Ave LaSalle, Buffalo, NY",47900,-78.8189347,42.9432566
+85,"1670 Colvin Blvd Buffalo, NY",184900,-78.8575776,42.9869469
+86,"126 W Humboldt Pkwy Delaware Park, Buffalo, NY",339000,-78.8522153,42.9291624
+87,"235 Morris Ave Starin Central, Buffalo, NY",625000,-78.8373071,42.9423691
+88,"134 Congress St Grant Ferry, Buffalo, NY",164900,-78.8917116,42.921453
+89,"218 E Delavan Ave Hamlin Park, Buffalo, NY",100000,-78.8491106,42.9221916
+90,"360 Beard Ave Starin Central, Buffalo, NY",239900,-78.8339429,42.9461684
+91,"768 Ashland Ave Forest, Buffalo, NY",329500,-78.8785935,42.9259231
+92,"443 University Ave Kenilworth, Buffalo, NY",93777,-78.8278323,42.9642934
+93,"99 Elkhart St Buffalo, NY",116000,-78.826796,42.815192
+94,"85 Hertel Ave Black Rock, Buffalo, NY",49900,-78.9033317,42.9415368
+95,"147 Fordham Dr Park Meadow, Buffalo, NY",274900,-78.878044,42.938975
+96,"229 Roslyn St Schiller Park, Buffalo, NY",31663,-78.8094266,42.9208179
+97,"16 Commonwealth Ave North Park, Buffalo, NY",240000,-78.8621728,42.945137
+98,"360 Wellington Ave Kenilworth, Buffalo, NY",139900,-78.8340334,42.9691063
+99,"63 Red Jacket Pkwy Abbott McKinley, Buffalo, NY",55911,-78.8118289,42.8450875
+100,"182 Saranac Ave North Park, Buffalo, NY",213000,-78.8576568,42.9509455
+101,"95 Milburn St Lovejoy, Buffalo, NY",44900,-78.8256734,42.8932696
+102,"103 Crystal Ave Triangle, Buffalo, NY",100000,-78.8283775,42.8457068
+103,"132 Lakefront Blvd #604 Waterfront, Buffalo, NY",649000,-78.884667,42.8836827
+104,"79 Wilkes Ave Kenfield, Buffalo, NY",74900,-78.8043153,42.9250075
+105,"92-94 Claremont Ave Forest, Buffalo, NY",490000,-78.880101,42.924814
+106,"178 Albany St Grant Ferry, Buffalo, NY",154900,-78.8950498,42.9130157
+107,"138 Central Ave Lovejoy, Buffalo, NY",64900,-78.8155762,42.8887903
+108,"204 Cleveland Dr Buffalo, NY",100000,-78.792137,42.9451759
+109,"378 E Ferry St Hamlin Park, Buffalo, NY",70000,-78.8503145,42.9149683
+110,"22 Starin Ave North Park, Buffalo, NY",400000,-78.8444511,42.9410026
+111,"920 Prospect Ave Front Park, Buffalo, NY",179900,-78.8994192,42.9104163
+112,"36 Susan Ln South Abbott, Buffalo, NY",149900,-78.8110945,42.8340286
+113,"20 Fairchild Pl North Park, Buffalo, NY",239000,-78.8645054,42.9452511
+114,"3432 Emerling Dr Buffalo, NY",156600,-78.8086333,42.790428
+115,"542 Willett St Kaisertown, Buffalo, NY",54900,-78.8031476,42.8769663
+116,"525 Winslow Ave Grider, Buffalo, NY",39900,-78.8332302,42.9128802
+117,"71 Hazelwood Ave Schiller Park, Buffalo, NY",49900,-78.8056806,42.9211261
+118,"341 Crestwood Ave North Park, Buffalo, NY",189900,-78.859993,42.9544135
+119,"192 Villa Ave North Park, Buffalo, NY",159900,-78.8621762,42.9581136
+120,"158 Amber St Triangle, Buffalo, NY",79900,-78.8263671,42.8451686
+121,"35 Eaglewood Ave Abbott McKinley, Buffalo, NY",164900,-78.8180949,42.8497104
+122,"40 Pearl St Central Business District, Buffalo, NY",95226,-78.8777185,42.8801287
+123,"118 Central Ave Lovejoy, Buffalo, NY",52500,-78.815638,42.8880864
+124,"14 Moulton Ave Buffalo, NY",99900,-78.8513025,42.9718105
+125,"49 Rogers Ave Schiller Park, Buffalo, NY",49900,-78.8037859,42.9179312
+126,"82 Block St Schiller Park, Buffalo, NY",75000,-78.8085623,42.9129149
+127,"59 Pries Ave Triangle, Buffalo, NY",110000,-78.8299813,42.8496991
+128,"676 Richmond Ave Forest, Buffalo, NY",249900,-78.881822,42.9217889
+129,"57 Thornton Ave LaSalle, Buffalo, NY",45000,-78.815155,42.9391904
+130,"357 Vermont St Front Park, Buffalo, NY",200000,-78.8859534,42.9088007
+131,"48 Virgil Ave North Park, Buffalo, NY",169000,-78.8648323,42.9492472
+132,"268 Glencove Rd Kenmore NE, Buffalo, NY",110000,-78.8621768,42.980018
+133,"315 Plymouth Ave Front Park, Buffalo, NY",39900,-78.889552,42.906307
+134,"35 Woodell Ave Buffalo, NY",68500,-78.791348,42.908292
+135,"245 Courtland Ave Kenfield, Buffalo, NY",49900,-78.8065898,42.9267642
+136,"129 Liddell St Emerson, Buffalo, NY",39900,-78.8197926,42.8998516
+137,"197 Thompson St Black Rock, Buffalo, NY",56900,-78.9005032,42.9395989
+138,"151 Johnson St Johnson, Buffalo, NY",34900,-78.847984,42.895257
+139,"76 Edison Ave Kenfield, Buffalo, NY",54900,-78.8023756,42.9249197
+140,"437 Potomac Ave Forest, Buffalo, NY",279777,-78.883137,42.9238772
+141,"96 Soldiers Pl Albright, Buffalo, NY",999000,-78.8748733,42.9263743
+142,"54 Dempster St Lovejoy, Buffalo, NY",54435,-78.81201,42.886609
+143,"777 Moore Ave Buffalo, NY",159900,-78.8238349,42.9759037
+144,"257 Liston St Kenmore NE, Buffalo, NY",137900,-78.8623779,42.9788031
+145,"214 Covington Dr Buffalo, NY",169900,-78.7945181,42.8316098
+146,"678 McKinley Pkwy Abbott McKinley, Buffalo, NY",139900,-78.8203514,42.8499081
+147,"209 Davey St Lovejoy, Buffalo, NY",89900,-78.8034421,42.8904986
+148,"5048 Roseview Ave Buffalo, NY",119000,-78.7955639,42.7846008
+149,"90 Henrietta Ave #1 Riverside Park, Buffalo, NY",69000,-78.9011464,42.9570657
+150,"758 Columbus Pkwy Front Park, Buffalo, NY",239900,-78.896924,42.904119
+151,"242 Norwood Ave Front Park, Buffalo, NY",389000,-78.8806202,42.9114745
+152,"187 Hoyt St Forest, Buffalo, NY",119900,-78.886357,42.920671
+153,"14 Weaver St Kaisertown, Buffalo, NY",74900,-78.804313,42.8722707
+154,"841 Tifft St Triangle, Buffalo, NY",89900,-78.8280945,42.8467491
+155,"237 Hutchinson Ave LaSalle, Buffalo, NY",109900,-78.8148331,42.93817
+156,"280 Woodward Ave Parkside, Buffalo, NY",239900,-78.8494621,42.9364635
+157,"18 Hines St South Park, Buffalo, NY",149900,-78.8227252,42.833858
+158,"1031 E Lovejoy St Lovejoy, Buffalo, NY",69900,-78.8101326,42.8895611
+159,"104 Crystal Ave Triangle, Buffalo, NY",69172,-78.8283638,42.846163
+160,"46 Gail Ave Kensington, Buffalo, NY",53572,-78.800319,42.9339385
+161,"18 Spaulding St Triangle, Buffalo, NY",69900,-78.8315165,42.8536134
+162,"166 Ashland Ave Bryant, Buffalo, NY",325000,-78.8789558,42.9093479
+163,"14 Meech Ave Hamlin Park, Buffalo, NY",159900,-78.8498111,42.9225494
+164,"70 Beatrice Ave Riverside Park, Buffalo, NY",107900,-78.899862,42.9574489
+165,"56 Floss Ave Schiller Park, Buffalo, NY",60000,-78.8052622,42.9176549
+166,"40 Layer Ave Military, Buffalo, NY",39900,-78.8884167,42.9544007
+167,"335 Austin St Black Rock, Buffalo, NY",59900,-78.8929372,42.9410269
+168,"30 Roosevelt Ave Kensington, Buffalo, NY",69900,-78.8124187,42.9339892
+169,"40 Lowell Pl Front Park, Buffalo, NY",99700,-78.8876037,42.9096408
+170,"21 S Ryan St Cazenovia Park, Buffalo, NY",98000,-78.811922,42.8561774
+171,"123 Young St Broadway - Fillmore, Buffalo, NY",34900,-78.8279007,42.8944426
+172,"16 Bidwell Pkwy Forest, Buffalo, NY",299000,-78.8809437,42.9213451
+173,"389 Prospect Ave Front Park, Buffalo, NY",39900,-78.887649,42.898687
+174,"14 Celina St Buffalo, NY",79900,-78.78783,42.8849002
+175,"21 Pries Ave Triangle, Buffalo, NY",55788,-78.8313951,42.849702
+176,"3621 S Park Ave Buffalo, NY",66089,-78.8242549,42.800845
+177,"231 Richmond Ave #11 Bryant, Buffalo, NY",257777,-78.8816631,42.9087035
+178,"227 Forest Ave Forest, Buffalo, NY",85900,-78.8904832,42.9275149
+179,"95 Victory Ave Buffalo, NY",175000,-78.8256229,42.823094
+180,"274 Sobieski St Broadway - Fillmore, Buffalo, NY",65500,-78.8329294,42.9019136
+181,"221 Crowley Ave Riverside Park, Buffalo, NY",69900,-78.9017742,42.9535919
+182,"199 Greene St Lovejoy, Buffalo, NY",54500,-78.8093411,42.8903615
+183,"105 Hubbell Ave Abbott McKinley, Buffalo, NY",72000,-78.819762,42.8516715
+184,"13 Ward Ct South Abbott, Buffalo, NY",85000,-78.8082355,42.8325936
+185,"191 Crestwood Ave North Park, Buffalo, NY",239900,-78.8601182,42.9503823
+186,"15 Ritt Ave Military, Buffalo, NY",79900,-78.8887547,42.9577411
+187,"20 Hilldale Ave Buffalo, NY",128500,-78.764982,42.830001
+188,"37 Sprenger Ave Schiller Park, Buffalo, NY",24900,-78.8034561,42.9109113
+189,"75 Haller Ave Buffalo, NY",124000,-78.7940705,42.9093267
+190,"42 Woodette Pl Black Rock, Buffalo, NY",148227,-78.8803554,42.9396148
+191,"134 Best St Masten Park, Buffalo, NY",175000,-78.863348,42.9042389
+192,"29 Hunt Ave Riverside Park, Buffalo, NY",59800,-78.9019239,42.948745
+193,"1026 Genesee St Broadway - Fillmore, Buffalo, NY",25000,-78.8402392,42.902161
+194,"110 Newburgh Ave Schiller Park, Buffalo, NY",54900,-78.8089976,42.9176995
+195,"296 Sobieski St Broadway - Fillmore, Buffalo, NY",99900,-78.8329139,42.9025001
+196,"47 Herman St Broadway - Fillmore, Buffalo, NY",210000,-78.8440886,42.89319
+197,"319 Abbington Ave Buffalo, NY",134900,-78.8408885,42.9787763
+198,"92 Albany St Grant Ferry, Buffalo, NY",49900,-78.898284,42.913159
+199,"270 Tudor Blvd Buffalo, NY",96300,-78.7958679,42.8306594
+200,"214 Cleveland Dr Buffalo, NY",65000,-78.791759,42.945177
+201,"135 Madison Ave Buffalo, NY",84900,-78.8304725,42.7957798
+202,"75 Harlem Rd Buffalo, NY",45356,-78.789311,42.844942
+203,"832 Abbott Rd South Abbott, Buffalo, NY",50000,-78.808238,42.841589
+204,"133 Burch Ave Buffalo, NY",35095,-78.796906,42.850103
+205,"165 Arkansas St Grant Ferry, Buffalo, NY",37917,-78.8913,42.913914
+206,"241 Monroe St Emslie, Buffalo, NY",97500,-78.8516428,42.8869482
+207,"95 Gibson St Broadway - Fillmore, Buffalo, NY",59900,-78.8378598,42.8882268
+208,"353 Dushane Dr Buffalo, NY",164900,-78.839817,42.973102
+209,"944 Niagara St Front Park, Buffalo, NY",239000,-78.899435,42.908552
+210,"41 Chamberlin Dr Buffalo, NY",135500,-78.797601,42.847039
+211,"106 Morris Ave Starin Central, Buffalo, NY",77390,-78.84216,42.94298
+212,"26 Carl St Grider, Buffalo, NY",12000,-78.828187,42.915309
+213,"225 Dearborn St Black Rock, Buffalo, NY",53126,-78.9013843,42.9355294
+214,"324 Pennsylvania St Front Park, Buffalo, NY",330000,-78.8844835,42.9007749
+215,"699 Jefferson Ave Johnson, Buffalo, NY",5000,-78.853719,42.894099
+216,"874 Hertel Ave North Delaware, Buffalo, NY",119000,-78.876074,42.9480379
+217,"297 Choate Ave Abbott McKinley, Buffalo, NY",164900,-78.8131255,42.8454644
+218,"91 Loepere St Broadway - Fillmore, Buffalo, NY",119000,-78.8342958,42.8966365
+219,"22 Littlefield Ave Schiller Park, Buffalo, NY",44900,-78.8000264,42.9074946
+220,"69 Starin Ave Starin Central, Buffalo, NY",699000,-78.8437352,42.9422838
+221,"380 Oakvale Blvd Buffalo, NY",139900,-78.8386843,42.978289
+222,"372 Fulton St South Ellicott, Buffalo, NY",45000,-78.8574196,42.8717259
+223,"259 Breckenridge St Grant Ferry, Buffalo, NY",95900,-78.8919914,42.9165726
+224,"347 Traverse Blvd Buffalo, NY",131861,-78.8596175,42.9837826
+225,"1055 Parker Blvd Kenilworth, Buffalo, NY",64354,-78.837989,42.9661848
+226,"24 Tacoma Ave North Delaware, Buffalo, NY",259900,-78.8718914,42.9516949
+227,"157 15th St Front Park, Buffalo, NY",79900,-78.8873656,42.9090738
+228,"2009 Hertel Ave Starin Central, Buffalo, NY",199800,-78.8339851,42.9467643
+229,"124 Auburn Ave Grant Ferry, Buffalo, NY",69000,-78.8960884,42.9186646
+230,"29 Inter Park Ave Grider, Buffalo, NY",49000,-78.8419538,42.9153096
+231,"100 Fairbanks Ave Wilton Argonne, Buffalo, NY",144900,-78.8430358,42.9613027
+232,"329 Orchard Dr Buffalo, NY",54096,-78.8610489,42.9889173
+233,"147 Kosciuszko St Broadway - Fillmore, Buffalo, NY",7500,-78.830585,42.898742
+234,"8 Schreck Ave Kenfield, Buffalo, NY",60000,-78.8175455,42.9255843
+235,"104 Colton St Buffalo, NY",134900,-78.7967067,42.8840497
+236,"64 Reservation St Black Rock, Buffalo, NY",44900,-78.886011,42.941556
+237,"74 Aldrich Pl South Park, Buffalo, NY",98888,-78.821018,42.8331469
+238,"646 Sycamore St Johnson, Buffalo, NY",100000,-78.847327,42.895313
+239,"136 Floss Ave Schiller Park, Buffalo, NY",55000,-78.8051706,42.9198372
+240,"275 Woodcrest Blvd Buffalo, NY",139000,-78.855658,42.975153
+241,"89 Woltz Ave Broadway - Fillmore, Buffalo, NY",80000,-78.8353094,42.8963148
+242,"132 Lakefront Blvd #702 Waterfront, Buffalo, NY",659900,-78.884667,42.8836827
+243,"210 Ellicott St #505 Central Business District, Buffalo, NY",269900,-78.8727507,42.8843319
+244,"603 E Amherst St LaSalle, Buffalo, NY",69900,-78.8152671,42.9399877
+245,"132 Lakefront Blvd #702 Waterfront, Buffalo, NY",659900,-78.884667,42.8836827
+246,"1200 Kensington Ave Kensington, Buffalo, NY",59900,-78.8108645,42.9393327
+247,"125 Edward St #3C Allen, Buffalo, NY",189900,-78.876386,42.89635
+248,"404 Willett St Kaisertown, Buffalo, NY",54900,-78.803273,42.8731932
+249,"77 Krettner St #2 Emslie, Buffalo, NY",105000,-78.847716,42.8855228
+250,"283 14th St Front Park, Buffalo, NY",168000,-78.8883283,42.9084342
+251,"15 Capen Blvd University, Buffalo, NY",200000,-78.8202816,42.9571002
+252,"78 Altruria St South Park, Buffalo, NY",108500,-78.8293879,42.8435731
+253,"477 Connecticut St Bryant, Buffalo, NY",199900,-78.8835736,42.9077029
+254,"192 Whitfield Ave Abbott McKinley, Buffalo, NY",125000,-78.816242,42.8437923
+255,"27 Newburgh Ave Schiller Park, Buffalo, NY",29992,-78.8086433,42.915462
+256,"268 Saranac Ave North Park, Buffalo, NY",129004,-78.8575633,42.9533316
+257,"543 West Ave Front Park, Buffalo, NY",65000,-78.8915512,42.9064585
+258,"31 Eaglewood Ave Abbott McKinley, Buffalo, NY",169900,-78.8181798,42.8496478
+259,"90 Henrietta Ave #1 Riverside Park, Buffalo, NY",69000,-78.9011464,42.9570657
+260,"28 Parkview Ave Cazenovia Park, Buffalo, NY",50436,-78.8059181,42.8543288
+261,"33 Gates Cir #10G Delaware-West Ferry, Buffalo, NY",539000,-78.8693989,42.9201477
+262,"514 Highland Ave Buffalo, NY",159000,-78.8466092,42.9746189
+263,"8754 Greiner Rd Buffalo, NY",339900,-78.6662319,42.989589
+264,"91 Roosevelt Ave Kensington, Buffalo, NY",44900,-78.810149,42.9336785
+265,"471 14th St Grant Ferry, Buffalo, NY",50000,-78.89232,42.912673
+266,"16 Gold St Lovejoy, Buffalo, NY",69900,-78.8053324,42.8851553
+267,"12 Mayfair Ln Bryant, Buffalo, NY",399900,-78.87524,42.9028289
+268,"49 Groveland St Starin Central, Buffalo, NY",169900,-78.8363851,42.9515373
+269,"295 Hartwell Rd North Park, Buffalo, NY",219000,-78.8653289,42.9529036
+270,"63 Greenfield St Parkside, Buffalo, NY",199900,-78.8435572,42.9373616
+271,"264 E Amherst St Starin Central, Buffalo, NY",249999,-78.827922,42.94066
+272,"53 Blaine Ave Hamlin Park, Buffalo, NY",164900,-78.8518822,42.9235564
+273,"369 Linden Ave North Park, Buffalo, NY",279900,-78.8566203,42.944768
+274,"17 Narragansett Rd South Abbott, Buffalo, NY",165900,-78.8072799,42.8397635
+275,"5371 Village Station Cir Buffalo, NY",239000,-78.69353,42.994711
+276,"391 Greene St Lovejoy, Buffalo, NY",94900,-78.8092516,42.895651
+277," V/L McKinley Pkwy W Buffalo, NY",250000,-78.8167751,42.8457113
+278,"230 Huntington Ave Starin Central, Buffalo, NY",140377,-78.840923,42.9460631
+279,"524 Potters Rd Buffalo, NY",149900,-78.7950739,42.838079
+280,"201 Hoyt St Forest, Buffalo, NY",249900,-78.8862558,42.9211046
+281,"24 Blantyre Rd North Park, Buffalo, NY",259900,-78.8453517,42.9532854
+282,"8679 Sunset Dr Buffalo, NY",180487,-78.6698266,42.9586892
+283,"351 Breckenridge St Grant Ferry, Buffalo, NY",199900,-78.8885307,42.916614
+284,"72 Keystone St Schiller Park, Buffalo, NY",59900,-78.8106638,42.9036092
+285,"103 Austin St Black Rock, Buffalo, NY",68000,-78.9011392,42.9387625
+286,"1574 Electric Ave Buffalo, NY",109000,-78.827866,42.816257
+287,"60 Downing St South Park, Buffalo, NY",140000,-78.821558,42.835009
+288,"200 Wallace Ave North Park, Buffalo, NY",275000,-78.8471019,42.9486598
+289,"200 Laird Ave Riverside Park, Buffalo, NY",74900,-78.9039663,42.9555182
+290,"145 Grote St Black Rock, Buffalo, NY",99900,-78.8862293,42.9422389
+291,"73 Ideal St Lovejoy, Buffalo, NY",82500,-78.8072761,42.8867778
+292,"19 Blick St Buffalo, NY",79900,-78.787627,42.893794
+293,"1735 Amherst St Leroy, Buffalo, NY",299000,-78.840019,42.939972
+294,"14 Gallatin Ave Riverside Park, Buffalo, NY",53150,-78.9020343,42.9506949
+295,"180 Glencove Rd Kenmore NE, Buffalo, NY",149500,-78.8654348,42.9800073
+296,"4578 Gentwood Dr Buffalo, NY",463000,-78.68737,42.9704659
+297,"76 Thompson St Black Rock, Buffalo, NY",119900,-78.8993393,42.9362913
+298,"24 Junior Ave Cazenovia Park, Buffalo, NY",45946,-78.8009694,42.8531637
+299,"4572 Gentwood Dr Buffalo, NY",401000,-78.68737,42.9704659
+300,"1370 Walden Ter Buffalo, NY",46000,-78.7855483,42.9077287
+301,"15 W Northrup Pl LaSalle, Buffalo, NY",120900,-78.8270623,42.9510211
+302,"104 Taunton Pl North Park, Buffalo, NY",136800,-78.8604682,42.9547921
+303,"47 Urban St MLK Park, Buffalo, NY",21327,-78.837244,42.909047
+304,"629 Moore Ave Buffalo, NY",141000,-78.8293961,42.9759158
+305,"2054 Transit Rd Buffalo, NY",145000,-78.698454,42.823181
+306,"95 Bush St Black Rock, Buffalo, NY",99900,-78.886059,42.940785
+307,"96 Gallatin Ave Riverside Park, Buffalo, NY",59900,-78.8996112,42.9494769
+308,"151 Kosciuszko St Broadway - Fillmore, Buffalo, NY",7500,-78.830585,42.898824
+309,"1517 E Delavan Ave Schiller Park, Buffalo, NY",5000,-78.800561,42.922523
+310,"163 Paramount Pkwy Buffalo, NY",159000,-78.8653082,42.9863122
+311,"33 Dakota St North Park, Buffalo, NY",64531,-78.8656479,42.946983
+312,"34 Gorski St Kaisertown, Buffalo, NY",33269,-78.8099401,42.8678905
+313,"25 Progressive Ave Riverside Park, Buffalo, NY",129900,-78.9017834,42.9479793
+314,"112 Cantwell Dr South Park, Buffalo, NY",52066,-78.8195873,42.8356854
+315,"110 Sage Ave Seneca, Buffalo, NY",55436,-78.8141079,42.8632461
+316,"91 Hammerschmidt Ave Seneca, Buffalo, NY",75425,-78.8159945,42.8590564
+317,"20 Amber St Triangle, Buffalo, NY",61557,-78.8315389,42.8452271
+318,"69 Remington Pl Seneca, Buffalo, NY",71855,-78.8198536,42.8602814
+319,"86 Clayton St Military, Buffalo, NY",36753,-78.8877689,42.9537987
+320,"431 Zimmerman Blvd Buffalo, NY",124360,-78.8567198,42.9846782
+321,"305 King Peterson Rd Willert Park, Buffalo, NY",64148,-78.866308,42.881499
+322,"26 Grey St Johnson, Buffalo, NY",45580,-78.850088,42.891668
+323,"245 Potters Rd South Abbott, Buffalo, NY",72594,-78.8044,42.841278
+324,"240 Doat St Schiller Park, Buffalo, NY",56363,-78.8119139,42.9099466
+325,"58 Cottage St Allen, Buffalo, NY",227885,-78.8723722,42.8994139
+326,"249 Northland Ave Hamlin Park, Buffalo, NY",65185,-78.850695,42.9190449
+327,"265 Tudor Blvd Buffalo, NY",109562,-78.7965033,42.8308198
+328,"1537 S Park Ave Triangle, Buffalo, NY",5000,-78.82893,42.8560609
+329,"302 Lafayette Ave Forest, Buffalo, NY",245000,-78.8873877,42.92048
+330,"83 Roesch Ave Riverside Park, Buffalo, NY",143277,-78.906076,42.9581865
+331,"43 Fernhill Ave Grider, Buffalo, NY",75109,-78.8274405,42.9277769
+332,"95 Thatcher Ave LaSalle, Buffalo, NY",71601,-78.8181297,42.9389797
+333,"1340 Seneca Creek Rd Buffalo, NY",39900,-78.704559,42.852899
+334,"66 N Ogden St Lovejoy, Buffalo, NY",64548,-78.802913,42.886536
+335,"227 Dearborn St Black Rock, Buffalo, NY",53126,-78.901386,42.935609
+336," V L Reserve Rd Buffalo, NY",600000,-78.7288801,42.8112754
+337,"3473 S Park Ave #A5 Buffalo, NY",16900,-78.82527,42.805278
+338,"675 Norfolk Ave LaSalle, Buffalo, NY",40000,-78.8192766,42.9334686
+339,"94 Thompson St Black Rock, Buffalo, NY",35900,-78.8995467,42.9367601
+340,"3473 S Park Ave #A18 Buffalo, NY",11900,-78.82527,42.805278
+341,"42 Gesl St Leroy, Buffalo, NY",55000,-78.8403146,42.9299628
+342,"218 Northampton St Masten Park, Buffalo, NY",39900,-78.8588119,42.9077051
+343,"215 Keystone St Schiller Park, Buffalo, NY",15000,-78.8103329,42.9077363
+344,"211-213 Grape St Medical Park, Buffalo, NY",74000,-78.855169,42.90154
+345,"6 Winslow Ave Kingsley, Buffalo, NY",52000,-78.852758,42.9133063
+346,"480 7th St Front Park, Buffalo, NY",109000,-78.8909835,42.8978817
+347,"37 Wright Ave Kenfield, Buffalo, NY",34000,-78.7995678,42.9238029
+348,"624 Niagara Falls Blvd Buffalo, NY",118500,-78.8237141,42.9705899
+349,"216 Villa Ave North Park, Buffalo, NY",130000,-78.8613585,42.9581052
+350,"145 Heath St University, Buffalo, NY",78501,-78.8291647,42.9547222
+351,"343 Hampshire St Grant Ferry, Buffalo, NY",59000,-78.889352,42.9141292
+352,"142 Scoville Ave Babcock, Buffalo, NY",45000,-78.8266668,42.8761663
+353,"706 Hopkins St Tifft, Buffalo, NY",69900,-78.8324984,42.8569047
+354,"860 William St Broadway - Fillmore, Buffalo, NY",79000,-78.8395073,42.8852186
+355,"2332 S Park Ave South Park, Buffalo, NY",15000,-78.823523,42.835098
+356,"34 Richmond Ave Front Park, Buffalo, NY",334999,-78.882297,42.9032989
+357,"43 Military Rd Black Rock, Buffalo, NY",48900,-78.8925469,42.9378389
+358,"96 Virgil Ave North Park, Buffalo, NY",143120,-78.8648311,42.9505361
+359,"234 Keystone St Schiller Park, Buffalo, NY",19000,-78.8107524,42.9081975
+360,"475 Delaware Ave Allen, Buffalo, NY",829900,-78.8734254,42.9858443
+361,"392 Fulton St South Ellicott, Buffalo, NY",29000,-78.8566174,42.8715849
+362,"355 Bristol St Babcock, Buffalo, NY",63000,-78.8433179,42.880719
+363,"742 Tonawanda St Riverside Park, Buffalo, NY",94900,-78.9037589,42.9489708
+364,"242-244 Virginia St Lakeview, Buffalo, NY",175000,-78.882525,42.894855
+365,"37 Glor St Black Rock, Buffalo, NY",44900,-78.8926466,42.9399394
+366,"201 Dodge St Masten Park, Buffalo, NY",69900,-78.8600556,42.9055726
+367,"39 Junior Ave Cazenovia Park, Buffalo, NY",70000,-78.8009311,42.852607
+368,"611 Adams St Johnson, Buffalo, NY",12178,-78.8507134,42.8967156
+369,"107 Jones St Babcock, Buffalo, NY",47500,-78.8337032,42.8808176
+370,"800 W Ferry St #5AA Delaware-West Ferry, Buffalo, NY",200000,-78.8710495,42.9160086
+371,"60 N Central Ave Lovejoy, Buffalo, NY",49900,-78.8157797,42.8960342
+372,"229 Orange St Medical Park, Buffalo, NY",35000,-78.857446,42.900788
+373,"71 Rogers Ave Schiller Park, Buffalo, NY",54900,-78.8037543,42.9186019
+374,"148 W Delavan Ave Forest, Buffalo, NY",59900,-78.8942028,42.9224107
+375,"346 Westgate Rd Kenmore, Buffalo, NY",149900,-78.883296,42.963917
+376,"584 W Utica St Front Park, Buffalo, NY",99900,-78.8884417,42.9111595
+377,"310 Norwood Ave Front Park, Buffalo, NY",400000,-78.8806062,42.9133434
+378,"93 Hoerner Ave Buffalo, NY",62160,-78.7950362,42.9097056
+379,"28 Grace St Black Rock, Buffalo, NY",34900,-78.905064,42.9422985
+380,"92 Humason Ave Schiller Park, Buffalo, NY",49900,-78.799805,42.9162814
+381,"751 W Ferry St #7A Delaware-West Ferry, Buffalo, NY",189900,-78.8729364,42.9151026
+382,"330 Fairfield Ave Kenilworth, Buffalo, NY",129900,-78.8363277,42.9673737
+383,"35 Pine Ridge Rd Buffalo, NY",101289,-78.7960903,42.9080591
+384,"440 Niagara Falls Blvd Kenilworth, Buffalo, NY",850000,-78.823867,42.966022
+385,"181 Lyndale Ave Kenilworth, Buffalo, NY",179500,-78.826701,42.9634245
+386,"127 Aldrich Pl South Park, Buffalo, NY",165000,-78.8190043,42.8327059
+387,"133 Ivanhoe Rd Buffalo, NY",59900,-78.797383,42.926497
+388,"308 Portside Waterfront, Buffalo, NY",729900,-78.8857261,42.8848236
+389,"145 Krettner St Emslie, Buffalo, NY",59000,-78.8476208,42.8874105
+390,"87 Fernhill Ave Grider, Buffalo, NY",27303,-78.825795,42.927755
+391,"2307 Niagara St Riverside Park, Buffalo, NY",89900,-78.9093822,42.9453775
+392,"96 Beckford Ct Buffalo, NY",899900,-78.7191603,42.9695472
+393,"3387 Emerling Dr Buffalo, NY",101476,-78.8064712,42.7928322
+394,"355 Parkdale Ave Forest, Buffalo, NY",129000,-78.8870073,42.9251188
+395,"450 14th St Front Park, Buffalo, NY",104900,-78.8923965,42.911946
+396,"1141 Delaware Ave #5S Delaware-West Ferry, Buffalo, NY",474900,-78.8687103,42.9149393
+397,"8 Mayfair Ln Bryant, Buffalo, NY",364900,-78.875243,42.902637
+398,"73 Euclid Ave Buffalo, NY",79573,-78.797195,42.909002
+399,"401 Northland Ave Hamlin Park, Buffalo, NY",359000,-78.8445505,42.9189419
+400,"34 Sandrock Rd Riverside Park, Buffalo, NY",99000,-78.904039,42.94737
+401,"231 Richmond Ave #9 Bryant, Buffalo, NY",479000,-78.8816631,42.9087035
+402,"137 Peabody St Babcock, Buffalo, NY",39900,-78.838456,42.8709739
+403,"235 Northland Ave Hamlin Park, Buffalo, NY",57000,-78.851222,42.919055
+404,"53 La Force Pl Military, Buffalo, NY",4000,-78.889345,42.948225
+405,"499 Moore Ave Buffalo, NY",149800,-78.8342569,42.9758856
+406,"85 Verplanck St Masten Park, Buffalo, NY",37900,-78.8555882,42.9135759
+407,"239 Lafayette Ave Grant Ferry, Buffalo, NY",689900,-78.8894504,42.9198706
+408,"731 W Ferry St #W Delaware-West Ferry, Buffalo, NY",849000,-78.8732001,42.9151269
+409,"315 Herkimer St Grant Ferry, Buffalo, NY",86000,-78.8923589,42.9214153
+410,"98 Fennimore Ave Kensington, Buffalo, NY",49000,-78.8075505,42.9382891
+411,"33 Blaine Ave Hamlin Park, Buffalo, NY",224900,-78.8525818,42.9235545
+412,"37 Marjorie Dr Buffalo, NY",119999,-78.8422842,42.965163
+413,"22 Bloomfield Ave Abbott McKinley, Buffalo, NY",89900,-78.8227837,42.8455062
+414,"20 Easton Ave Kenfield, Buffalo, NY",23584,-78.8128867,42.9277612
+415,"2822 Elmwood Ave Kenmore NW, Buffalo, NY",165000,-78.8790054,42.9742849
+416,"67 Liddell St Emerson, Buffalo, NY",42900,-78.8197354,42.8981201
+417,"176 W Delavan Ave Forest, Buffalo, NY",109900,-78.89306,42.9221952
+418,"160 Courtland Ave Kenfield, Buffalo, NY",47500,-78.8070052,42.9244371
+419,"333 Dartmouth Ave Kensington, Buffalo, NY",63331,-78.8122794,42.9432409
+420,"127 Lyndale Ave Kenilworth, Buffalo, NY",99127,-78.8268801,42.9619035
+421,"3030 S Park Ave Buffalo, NY",92900,-78.823663,42.817531
+422,"61 Georgian Ln #C Buffalo, NY",69999,-78.756675,42.994811
+423,"132 Lakefront Blvd #303 Waterfront, Buffalo, NY",619000,-78.884667,42.8836827
+424,"28 Lehigh St Buffalo, NY",40000,-78.7868551,42.8856847
+425,"200 Delaware Ave #1509 Central Business District, Buffalo, NY",1300000,-78.8779831,42.8898534
+426,"375 Northwood Dr Buffalo, NY",175000,-78.8563844,42.9872663
+427,"3382 Bailey Ave LaSalle, Buffalo, NY",900000,-78.8140449,42.947123
+428,"121 Seymour St South Ellicott, Buffalo, NY",99900,-78.847855,42.87633
+429,"146-148 Congress St Grant Ferry, Buffalo, NY",85000,-78.8914008,42.9217779
+430,"1338 E Lovejoy St Buffalo, NY",74900,-78.798764,42.890028
+431,"868 Tonawanda St Riverside Park, Buffalo, NY",65000,-78.9051298,42.9522735
+432,"35 Millicent Ave Kensington, Buffalo, NY",49900,-78.8121792,42.9348905
+433,"59 Beckford Ct Buffalo, NY",599900,-78.719391,42.968537
+434,"143 Durham Ave Grider, Buffalo, NY",10000,-78.8276713,42.9262786
+435,"3 E Woodlawn Ave MLK Park, Buffalo, NY",4000,-78.826227,42.913401
+436,"925 Delaware Ave #4 Bryant, Buffalo, NY",599000,-78.8704899,42.9092677
+437,"327 W Delavan Ave Forest, Buffalo, NY",199900,-78.8873136,42.9219098
+438,"143 Weaver St Kaisertown, Buffalo, NY",79900,-78.8037764,42.8758115
+439,"27 Deumant Ter Wilton Argonne, Buffalo, NY",129900,-78.8486299,42.961806
+440,"141 Austin St Black Rock, Buffalo, NY",44500,-78.899846,42.939065
+441,"30 Hoffman Pl Black Rock, Buffalo, NY",154900,-78.9009941,42.9377732
+442,"22 Victory Ave Buffalo, NY",36095,-78.824949,42.82509
+443,"4296 Greenfield Pkwy Buffalo, NY",53473,-78.8199422,42.7780593
+444,"131 Tacoma Ave North Park, Buffalo, NY",72959,-78.8678365,42.9513406
+445,"263 Parkdale Ave Forest, Buffalo, NY",26009,-78.8873259,42.9226364
+446,"39 Bremen St Bryant, Buffalo, NY",19197,-78.8861601,42.9104506
+447,"166 Wakefield Ave Leroy, Buffalo, NY",42199,-78.8329733,42.9346197
+448,"124 Sunshine Dr Buffalo, NY",127802,-78.7936745,43.0295027
+449,"106 Reiman St Lovejoy, Buffalo, NY",25254,-78.8054297,42.89521
+450,"337 Faraday Rd Buffalo, NY",54731,-78.8402647,42.9722096
+451,"40 Connelly Ave LaSalle, Buffalo, NY",10182,-78.8168857,42.9298735
+452,"35 Mandan St North Delaware, Buffalo, NY",29521,-78.874972,42.946537
+453,"16 Claremont Ave Forest, Buffalo, NY",53432,-78.880204,42.9226399
+454,"1076 West Ave Grant Ferry, Buffalo, NY",27713,-78.8970847,42.9195434
+455,"550 Busti Ave Front Park, Buffalo, NY",25467,-78.8938124,42.8990926
+456,"163 Tacoma Ave North Park, Buffalo, NY",90929,-78.8666043,42.9513291
+457,"18 Chadduck Ave Riverside Park, Buffalo, NY",14470,-78.899556,42.955211
+458,"42 Paige Ave Kenilworth, Buffalo, NY",64671,-78.8251966,42.9655328
+459,"716 Norfolk Ave LaSalle, Buffalo, NY",18751,-78.8197665,42.9345628
+460,"37 Rounds Ave Kensington, Buffalo, NY",27747,-78.8121702,42.9472014
+461,"897 7th St Front Park, Buffalo, NY",39789,-78.899286,42.907641
+462,"297 Dearborn St Black Rock, Buffalo, NY",19257,-78.9023308,42.9373997
+463,"27 Collingwood Ave LaSalle, Buffalo, NY",21275,-78.817303,42.9346195
+464,"145 E Utica St Masten Park, Buffalo, NY",40590,-78.8603162,42.9109978
+465,"644 Harrison Ave Buffalo, NY",40586,-78.829322,42.9754987
+466,"52 Herkimer St Grant Ferry, Buffalo, NY",25134,-78.8936005,42.9141691
+467,"150 Brunswick Blvd Hamlin Park, Buffalo, NY",18591,-78.848235,42.917212
+468,"83 Emslie St South Ellicott, Buffalo, NY",56000,-78.848668,42.8785719
+469,"1897-1899 Niagara St Black Rock, Buffalo, NY",255000,-78.902458,42.935702
+470,"140 Brunswick Blvd Hamlin Park, Buffalo, NY",40590,-78.8486138,42.9171874
+471,"37 Arundel Rd North Park, Buffalo, NY",71272,-78.8480773,42.9539563
+472,"19 Oakmont Ave Kenfield, Buffalo, NY",38553,-78.8128875,42.932173
+473,"1166 Abbott Rd South Abbott, Buffalo, NY",69040,-78.8055252,42.832748
+474,"40 Glenmar Dr Buffalo, NY",168900,-78.718663,42.815286
+475,"158 Peter St Black Rock, Buffalo, NY",32891,-78.8895502,42.9417035
+476,"121 Folger St Triangle, Buffalo, NY",67451,-78.8264918,42.8497277
+477,"130 Parkdale Ave Grant Ferry, Buffalo, NY",48875,-78.8883198,42.9189943
+478,"183 Laurel St Masten Park, Buffalo, NY",37500,-78.857935,42.909927
+479,"9 Toledo Pl North Delaware, Buffalo, NY",70000,-78.8705053,42.9582799
+480,"192 Bidwell Pkwy Albright, Buffalo, NY",506413,-78.8761499,42.9246114
+481,"85 Landon St Kingsley, Buffalo, NY",59985,-78.850768,42.90988
+482,"35 Herkimer St Grant Ferry, Buffalo, NY",40881,-78.8931081,42.913659
+483,"225 Kenmore Ave Kenilworth, Buffalo, NY",132218,-78.8260662,42.9583798
+484,"4128 Bryant St Buffalo, NY",87826,-78.8341399,42.7724977
+485,"180 Hinman Ave North Delaware, Buffalo, NY",29285,-78.8761535,42.9565609
+486,"180 W Ferry St Grant Ferry, Buffalo, NY",74500,-78.8950421,42.9153571
+487,"489 Northampton St Kingsley, Buffalo, NY",39489,-78.8488058,42.9072031
+488,"92 Guilford St Broadway - Fillmore, Buffalo, NY",79900,-78.8437219,42.8947475
+489,"117 Grace St Black Rock, Buffalo, NY",49900,-78.9018487,42.9432268
+490,"118 Harbridge Mnr Buffalo, NY",899900,-78.7189349,42.9724075
+491,"325 Herkimer St Grant Ferry, Buffalo, NY",33792,-78.8923573,42.9216753
+492,"514 Linden Ave North Park, Buffalo, NY",77451,-78.8619769,42.944389
+493,"62 Cable St Buffalo, NY",118440,-78.8071692,42.8666109
+494,"159 Lafayette Ave Grant Ferry, Buffalo, NY",36375,-78.8925798,42.9199104
+495,"33 Clay St Black Rock, Buffalo, NY",45890,-78.8931237,42.9387461
+496,"200 Abbott Rd Abbott McKinley, Buffalo, NY",68127,-78.8217917,42.8555459
+497,"42 California St Grant Ferry, Buffalo, NY",39900,-78.8958108,42.9138224
+498,"93 Larchmont Rd University, Buffalo, NY",234873,-78.824534,42.9573477
+499,"36 Minnesota Ave LaSalle, Buffalo, NY",60019,-78.8278563,42.9479344
+500,"1230 Kensington Ave Kensington, Buffalo, NY",49193,-78.8099697,42.9397026
+501,"18 Weyand Ave Cazenovia Park, Buffalo, NY",60000,-78.8096389,42.8560744
+502,"11 Daytona Pl Babcock, Buffalo, NY",35000,-78.8424062,42.8728809
+503,"925 Delaware Ave #10B Bryant, Buffalo, NY",625000,-78.8704899,42.9092677
+504,"3720 Lake Shore Rd Buffalo, NY",250000,-78.849431,42.783853
+505,"196 Wilmuth Ave Buffalo, NY",55806,-78.843563,42.816817
+506,"81 Henrietta Ave Riverside Park, Buffalo, NY",45900,-78.9005698,42.9573005
+507,"134 Zittel St Cazenovia Park, Buffalo, NY",59900,-78.8043375,42.8565502
+508,"228 Ora Wrighter Dr Willert Park, Buffalo, NY",109900,-78.8655579,42.8823269
+509,"178 Kosciuszko St Broadway - Fillmore, Buffalo, NY",79900,-78.8310812,42.899571
+510,"736 Parkhurst Blvd Buffalo, NY",86928,-78.8314216,42.9789765
+511,"87 Elgas St Riverside Park, Buffalo, NY",59900,-78.9031777,42.961507
+512,"3694 5th St Buffalo, NY",64900,-78.8475369,42.7959166
+513,"190 Hamburg St Buffalo, NY",52000,-78.8591224,42.869038
+514,"16 Burlington Ave LaSalle, Buffalo, NY",80773,-78.8177225,42.9324742
+515,"115 Grape St Medical Park, Buffalo, NY",32264,-78.8560161,42.8988589
+516,"167 Florida St Hamlin Park, Buffalo, NY",32451,-78.85285,42.919998
+517,"140 French Lea Rd Buffalo, NY",133751,-78.733879,42.860701
+518,"451 Moore Ave Buffalo, NY",144900,-78.8360661,42.9758981
+519,"129 Clarence Ave LaSalle, Buffalo, NY",85748,-78.8223951,42.9379609
+520,"23 Celtic Pl Kingsley, Buffalo, NY",59000,-78.8463448,42.911749
+521,"127 Edna Pl Masten Park, Buffalo, NY",200000,-78.8608708,42.9046329
+522,"173 Selkirk St Babcock, Buffalo, NY",70000,-78.8415722,42.8725709
+523,"248 Trenton Ave Lakeview, Buffalo, NY",14000,-78.888767,42.892493
+524,"294 Massachusetts Ave Front Park, Buffalo, NY",47528,-78.8908487,42.9114816
+525,"120 Gatchell St Emerson, Buffalo, NY",37900,-78.8151576,42.90031
+526,"41 Manchester Pl Forest, Buffalo, NY",67356,-78.882743,42.925337
+527,"66 Pooley Pl Forest, Buffalo, NY",52297,-78.8918879,42.926934
+528,"210 Clark St Broadway - Fillmore, Buffalo, NY",1900,-78.8364142,42.8921423
+529,"94 Rumsey Rd Albright, Buffalo, NY",459900,-78.8707047,42.9295692
+530,"266 Abbington Ave Buffalo, NY",129900,-78.8429499,42.9791911
+531,"109 Mayer Ave Riverside Park, Buffalo, NY",9000,-78.898876,42.949497
+532,"210 Ellicott St #505 Central Business District, Buffalo, NY",269900,-78.8727507,42.8843319
+533,"104 Argus St Riverside Park, Buffalo, NY",64900,-78.904103,42.9605615
+534,"126 Breckenridge St Grant Ferry, Buffalo, NY",49900,-78.8970079,42.9171526
+535,"464 Fargo Ave Front Park, Buffalo, NY",90000,-78.8957962,42.9084169
+536,"449 W Ferry St Front Park, Buffalo, NY",140000,-78.8850105,42.9152259
+537,"60 Warring Ave Schiller Park, Buffalo, NY",49000,-78.8122862,42.9120436
+538,"51 Comstock Ave LaSalle, Buffalo, NY",57000,-78.8170906,42.9380072
+539,"16 Peoria St Black Rock, Buffalo, NY",48730,-78.9030689,42.9434843
+540,"343 Humboldt Pkwy Hamlin Park, Buffalo, NY",47440,-78.8466547,42.9247849
+541,"172 Kosciuszko St Broadway - Fillmore, Buffalo, NY",79900,-78.8311153,42.8994032
+542,"28 Edgewood Ave Abbott McKinley, Buffalo, NY",77342,-78.8174054,42.8475779
+543,"78 Oakmont Ave Kenfield, Buffalo, NY",36318,-78.8107798,42.9325144
+544,"114 Stanley St Lovejoy, Buffalo, NY",34834,-78.8097465,42.8923226
+545,"135 Carmel Rd Starin Central, Buffalo, NY",110539,-78.8374494,42.9513664
+546,"122 Tacoma Ave North Park, Buffalo, NY",142179,-78.8682243,42.9517422
+547,"899 Niagara St Front Park, Buffalo, NY",50000,-78.897813,42.907851
+548,"383 Herkimer St Forest, Buffalo, NY",55000,-78.8921349,42.9232117
+549,"173 Emporium Ave Buffalo, NY",9900,-78.790508,42.859411
+550,"4886 Milestrip Rd Buffalo, NY",109000,-78.799428,42.791529
+551,"18 Labelle Ave Buffalo, NY",87583,-78.8294,42.798748
+552,"297 Chelsea St Kenilworth, Buffalo, NY",185530,-78.8399985,42.9652635
+553,"132 Edison Ave Kenfield, Buffalo, NY",46619,-78.8023496,42.9264915
+554,"274 Wellington Ave Kenilworth, Buffalo, NY",76820,-78.8339786,42.9667013
+555,"349 Dewey Ave Leroy, Buffalo, NY",43931,-78.8344322,42.9310718
+556,"219 Riverside Ave Riverside Park, Buffalo, NY",70770,-78.9018563,42.9528594
+557,"200 Delaware Ave #1502 Central Business District, Buffalo, NY",479000,-78.8779831,42.8898534
+558,"161 Southampton St Masten Park, Buffalo, NY",39900,-78.859054,42.906376
+559,"110 Keystone St Schiller Park, Buffalo, NY",43098,-78.8106886,42.9046842
+560,"123 Harbridge Mnr Buffalo, NY",584900,-78.7186926,42.9720184
+561,"92 Roswell Ave Old Town, Buffalo, NY",89900,-78.9111693,42.9595889
+562,"68 Davidson Ave Kensington, Buffalo, NY",68000,-78.811053,42.9375201
+563,"4055 Clinton St Buffalo, NY",143500,-78.733572,42.855562
+564,"246 Highgate Ave LaSalle, Buffalo, NY",79704,-78.8186649,42.9484189
+565,"5 Corwin Dr Buffalo, NY",278500,-78.7767889,42.813998
+566,"373 Parkdale Ave Forest, Buffalo, NY",215000,-78.8869642,42.9256174
+567,"1141 Delaware Ave #5S Delaware-West Ferry, Buffalo, NY",474900,-78.8687103,42.9149393
+568,"757 Amherst St Park Meadow, Buffalo, NY",147626,-78.876195,42.9403312
+569,"1100 Michigan Ave Medical Park, Buffalo, NY",40000000,-78.8630601,42.9033758
+570,"51 Eagan Dr Buffalo, NY",12000,-78.802866,42.829242
+571,"142 Harrison St Babcock, Buffalo, NY",3000,-78.829057,42.871147
+572,"205 Dodge St Masten Park, Buffalo, NY",150000,-78.859854,42.9055518
+573,"256 Cortland Ave Buffalo, NY",334999,-78.844703,42.970128
+574,"20 Randolph Ave Buffalo, NY",105000,-78.799038,42.907501
+575,"346 Hopkins St South Park, Buffalo, NY",4500000,-78.8327963,42.8467657
+576,"18 Randolph Ave Buffalo, NY",105000,-78.799041,42.907413
+577,"2298 Seneca St Cazenovia Park, Buffalo, NY",140000,-78.8042968,42.8509883
+578,"313 Weimar St Kaisertown, Buffalo, NY",55000,-78.8074618,42.8732717
+579,"110 Gerald Ave Kenfield, Buffalo, NY",51934,-78.8095093,42.9253517
+580,"355 Dewey Ave Leroy, Buffalo, NY",70000,-78.8341447,42.9310704
+581,"59 Grafton Ave Buffalo, NY",59426,-78.828223,42.791315
+582,"54 Woodside Ave South Park, Buffalo, NY",59812,-78.8216466,42.8422478
+583,"19 Melvin Pl Seneca, Buffalo, NY",40000,-78.8249752,42.8634831
+584," V L Tifft St Abbott McKinley, Buffalo, NY",4500000,-78.8204169,42.8469307
+585,"120 Rother Ave Broadway - Fillmore, Buffalo, NY",75000,-78.8320333,42.8979152
+586,"58 Clay St Black Rock, Buffalo, NY",90000,-78.8939334,42.9393134
+587,"57 Argus St Riverside Park, Buffalo, NY",115206,-78.9025544,42.9598985
+588,"65 Beckford Ct Buffalo, NY",599900,-78.719392,42.968987
+589,"64 Tennyson Ave North Park, Buffalo, NY",135652,-78.8675397,42.9496812
+590,"42 Woodlawn Ave Masten Park, Buffalo, NY",66060,-78.8632367,42.9141634
+591,"142 Dartmouth Ave LaSalle, Buffalo, NY",59683,-78.8188435,42.9439871
+592,"114 Lonsdale Rd Hamlin Park, Buffalo, NY",42098,-78.8524016,42.918006
+593,"3943 Allendale Pkwy Buffalo, NY",132162,-78.8093191,42.7773834
+594,"79 Academy Rd Schiller Park, Buffalo, NY",51607,-78.805319,42.908161
+595,"51 Remoleno St Triangle, Buffalo, NY",51611,-78.8255266,42.8545497
+596,"247 Laird Ave Riverside Park, Buffalo, NY",57283,-78.905769,42.95541
+597,"1586 S Park Ave Triangle, Buffalo, NY",159900,-78.8275105,42.8550962
+598,"39 Liberty Ln Buffalo, NY",186374,-78.701113,42.831717
+599,"2184 Clinton St Buffalo, NY",149900,-78.79559,42.871908
+600,"326 Winslow Ave MLK Park, Buffalo, NY",125000,-78.8407881,42.9132234
+601,"22 Buffum St Cazenovia Park, Buffalo, NY",34123,-78.8059743,42.85317
+602,"57 Collins Ave Buffalo, NY",110413,-78.78522,42.856155
+603,"83 Progressive Ave Riverside Park, Buffalo, NY",58961,-78.899738,42.948452
+604,"39 Kenefick Ave Abbott McKinley, Buffalo, NY",58382,-78.8220855,42.8502647
+605,"95 Mercer Ave Starin Central, Buffalo, NY",117875,-78.8313246,42.9419141
+606,"34 Vulcan St Old Town, Buffalo, NY",40333,-78.9110493,42.957621
+607,"70 Euclid Ave Buffalo, NY",36770,-78.7977321,42.908936
+608,"130 Kelburn St Kaisertown, Buffalo, NY",29059,-78.8151638,42.8713383
+609,"16 Ritt Ave Military, Buffalo, NY",160000,-78.8885403,42.9580187
+610,"810 William St Broadway - Fillmore, Buffalo, NY",9900,-78.841389,42.885262
+611,"1183 Broadway St Broadway - Fillmore, Buffalo, NY",20000,-78.831116,42.894285
+612,"852 Niagara St Front Park, Buffalo, NY",129900,-78.8972596,42.9062752
+613,"1239 Michigan Ave Masten Park, Buffalo, NY",150000,-78.8622101,42.9069868
+614,"2069 Broadway St Buffalo, NY",65000,-78.798365,42.8985429
+615,"71 Orange St Medical Park, Buffalo, NY",75000,-78.8588003,42.8967752
+616,"204 Vermont St Front Park, Buffalo, NY",121326,-78.8910832,42.9067235
+617,"19 Erb St Schiller Park, Buffalo, NY",37000,-78.79988,42.9186812
+618,"35 Peach St Willert Park, Buffalo, NY",64900,-78.8579125,42.8962589
+619,"82 Royal Ave Riverside Park, Buffalo, NY",94900,-78.9062461,42.9518928
+620,"214 Cortland Ave Buffalo, NY",334900,-78.846339,42.97014
+621,"57 Florida St Cold Springs, Buffalo, NY",89900,-78.856927,42.920076
+622,"405 Schiller St Lovejoy, Buffalo, NY",41000,-78.8008518,42.8960393
+623,"80 Remington Pl Seneca, Buffalo, NY",87629,-78.819982,42.860808
+624,"78 Mineral Springs Rd Seneca, Buffalo, NY",84041,-78.810604,42.859477
+625,"1720 S Park Ave Triangle, Buffalo, NY",84900,-78.825024,42.8518929
+626,"73 Lamson Rd Kenilworth, Buffalo, NY",120441,-78.8389172,42.9671263
+627,"100 Shoshone St Starin Central, Buffalo, NY",145458,-78.8358988,42.9503616
+628,"110 Armin Pl Seneca, Buffalo, NY",69272,-78.812308,42.8619506
+629,"448 Taunton Pl North Park, Buffalo, NY",130283,-78.847742,42.954725
+630,"20 Roslyn St Schiller Park, Buffalo, NY",23484,-78.8101135,42.9147889
+631,"129 Newburgh Ave Schiller Park, Buffalo, NY",34155,-78.8085386,42.9181942
+632,"292 Lafayette Ave Grant Ferry, Buffalo, NY",69483,-78.8876,42.9204528
+633,"316 Davey St Lovejoy, Buffalo, NY",36594,-78.8038901,42.893446
+634,"38 Ladner Ave South Park, Buffalo, NY",37641,-78.8308635,42.8419785
+635,"59 Knox Ave Park Meadow, Buffalo, NY",134700,-78.865625,42.9430926
+636,"25 Cecil St North Delaware, Buffalo, NY",99900,-78.8736103,42.9539371
+637,"225 Wagner St Buffalo, NY",45279,-78.792056,42.88379
+638,"114 Moore Ave Buffalo, NY",188334,-78.848676,42.976476
+639,"762 Glenwood Ave Grider, Buffalo, NY",85900,-78.8369153,42.9125051
+640,"76 Weber Ave Schiller Park, Buffalo, NY",74900,-78.8036608,42.9211919
+641,"405 Parkside Ave Parkside, Buffalo, NY",198358,-78.8503459,42.9410518
+642,"2415-2419 Seneca St Cazenovia Park, Buffalo, NY",168900,-78.802009,42.848274
+643,"36 Heussy Ave Triangle, Buffalo, NY",115000,-78.8269986,42.8577693
+644,"24 Norman Ave Cazenovia Park, Buffalo, NY",80000,-78.8080654,42.8552188
+645,"551 Dingens St Buffalo, NY",89000,-78.795087,42.877394
+646,"105 Germain St Black Rock, Buffalo, NY",189000,-78.8890961,42.9403319
+647,"30 Sattler Ave Schiller Park, Buffalo, NY",42136,-78.8063722,42.9106921
+648,"60 Pries Ave Triangle, Buffalo, NY",34120,-78.8299831,42.8500353
+649,"391 Herkimer St Forest, Buffalo, NY",56900,-78.892052,42.923356
+650,"264 Orchard Dr Buffalo, NY",123591,-78.8635458,42.9892978
+651,"268 Parker Ave Starin Central, Buffalo, NY",92348,-78.8392265,42.9466876
+652,"150 Fancher Ave Buffalo, NY",106515,-78.8298807,42.9771952
+653,"203 Dodge St Masten Park, Buffalo, NY",47900,-78.8599542,42.9055636
+654,"131 Lemon St Medical Park, Buffalo, NY",55900,-78.859408,42.897864
+655,"68 Lockwood Ave South Park, Buffalo, NY",42861,-78.829738,42.844423
+656,"159 Indian Church Rd Cazenovia Park, Buffalo, NY",77594,-78.8004104,42.8541794
+657,"57 Josephine St MLK Park, Buffalo, NY",43334,-78.833432,42.908844
+658,"171 Dorchester Rd Forest, Buffalo, NY",59453,-78.8847084,42.9233347
+659,"37 Fennimore Ave Kensington, Buffalo, NY",39329,-78.8096732,42.9378917
+660,"86 Roanoke Pkwy Seneca, Buffalo, NY",77944,-78.8121192,42.8609567
+661,"55 Zittel St Cazenovia Park, Buffalo, NY",39046,-78.8063326,42.8549276
+662,"342 Downing St South Abbott, Buffalo, NY",53885,-78.8110835,42.8348599
+663,"149 Stockbridge Ave LaSalle, Buffalo, NY",42939,-78.820561,42.9414142
+664,"116 Gold St Lovejoy, Buffalo, NY",64900,-78.8052598,42.8879282
+665,"618 Wyoming Ave Leroy, Buffalo, NY",65875,-78.8245914,42.9315359
+666,"4708 E Highland Pkwy Buffalo, NY",151273,-78.8062403,42.7800693
+667,"485 Downing St South Abbott, Buffalo, NY",108895,-78.8055942,42.8343616
+668,"91 Nicholson St University, Buffalo, NY",131337,-78.834419,42.957046
+669,"53 Glidden St Buffalo, NY",86378,-78.786197,42.8789
+670,"1020 Englewood Ave Wilton Argonne, Buffalo, NY",91789,-78.8524751,42.9717954
+671,"374 Germania St Tifft, Buffalo, NY",94900,-78.8350434,42.857423
+672,"349 Bissell Ave Genesee Moselle, Buffalo, NY",44900,-78.8230253,42.9133075
+673,"151 Louisiana St Buffalo, NY",55000,-78.8661623,42.8658655
+674,"16 Oakdale Pl Babcock, Buffalo, NY",54178,-78.833154,42.8691362
+675,"172 Hagen St Schiller Park, Buffalo, NY",27264,-78.8079583,42.9197263
+676,"352 West Ave Front Park, Buffalo, NY",97003,-78.8876256,42.9017314
+677,"118 Sattler Ave Schiller Park, Buffalo, NY",37395,-78.8062893,42.913097
+678,"185 Saint Lawrence Ave North Park, Buffalo, NY",69618,-78.8626746,42.9560327
+679,"46 Sprenger Ave Schiller Park, Buffalo, NY",21470,-78.8040104,42.9111549
+680,"2254 Main St Parkside, Buffalo, NY",119145,-78.8481457,42.9312456
+681,"51 Quincy St Lovejoy, Buffalo, NY",28446,-78.8218661,42.8934891
+682,"36 Fleming St Babcock, Buffalo, NY",33853,-78.8348877,42.8804324
+683,"145 Royal Ave Riverside Park, Buffalo, NY",59660,-78.9039174,42.9524702
+684,"51 Saint Florian St Military, Buffalo, NY",72043,-78.8856387,42.9455791
+685,"185 Texas St Schiller Park, Buffalo, NY",32474,-78.8103861,42.9216296
+686,"32 Weyand Ave Cazenovia Park, Buffalo, NY",57239,-78.8092047,42.8563519
+687,"156 Butler Ave Hamlin Park, Buffalo, NY",73574,-78.8462351,42.9163901
+688,"35 Leamington Pl Seneca, Buffalo, NY",80000,-78.818242,42.8630949
+689,"80 Garvey Ave Triangle, Buffalo, NY",67670,-78.8292884,42.8486575
+690,"52 Wick St Emerson, Buffalo, NY",64429,-78.8192738,42.8978033
+691,"276 E Utica St Masten Park, Buffalo, NY",59743,-78.8554693,42.9113271
+692,"88 Wellington Rd North Park, Buffalo, NY",158500,-78.8517515,42.9467505
+693,"41 Evanston Pl South Park, Buffalo, NY",76210,-78.8191626,42.8335228
+694,"35 Lockwood Ave South Park, Buffalo, NY",90568,-78.8309545,42.8440293
+695,"623 Hopkins St Tifft, Buffalo, NY",92327,-78.8319695,42.8544713
+696,"137 Weyand Ave Cazenovia Park, Buffalo, NY",53676,-78.805854,42.8580243
+697,"168 Aldrich Pl South Park, Buffalo, NY",77795,-78.817543,42.8331329
+698,"52 Olcott Ave Abbott McKinley, Buffalo, NY",69492,-78.82172,42.848945
+699,"163 Nicholson St University, Buffalo, NY",128898,-78.8370482,42.9570603
+700,"94 Rosedale St Riverside Park, Buffalo, NY",59800,-78.9029174,42.961922
+701,"125 Theodore St Schiller Park, Buffalo, NY",33069,-78.8080606,42.9132765
+702,"107 Titus Ave Emerson, Buffalo, NY",29900,-78.822525,42.899168
+703,"104 Thatcher Ave LaSalle, Buffalo, NY",47881,-78.8186459,42.9390466
+704,"255 McConkey Dr Buffalo, NY",120527,-78.863328,42.989713
+705,"198 Roslyn St Schiller Park, Buffalo, NY",36972,-78.8099025,42.9199063
+706,"26 Whitfield Ave South Park, Buffalo, NY",70275,-78.822699,42.8438641
+707,"169 Leslie St Genesee Moselle, Buffalo, NY",46233,-78.8174924,42.9157527
+708,"57 Leamington Pl Seneca, Buffalo, NY",45714,-78.8177244,42.863564
+709,"408 Hewitt Ave Kensington, Buffalo, NY",58813,-78.8095354,42.9428701
+710,"484 Dartmouth Ave Kensington, Buffalo, NY",56940,-78.8067246,42.9436318
+711,"674 Norfolk Ave LaSalle, Buffalo, NY",52326,-78.8197424,42.9333964
+712,"49 California St Grant Ferry, Buffalo, NY",67024,-78.89556,42.9134324
+713,"422 Davey St Lovejoy, Buffalo, NY",63416,-78.8038321,42.8963927
+714,"614 E Delavan Ave Grider, Buffalo, NY",47615,-78.834191,42.922092
+715,"20 Persia St Schiller Park, Buffalo, NY",43048,-78.8005707,42.9103878
+716,"68 Hammerschmidt Ave Seneca, Buffalo, NY",75443,-78.8170729,42.858871
+717,"94 Avondale Pl Seneca, Buffalo, NY",78423,-78.8164726,42.8640336
+718,"418 Shirley Ave Kensington, Buffalo, NY",47350,-78.809196,42.94437
+719,"19 Phyllis Ave Kensington, Buffalo, NY",52127,-78.8128483,42.9356308
+720,"441 Schiller St Lovejoy, Buffalo, NY",51641,-78.800714,42.897016
+721,"28 Deer St Military, Buffalo, NY",56606,-78.893536,42.9464169
+722,"172 Wendel Ave Kenilworth, Buffalo, NY",118865,-78.8303696,42.9630197
+723,"82 Oconnor Ave Tifft, Buffalo, NY",72426,-78.8363731,42.8563359
+724,"132 Dunlop Ave LaSalle, Buffalo, NY",55576,-78.8191707,42.9432692
+725,"355 Dartmouth Ave Kensington, Buffalo, NY",56356,-78.8114944,42.9432496
+726,"474 S Ogden St Kaisertown, Buffalo, NY",59320,-78.802218,42.8740791
+727,"128 Ideal St Lovejoy, Buffalo, NY",57029,-78.8077223,42.8882807
+728,"39 A St Broadway - Fillmore, Buffalo, NY",41487,-78.837742,42.9007355
+729,"81 Whitehall Ave South Abbott, Buffalo, NY",62220,-78.8118669,42.8352319
+730,"82 John Paul Ct Babcock, Buffalo, NY",66921,-78.8408123,42.8843109
+731,"169 Northland Ave Cold Springs, Buffalo, NY",50809,-78.853764,42.919057
+732,"405 Lasalle Ave LaSalle, Buffalo, NY",35236,-78.8153207,42.9448919
+733,"415 Lasalle Ave LaSalle, Buffalo, NY",53698,-78.8149759,42.9448623
+734,"93 Mayer Ave Riverside Park, Buffalo, NY",32145,-78.8992991,42.9498252
+735,"92 Unger Ave Seneca, Buffalo, NY",62295,-78.8189438,42.8600519
+736,"737 Moore Ave Buffalo, NY",107207,-78.825352,42.975872
+737,"206 Thompson St Black Rock, Buffalo, NY",48567,-78.9010486,42.9396873
+738,"100 Pacific St Black Rock, Buffalo, NY",59511,-78.8991353,42.9424035
+739,"112 Masten Ave Masten Park, Buffalo, NY",99000,-78.8599292,42.9053071
+740,"136 W Ferry St Grant Ferry, Buffalo, NY",84361,-78.8967196,42.9153151
+741,"53 Leonard St Kensington, Buffalo, NY",44802,-78.8033375,42.9389323
+742,"58 Martha Ave Kensington, Buffalo, NY",50868,-78.8114182,42.9345711
+743,"62 Seabrook St Riverside Park, Buffalo, NY",43530,-78.8972608,42.963825
+744,"8 Block St Schiller Park, Buffalo, NY",33705,-78.8112451,42.9128991
+745,"425 Winspear Ave Kensington, Buffalo, NY",56719,-78.8106874,42.9487448
+746,"99 Roesch Ave Riverside Park, Buffalo, NY",67533,-78.9055664,42.9584404
+747,"508 Glenwood Ave Kingsley, Buffalo, NY",63970,-78.8463846,42.9125086
+748,"354 Roesch Ave Riverside Park, Buffalo, NY",68380,-78.8991438,42.9635022
+749,"34 Hennepin St Lovejoy, Buffalo, NY",74013,-78.8128119,42.8881949
+750,"109 Fisher St Schiller Park, Buffalo, NY",63133,-78.8009465,42.9208286
+751,"57 Kenefick Ave Abbott McKinley, Buffalo, NY",95501,-78.8214059,42.8502755
+752,"214 Dearborn St Black Rock, Buffalo, NY",68635,-78.9016801,42.9350524
+753,"261 Dartmouth Ave LaSalle, Buffalo, NY",64863,-78.8144496,42.9432406
+754,"102 Briscoe Ave Schiller Park, Buffalo, NY",50414,-78.803366,42.909205
+755,"120 Central Ave Lovejoy, Buffalo, NY",72120,-78.8156019,42.8881806
+756,"112 Dunlop Ave LaSalle, Buffalo, NY",37206,-78.8198941,42.9432814
+757,"199 Chadduck Ave Riverside Park, Buffalo, NY",68446,-78.9055777,42.956159
+758,"564 Fargo Ave Front Park, Buffalo, NY",99900,-78.898003,42.910737
+759,"927 Michigan Ave Medical Park, Buffalo, NY",199900,-78.863483,42.897878
+760,"30 Jewett Pkwy Parkside, Buffalo, NY",247664,-78.8452003,42.93517
+761,"115 Wood Ave Schiller Park, Buffalo, NY",500,-78.8092663,42.9049338
+762,"432 Lisbon Ave Kensington, Buffalo, NY",67040,-78.8123876,42.9468593
+763,"537 Lasalle Ave Kensington, Buffalo, NY",67293,-78.8121574,42.9447488
+764,"482 Lisbon Ave Kensington, Buffalo, NY",70358,-78.8105679,42.9468469
+765,"31 Pawnee Pkwy Seneca, Buffalo, NY",87133,-78.8095374,42.8603867
+766,"1818 Kensington Ave Buffalo, NY",67372,-78.790304,42.947794
+767," V L Broadway St Buffalo, NY",89000,-78.801042,42.8985429
+768,"126 Block St Schiller Park, Buffalo, NY",59472,-78.8069234,42.9129019
+769,"69 Hayden St Cazenovia Park, Buffalo, NY",88011,-78.8097445,42.8584453
+770,"31 Kane St Willert Park, Buffalo, NY",85461,-78.8560172,42.8934077
+771,"241 Bedford Ave Park Meadow, Buffalo, NY",195030,-78.8739848,42.9398436
+772,"512 Genesee St Willert Park, Buffalo, NY",92229,-78.8569729,42.8951842
+773,"26 N Park Ave North Park, Buffalo, NY",207417,-78.8561684,42.9453251
+774,"134 Winspear Ave LaSalle, Buffalo, NY",70107,-78.8215087,42.949157
+775,"477 Amherst St Black Rock, Buffalo, NY",74362,-78.8863653,42.9395069
+776,"54 Clayton St Military, Buffalo, NY",78290,-78.8876861,42.9529409
+777,"26 Cushing Pl South Abbott, Buffalo, NY",128551,-78.8062499,42.8376027
+778,"3059 Tonawanda Creek Rd Buffalo, NY",159500,-78.7369159,43.069957
+779,"473 Minnesota Ave Kensington, Buffalo, NY",73899,-78.8119421,42.945658
+780,"37 Glencove Rd Kenmore NE, Buffalo, NY",189665,-78.870698,42.9795896
+781,"84 Humason Ave Schiller Park, Buffalo, NY",65048,-78.799839,42.9160273
+782,"9 Thistle Ct Buffalo, NY",259900,-78.786637,42.820017
+783,"68 Polish Pl Seneca, Buffalo, NY",111866,-78.8015095,42.8632077
+784,"21 Junior Ave Cazenovia Park, Buffalo, NY",128163,-78.801459,42.852994
+785,"609 Busti Ave Front Park, Buffalo, NY",169900,-78.8945907,42.9008538
+786,"81 Rogers Ave Schiller Park, Buffalo, NY",77052,-78.8037662,42.9187931
+787,"520 Madison St Johnson, Buffalo, NY",84790,-78.8531628,42.894619
+788,"2080 Delaware Ave Park Meadow, Buffalo, NY",700000,-78.8680381,42.9408753
+789,"49 Seminole Pkwy Seneca, Buffalo, NY",98290,-78.8118555,42.8593969
+790,"638 Lasalle Ave Kensington, Buffalo, NY",91435,-78.808405,42.9451443
+791,"120 Leonard Post Dr Buffalo, NY",90998,-78.7863133,42.9108804
+792,"473 Division St Willert Park, Buffalo, NY",136711,-78.8575226,42.8801644
+793,"510 Highgate Ave Kensington, Buffalo, NY",82392,-78.8087673,42.9483327
+794,"20 Haller Ave Buffalo, NY",99520,-78.7945676,42.9078051
+795,"324 Highgate Ave LaSalle, Buffalo, NY",114014,-78.815702,42.9482654
+796,"17 Sprenger Ave Schiller Park, Buffalo, NY",76953,-78.8034953,42.9103303
+797,"166 Bickford Ave Kensington, Buffalo, NY",81598,-78.8077393,42.939689
+798,"59 Cleveland Dr Buffalo, NY",115167,-78.796948,42.943375
+799,"94 Ontario St Riverside Park, Buffalo, NY",88961,-78.9058017,42.947867
+800,"174 Butler Ave Hamlin Park, Buffalo, NY",99435,-78.845574,42.9163848
+801,"95 Huetter Ave Old Town, Buffalo, NY",118584,-78.9099525,42.9588918
+802,"978 Walden Ave Schiller Park, Buffalo, NY",75991,-78.8000815,42.9069071
+803,"411 Doat St Schiller Park, Buffalo, NY",72191,-78.8054598,42.9095651
+804,"151 Rounds Ave Kensington, Buffalo, NY",91940,-78.8078789,42.9471869
+805,"102 Ontario St Riverside Park, Buffalo, NY",93468,-78.9055653,42.9481692
+806,"15 Barthel St Genesee Moselle, Buffalo, NY",85000,-78.8270458,42.9041358
+807,"84 Alexander Pl Cold Springs, Buffalo, NY",158112,-78.8552811,42.9176773
+808,"34 Eggert Rd Buffalo, NY",73435,-78.798964,42.92378
+809,"231 Pine St Willert Park, Buffalo, NY",142930,-78.863524,42.886242
+810,"116 Goethe St Lovejoy, Buffalo, NY",108862,-78.8003559,42.888379
+811,"435 Goethe St Lovejoy, Buffalo, NY",88694,-78.799535,42.896928
+812,"545 Lisbon Ave Kensington, Buffalo, NY",84604,-78.8081612,42.9464667
+813,"77 William Price Pkwy Starin Central, Buffalo, NY",415462,-78.8295618,42.9451299
+814,"38 Heward Ave Riverside Park, Buffalo, NY",85587,-78.904879,42.9496697
+815,"164 Edson St Buffalo, NY",135799,-78.798437,42.852687
+816,"1275 Walden Ave Buffalo, NY",61913,-78.788869,42.9071
+817,"12 Leonard Post Dr Buffalo, NY",69927,-78.7863285,42.9079478
+818,"123 Fredro St Kaisertown, Buffalo, NY",136245,-78.8102965,42.8711678
+819,"159 Goulding Ave Hamlin Park, Buffalo, NY",101191,-78.8462514,42.9152518
+820,"455 Zimmerman Blvd Buffalo, NY",196019,-78.8558198,42.9846633
+821,"258 Cambridge Ave Genesee Moselle, Buffalo, NY",97142,-78.8228786,42.9216947
+822,"199 Phyllis Ave Kensington, Buffalo, NY",104378,-78.806089,42.9356209
+823,"268 Cass Ave Buffalo, NY",80053,-78.781721,42.883781
+824,"345 Skillen St Riverside Park, Buffalo, NY",100192,-78.8990418,42.9618902
+825,"218 Waverly St Cold Springs, Buffalo, NY",132539,-78.8577251,42.9185722
+826,"15 Hastings Ave Kensington, Buffalo, NY",76433,-78.8129542,42.9363547
+827,"4251 Salem Dr Buffalo, NY",277615,-78.8215572,42.8017094
+828,"76 Beverly Rd Hamlin Park, Buffalo, NY",79900,-78.8511691,42.9214653
+829,"360 Southwood Dr Buffalo, NY",171211,-78.8568485,42.985909
+830,"141 Edson St Buffalo, NY",107246,-78.79868,42.851971
+831,"141 Donaldson Rd Hamlin Park, Buffalo, NY",82288,-78.8468396,42.9182887
+832,"99 Alma Ave Kenfield, Buffalo, NY",17000,-78.814634,42.9268968
+833,"656 Norfolk Ave LaSalle, Buffalo, NY",9500,-78.81987,42.932893
+834,"660 Norfolk Ave LaSalle, Buffalo, NY",9500,-78.81987,42.932978
+835,"812 William St Broadway - Fillmore, Buffalo, NY",9900,-78.841292,42.885259
+836,"170 Carlton St Medical Park, Buffalo, NY",39900,-78.862886,42.8987
+837,"5384 Berg Rd Buffalo, NY",34900,-78.786137,42.805668
+838,"190 Labelle Ave Buffalo, NY",35900,-78.829511,42.792786
+839,"190 James St Babcock, Buffalo, NY",25131,-78.842009,42.879194
+840,"202 W Ferry St Grant Ferry, Buffalo, NY",7500,-78.894297,42.915415
+841,"259 Mineral Springs Rd Cazenovia Park, Buffalo, NY",59000,-78.802983,42.860109
+842,"62 Pries Ave Triangle, Buffalo, NY",34120,-78.829854,42.850086
+843,"436 Woodlawn Ave Kingsley, Buffalo, NY",6000,-78.848737,42.914108
+844,"619 Hopkins St Tifft, Buffalo, NY",92327,-78.831911,42.854389
+845,"969 Exchange St Babcock, Buffalo, NY",35000,-78.842347,42.8730637
+846,"416 Davey St Lovejoy, Buffalo, NY",63416,-78.803951,42.896288
+847,"419 Dearborn St Black Rock, Buffalo, NY",55300,-78.9039405,42.9405295
+848,"539 E Ferry St Kingsley, Buffalo, NY",9900,-78.844206,42.914456
+849,"340 Parkdale Ave Forest, Buffalo, NY",20000,-78.887594,42.924715
+850,"338 Parkdale Ave Forest, Buffalo, NY",20000,-78.8876049,42.924641
+851,"47 Weber Ave Schiller Park, Buffalo, NY",40137,-78.803026,42.920469
+852," Main St Main and Campbell Buffalo, NY",195000,-78.817505,42.954412
+853,"344 Katherine St Buffalo, NY",395000,-78.856911,42.869169
+854,"165 Richmond Ave Bryant, Buffalo, NY",848147,-78.8811247,42.9068978
+855,"58 Hertel Ave Black Rock, Buffalo, NY",255000,-78.904576,42.941565
+856,"128 Harriet Ave Kenfield, Buffalo, NY",88619,-78.803707,42.926345
+857,"73 Weber Ave Schiller Park, Buffalo, NY",76621,-78.803017,42.92113
+858,"105 Medina St Cheektowaga, NY",79900,-78.789963,42.880359
+859,"16 Pleasant St Cheektowaga, NY",110000,-78.750681,42.926553
+860,"152 Roycroft Blvd Amherst, NY",239900,-78.779553,42.957976
+861,"183 Lorfield Dr Amherst, NY",169900,-78.7719427,42.9545909
+862,"200 Hamilton Dr Amherst, NY",115000,-78.782567,42.953186
+863,"450 Harding Rd Williamsville, NY",129900,-78.699066,42.953037
+864,"219 North Ave West Seneca, NY",82900,-78.753233,42.857982
+865,"10 Mayberry Dr W Cheektowaga, NY",87900,-78.740639,42.868723
+866,"221 Highland Dr Williamsville, NY",149900,-78.734255,42.958462
+867,"864 Cleveland Dr Cheektowaga, NY",44520,-78.767651,42.94547
+868,"2797 Tonawanda Creek Rd Amherst, NY",220000,-78.7461991,43.0683444
+869,"2855 Clinton St West Seneca, NY",795000,-78.774215,42.8651101
+870,"4411 Union Rd Cheektowaga, NY",79900,-78.753737,42.9338989
+871,"260 S Forest Rd Amherst, NY",289990,-78.758631,42.953255
+872,"17 Alsace St West Seneca, NY",29500,-78.761424,42.8712779
+873,"844 Main St West Seneca, NY",165900,-78.7435482,42.8340431
+874,"310 Emporium Ave West Seneca, NY",139900,-78.7911139,42.863183
+875,"23 Norman Pl Eggertsville, NY",219900,-78.8029314,42.960372
+876,"385 Mount Vernon Rd Amherst, NY",279900,-78.787841,42.9529349
+877,"178 Heather Rd Cheektowaga, NY",49900,-78.770135,42.941817
+878,"518 Sweet Home Rd Amherst, NY",70000,-78.8089563,42.9776701
+879,"50 East Ave West Seneca, NY",169900,-78.7384007,42.8339408
+880,"203 Rossler Ave Cheektowaga, NY",84900,-78.7943,42.883207
+881,"275 Kirkwood Dr West Seneca, NY",140000,-78.793614,42.852567
+882,"1519 Eggert Rd Amherst, NY",120000,-78.803702,42.969874
+883,"8540 Nottingham Ter Williamsville, NY",142000,-78.674224,42.9644059
+884,"40 Melody Ln Cheektowaga, NY",19800,-78.7061066,42.9328588
+885,"63 Chapel Ave Cheektowaga, NY",79900,-78.751665,42.924771
+886,"60 Henry St Cheektowaga, NY",74900,-78.77455,42.8828
+887,"291 W Klein Rd Williamsville, NY",137500,-78.747669,43.0019142
+888,"122 Burgundy Cir West Seneca, NY",45900,-78.7614089,42.871285
+889,"884 N Forest Rd Williamsville, NY",160000,-78.7676315,42.981419
+890,"430 Kinsey Ave Kenmore, Kenmore, NY",80960,-78.88707,42.9670599
+891,"240 N Forest Rd Williamsville, NY",199900,-78.75959,42.9669013
+892,"73 Dorrance Ave Lackawanna, NY",65000,-78.82106,42.831771
+893,"58 Marseille Ave West Seneca, NY",45900,-78.7614089,42.871285
+894,"335 S Cayuga Rd #B Amherst, NY",129999,-78.744935,42.953756
+895,"21 Marseille Ave West Seneca, NY",60000,-78.7614089,42.871285
+896,"89 Sundown Trl Amherst, NY",189999,-78.7534433,42.9993012
+897,"1090 Cleveland Dr Cheektowaga, NY",94900,-78.759068,42.945229
+898,"35 Bellwood Ave West Seneca, NY",94900,-78.788121,42.843396
+899,"14 Keph Dr #3 Amherst, NY",129900,-78.805761,43.001948
+900,"402 Washington Ave Kenmore, Kenmore, NY",119900,-78.885863,42.966267
+901,"97 Starlite Ave Cheektowaga, NY",99000,-78.7710309,42.887471
+902,"16 Wichita Rd West Seneca, NY",149900,-78.796544,42.84461
+903,"1370 Maple Rd #3 Amherst, NY",110000,-78.7368704,42.9914453
+904,"159 Danbury Dr Cheektowaga, NY",109900,-78.778032,42.935191
+905,"62 Garland Dr Amherst, NY",158600,-78.8051657,42.9674667
+906,"17 Pulaski St Lackawanna, NY",89900,-78.8315095,42.8214224
+907,"99 Pullman Ave Kenmore NW, Kenmore, NY",129900,-78.882592,42.9732032
+908,"30 Chateau Ter Amherst, NY",169900,-78.7812764,42.9636811
+909,"235 Woodland Dr Tonawanda, NY",124900,-78.8438973,42.9797719
+910,"210 Hopkins Rd Williamsville, NY",195000,-78.7400007,42.9843839
+911,"125 Lemoine Ave Cheektowaga, NY",132900,-78.776787,42.898993
+912,"17 Euclid Ave Kenmore, Kenmore, NY",200000,-78.8690946,42.9608239
+913,"105 Columbia Pkwy West Seneca, NY",134900,-78.795241,42.848462
+914,"44 Harwood Dr Amherst, NY",154900,-78.785916,42.953657
+915,"1953 N Forest Rd Williamsville, NY",169900,-78.767498,43.006848
+916,"72 Fowler Ave Kenmore NW, Kenmore, NY",130000,-78.8815902,42.97128
+917,"156 Hamilton Blvd Kenmore, Kenmore, NY",119900,-78.876715,42.9682559
+918,"56 Robin Ln West Seneca, NY",119900,-78.7372696,42.8412107
+919,"4578 E Overlook Dr Williamsville, NY",259900,-78.6630836,42.972506
+920,"81 Modern Ave Lackawanna, NY",69900,-78.825202,42.813623
+921,"301 Doncaster Rd Deerhurst Park, Kenmore, NY",319000,-78.8622525,42.9700872
+922,"337 Shetland Dr Williamsville, NY",209900,-78.703117,42.984642
+923,"188 Franklin St Lackawanna, NY",129000,-78.8293945,42.8205414
+924,"66 Steinway Ct Williamsville, NY",114000,-78.75059,42.989431
+925,"630 Youngs Rd Amherst, NY",129900,-78.725681,42.9790459
+926,"179 Sundown Trl Williamsville, NY",249900,-78.7537823,42.9963607
+927,"68 Collins Ave West Seneca, NY",129900,-78.785847,42.856425
+928,"1363 Cleveland Dr Cheektowaga, NY",98500,-78.749825,42.943047
+929,"357 Bernhardt Dr Amherst, NY",169900,-78.782062,42.952863
+930,"338 Washington Ave Kenmore, Kenmore, NY",124900,-78.883494,42.966301
+931,"55 Maplewood Ave West Seneca, NY",82800,-78.745582,42.857483
+932,"479 Lakewood Pkwy Amherst, NY",115000,-78.774304,42.970964
+933,"234 Doncaster Rd Deerhurst Park, Kenmore, NY",425499,-78.8594437,42.9700187
+934,"89 Woodgate Dr Cheektowaga, NY",119900,-78.722416,42.875146
+935,"49 Bramble Rd Williamsville, NY",319900,-78.7257791,43.0006823
+936,"241 Lamont Dr Amherst, NY",139900,-78.809324,42.974516
+937,"102 Mount Vernon Rd Amherst, NY",599900,-78.786843,42.960702
+938,"348 Allenhurst Rd Amherst, NY",159900,-78.822575,42.965105
+939,"50 Calla Way Cheektowaga, NY",119900,-78.7012919,42.9347997
+940,"482 Maynard Dr Amherst, NY",134800,-78.813021,42.9739549
+941,"4407 Overlook Dr Amherst, NY",385000,-78.663344,42.967193
+942,"96 Kelsey Dr West Seneca, NY",120000,-78.7829059,42.8424244
+943,"200 Westminster Rd West Seneca, NY",186000,-78.766372,42.845252
+944,"6 Rolling Woods Ln West Seneca, NY",349900,-78.7513698,42.8198746
+945,"1225 Campbell Blvd Amherst, NY",269900,-78.765119,43.049548
+946,"31 Loxley Rd Cheektowaga, NY",89900,-78.788889,42.919947
+947,"64 Barbara Pl Cheektowaga, NY",79000,-78.798371,42.920632
+948,"191 Park Forest Dr Williamsville, NY",199900,-78.783556,42.981501
+949,"49 Winstead Rd Lackawanna, NY",59900,-78.802532,42.827775
+950,"21 S Union Ter Williamsville, NY",209000,-78.7541857,42.9530814
+951,"164 Helen St Cheektowaga, NY",119900,-78.7771506,42.8817731
+952,"148 Harlem Rd West Seneca, NY",99900,-78.788613,42.846935
+953,"558 E And West Rd West Seneca, NY",169900,-78.750399,42.820603
+954,"5397 Center Pine Ln Williamsville, NY",450000,-78.679498,42.992449
+955,"44 W Cherbourg Dr Cheektowaga, NY",139900,-78.73356,42.873688
+956,"399 Mount Vernon Rd Amherst, NY",199900,-78.787851,42.95254
+957,"1370 Maple Rd #3 Amherst, NY",110000,-78.7368704,42.9914453
+958,"1240 Youngs Rd #A Amherst, NY",129000,-78.726846,42.99621
+959,"388 Shanley St Cheektowaga, NY",62050,-78.799319,42.88224
+960,"200 Bullis Rd West Seneca, NY",153000,-78.709402,42.835989
+961,"25 Allegany Ave Kenmore, Kenmore, NY",159900,-78.869534,42.96744
+962,"259 Emporium Ave West Seneca, NY",129900,-78.790419,42.861795
+963,"36 Jamstead Ct Williamsville, NY",209900,-78.7451312,42.9831055
+964,"5 Eagles Trce Williamsville, NY",279900,-78.738719,43.018996
+965,"40 Charter Oaks Dr #1 Amherst, NY",89900,-78.797321,43.01312
+966,"408 Robin Rd Amherst, NY",205000,-78.769947,43.01533
+967,"400 West Ave #L8 West Seneca, NY",124900,-77.648734,43.1511272
+968,"4745 Chestnut Ridge Rd #11 Amherst, NY",102900,-78.806675,43.003461
+969,"4808 Sheridan Dr Amherst, NY",389900,-78.7552309,42.9790782
+970,"146 Thorndale Ave #2 West Seneca, NY",148900,-78.784944,42.845701
+971,"14 W Cavalier Dr Cheektowaga, NY",149900,-78.736134,42.867443
+972,"192 Euclid Ave Kenmore, Kenmore, NY",169900,-78.8622869,42.9607984
+973,"119 Kirkwood Dr West Seneca, NY",119900,-78.7941139,42.848193
+974,"72 Henry St Cheektowaga, NY",80000,-78.774536,42.883171
+975,"25 Eagles Trce Amherst, NY",259900,-78.739192,43.019868
+976,"1205 Youngs Rd #H Amherst, NY",176500,-78.721587,42.995078
+977,"71 Barnsdale Ave West Seneca, NY",79094,-78.784121,42.856462
+978,"18 Willow Ridge Dr Amherst, NY",180000,-78.821552,43.012751
+979,"22 Mayberry Dr W Cheektowaga, NY",105000,-78.740622,42.869157
+980,"20 Longmeadow Rd Amherst, NY",79900,-78.8223987,42.9725371
+981,"111 Nantucket Dr E Cheektowaga, NY",134900,-78.737806,42.911156
+982,"661 Mill St Williamsville, NY",259900,-78.7426423,42.9798074
+983,"62 Strasbourg Dr Cheektowaga, NY",127200,-78.735655,42.870223
+984,"18 Sandra Dr Lackawanna, NY",129900,-78.806993,42.813929
+985,"630 Youngs Rd #F Amherst, NY",129900,-78.725681,42.9790459
+986,"55 Beech Rd Amherst, NY",80000,-78.803554,42.977507
+987,"53 Lucille Dr Cheektowaga, NY",109900,-78.763409,42.9367159
+988,"183 Gardenvale Dr Cheektowaga, NY",104500,-78.773906,42.939045
+989,"3381 McKinley Pkwy Blasdell, NY",147000,-78.810608,42.793195
+990,"150 Old Orchard St Amherst, NY",340000,-78.7560767,42.9979361
+991,"103 Caldwell Dr West Seneca, NY",269900,-78.779783,42.811943
+992,"4593 Chestnut Ridge Rd #10 Amherst, NY",119900,-78.80905,43.003992
+993,"13 Roycroft Dr West Seneca, NY",219900,-78.716387,42.819512
+994,"311 Getzville Rd Amherst, NY",201900,-78.7909335,42.9727485
+995,"569 French Rd Cheektowaga, NY",144900,-78.732893,42.867672
+996,"25 John Alex Dr West Seneca, NY",339000,-78.7356344,42.8140192
+997,"92 Sweetwood Dr Amherst, NY",214900,-78.815984,43.009621
+998,"1140 Campbell Blvd Amherst, NY",32162,-78.7698139,43.0473133
+999,"77 E Summerset Ln Amherst, NY",184900,-78.8198689,43.0435187
+1000,"280 Walton Dr Amherst, NY",159000,-78.7774479,42.9524733
+1001,"98 Campbell Rd Cheektowaga, NY",95000,-78.795155,42.9365359
+1002,"12 Mildred Dr Cheektowaga, NY",84500,-78.773167,42.9195319
+1003,"13 Mallard Ct Amherst, NY",234900,-78.781468,43.020294
+1004,"65 Ivyhurst Rd Amherst, NY",264900,-78.7991939,42.9663469
+1005,"67 Ivanhoe Rd Cheektowaga, NY",69000,-78.79741,42.924675
+1006,"73 Wheaton Dr Cheektowaga, NY",79900,-78.770087,42.921016
+1007,"135 Wayne Ave Amherst, NY",164900,-78.818312,43.0299369
+1008,"1403 Cleveland Dr Cheektowaga, NY",139900,-78.748464,42.942322
+1009,"305 N Rockingham Way Amherst, NY",525000,-78.761626,43.04859
+1010,"24 S Rossler Ave Cheektowaga, NY",105000,-78.795331,42.872392
+1011,"4965 Seneca St West Seneca, NY",124900,-78.7202968,42.8324565
+1012,"177 Noel Dr Amherst, NY",224900,-78.7557269,42.9861689
+1013," Transit Rd Amherst, NY",399500,-78.6969084,43.0429534
+1014,"56 South Dr Amherst, NY",200000,-78.801734,42.950144
+1015,"133 Losson Rd Cheektowaga, NY",197000,-78.747698,42.881761
+1016,"1940 Ridge Rd West Seneca, NY",200000,-78.7801713,42.8295175
+1017,"41 Heather Rd Cheektowaga, NY",121000,-78.769581,42.937609
+1018,"5080 Ledge Ln Williamsville, NY",274900,-78.6894783,42.9846808
+1019,"155 Angelacrest Ln West Seneca, NY",137000,-78.784313,42.814592
+1020,"58 Dutchmill Dr Williamsville, NY",294000,-78.735376,43.019278
+1021,"133 Lafayette Blvd Williamsville, NY",340000,-78.761393,42.956442
+1022,"210 Hamilton Dr Amherst, NY",159000,-78.782566,42.952884
+1023,"281 Griffith St Sloan, NY",84407,-78.791626,42.8990339
+1024,"144 Margaret Rd Amherst, NY",138650,-78.820178,42.976355
+1025,"47 Avery Pl Cheektowaga, NY",84438,-78.7979299,42.917403
+1026,"90 Round Trail Rd West Seneca, NY",239900,-78.771329,42.807455
+1027,"73 Strasbourg Dr Cheektowaga, NY",149900,-78.73503,42.870707
+1028,"39 Pinewood Dr West Seneca, NY",244900,-78.724114,42.832605
+1029,"59 E Cavalier Dr Cheektowaga, NY",145000,-78.734481,42.865922
+1030,"26 Vista Ct West Seneca, NY",499900,-78.7791038,42.8094753
+1031,"46 Lille Ln Cheektowaga, NY",162500,-78.733072,42.872356
+1032,"4 Deer Trl Cheektowaga, NY",249900,-78.7275,42.895337
+1033,"3905 S Park Ave Blasdell, NY",109000,-78.8241989,42.791129
+1034,"57 Patricia Ln Cheektowaga, NY",124900,-78.7740199,42.887636
+1035,"5 Winfield Dr West Seneca, NY",214900,-78.7480439,42.863176
+1036,"36 Patrice Ter Williamsville, NY",189900,-78.7026273,42.9794456
+1037,"15 Crescent Pl Lackawanna, NY",88900,-78.8258897,42.8240429
+1038,"63 Eiseman Ave Kenmore NW, Kenmore, NY",159900,-78.8738599,42.9736909
+1039,"950 Highland Ave Tonawanda, NY",129900,-78.8302717,42.9745793
+1040,"280 Cottonwood Dr Williamsville, NY",239900,-78.7483011,43.0070839
+1041,"106 Almont Ave West Seneca, NY",119900,-78.752152,42.838991
+1042,"249 Boll St Sloan, NY",57538,-78.790712,42.898066
+1043,"4429 Westwood Rd Williamsville, NY",245000,-78.6867028,42.9674331
+1044,"30 Marlin Dr West Seneca, NY",199999,-78.764397,42.8174599
+1045,"5067 Roseview Ave Blasdell, NY",164900,-78.794877,42.784173
+1046,"41 Patricia Dr West Seneca, NY",214900,-78.762127,42.812143
+1047,"110 Getzville Rd Amherst, NY",199900,-78.7916935,42.9667137
+1048,"207 Barnsdale Ave West Seneca, NY",99900,-78.783969,42.860292
+1049,"48 Meadow Lea Dr Eggertsville, NY",128900,-78.8185487,42.9680697
+1050,"269 Beale Ave Cheektowaga, NY",94500,-78.77242,42.934353
+1051,"60 Eileen Ct Cheektowaga, NY",225000,-78.728591,42.864272
+1052,"346 Knowlton Ave Kenmore, Kenmore, NY",81696,-78.85692,42.9624049
+1053,"38 N Cayuga Rd Williamsville, NY",425000,-78.747445,42.963638
+1054,"93 Penny Ln Amherst, NY",724900,-78.7590142,43.0454085
+1055,"142 Penny Ln Amherst, NY",599900,-78.7589465,43.0454077
+1056,"191 Orchard Pl Lackawanna, NY",125000,-78.81302,42.8231309
+1057,"52 Miriam Ave Blasdell, NY",99900,-78.826359,42.797671
+1058,"150 Donna Lea Blvd Williamsville, NY",199900,-78.7780322,42.9860044
+1059,"28 Currant Ave Lackawanna, NY",89900,-78.828676,42.818316
+1060,"176 Central Blvd Cheektowaga, NY",89900,-78.77773,42.917491
+1061,"30 Cherry Ln Cheektowaga, NY",159000,-78.77286,42.937584
+1062,"15 S Long St Williamsville, NY",499000,-78.753893,42.960833
+1063,"242 Michael Ave Sloan, NY",124900,-78.7955006,42.8968494
+1064,"365 Renaissance Dr Williamsville, NY",599900,-78.7105345,42.9967815
+1065,"24 Vern Ln Cheektowaga, NY",134900,-78.764124,42.886332
+1066,"4745 Chestnut Ridge Rd #11 Amherst, NY",102900,-78.806675,43.003461
+1067,"4615 Chestnut Ridge Rd #B Amherst, NY",93500,-78.807215,43.001942
+1068,"4615 Chestnut Ridge Rd #B Amherst, NY",93500,-78.807215,43.001942
+1069,"934 E And West Rd West Seneca, NY",245000,-78.736531,42.820529
+1070,"299 Tremont Ave Kenmore, Kenmore, NY",159900,-78.8819041,42.9657772
+1071,"330 Wagner Ave Sloan, NY",79900,-78.799073,42.8971779
+1072,"79 Darwin Dr Amherst, NY",485000,-78.779061,42.959475
+1073,"31 Dauphin Dr Williamsville, NY",425000,-78.7271097,43.0047641
+1074,"76 Caldwell Dr West Seneca, NY",299900,-78.7787919,42.8132284
+1075,"30 Crisfield Ave Cheektowaga, NY",127586,-78.784054,42.876034
+1076,"224 Tonawanda St Black Rock, Tonawanda, NY",139900,-78.8967195,42.9354056
+1077,"7 Veronica Dr West Seneca, NY",359000,-78.7226142,42.8513469
+1078,"64 Janine Ct Cheektowaga, NY",135539,-78.728376,42.8713679
+1079,"39 Lucerne Ct Cheektowaga, NY",101374,-78.73293,42.8694909
+1080,"32 Wedgewood Dr West Seneca, NY",194361,-78.7436067,42.8230518
+1081,"1607 Center Rd West Seneca, NY",144900,-78.722894,42.838882
+1082,"57 White Rd Cheektowaga, NY",134900,-78.751114,42.9460089
+1083,"108 Sable Palm Dr Cheektowaga, NY",142900,-78.725063,42.923147
+1084,"91 Gary Ln Cheektowaga, NY",139000,-78.712154,42.870361
+1085,"293 Capen Blvd Amherst, NY",184750,-78.8207212,42.9643991
+1086,"614 Dorrance Ave West Seneca, NY",119900,-78.800122,42.83225
+1087,"124 Nancycrest Ln West Seneca, NY",166900,-78.785595,42.8121719
+1088,"6 Mayberry Dr W Cheektowaga, NY",134900,-78.740643,42.868581
+1089,"137 Diane Dr Cheektowaga, NY",134900,-78.730336,42.923568
+1090,"3 Veronica Dr West Seneca, NY",305000,-78.7224604,42.8510937
+1091,"253 Hedstrom Dr Amherst, NY",229900,-78.7940896,42.9711522
+1092,"7 Forrester Ct Amherst, NY",439888,-78.7661849,43.0407525
+1093,"222 Sprucewood Ter Williamsville, NY",334900,-78.707843,42.982121
+1094,"1 Lakewood Pkwy Amherst, NY",399900,-78.769724,42.962638
+1095,"205 Springville Ave Amherst, NY",129900,-78.815642,42.96445
+1096,"7 Mayfield Ct West Seneca, NY",235900,-78.745491,42.862625
+1097,"3767 Clinton St West Seneca, NY",249900,-78.744789,42.855037
+1098,"5556 Seneca St West Seneca, NY",219900,-78.700892,42.828825
+1099,"28 Rowley Holw Cheektowaga, NY",197500,-78.72855,42.8959339
+1100,"99 Chateau Ter Amherst, NY",220000,-78.780676,42.965547
+1101,"3780 Clinton St West Seneca, NY",255000,-78.744297,42.858215
+1102,"1257 Mineral Springs Rd West Seneca, NY",159900,-78.773343,42.855325
+1103,"81 E Melcourt Dr Cheektowaga, NY",139900,-78.766994,42.920222
+1104,"640 Borden Rd Cheektowaga, NY",189900,-78.7095499,42.872131
+1105,"70 Coventry Rd Kenmore, NY",84131,-78.875516,42.9835962
+1106,"54 Cree Ton Dr Amherst, NY",189900,-78.815045,43.048256
+1107,"15 Wellington Rd Cheektowaga, NY",124900,-78.7502301,42.9181511
+1108,"11 Sanctuary Ct Amherst, NY",199900,-78.70537,42.989985
+1109,"33 Hennepin Rd Amherst, NY",112434,-78.820843,43.0294979
+1110,"104 Eiseman Ave Kenmore NW, Kenmore, NY",68888,-78.8753369,42.9732985
+1111,"707 Mineral Springs Rd West Seneca, NY",139900,-78.788768,42.864463
+1112,"328 Wabash Ave Kenmore, Kenmore, NY",96478,-78.882684,42.96472
+1113,"14 Robin Ct West Seneca, NY",224999,-78.733777,42.840106
+1114,"161 Fairlawn Dr Eggertsville, NY",399999,-78.7956041,42.9687757
+1115,"21 Vista Ct West Seneca, NY",354900,-78.770231,42.820142
+1116,"10 Clearview Dr West Seneca, NY",354900,-78.6869479,42.9827679
+1117,"4100 Gentwood Dr Amherst, NY",389000,-78.687372,42.9694036
+1118,"125 Cunard Ave Cheektowaga, NY",74113,-78.761561,42.928965
+1119,"1190 Maryvale Dr Cheektowaga, NY",99941,-78.7445586,42.933408
+1120,"39 Tillotson Ave Cheektowaga, NY",132900,-78.780555,42.9102729
+1121,"47 Loxley Rd Cheektowaga, NY",114271,-78.788954,42.920418
+1122,"105 Campbell Rd Cheektowaga, NY",46237,-78.794996,42.936053
+1123,"27 Vista Ct West Seneca, NY",364900,-78.6926392,42.9909333
+1124,"105 Keever Ave Lackawanna, NY",67371,-78.826841,42.80969
+1125,"68 Baker Ct Lackawanna, NY",91921,-78.810922,42.826285
+1126,"791 French Rd Amherst, NY",124694,-78.7960574,43.0346793
+1127,"239 Halstead Ave Sloan, NY",82770,-78.793646,42.89707
+1128,"101 Midland Dr Cheektowaga, NY",127801,-78.780411,42.920126
+1129,"75 Basswood Dr Cheektowaga, NY",137862,-78.714697,42.8748999
+1130,"621 Mount Vernon Rd Cheektowaga, NY",60609,-78.787223,42.947989
+1131,"105 Clearfield Dr Williamsville, NY",273404,-78.7439845,42.9936736
+1132,"50 Vista Ct West Seneca, NY",309900,-78.769268,42.821079
+1133,"19 Timberlane Dr Williamsville, NY",707552,-78.7507082,43.0129251
+1134,"18 Lorraine Ln Cheektowaga, NY",168219,-78.775271,42.917995
+1135,"3 Bahama Ln Cheektowaga, NY",129793,-78.744026,42.91163
+1136,"24 Kenwood Rd Kenmore, Kenmore, NY",188582,-78.869794,42.968668
+1137,"2849 William St Cheektowaga, NY",99500,-78.765017,42.882728
+1138,"8475 Ericson Dr Williamsville, NY",185000,-78.6779318,42.9691487
+1139,"116 Ridgewood Dr Amherst, NY",120000,-78.767622,42.9558128
+1140,"1100 Reserve Rd #3 West Seneca, NY",56900,-78.72489,42.811687
+1141,"129 Carefree Ln Cheektowaga, NY",52000,-78.7565248,42.8800928
+1142,"79 Fairoaks Ln Cheektowaga, NY",165900,-78.758739,42.893749
+1143,"48 Alpine Pl Cheektowaga, NY",69900,-78.798321,42.9169989
+1144,"8300 Vernon Cir Williamsville, NY",116359,-78.685513,42.968369
+1145,"5854 Main St #406 Williamsville, NY",119900,-78.7351534,42.9648688
+1146,"400 Windermere Blvd Amherst, NY",123500,-78.8195417,42.9681505
+1147,"465 Hopkins Rd #3 Amherst, NY",93500,-78.7390755,42.9918304
+1148,"33 Caldwell Pl Lackawanna, NY",59900,-78.832783,42.824843
+1149,"4310 Fairfield Dr Williamsville, NY",164900,-78.6665726,42.9641417
+1150,"1219 Eggert Rd Amherst, NY",97000,-78.803489,42.961563
+1151,"75 Seton Rd Cheektowaga, NY",94500,-78.780678,42.935949
+1152,"58 Raymond Ave Cheektowaga, NY",119900,-78.765969,42.885627
+1153,"1693 Electric Ave Lackawanna, NY",44900,-78.8284638,42.8130233
+1154,"19 Normandy Ave Cheektowaga, NY",80203,-78.792237,42.919554
+1155,"11 Stevenson Blvd Amherst, NY",159000,-78.813279,42.965012
+1156,"34 Beechwood Pl Cheektowaga, NY",174103,-78.775148,42.925291
+1157,"41 Hampton Ct Williamsville, NY",105000,-78.7775939,42.98232
+1158,"46 Lynette Ln Amherst, NY",169900,-78.773221,43.033349
+1159,"186 Millhurst Rd Lackawanna, NY",134900,-78.796518,42.826434
+1160,"215 Argonne Dr Kenmore, Kenmore, NY",84822,-78.861192,42.963517
+1161,"146 Ivyhurst Rd Amherst, NY",122806,-78.80035,42.968538
+1162,"192 Ellen Dr Cheektowaga, NY",50345,-78.75336,42.948914
+1163,"190 Shepard Ave Kenmore, Kenmore, NY",116406,-78.877978,42.96896
+1164,"332 Center Rd West Seneca, NY",72160,-78.7705174,42.8401501
+1165,"79 Mayberry Dr W Cheektowaga, NY",120000,-78.739869,42.871147
+1166,"4220 Harlem Rd Amherst, NY",179000,-78.784304,42.958939
+1167,"311 Pine Ridge Rd Cheektowaga, NY",115000,-78.7940519,42.9153189
+1168,"140 Parkledge Dr Amherst, NY",191298,-78.780078,42.972581
+1169,"232 Sunrise Blvd Williamsville, NY",199900,-78.7792762,42.9850094
+1170,"10 Miami Pkwy Cheektowaga, NY",52781,-78.764795,42.92021
+1171,"36 Wickham Dr Williamsville, NY",249900,-78.7462076,42.9855502
+1172,"2085 Maple Rd Williamsville, NY",209900,-78.709633,42.9896725
+1173,"430 Country Pkwy Williamsville, NY",209900,-78.7140243,42.9898325
+1174,"18 Treehaven Rd West Seneca, NY",184000,-78.74181,42.8265808
+1175,"450 French Rd Cheektowaga, NY",49900,-78.737397,42.868442
+1176,"43 Princeton Blvd Kenmore NE, Kenmore, NY",149900,-78.8697235,42.9738964
+1177,"3674 Fuller Ave Blasdell, NY",123900,-78.8208131,42.7847315
+1178,"66 Bramble Rd Williamsville, NY",279900,-78.7262144,43.0011982
+1179,"136 Basswood Dr Cheektowaga, NY",84900,-78.717798,42.875393
+1180,"60 Autumnwood Dr Cheektowaga, NY",125000,-78.711984,42.874598
+1181,"840 Robin Rd Amherst, NY",179900,-78.769814,43.022061
+1182,"224 E Hazeltine Ave Kenmore, Kenmore, NY",144900,-78.861028,42.959586
+1183,"55 Oakbrook Dr #C Amherst, NY",164900,-78.735075,42.992438
+1184,"636 Lebrun Rd Amherst, NY",980000,-78.798166,42.956297
+1185,"135 Seminole Pkwy Cheektowaga, NY",143409,-78.7568546,42.9204737
+1186,"49 Four Winds Way Amherst, NY",1199000,-78.7941189,42.9667575
+1187,"64 Koster Row Amherst, NY",529000,-78.798331,42.966215
+1188,"85 Unionvale Rd #14225 Cheektowaga, NY",151500,-78.757705,42.933583
+1189,"88 Empress Ave Amherst, NY",193000,-78.80652,42.983415
+1190,"162 Allendale Rd West Seneca, NY",199900,-78.7601876,42.81566
+1191,"20 Ganna Ct West Seneca, NY",264900,-78.721067,42.836999
+1192,"45 Roycroft Blvd Amherst, NY",339000,-78.7799768,42.9610075
+1193,"36 Parkwood Ave Kenmore, Kenmore, NY",139000,-78.868238,42.960323
+1194,"54 Creekside Dr Cheektowaga, NY",149500,-78.7837764,42.8733785
+1195,"198 Hendricks Blvd Amherst, NY",264900,-78.8097385,42.9657882
+1196,"27 Exeter Rd Amherst, NY",199900,-78.746718,42.985447
+1197,"73 Rosemead Ln Cheektowaga, NY",129900,-78.760475,42.890185
+1198,"66 Century Dr West Seneca, NY",169900,-78.760798,42.834771
+1199,"776 Union Rd West Seneca, NY",159900,-78.7533683,42.8214424
+1200,"151 Brompton Rd Williamsville, NY",248900,-78.7075271,42.969933
+1201,"79 Pamela Ct West Seneca, NY",164900,-78.747404,42.808636
+1202,"241 Boncroft Dr West Seneca, NY",116000,-78.760865,42.83884
+1203,"96 Shannon Dr Lackawanna, NY",114500,-78.805076,42.815785
+1204,"28 Gardenville On The Grn West Seneca, NY",154900,-78.7564495,42.8569366
+1205,"358 S Cayuga Rd Amherst, NY",372000,-78.7443826,42.9528767
+1206,"8300 Greiner Rd Williamsville, NY",699900,-78.685299,42.990175
+1207,"8146 Golden Oak Cir Williamsville, NY",549900,-78.688864,42.994306
+1208,"90 Cloverside Dr West Seneca, NY",179900,-78.757788,42.832004
+1209,"1535 Maple Rd Amherst, NY",39900,-78.730418,42.98936
+1210,"2 Burdette Dr Cheektowaga, NY",117500,-78.760752,42.940103
+1211,"126 McParlin Ave Cheektowaga, NY",99000,-78.778568,42.910871
+1212,"65 Forest Dr West Seneca, NY",189900,-78.7519949,42.860857
+1213,"8219 Oakway Ln Williamsville, NY",549900,-78.682452,42.995528
+1214,"186 Ridgewood Dr Amherst, NY",149900,-78.7676074,42.9538928
+1215,"51 Crestwood Ln Williamsville, NY",399000,-78.74748,43.013321
+1216,"69 Yorktown Rd Amherst, NY",159900,-78.7848328,42.9512206
+1217,"268 Donna Lea Blvd Williamsville, NY",184500,-78.7777829,42.9891518
+1218,"262 Willow Ridge Dr Amherst, NY",179900,-78.812419,43.012232
+1219,"257 Clearfield Dr Williamsville, NY",199900,-78.7439649,42.9985477
+1220,"38 Argyle Ave Amherst, NY",72404,-78.8023416,42.9541538
+1221,"5535 Via Marina Williamsville, NY",429000,-78.690546,42.9966099
+1222,"60 Rushford Hollow Dr Cheektowaga, NY",205000,-78.748587,42.883494
+1223,"30 Mayberry Dr W Cheektowaga, NY",97500,-78.740611,42.869445
+1224,"204 Ridgewood Dr Amherst, NY",145000,-78.7677295,42.9534699
+1225,"64 Ludwig Ave West Seneca, NY",114900,-78.7952378,42.8429711
+1226,"120 Cloverside Ct West Seneca, NY",179900,-78.756255,42.831409
+1227,"148-150 Stoney St #2 Lackawanna, NY",245000,-78.841433,42.818178
+1228,"47 Saint James Rd Cheektowaga, NY",67500,-78.785373,42.921388
+1229,"1405 Maple Rd Williamsville, NY",151260,-78.7355581,42.9909302
+1230,"420 3rd Ave Williamsville, NY",146282,-78.700076,42.981287
+1231,"59 Fisher Pond Ct Amherst, NY",354900,-78.742624,42.954066
+1232,"81 Jenny Ln Cheektowaga, NY",71995,-78.7077008,42.9328651
+1233,"76 High Park Blvd Amherst, NY",399500,-78.7999169,42.962324
+1234,"80 S Cayuga Rd Williamsville, NY",449900,-78.745982,42.9603769
+1235,"4185 Heather Dr Williamsville, NY",439900,-78.6651167,42.9607285
+1236,"93 Maynard Dr Amherst, NY",192900,-78.808689,42.964486
+1237,"226 Temple Dr Cheektowaga, NY",145000,-78.726403,42.924736
+1238,"305 Renaissance Dr Williamsville, NY",479900,-78.708141,42.99637
+1239,"59 Kaymar Dr Amherst, NY",225000,-78.8130797,43.0108544
+1240,"36 Mayfield Dr West Seneca, NY",179900,-78.747167,42.863067
+1241,"840 Sweet Home Rd Amherst, NY",104900,-78.8076813,42.9863619
+1242,"53 Sugnet Rd Cheektowaga, NY",152500,-78.78872,42.944318
+1243,"826 E And West Rd West Seneca, NY",349900,-78.74061,42.820637
+1244,"29 Brandon Ct Amherst, NY",379900,-78.766491,43.037857
+1245,"3016 William St Cheektowaga, NY",59493,-78.758734,42.884077
+1246,"35 Winkler Rd Cheektowaga, NY",40573,-78.790021,42.92001
+1247,"100 Cottonwood Dr Williamsville, NY",149123,-78.7460084,43.0024876
+1248,"27 Olcott Pl Cheektowaga, NY",29391,-78.796378,42.917579
+1249,"173 Wardman Rd Kenmore, Kenmore, NY",62612,-78.863179,42.962722
+1250,"291 McKinley Ave Williamsville, NY",96232,-78.698558,42.957236
+1251,"133 Telfair Dr Williamsville, NY",105561,-78.7324261,42.9837034
+1252,"39 Thurston Ave Kenmore NW, Kenmore, NY",65610,-78.880377,42.9749107
+1253,"3 Floreis Ct Cheektowaga, NY",80453,-78.76806,42.926161
+1254,"325 School St Kenmore, NY",108291,-78.8847654,42.9822629
+1255,"98 Larch Rd Amherst, NY",53308,-78.807413,42.97716
+1256,"133 Westgate Rd Kenmore, Kenmore, NY",20346,-78.875238,42.964739
+1257,"34 Jenawood Ln Williamsville, NY",165163,-78.7150491,42.9804367
+1258,"285 Cayuga Creek Rd Cheektowaga, NY",43403,-78.775547,42.876905
+1259,"94 Ingham Ave Lackawanna, NY",42107,-78.840243,42.824176
+1260,"66 Lawnwood Dr Amherst, NY",129686,-78.815642,43.045769
+1261,"2979 Clinton St West Seneca, NY",49900,-78.7699206,42.8631132
+1262,"106 Hartford Rd Amherst, NY",81413,-78.8040747,42.980697
+1263,"27 Dorchester Rd Amherst, NY",75277,-78.78522,42.9579499
+1264,"73 N End Ave Kenmore, Kenmore, NY",57908,-78.874163,42.972924
+1265,"124 Sundown Trl Williamsville, NY",161000,-78.7531272,42.9979965
+1266,"518 Windermere Blvd Amherst, NY",51115,-78.8194582,42.9714105
+1267,"1150 Orchard Park Rd West Seneca, NY",44135,-78.768727,42.818237
+1268,"1064 Harlem Rd Cheektowaga, NY",150000,-78.7870697,42.8726753
+1269,"860 Union Rd West Seneca, NY",599000,-78.7537272,42.8239348
+1270,"5498 Pine Loch Ln Williamsville, NY",469900,-78.6846319,42.994011
+1271,"54 Sargent Dr Amherst, NY",284900,-78.773391,42.964454
+1272,"41 Newcastle Dr Williamsville, NY",389000,-78.7059928,42.9948319
+1273,"32 Empress Ave Amherst, NY",209900,-78.8060054,42.98186
+1274,"4121 Bailey Ave Amherst, NY",99888,-78.8138365,42.9673063
+1275,"27 Vera Ave Cheektowaga, NY",63938,-78.794803,42.916797
+1276,"60 Fernwood Ave West Seneca, NY",23232,-78.796431,42.870282
+1277,"182 W Hazeltine Ave Kenmore, Kenmore, NY",77346,-78.8765899,42.959185
+1278,"221 Ranch Trl Williamsville, NY",129376,-78.7495079,42.9986173
+1279,"449 Borden Rd West Seneca, NY",67685,-78.70851,42.867092
+1280,"70 South Dr Lackawanna, NY",113000,-78.79613,42.809927
+1281,"2 Astor Ridge Dr #B Amherst, NY",194000,-78.808462,43.002711
+1282,"4363 Bailey Ave Amherst, NY",72206,-78.8134861,42.9739367
+1283,"397 Wardman Rd Kenmore, Kenmore, NY",172900,-78.854885,42.962687
+1284,"17 Buckeye Rd Amherst, NY",99900,-78.8089486,42.9765434
+1285,"146 Thorndale Ave West Seneca, NY",148900,-78.784944,42.845701
+1286,"318 E Hazeltine Ave Kenmore, Kenmore, NY",80281,-78.8576439,42.959564
+1287,"305 Oakwood Dr Williamsville, NY",132618,-78.7076656,42.9572235
+1288,"87 Steinway Ct Williamsville, NY",339900,-78.749719,42.9900314
+1289,"2 Keph Dr #4 Amherst, NY",122900,-78.805254,43.002487
+1290,"121 Woodbury Dr Amherst, NY",263900,-78.792828,42.970506
+1291,"343 Wagner Ave Sloan, NY",84900,-78.798436,42.897594
+1292,"151 French Rd Amherst, NY",64003,-78.818688,43.033391
+1293,"8591 Sunset Dr Williamsville, NY",134774,-78.706486,43.0207799
+1294,"27 Highland Ave West Seneca, NY",98874,-78.758664,42.830587
+1295,"56 Hazeltine Ave Kenmore, Kenmore, NY",91601,-78.871872,42.959213
+1296,"47 Callodine Ave Amherst, NY",78108,-78.814641,42.96043
+1297,"450 Mapleview Rd Cheektowaga, NY",114900,-78.772181,42.944014
+1298,"22 Sandy Ln Cheektowaga, NY",164900,-78.761786,42.89385
+1299,"1257 Kenmore Ave Kenmore, Kenmore, NY",95680,-78.864574,42.958897
+1300,"483 Niagara Falls Blvd Amherst, NY",82604,-78.8230896,42.9670922
+1301,"16 Singer Dr West Seneca, NY",86566,-78.757727,42.826152
+1302,"112 Foisset Ave Cheektowaga, NY",71642,-78.764266,42.943846
+1303,"15 Westland Pkwy Cheektowaga, NY",96780,-78.77928,42.917719
+1304,"432 Borden Rd West Seneca, NY",47088,-78.709378,42.866347
+1305,"3575 James St Blasdell, NY",155000,-78.8212789,42.7877779
+1306,"46 Bellwood Ave West Seneca, NY",149329,-78.788528,42.843791
+1307,"119 Callodine Ave Amherst, NY",60000,-78.814629,42.962457
+1308,"3315 Harlem Rd Cheektowaga, NY",82500,-78.7838527,42.9342355
+1309,"360 Pine Ridge Rd Cheektowaga, NY",81218,-78.794414,42.916616
+1310,"2615 Clinton St West Seneca, NY",96203,-78.780164,42.869557
+1311,"315 W Klein Rd Williamsville, NY",204900,-78.7466052,43.0019218
+1312,"13 Girard Ave Lackawanna, NY",106000,-78.829368,42.816303
+1313,"173 Kinsey Ave Kenmore, Kenmore, NY",120161,-78.877229,42.967881
+1314,"33 Crescent Pl Lackawanna, NY",121000,-78.825153,42.823918
+1315," French Rd Cheektowaga, NY",50000,-78.7258679,42.867831
+1316,"3201 Tonawanda Creek Rd Amherst, NY",299900,-78.7377973,43.0744845
+1317,"109 Viscount Dr Williamsville, NY",679900,-78.7261939,43.009614
+1318,"133 Milsom Ave Cheektowaga, NY",137173,-78.774951,42.890523
+1319,"259 Tonawanda Creek Rd Amherst, NY",194108,-78.8194871,43.0461932
+1320,"41 Wainwright Rd Cheektowaga, NY",86450,-78.79098,42.947853
+1321,"94 Yvette Dr Cheektowaga, NY",129000,-78.74587,42.864754
+1322,"38 Pine Ct N West Seneca, NY",159910,-78.700328,42.8481049
+1323,"665 Mount Vernon Rd Cheektowaga, NY",61809,-78.787234,42.9466309
+1324,"942 Main St West Seneca, NY",136867,-78.7404585,42.8335592
+1325,"21 Dirkson Ave West Seneca, NY",117181,-78.791005,42.844096
+1326,"4343 Union Rd Cheektowaga, NY",139000,-78.753673,42.9325029
+1327,"36 Crescent Ct Cheektowaga, NY",146243,-78.769668,42.920764
+1328,"693 Colvin Blvd Kenmore, Kenmore, NY",149900,-78.858041,42.959854
+1329,"28 Hampton Ct Williamsville, NY",251921,-78.778287,42.982816
+1330,"155 Ansley Ct West Seneca, NY",109849,-78.761077,42.8425719
+1331,"11 Leo Pl Lackawanna, NY",85534,-78.825924,42.82297
+1332,"1301 George Urban Blvd Cheektowaga, NY",75918,-78.744279,42.9185609
+1333,"287 Union Rd West Seneca, NY",115487,-78.7513304,42.8081207
+1334,"47 Dellwood Pl Cheektowaga, NY",52799,-78.77235,42.9259259
+1335,"8195 Golden Oak Cir Williamsville, NY",480000,-78.685872,42.9922501
+1336,"405 McKinley Ave Kenmore, Kenmore, NY",179900,-78.853623,42.964408
+1337,"337 N French Rd Amherst, NY",260000,-78.811126,43.033458
+1338,"106 Dirkson Ave West Seneca, NY",161351,-78.790077,42.846433
+1339,"1 South Dr West Seneca, NY",189900,-78.8035164,42.9498168
+1340,"67 Iris Ave West Seneca, NY",108217,-78.76718,42.8332679
+1341,"14 Atwood Pl Cheektowaga, NY",79944,-78.7986137,42.9217806
+1342,"26 E Milnor Ave Lackawanna, NY",279000,-78.822827,42.810623
+1343,"4284 Roxbury Dr Williamsville, NY",249500,-78.6628034,42.9634804
+1344,"1196 Harlem Rd Cheektowaga, NY",139900,-78.7851092,42.8755363
+1345,"64 Country Pkwy Williamsville, NY",112922,-78.71623,42.9796025
+1346,"87 Wardman Rd Kenmore, Kenmore, NY",114595,-78.866412,42.9627671
+1347,"199 Eastland Pkwy Cheektowaga, NY",72659,-78.778098,42.920564
+1348,"1396 Harlem Rd Cheektowaga, NY",79900,-78.785033,42.88118
+1349,"25 Fernald Ave Lackawanna, NY",120194,-78.80237,42.824987
+1350,"3 Timothy Ct West Seneca, NY",30000,-78.752385,42.812243
+1351,"8 Mayfair Ct Cheektowaga, NY",108000,-78.771454,42.93836
+1352,"58 Angelacrest Ln West Seneca, NY",100191,-78.787938,42.815178
+1353,"55 Daniel Ave Cheektowaga, NY",95900,-78.782056,42.910207
+1354,"46 Royal Palm Dr Cheektowaga, NY",91131,-78.726132,42.9286
+1355,"91 Boxelder Ln Amherst, NY",369900,-78.818989,43.0476327
+1356,"37 John Alex Dr West Seneca, NY",354900,-78.7356344,42.8140192
+1357,"188 Reist St Williamsville, NY",173000,-78.752893,42.966799
+1358,"311 Capen Blvd Amherst, NY",125785,-78.820396,42.964827
+1359,"298 Crosby Ave Kenmore, Kenmore, NY",179900,-78.857111,42.965846
+1360,"575 Union Rd West Seneca, NY",204900,-78.7517698,42.8160144
+1361,"4217 Big Tree Rd Blasdell, NY",199900,-78.822818,42.771257
+1362,"178 Lydia Ln Cheektowaga, NY",149900,-78.73147,42.923251
+1363,"68 Pine Ct N West Seneca, NY",250000,-78.70086,42.849649
+1364,"7 Cathedral Ct West Seneca, NY",204900,-78.745868,42.841178
+1365,"4774 Sheridan Dr #4780 Amherst, NY",999900,-78.757037,42.978817
+1366,"2160 N Forest Rd Amherst, NY",109900,-78.769426,43.006433
+1367,"4928 Lynwood Ave Blasdell, NY",169900,-78.8000975,42.7854613
+1368,"91 Fernleaf Ter Amherst, NY",399800,-78.8202726,43.0480687
+1369,"84 S Rockingham Way Amherst, NY",460000,-78.765663,43.0448499
+1370,"96 Winspear Rd West Seneca, NY",229900,-78.706304,42.828565
+1371,"52 Kirkwood Dr West Seneca, NY",88108,-78.795847,42.846812
+1372,"162 Cayuga Rd Cheektowaga, NY",64804,-78.7443514,42.9337214
+1373,"41 Kinsey Ave Kenmore, Kenmore, NY",110076,-78.872241,42.967932
+1374,"28 Lobue Ln Cheektowaga, NY",73545,-78.7094421,42.9338304
+1375,"44 Southwood Dr West Seneca, NY",181877,-78.752143,42.8280061
+1376,"80 Oakview Dr Williamsville, NY",359900,-78.753462,43.011819
+1377,"20 Parish Rd Cheektowaga, NY",62461,-78.781925,42.937111
+1378,"1211 N French Rd Amherst, NY",101638,-78.780013,43.034284
+1379,"71 Parkledge Dr Amherst, NY",75071,-78.779425,42.97065
+1380,"81 Firestone St Lackawanna, NY",66838,-78.802891,42.808185
+1381,"24 Starcrest Dr Cheektowaga, NY",62813,-78.777225,42.929151
+1382,"288 Kirkwood Dr West Seneca, NY",89236,-78.7942783,42.8529502
+1383,"1383 Campbell Blvd Amherst, NY",199900,-78.769631,43.054397
+1384,"794 French Rd Cheektowaga, NY",1900000,-78.7248928,42.8682178
+1385,"55 Foisset Ave Cheektowaga, NY",180000,-78.7638183,42.9414263
+1386,"102 S Forest Rd Williamsville, NY",234103,-78.7588765,42.9575423
+1387,"154 Huxley Dr Cheektowaga, NY",97411,-78.776492,42.940767
+1388,"770 Highland Ave Tonawanda, NY",126393,-78.8370427,42.9743551
+1389,"870 Losson Rd #5 Cheektowaga, NY",32000,-78.727676,42.881368
+1390,"736 Union Rd West Seneca, NY",169900,-78.753282,42.8206029
+1391,"75 Tulane Rd Kenmore NW, Kenmore, NY",152321,-78.8744538,42.9745267
+1392,"2368 Harlem Rd Cheektowaga, NY",119900,-78.784965,42.908366
+1393,"2941 William St Cheektowaga, NY",1500000,-78.76082,42.8836235
+1394,"87 Crown Royal Dr Williamsville, NY",367500,-78.71542,42.99348
+1395,"5025 Richmond Ave #Double Blasdell, NY",157000,-78.7964423,42.7833833
+1396,"151 N Long St Williamsville, NY",142540,-78.754086,42.965607
+1397,"84 Kelsey Dr West Seneca, NY",126424,-78.783288,42.8420879
+1398,"24 Eaton St Lackawanna, NY",82616,-78.841378,42.825359
+1399,"311 Wimbledon Ct West Seneca, NY",90731,-78.771422,42.8431039
+1400,"109 Beech St Lackawanna, NY",48736,-78.8437269,42.8101297
+1401,"346 Grover Cleveland Hwy Amherst, NY",161252,-78.8117938,42.9653441
+1402,"455 McKinley Ave Williamsville, NY",38000,-78.6981612,42.9524422
+1403,"1104 Maple Rd Amherst, NY",40000,-78.746319,42.991451
+1404,"139 Colony Ct Amherst, NY",299000,-78.7875611,42.9738355
+1405,"333 N French Rd Amherst, NY",549900,-78.8116231,43.0344384
+1406,"35 N Brier Rd Amherst, NY",193750,-78.8116591,43.0139409
+1407,"201 Orchard Pl Cheektowaga, NY",118924,-78.7470329,42.9233967
+1408,"110 Northern Pkwy Cheektowaga, NY",95000,-78.779254,42.920249
+1409,"3667 Genesee St Cheektowaga, NY",359000,-78.749691,42.927723
+1410,"256 Cortland Ave Tonawanda, NY",334999,-78.844703,42.970128
+1411,"5670 Sheridan Dr Williamsville, NY",259900,-78.7233931,42.9781829
+1412,"17 Bay Ln Cheektowaga, NY",77221,-78.728502,42.926712
+1413,"336 Capen Blvd Amherst, NY",156476,-78.821127,42.965457
+1414,"275 Siegfried Dr Williamsville, NY",128982,-78.7548574,42.9852807
+1415,"20 Arnold Pl Lackawanna, NY",102943,-78.82743,42.813324
+1416,"45 Cloister Ct Blasdell, NY",79230,-78.8210548,42.8059376
+1417,"153 N End Ave Kenmore, Kenmore, NY",110158,-78.877036,42.972889
+1418,"48 Lois Dr Cheektowaga, NY",96172,-78.7308709,42.864728
+1419,"21 Westwood Dr West Seneca, NY",144749,-78.713961,42.817866
+1420,"114 Suzette Dr Cheektowaga, NY",91373,-78.709856,42.866791
+1421,"3 Eastland Pkwy Cheektowaga, NY",77875,-78.778148,42.915076
+1422,"41 Fleetwood Ter Williamsville, NY",192597,-78.757636,42.9794168
+1423,"29 Maple St Lackawanna, NY",112755,-78.821129,42.831223
+1424,"139 Rossler Ave Cheektowaga, NY",70588,-78.7945838,42.8815575
+1425,"51 Rowley Holw Cheektowaga, NY",179900,-78.726971,42.895711
+1426,"103 Rosewood Ter Cheektowaga, NY",112386,-78.781595,42.9177449
+1427,"119 Edson St West Seneca, NY",107330,-78.799172,42.851657
+1428,"4520 Union Rd Cheektowaga, NY",77275,-78.754579,42.937339
+1429,"32 Ashley Dr West Seneca, NY",396523,-78.732377,42.81452
+1430,"2790 Clinton St West Seneca, NY",895000,-78.7737309,42.8665311
+1431,"249 Danbury Dr Cheektowaga, NY",86288,-78.774663,42.935172
+1432,"24 Roland St Sloan, NY",59767,-78.78965,42.89286
+1433,"55 Oakbrook Dr #C Amherst, NY",164900,-78.735075,42.992438
+1434,"990 Hopkins Rd #I Amherst, NY",139022,-78.7406756,43.0050163
+1435,"213 Carriage Park West Seneca, NY",132708,-78.719049,42.817799
+1436,"756 Edgewater Dr Amherst, NY",125029,-78.813991,43.010476
+1437,"273 Parkwood Ave Kenmore, Kenmore, NY",108381,-78.859405,42.9598609
+1438,"43 Johnson St Lackawanna, NY",82949,-78.8264278,42.8118585
+1439,"169 Harding Rd Williamsville, NY",128937,-78.6997559,42.960706
+1440,"252 Wellington Ave Kenilworth, Tonawanda, NY",102269,-78.8340114,42.9661148
+1441,"8 Hillsboro Rd Cheektowaga, NY",79163,-78.7710589,42.939895
+1442,"180 Rossler Ave Cheektowaga, NY",50307,-78.794973,42.882525
+1443,"148 Roland Ave Lackawanna, NY",84540,-78.826827,42.811641
+1444,"4662 Seneca St West Seneca, NY",121864,-78.731058,42.831825
+1445,"17 Villa Moraine Dr Cheektowaga, NY",128541,-78.796471,42.915359
+1446,"127 Bellwood Ave West Seneca, NY",128025,-78.786555,42.8456819
+1447,"965 E Saratoga Rd Williamsville, NY",119900,-78.7615963,42.9531782
+1448,"40 Sturbridge Ln Williamsville, NY",320455,-78.7065226,42.9744016
+1449,"17 Concord Dr Cheektowaga, NY",84057,-78.785157,42.945556
+1450,"1281 Abbott Rd Lackawanna, NY",149900,-78.8052091,42.8298333
+1451,"4329 Union Rd Cheektowaga, NY",85755,-78.753698,42.932236
+1452,"181 Autumnwood Dr Cheektowaga, NY",79000,-78.717721,42.874051
+1453,"43 Federal Ave Cheektowaga, NY",107306,-78.758794,42.9396289
+1454,"40 Kent St Blasdell, NY",130792,-78.8246829,42.7920425
+1455,"24 Adlon Pl Cheektowaga, NY",78343,-78.7957474,42.9187564
+1456,"3309 Harlem Rd Cheektowaga, NY",107264,-78.78363,42.934073
+1457,"334 McNaughton Ave Cheektowaga, NY",103803,-78.771587,42.915825
+1458,"364 Ivyhurst Rd N Amherst, NY",156365,-78.8011454,42.9745173
+1459,"640 Cottonwood Dr Williamsville, NY",200158,-78.7622352,43.0044597
+1460,"70 Seminole Pkwy Cheektowaga, NY",103190,-78.759074,42.9198809
+1461,"93 Balbach Dr Cheektowaga, NY",100380,-78.757806,42.937559
+1462,"175 S Forest Rd Williamsville, NY",210601,-78.7596676,42.9555418
+1463,"92 Parkwood Ave Kenmore, Kenmore, NY",90205,-78.866127,42.960317
+1464,"1714 Kensington Ave Cheektowaga, NY",49204,-78.794146,42.946281
+1465,"109 Keever Ave Lackawanna, NY",96158,-78.826692,42.8096869
+1466,"48 Summerset Ln Amherst, NY",182429,-78.820739,43.043338
+1467,"204 Aurora Ave West Seneca, NY",123621,-78.7900219,42.860155
+1468,"308 Mang Ave Kenmore, Kenmore, NY",119061,-78.8815,42.961834
+1469,"110 Rosemont Dr Amherst, NY",152018,-78.7972433,42.9834755
+1470,"184 W Maplemere Rd Williamsville, NY",166602,-78.781842,42.9869714
+1471,"186 S Shore Blvd Lackawanna, NY",93636,-78.809528,42.827328
+1472,"113 Sharon Pkwy Lackawanna, NY",74903,-78.821113,42.811455
+1473,"64 Hiler Ave Kenmore, Kenmore, NY",88407,-78.854282,42.96051
+1474,"55 Beale Ave Cheektowaga, NY",104514,-78.780404,42.934337
+1475,"3633 Grafton Ave Blasdell, NY",89960,-78.827688,42.785897
+1476,"42 Kennedy Dr Lackawanna, NY",63492,-78.800773,42.806645
+1477,"605 Ayer Rd Williamsville, NY",205374,-78.7180171,42.9940925
+1478,"118 Westgate Blvd West Seneca, NY",139757,-78.738776,42.807084
+1479,"180 Dartwood Dr Cheektowaga, NY",85644,-78.721965,42.875144
+1480,"63 Basswood Dr Cheektowaga, NY",90382,-78.714044,42.874906
+1481,"8550 Nottingham Ter Williamsville, NY",234414,-78.673828,42.96445
+1482,"960 Mineral Springs Rd West Seneca, NY",143493,-78.7811204,42.8622328
+1483,"39 Clearview Dr West Seneca, NY",329900,-78.6869479,42.9827679
+1484,"138 Electric Ave West Seneca, NY",73147,-78.798363,42.8712469
+1485,"103 N Forest Rd Williamsville, NY",239255,-78.7589483,42.9642429
+1486,"71 Nash St West Seneca, NY",74812,-78.798775,42.869611
+1487,"30 Belcourt St Amherst, NY",171516,-78.8057199,42.984464
+1488,"105 Martin Ave Blasdell, NY",138344,-78.831783,42.793585
+1489,"50 Chamberlin Dr West Seneca, NY",81477,-78.798091,42.847464
+1490,"42 Carol Dr Cheektowaga, NY",63672,-78.795045,42.924199
+1491,"34 Wintergreen Pl Lackawanna, NY",114142,-78.8071,42.8240399
+1492,"264 Seton Rd Cheektowaga, NY",115054,-78.771579,42.936387
+1493,"135 Ivanhoe Rd Cheektowaga, NY",67653,-78.79738,42.926596
+1494,"281 Bennett Rd Cheektowaga, NY",29900,-78.744373,42.890228
+1495,"665 Tonawanda Creek Rd Amherst, NY",64900,-78.808501,43.052124
+1496,"860 Elm Ave West Seneca, NY",177554,-78.7214149,42.862972
+1497,"101 Toelsin Rd Cheektowaga, NY",173717,-78.77112,42.921807
+1498,"42 Judith Dr Cheektowaga, NY",141546,-78.739683,42.866648
+1499,"401 Lamarck Dr Cheektowaga, NY",124722,-78.775214,42.949041
+1500,"21 Chesterfield Dr Cheektowaga, NY",68054,-78.796016,42.947046
+1501,"112 Campbell Rd Cheektowaga, NY",68222,-78.794594,42.936539
+1502,"142 Angelacrest Ln West Seneca, NY",101078,-78.784807,42.815126
+1503,"520 Meadow Dr West Seneca, NY",187431,-78.7428259,42.86028
+1504,"32 S Parrish Ct Amherst, NY",259307,-78.765403,43.03537
+1505,"294 Cleveland Dr Cheektowaga, NY",136043,-78.788839,42.945154
+1506,"61 Colton St Cheektowaga, NY",107651,-78.796097,42.882776
+1507,"354 N Pleasant Pkwy Cheektowaga, NY",150000,-78.798153,42.882607
+1508,"5572 Pine Loch Ln Williamsville, NY",823617,-78.68241,42.9999449
+1509,"64 Santin Dr Cheektowaga, NY",151384,-78.741837,42.920049
+1510,"6188 Sheridan Dr Amherst, NY",840000,-78.7026689,42.9783753
+1511,"4059 Main St Amherst, NY",288232,-78.7998627,42.9641874
+1512,"3 Hubbardston Pl Amherst, NY",212528,-78.808295,43.020395
+1513,"3605 Harlem Rd Cheektowaga, NY",88278,-78.783711,42.941929
+1514,"110 Century Rd Cheektowaga, NY",113208,-78.7978603,42.946802
+1515,"51 Pine Ct N West Seneca, NY",339308,-78.701425,42.848543
+1516,"471 Willow Green Dr Amherst, NY",223012,-78.810513,43.013323
+1517,"74 Harris Ct Cheektowaga, NY",146706,-78.7435409,42.922052
+1518,"226 Griffith St Sloan, NY",148539,-78.7921031,42.8971636
+1519,"155 Avery Pl Cheektowaga, NY",172722,-78.798074,42.913794
+1520,"85 Nantucket Dr W Cheektowaga, NY",182432,-78.738002,42.910796
+1521,"55 Autumnwood Dr Cheektowaga, NY",151677,-78.71164,42.874121
+1522,"153 Bucyrus Dr Amherst, NY",251259,-78.7930107,43.0302851
+1523,"218 Rossler Ave Cheektowaga, NY",85523,-78.794936,42.883686
+1524,"9 Boynton St West Seneca, NY",149140,-78.7970038,42.8689184
+1525,"36 Harper Rd Amherst, NY",230335,-78.7700093,42.9632131
+1526,"84 Baywood Dr Cheektowaga, NY",372241,-78.715434,42.877772
+1527,"111 Wilshire Rd Cheektowaga, NY",128500,-78.761414,42.9490306
+1528,"113 E Grand Blvd Cheektowaga, NY",184585,-78.775738,42.920375
+1529,"83 Preston Rd Cheektowaga, NY",106391,-78.795418,42.925178
+1530,"84 Gates St Sloan, NY",161571,-78.7906749,42.893602
+1531,"419 Walton Dr Cheektowaga, NY",168883,-78.777278,42.948363
+1532,"23 Burgundy Ter Amherst, NY",154019,-78.769561,43.037416
+1533,"305 Bellingham Dr Williamsville, NY",521764,-78.7103173,42.9575378
+1534,"47 Croy Ave Kensington, Cheektowaga, NY",191537,-78.7986408,42.9467981
+1535,"82 Grand Blvd Cheektowaga, NY",132686,-78.7798261,42.92247
+1536,"119 Hemenway Rd Cheektowaga, NY",182106,-78.7637481,42.9356452
+1537,"105 Rose Ave West Seneca, NY",241386,-78.763532,42.839047
+1538,"136 Helen St Cheektowaga, NY",137283,-78.7771764,42.8809654
+1539,"138 Steven Dr Cheektowaga, NY",120512,-78.7222488,42.8637884
+1540,"3436 Dickens Rd Blasdell, NY",209322,-78.8101049,42.792326
+1541,"52 Sprucewood Dr Cheektowaga, NY",154155,-78.717539,42.8696119
+1542,"1 Anthony Dr Lackawanna, NY",139185,-78.811744,42.819701
+1543,"31 Willink Ave West Seneca, NY",116545,-78.79988,42.846168
+1544,"38 Thomas Jefferson Ln Amherst, NY",507567,-78.7817139,42.974886
+1545,"13 Princess Dr Cheektowaga, NY",359816,-78.757756,42.942152
+1546,"29 Eastland Pkwy Cheektowaga, NY",133125,-78.778139,42.915773
+1547,"67 Marne Rd Cheektowaga, NY",120275,-78.7963989,42.925936
+1548,"21 Shepard Ave Kenmore, Kenmore, NY",198189,-78.871759,42.969451
+1549,"134 Maple Rd Williamsville, NY",350000,-78.7832034,42.9417287
+1550,"4694 Mosey Ln Blasdell, NY",299900,-78.803487,42.777302
+1551,"82 Nassau Ave Kenmore, Tonawanda, NY",166838,-78.8647311,42.9671863
+1552,"205 Towers Blvd Cheektowaga, NY",223843,-78.7309,42.876694
+1553,"23 Huntleigh Cir Eggertsville, NY",280416,-78.8016278,42.9824735
+1554,"301 McNaughton Ave Cheektowaga, NY",168291,-78.770826,42.914676
+1555,"870 Losson Rd #9 Cheektowaga, NY",32000,-78.727676,42.881368
+1556,"870 Losson Rd #10 Cheektowaga, NY",32000,-78.727676,42.881368
+1557,"6254 Main St Williamsville, NY",29777,-78.720522,42.966571
+1558,"1908 Union Rd #12 West Seneca, NY",50000,-78.755007,42.852157
+1559,"37 Orchard Pl Lackawanna, NY",137725,-78.812983,42.827277
+1560,"17 Wilkes Ave Kenfield, Buffalo, NY",34900,-78.8043281,42.9232985
+1561,"75 Edison Ave Kenfield, Buffalo, NY",29900,-78.8019249,42.9249242
+1562,"188 Franklin St Lackawanna, NY",129000,-78.8293945,42.8205414
+1563,"687 Eggert Rd Kensington, Buffalo, NY",62284,-78.80306,42.947002
+1564,"260 S Forest Rd Amherst, NY",289990,-78.758631,42.953255
+1565,"1519 Eggert Rd Amherst, NY",120000,-78.803702,42.969874
+1566,"282 Saranac Ave North Park, Buffalo, NY",149900,-78.8575602,42.9536699
+1567,"5397 Center Pine Ln Williamsville, NY",450000,-78.679498,42.992449
+1568,"245 Courtland Ave Kenfield, Buffalo, NY",49900,-78.8065898,42.9267642
+1569,"959 West Ave Grant Ferry, Buffalo, NY",119000,-78.896814,42.916319
+1570,"151 Johnson St Johnson, Buffalo, NY",34900,-78.847984,42.895257
+1571,"166 Dodge St Masten Park, Buffalo, NY",56000,-78.8614585,42.9059623
+1572,"22 Cazenovia St Abbott McKinley, Buffalo, NY",148800,-78.8120726,42.8489862
+1573,"97 Wellington Rd North Park, Buffalo, NY",309900,-78.851014,42.94704
+1574,"10 Mayberry Dr W Cheektowaga, NY",87900,-78.740639,42.868723
+1575,"38 Flower St University, Buffalo, NY",129500,-78.8300152,42.9522662
+1576,"790 Walden Ave Schiller Park, Buffalo, NY",115000,-78.8068665,42.9060415
+1577,"192 Villa Ave North Park, Buffalo, NY",159900,-78.8621762,42.9581136
+1578,"119 Callodine Ave Amherst, NY",60000,-78.814629,42.962457
+1579,"191 Park Forest Dr Williamsville, NY",199900,-78.783556,42.981501
+1580,"48 Meadow Lea Dr Eggertsville, NY",128900,-78.8185487,42.9680697
+1581,"192 Euclid Ave Kenmore, Kenmore, NY",169900,-78.8622869,42.9607984
+1582,"384 Mill Rd West Seneca, NY",179500,-78.745393,42.822147
+1583,"21 S Union Ter Williamsville, NY",209000,-78.7541857,42.9530814
+1584,"8540 Nottingham Ter Williamsville, NY",142000,-78.674224,42.9644059
+1585,"35 Eaglewood Ave Abbott McKinley, Buffalo, NY",164900,-78.8180949,42.8497104

@@ -1,0 +1,1031 @@
+ID,name,price,lon,lat
+1,"230 E Manchester Rd Syracuse, NY",168800 ,-76.2073362 ,43.0448916 
+2,"105 Stasko Dr Syracuse, NY",109000 ,-76.2407939 ,43.0896000 
+3,"603 Dakin St Eastside, Syracuse, NY",67000 ,-76.1094252 ,43.0508790 
+4,"742 N Alvord St Northside, Syracuse, NY",52000 ,-76.1547709 ,43.0658528 
+5,"113 Eloise Ter Southside, Syracuse, NY",59900 ,-76.1634585 ,43.0258415 
+6,"1437 Burnet Ave Eastwood, Syracuse, NY",30000 ,-76.1180495 ,43.0555467 
+7,"310 Turtle St Northside, Syracuse, NY",35000 ,-76.1600798 ,43.0683100 
+8,"504 Bear St Northside, Syracuse, NY",6900 ,-76.1599381 ,43.0711389 
+9,"5319 Bear Rd Syracuse, NY",60000 ,-76.1503210 ,43.1442220 
+10,"714 Montrose Ave Syracuse, NY",85000 ,-76.1967361 ,43.0408845 
+11,"214 Mary St Northside, Syracuse, NY",9900 ,-76.1482223 ,43.0655498 
+12,"209 Merriman Ave #11 Westside, Syracuse, NY",45000 ,-90.7910352 ,35.2238617 
+13,"121 Hudson St Southside, Syracuse, NY",30700 ,-76.1598728 ,43.0353102 
+14,"108 Rockland Ave Southside, Syracuse, NY",5000 ,-76.1559582 ,43.0241830 
+15,"402 Bishop Ave Southside, Syracuse, NY",18000 ,-76.1582031 ,43.0188876 
+16,"2300 Burnet Ave Eastwood, Syracuse, NY",30000 ,-76.1039450 ,43.0583588 
+17,"325 Barrington Rd Eastside, Syracuse, NY",274900 ,-76.0827900 ,43.0418258 
+18,"316 Male Ave Syracuse, NY",119900 ,-76.2497840 ,43.0506800 
+19,"120 Woods Ave S Lyncourt, Syracuse, NY",38000 ,-76.1173195 ,43.0749320 
+20,"323 Deforest Rd Eastside, Syracuse, NY",169000 ,-76.0925703 ,43.0413441 
+21,"133 Monticello Dr S Valley, Syracuse, NY",70000 ,-76.1384737 ,42.9991698 
+22,"111 Brantford Path Syracuse, NY",285000 ,-76.2318431 ,43.0385754 
+23,"714 Onondaga Ave Southside, Syracuse, NY",9900 ,-76.1623790 ,43.0261955 
+24,"130 E Brighton Ave #32 Southside, Syracuse, NY",6900 ,-76.1401676 ,43.0199590 
+25,"202 North Ave Eastwood, Syracuse, NY",89000 ,-76.1133156 ,43.0700646 
+26,"405 Richfield Blvd Syracuse, NY",63000 ,-76.1567120 ,43.0948650 
+27,"111 S Carbon St Northside, Syracuse, NY",59900 ,-76.1425840 ,43.0642780 
+28,"119 Shore Ave Syracuse, NY",89900 ,-76.2450444 ,43.0982412 
+29,"305 Kensington Pl Eastside, Syracuse, NY",139900 ,-76.1192685 ,43.0276422 
+30,"311 Putnam St Westside, Syracuse, NY",5000 ,-76.1727309 ,43.0366082 
+31,"115 Pardee Ave Syracuse, NY",59900 ,-76.1907956 ,43.0379560 
+32,"401 Center St Syracuse, NY",76595 ,-76.2203560 ,43.0593790 
+33,"221 Herriman St Westside, Syracuse, NY",42900 ,-76.1768440 ,43.0372189 
+34,"216 Cherry Rd Syracuse, NY",299900 ,-76.2120810 ,43.0435720 
+35,"721-723 Wadsworth St #23 Northside, Syracuse, NY",74900 ,-76.1397055 ,43.0773368 
+36,"151 Dale St Northside, Syracuse, NY",110000 ,-76.1441798 ,43.0759729 
+37,"512 Mosley Dr Eastwood, Syracuse, NY",69900 ,-76.1007937 ,43.0604201 
+38,"103 Abell Ave Syracuse, NY",65255 ,-76.2230110 ,43.0608990 
+39,"446 Ellis St Eastside, Syracuse, NY",47000 ,-76.1137566 ,43.0458360 
+40,"4104 Young Rd Syracuse, NY",69900 ,-76.2063861 ,42.9701337 
+41,"2313 E Fayette St Eastside, Syracuse, NY",49900 ,-76.1111996 ,43.0484119 
+42,"311 Charles Ave Syracuse, NY",79900 ,-76.1998980 ,43.0553040 
+43,"807 Cogswell Ave Syracuse, NY",34900 ,-76.2180420 ,43.0564600 
+44,"4638 Broad Rd Syracuse, NY",149000 ,-76.1680152 ,42.9967459 
+45,"211 Rutledge St Syracuse, NY",109900 ,-76.2260579 ,43.0317551 
+46,"612 N McBride St Northside, Syracuse, NY",32500 ,-76.1460590 ,43.0566475 
+47,"406 Center St Syracuse, NY",84900 ,-76.2207851 ,43.0589206 
+48,"5247 Jamesville Rd Syracuse, NY",132000 ,-76.0727092 ,43.0251579 
+49,"148 Redfield Pl Eastside, Syracuse, NY",144000 ,-76.1212108 ,43.0374089 
+50,"129 Gorland Ave #31 Eastside, Syracuse, NY",59900 ,-76.1011888 ,43.0449394 
+51,"137 Culbert St Northside, Syracuse, NY",19500 ,-76.1502304 ,43.0720581 
+52,"703 Valley Dr Valley, Syracuse, NY",24900 ,-76.1565692 ,43.0100775 
+53,"424 Maple St Eastside, Syracuse, NY",115000 ,-76.1257071 ,43.0462023 
+54,"913 Butternut St Northside, Syracuse, NY",59900 ,-76.1439324 ,43.0633856 
+55,"200 200 02 Marcellus St W Westside, Syracuse, NY",16900 ,-76.1747133 ,43.0444585 
+56,"169 Milnor Ave Eastside, Syracuse, NY",87500 ,-76.1008886 ,43.0476796 
+57,"414 Tower Ave Lyncourt, Syracuse, NY",59900 ,-76.1194521 ,43.0805604 
+58,"710 Hickory St Northside, Syracuse, NY",79900 ,-76.1436261 ,43.0567800 
+59,"336 Loomis Ave Valley, Syracuse, NY",19900 ,-76.1538068 ,43.0074227 
+60,"485 Audubon Pkwy Eastside, Syracuse, NY",104840 ,-76.0948460 ,43.0514439 
+61,"519 Schuyler St Westside, Syracuse, NY",14000 ,-76.1888952 ,43.0483894 
+62,"849 South Ave Southside, Syracuse, NY",29900 ,-76.1578590 ,43.0291410 
+63,"140 Paul Ave Eastwood, Syracuse, NY",61995 ,-76.1200771 ,43.0688964 
+64,"139 John St Northside, Syracuse, NY",58000 ,-76.1483438 ,43.0630235 
+65,"433 Shonnard St Westside, Syracuse, NY",16900 ,-76.1687332 ,43.0409521 
+66,"5011 Horizon Ter Syracuse, NY",325000 ,-76.1696303 ,42.9811792 
+67,"110 Dewitt Rd Eastside, Syracuse, NY",229900 ,-76.0834339 ,43.0392677 
+68,"117 Culbert St Northside, Syracuse, NY",43000 ,-76.1508399 ,43.0712796 
+69,"236 Fellows Ave #38 Eastside, Syracuse, NY",189900 ,-76.1153801 ,43.0405918 
+70,"123 Malden Rd Syracuse, NY",35500 ,-76.1423800 ,43.1047080 
+71,"341 Marlborough Rd Eastwood, Syracuse, NY",52900 ,-76.1124414 ,43.0728707 
+72,"1628 Hawley Ave Eastwood, Syracuse, NY",45000 ,-76.1202981 ,43.0554944 
+73,"309 Horan Rd Syracuse, NY",107500 ,-76.2347403 ,43.0659069 
+74,"252 Clover Ridge Dr Eastwood, Syracuse, NY",44900 ,-76.0933126 ,43.0654113 
+75,"170 Clyde Ave #72 Southside, Syracuse, NY",40500 ,-81.3241970 ,28.7337678 
+76,"200 Beley Ave Syracuse, NY",95000 ,-76.1416980 ,43.1001620 
+77,"340 S Midler Ave Eastwood, Syracuse, NY",44900 ,-76.1048429 ,43.0629053 
+78,"624 Plymouth Dr Eastwood, Syracuse, NY",59900 ,-76.0985418 ,43.0605760 
+79,"302 Dewittshire Rd S Syracuse, NY",249900 ,-76.0684210 ,43.0308560 
+80,"405 S Terry Rd Syracuse, NY",124900 ,-76.2198502 ,43.0402827 
+81,"5170 Onondaga Rd Syracuse, NY",54900 ,-76.2219500 ,43.0229020 
+82,"225 E Glen Ave Valley, Syracuse, NY",16900 ,-76.1411208 ,43.0056747 
+83,"110 Charmouth Dr Southside, Syracuse, NY",74900 ,-76.1631464 ,43.0214772 
+84,"108 Blossom Rd #10 Eastside, Syracuse, NY",149900 ,-76.1051382 ,43.0438945 
+85,"1111 Park St Northside, Syracuse, NY",59900 ,-76.1500202 ,43.0650614 
+86,"3401 Bellevue Ave Syracuse, NY",64999 ,-76.2119777 ,43.0254526 
+87,"224 S Collingwood Ave Eastwood, Syracuse, NY",79900 ,-76.1075608 ,43.0655052 
+88,"125 Marsden Rd Lyncourt, Syracuse, NY",47700 ,-76.1330900 ,43.0867460 
+89,"309 Willis Ave Westside, Syracuse, NY",57500 ,-76.1898584 ,43.0485914 
+90,"271 Mountainview Ave Eastside, Syracuse, NY",76500 ,-76.1010137 ,43.0508436 
+91,"221 Feldspar Dr Syracuse, NY",182900 ,-76.2538976 ,43.0325808 
+92,"330 Dewitt St Northside, Syracuse, NY",259900 ,-76.1336225 ,43.0641728 
+93,"237 Kenwood Ave Northside, Syracuse, NY",36500 ,-76.1516451 ,43.0795673 
+94,"256 Girard Ave Valley, Syracuse, NY",19900 ,-76.1522602 ,43.0086865 
+95,"473 Stafford Ave Eastwood, Syracuse, NY",88000 ,-76.1117031 ,43.0594489 
+96,"405 S Edwards Ave Eastwood, Syracuse, NY",54900 ,-76.1054719 ,43.0616043 
+97,"117 W Bissell St #19 Southside, Syracuse, NY",22900 ,-76.1597336 ,43.0259966 
+98,"103 S Avery Ave Westside, Syracuse, NY",129900 ,-76.1890842 ,43.0448840 
+99,"114 Arch St Eastwood, Syracuse, NY",99900 ,-76.0997868 ,43.0616132 
+100,"215 Bury Dr Syracuse, NY",128000 ,-76.2495861 ,43.0951796 
+101,"412 E Division St Northside, Syracuse, NY",49900 ,-76.1511417 ,43.0611624 
+102,"242 Bruce St Eastside, Syracuse, NY",85000 ,-76.1118888 ,43.0493333 
+103,"706 Barnes Ave Valley, Syracuse, NY",54900 ,-76.1595750 ,43.0045033 
+104,"313 Myron Rd Syracuse, NY",94900 ,-76.2346840 ,43.0513460 
+105,"1239 Park St Northside, Syracuse, NY",59900 ,-76.1539935 ,43.0666849 
+106,"120 Crabapple Ln Syracuse, NY",135900 ,-76.2281351 ,43.0410365 
+107,"108 Signal Rdg Syracuse, NY",89500 ,-76.2413886 ,43.0575003 
+108,"134 Wolcott Ave Southside, Syracuse, NY",93900 ,-76.1832117 ,43.0314909 
+109,"118 Croyden Rd Eastside, Syracuse, NY",144900 ,-76.1086850 ,43.0312043 
+110,"117 Lookout Cir Syracuse, NY",125000 ,-76.2418170 ,43.0584050 
+111,"429 N Franklin St #101 Lakefront, Syracuse, NY",775000 ,-76.1562164 ,43.0553564 
+112,"103 Rugby Rd Eastwood, Syracuse, NY",184900 ,-76.1210004 ,43.0668007 
+113,"468 Brattle Rd Northside, Syracuse, NY",169900 ,-76.1283541 ,43.0705540 
+114,"352 Hillsdale Ave Eastwood, Syracuse, NY",82000 ,-76.1085339 ,43.0624076 
+115,"4175 Onondaga Blvd Syracuse, NY",239900 ,-76.2241581 ,43.0309133 
+116,"304 S Midler Ave Eastwood, Syracuse, NY",93900 ,-76.1049329 ,43.0638867 
+117,"902 Velasko Rd Southside, Syracuse, NY",84900 ,-76.1857337 ,43.0280711 
+118,"310 Hurlburt Rd Eastside, Syracuse, NY",259900 ,-76.1008898 ,43.0385460 
+119,"408 Erie St #12 Westside, Syracuse, NY",127000 ,-93.1217464 ,44.9289674 
+120,"4346 Shea Rd Syracuse, NY",134900 ,-76.1982786 ,42.9818144 
+121,"3995 W Langerwood Ln Syracuse, NY",229900 ,-76.2335335 ,43.0095990 
+122,"485 Lillian Ave Eastwood, Syracuse, NY",125000 ,-76.1111051 ,43.0758269 
+123,"4479 Broad Rd Syracuse, NY",229900 ,-76.1677952 ,42.9883376 
+124,"333 Wynthrop Rd Syracuse, NY",122500 ,-76.2077330 ,43.0492599 
+125,"119 Beley Ave Syracuse, NY",74500 ,-76.1428509 ,43.1006330 
+126,"226 Darlington Rd Northside, Syracuse, NY",92500 ,-76.1361345 ,43.0757748 
+127,"927 Jamesville Ave Eastside, Syracuse, NY",109900 ,-76.1293513 ,43.0176357 
+128,"4821 McDonald Rd Syracuse, NY",132900 ,-76.1817260 ,43.0173460 
+129,"226 Brattle Rd Northside, Syracuse, NY",249900 ,-76.1281854 ,43.0646924 
+130,"4973 Bryn Mawr Dr Syracuse, NY",249900 ,-76.1776867 ,43.0110943 
+131,"203 Mason Dr Syracuse, NY",95700 ,-76.2422455 ,43.0370695 
+132,"712-714 Oak St Northside, Syracuse, NY",78900 ,-76.1360666 ,43.0630727 
+133,"170 Hood Ave Northside, Syracuse, NY",91900 ,-76.1447425 ,43.0746428 
+134,"352 Marlborough Rd Eastwood, Syracuse, NY",77000 ,-76.1120401 ,43.0731790 
+135,"913 Crawford Ave Eastside, Syracuse, NY",159900 ,-76.1101495 ,43.0297417 
+136,"377 W Onondaga St #402 Westside, Syracuse, NY",76900 ,-76.1563183 ,43.0411818 
+137,"136 Baker Blvd Syracuse, NY",69900 ,-76.2928500 ,43.1207380 
+138,"424 Douglas St Northside, Syracuse, NY",64000 ,-76.1367889 ,43.0614650 
+139,"101 Windsor Pl Eastside, Syracuse, NY",339000 ,-76.1248869 ,43.0318856 
+140,"525 Lemoyne Ave Northside, Syracuse, NY",35000 ,-76.1617021 ,43.0723348 
+141,"133 Walton St #126 Downtown, Syracuse, NY",224500 ,-76.1543281 ,43.0479338 
+142,"205 Highland Ave Northside, Syracuse, NY",158083 ,-76.1376600 ,43.0602708 
+143,"213 Snowdale Dr Syracuse, NY",95000 ,-76.2952850 ,43.1214790 
+144,"415 1st St Syracuse, NY",88400 ,-76.2200110 ,43.0607250 
+145,"200 Woodbury Ave Lyncourt, Syracuse, NY",149900 ,-76.1222440 ,43.0774210 
+146,"377 W Onondaga St #308 Westside, Syracuse, NY",69900 ,-76.1563183 ,43.0411818 
+147,"281 Briggs St Northside, Syracuse, NY",77900 ,-76.1367203 ,43.0773593 
+148,"5265 Jamesville Rd Syracuse, NY",158000 ,-76.0721437 ,43.0261721 
+149,"504 Spring St Northside, Syracuse, NY",84900 ,-76.1494305 ,43.0676857 
+150,"230 Sunrise Dr Valley, Syracuse, NY",114000 ,-76.1379806 ,42.9949745 
+151,"301 Hamilton Pkwy Syracuse, NY",174900 ,-76.0754210 ,43.0241870 
+152,"435 Clover Ridge Dr Eastwood, Syracuse, NY",112900 ,-76.0923877 ,43.0616307 
+153,"131 Cresline Dr Eastwood, Syracuse, NY",119900 ,-76.0993677 ,43.0632782 
+154,"150 Harford Rd Northside, Syracuse, NY",61000 ,-76.1441400 ,43.0826662 
+155,"169 Reed Ave Southside, Syracuse, NY",34200 ,-76.1813844 ,43.0306576 
+156,"113 Upland Rd Southside, Syracuse, NY",84900 ,-76.1837516 ,43.0314809 
+157,"210 Erie St Westside, Syracuse, NY",89900 ,-76.1911479 ,43.0527690 
+158,"219 Campbell Rd Syracuse, NY",104900 ,-76.1400960 ,43.1031570 
+159,"139 Delong Ave Northside, Syracuse, NY",34900 ,-76.1491375 ,43.0719086 
+160,"148 Winthrop Rd Eastwood, Syracuse, NY",114900 ,-76.0978305 ,43.0654985 
+161,"1206 Butternut St #2 Northside, Syracuse, NY",65000 ,-76.1430565 ,43.0667281 
+162,"112 Clearview Dr Syracuse, NY",114900 ,-76.2264355 ,43.0508964 
+163,"262 W Corning Ave Southside, Syracuse, NY",9900 ,-76.1479182 ,43.0184089 
+164,"212 Griffiths St Northside, Syracuse, NY",49900 ,-76.1454282 ,43.0692320 
+165,"103 Henderson Blvd Syracuse, NY",115000 ,-76.2878705 ,43.1230392 
+166,"107 Sunnybrook Dr Syracuse, NY",156900 ,-76.2327465 ,43.0494237 
+167,"218 Parkway Dr Southside, Syracuse, NY",109900 ,-76.1638222 ,43.0244620 
+168,"139 Normanor Dr Valley, Syracuse, NY",79900 ,-76.1504325 ,42.9960540 
+169,"213 Springbrook Ave Valley, Syracuse, NY",58412 ,-76.1385192 ,43.0067351 
+170,"141 Hughes Pl Eastside, Syracuse, NY",67900 ,-76.1330879 ,43.0242941 
+171,"112 Smith Rd Valley, Syracuse, NY",40459 ,-76.1553279 ,43.0044591 
+172,"101 Winkworth Pkwy Southside, Syracuse, NY",142700 ,-76.1931180 ,43.0287859 
+173,"138 Hampton Rd Northside, Syracuse, NY",214900 ,-76.1234705 ,43.0661021 
+174,"4329 Fay Rd Syracuse, NY",55624 ,-76.2143536 ,43.0290373 
+175,"316 W Matson Ave #22 Southside, Syracuse, NY",16900 ,-76.1492921 ,43.0128659 
+176,"219 Lindbergh Rd Nedrow, Syracuse, NY",64900 ,-76.1479954 ,42.9807129 
+177,"100 Roxann Ave Syracuse, NY",71250 ,-76.1230430 ,43.1337770 
+178,"1143 Cumberland Ave Eastside, Syracuse, NY",140000 ,-76.1119544 ,43.0245738 
+179,"4627 Tucker Rd Syracuse, NY",119900 ,-76.1952972 ,42.9813105 
+180,"1441 Midland Ave Southside, Syracuse, NY",19900 ,-76.1506984 ,43.0245752 
+181,"404 Burdick Ave Northside, Syracuse, NY",77900 ,-76.1560260 ,43.0777820 
+182,"222 Crawford Ave Eastside, Syracuse, NY",164900 ,-76.1101967 ,43.0395694 
+183,"163 Redfield Pl Eastside, Syracuse, NY",144000 ,-76.1207463 ,43.0378369 
+184,"403 Carbon St Northside, Syracuse, NY",39900 ,-76.1477199 ,43.0655955 
+185,"205 Hawthorne St Eastside, Syracuse, NY",70029 ,-76.1204130 ,43.0442290 
+186,"416 Willumae Dr Northside, Syracuse, NY",49900 ,-76.1576839 ,43.0793333 
+187,"504 Winkworth Pkwy Southside, Syracuse, NY",225000 ,-76.1991801 ,43.0255641 
+188,"503 Standish Dr Syracuse, NY",274900 ,-76.1016355 ,43.0316399 
+189,"133 Walton St #128 Downtown, Syracuse, NY",229000 ,-76.1543281 ,43.0479338 
+190,"400 Corey Rd Syracuse, NY",94900 ,-76.1989382 ,43.0396393 
+191,"1117 W Onondaga St #21 Southside, Syracuse, NY",190000 ,-76.1705013 ,43.0341068 
+192,"210 Meadow Rd Syracuse, NY",154900 ,-76.2168681 ,43.0436365 
+193,"231 Kellogg St Westside, Syracuse, NY",59000 ,-76.1649464 ,43.0378201 
+194,"142 Sunhill Ter Southside, Syracuse, NY",102900 ,-76.1895348 ,43.0294472 
+195,"4930 Albart Dr Syracuse, NY",179500 ,-76.2090886 ,43.0100505 
+196,"124 Kenwood Ave Northside, Syracuse, NY",119000 ,-76.1486474 ,43.0781261 
+197,"348 Mildred Ave Eastwood, Syracuse, NY",89900 ,-76.1213556 ,43.0705798 
+198,"205 Cannon St Southside, Syracuse, NY",19900 ,-76.1468514 ,43.0237702 
+199,"102 Lynnhaven Dr Syracuse, NY",149900 ,-76.1553292 ,43.1292390 
+200,"2310 Brewerton Rd Syracuse, NY",125000 ,-76.1451153 ,43.0998324 
+201,"232 S Edwards Ave Eastwood, Syracuse, NY",114900 ,-76.1063591 ,43.0653267 
+202,"154 Merrell Rd Southside, Syracuse, NY",119950 ,-76.1944117 ,43.0300888 
+203,"161 Clyde Ave Southside, Syracuse, NY",39900 ,-76.1614064 ,43.0212523 
+204,"108 Strand Pl Northside, Syracuse, NY",39900 ,-76.1491188 ,43.0656560 
+205,"34 Regatta Row Syracuse, NY",127900 ,-76.2341650 ,43.0887370 
+206,"120 Walrath Rd Valley, Syracuse, NY",59900 ,-76.1412444 ,43.0105658 
+207,"120-122 Lillian Ave Eastwood, Syracuse, NY",104900 ,-76.1103873 ,43.0692728 
+208,"129 Fairfield Ave Southside, Syracuse, NY",82000 ,-76.1649212 ,43.0167227 
+209,"126 Columbia Ave Southside, Syracuse, NY",138000 ,-76.1683387 ,43.0215851 
+210,"440 Orwood Pl Lyncourt, Syracuse, NY",94000 ,-76.1304760 ,43.0803100 
+211,"308 Dakin St Eastside, Syracuse, NY",47500 ,-76.1123908 ,43.0503777 
+212,"114 Avondale Pl Eastside, Syracuse, NY",144000 ,-76.1197980 ,43.0392129 
+213,"404 Avery Ave Westside, Syracuse, NY",84900 ,-76.1918982 ,43.0489162 
+214,"1220 Avery Ave Westside, Syracuse, NY",45000 ,-76.1988766 ,43.0587759 
+215,"9 Pebble Hill Rd N Syracuse, NY",199900 ,-76.0696538 ,43.0295708 
+216,"429 N Franklin St #116 Lakefront, Syracuse, NY",625000 ,-76.1562164 ,43.0553564 
+217,"102 Dougal Ave Southside, Syracuse, NY",60000 ,-76.1406654 ,43.0256538 
+218,"300 Apple St Westside, Syracuse, NY",54000 ,-76.1764675 ,43.0514003 
+219,"159 Hancock Dr Southside, Syracuse, NY",129500 ,-76.1769079 ,43.0226503 
+220,"232 Cleveland Ave Northside, Syracuse, NY",55000 ,-76.1445900 ,43.0707104 
+221,"410 Mackay Ave Syracuse, NY",127500 ,-76.2475110 ,43.0516580 
+222,"1668 W Colvin St Southside, Syracuse, NY",119900 ,-76.1649270 ,43.0232100 
+223,"124 Monticello Dr N Valley, Syracuse, NY",82900 ,-76.1384434 ,43.0011085 
+224,"111 Sunnyside Rd Eastside, Syracuse, NY",159900 ,-76.1115533 ,43.0383220 
+225,"750 North Ave Lyncourt, Syracuse, NY",86000 ,-76.1144352 ,43.0799969 
+226,"509 N Orchard Rd #D Syracuse, NY",179900 ,-76.2048742 ,43.0530153 
+227,"111 Sheraton Rd Syracuse, NY",129900 ,-76.2092502 ,43.0295461 
+228,"132 Milburn Dr Valley, Syracuse, NY",69900 ,-76.1526370 ,43.0042180 
+229,"2430 Midland Ave Southside, Syracuse, NY",28000 ,-76.1484150 ,43.0157789 
+230,"404 Snyder Ave Lyncourt, Syracuse, NY",98900 ,-76.1199614 ,43.0794999 
+231,"158 Harold St Northside, Syracuse, NY",69900 ,-76.1402441 ,43.0747304 
+232,"970 Bellevue Ave Southside, Syracuse, NY",49500 ,-76.1694550 ,43.0333450 
+233,"1516 Court St Northside, Syracuse, NY",62500 ,-76.1457393 ,43.0784144 
+234,"213 Mc Kenney Ave Syracuse, NY",109900 ,-76.1400960 ,43.0954110 
+235,"117 Gordon Ave #19 Southside, Syracuse, NY",165000 ,-73.5990036 ,40.7487374 
+236,"218 Boulder Rd Syracuse, NY",182900 ,-76.2067100 ,43.0562479 
+237,"121 Delong Ave Northside, Syracuse, NY",49900 ,-76.1497110 ,43.0711013 
+238,"120 Marian Dr Syracuse, NY",159500 ,-76.2080292 ,43.0394834 
+239,"145 Wood Ave Southside, Syracuse, NY",44900 ,-76.1490154 ,43.0252554 
+240,"804 Teall Ave Eastwood, Syracuse, NY",97900 ,-76.1219466 ,43.0586278 
+241,"318 Mountainview Ave Eastside, Syracuse, NY",77500 ,-76.0995326 ,43.0505433 
+242,"1004 Spring St Northside, Syracuse, NY",39900 ,-76.1534160 ,43.0699140 
+243,"867 Emerson Ave Westside, Syracuse, NY",42900 ,-76.1929534 ,43.0579210 
+244,"615 Valley Dr Valley, Syracuse, NY",49900 ,-76.1567742 ,43.0105750 
+245,"277 Ross Park Northside, Syracuse, NY",129000 ,-76.1470943 ,43.0768792 
+246,"526 Plum St #401 Lakefront, Syracuse, NY",299000 ,-76.1580582 ,43.0560269 
+247,"210 Semloh Dr Syracuse, NY",149900 ,-76.2440642 ,43.0340320 
+248,"924 Glencove Rd Eastwood, Syracuse, NY",129900 ,-76.1023838 ,43.0640738 
+249,"228 Brampton Rd Valley, Syracuse, NY",94900 ,-76.1389312 ,42.9922476 
+250,"243 Kensington Pl #45 Eastside, Syracuse, NY",210000 ,-76.1192384 ,43.0287914 
+251,"145 Cannon St Southside, Syracuse, NY",24500 ,-76.1469941 ,43.0240117 
+252,"5302 Aquarius Dr Syracuse, NY",295000 ,-76.1014378 ,43.0286841 
+253,"6121 Ridgecrest Dr Syracuse, NY",149900 ,-76.0975600 ,43.1407890 
+254,"303 Gordon Ave Southside, Syracuse, NY",111900 ,-76.1740920 ,43.0288640 
+255,"108 Curtis St Northside, Syracuse, NY",42000 ,-76.1482256 ,43.0667582 
+256,"121 W End Dr Westside, Syracuse, NY",44900 ,-76.1977667 ,43.0584571 
+257,"1862 Bellevue Ave Southside, Syracuse, NY",44900 ,-76.1849219 ,43.0326808 
+258,"220 Markland Ave Southside, Syracuse, NY",44900 ,-76.1797949 ,43.0311411 
+259,"228 Arlington Ave Southside, Syracuse, NY",130000 ,-76.1670833 ,43.0218197 
+260,"811 Nottingham Rd Syracuse, NY",152500 ,-76.1042480 ,43.0211280 
+261,"361 Warner Ave Southside, Syracuse, NY",44900 ,-76.1489643 ,43.0216862 
+262,"905 Ackerman Ave #7 Eastside, Syracuse, NY",395000 ,-76.1241534 ,43.0339948 
+263,"323 Ridgewood Dr Eastwood, Syracuse, NY",104900 ,-76.0939444 ,43.0651482 
+264,"316 Wolcott Ave Southside, Syracuse, NY",124900 ,-76.1829808 ,43.0291826 
+265,"418 Helen St Northside, Syracuse, NY",84900 ,-76.1350807 ,43.0680452 
+266,"935 Oak St Northside, Syracuse, NY",64900 ,-76.1364786 ,43.0653352 
+267,"106 W Jefferson St #705 Downtown, Syracuse, NY",172500 ,-75.2436173 ,39.8324052 
+268,"1419 W Onondaga St #21 Southside, Syracuse, NY",69900 ,-76.1778204 ,43.0338399 
+269,"712 Oak St Northside, Syracuse, NY",78900 ,-76.1357832 ,43.0630980 
+270,"5822 S Salina St Valley, Syracuse, NY",140000 ,-76.1440959 ,42.9863454 
+271,"2312 Grant Blvd Northside, Syracuse, NY",119900 ,-76.1465538 ,43.0736259 
+272,"103 Westwood Ave Syracuse, NY",89900 ,-76.1313670 ,43.0991140 
+273,"215 Deforest Rd Eastside, Syracuse, NY",174900 ,-76.0898676 ,43.0437303 
+274,"147 W Matson Ave Valley, Syracuse, NY",54900 ,-76.1436367 ,43.0130843 
+275,"205 Willumae Dr Northside, Syracuse, NY",134900 ,-76.1526141 ,43.0769858 
+276,"422 Edgeware Rd Lyncourt, Syracuse, NY",119258 ,-76.1319066 ,43.0881546 
+277,"100 Doll Pkwy Eastside, Syracuse, NY",106095 ,-76.0887711 ,43.0460933 
+278,"127 Terrace Dr Syracuse, NY",92639 ,-76.2415075 ,43.0392037 
+279,"164 Everingham Rd Nedrow, Syracuse, NY",86000 ,-76.1459069 ,42.9826140 
+280,"103 Beverly Dr Syracuse, NY",92363 ,-76.2459013 ,43.0434357 
+281,"322 W Ostrander Ave Southside, Syracuse, NY",37900 ,-76.1490063 ,43.0140801 
+282,"4728 Setting Sun Ter Syracuse, NY",324900 ,-76.1910509 ,42.9923431 
+283,"209 Fay Rd Syracuse, NY",129900 ,-76.1986948 ,43.0456272 
+284,"116 Cody Ave Westside, Syracuse, NY",124000 ,-76.1886858 ,43.0460160 
+285,"306 Kenwood Ave Northside, Syracuse, NY",73900 ,-76.1520899 ,43.0803267 
+286,"101 Danbury Dr Syracuse, NY",134900 ,-76.2507390 ,43.0442840 
+287,"217 Wynnfield Dr Syracuse, NY",135000 ,-76.2294480 ,43.0361040 
+288,"134 Delong Ave #38 Northside, Syracuse, NY",34900 ,-76.1486420 ,43.0717260 
+289,"3730 Warners Rd Syracuse, NY",69900 ,-76.2579600 ,43.0556441 
+290," Cornish Heights Pkwy #Lot 68 Syracuse, NY",389000 ,-76.1725333 ,42.9978351 
+291,"159 Weymouth Rd Valley, Syracuse, NY",60722 ,-76.1410164 ,42.9963460 
+292,"600 W Ostrander Ave #A Southside, Syracuse, NY",6900 ,-76.1533513 ,43.0139320 
+293,"706 Boulevard St Syracuse, NY",99000 ,-76.1385200 ,43.0943110 
+294,"2406 Brewerton Rd Syracuse, NY",14900 ,-76.1449780 ,43.1007150 
+295,"306 Boyden St Northside, Syracuse, NY",70000 ,-76.1242871 ,43.0606953 
+296,"108 W Jefferson St #705 Downtown, Syracuse, NY",172500 ,-76.1529342 ,43.0473157 
+297,"207 N Townsend St Northside, Syracuse, NY",375000 ,-76.1458372 ,43.0527454 
+298,"300 Hillsboro Pkwy Eastside, Syracuse, NY",164900 ,-76.0919158 ,43.0402095 
+299,"133 Walton St #126 Downtown, Syracuse, NY",224500 ,-76.1543281 ,43.0479338 
+300,"5001 Phaeton Ln Syracuse, NY",219900 ,-76.2716823 ,43.0108905 
+301,"1104 Butternut St #6 Northside, Syracuse, NY",189900 ,-76.1430436 ,43.0653175 
+302,"526 Plum St #106 Lakefront, Syracuse, NY",292500 ,-76.1580582 ,43.0560269 
+303,"312 Woodbine Ave Eastwood, Syracuse, NY",99900 ,-76.1098775 ,43.0634279 
+304,"123 Flint Path Syracuse, NY",169900 ,-76.2504393 ,43.0353728 
+305,"745 N Alvord St Northside, Syracuse, NY",39900 ,-76.1550359 ,43.0655769 
+306,"317 Furman St Southside, Syracuse, NY",127888 ,-76.1541227 ,43.0303305 
+308,"131 Strong Ave Eastside, Syracuse, NY",149900 ,-76.1175284 ,43.0381360 
+309,"139 Elmhurst Ave Southside, Syracuse, NY",38579 ,-76.1580894 ,43.0207020 
+310,"1320 Highland St Northside, Syracuse, NY",51851 ,-76.1416308 ,43.0712163 
+311,"133 Walton St #127 Downtown, Syracuse, NY",224900 ,-76.1543281 ,43.0479338 
+312,"1117 W Onondaga St #21 Southside, Syracuse, NY",190000 ,-76.1705013 ,43.0341068 
+313,"1844 James St Eastwood, Syracuse, NY",168900 ,-76.1198340 ,43.0659200 
+314,"725 Crawford Ave Eastside, Syracuse, NY",164900 ,-76.1095186 ,43.0328075 
+315,"247 Lakeview Ave Westside, Syracuse, NY",33900 ,-76.1796585 ,43.0512048 
+316,"4849 W Seneca Tpke Syracuse, NY",225000 ,-76.1809341 ,43.0057808 
+317,"338 Primrose Ave #40 Southside, Syracuse, NY",44900 ,-76.1496812 ,43.0149491 
+318,"209 Ontario Ave Syracuse, NY",159900 ,-76.2518745 ,43.0985484 
+319,"413 Hazelhurst Ave Lyncourt, Syracuse, NY",104900 ,-76.1133711 ,43.0769506 
+320,"W W 0 Seneca Turnpike Onondaga Syracuse, NY",65000 ,-76.1967384 ,43.0033537 
+321,"221 Weymouth Rd Valley, Syracuse, NY",89900 ,-76.1392337 ,42.9964189 
+322,"4410 Kasson Rd Syracuse, NY",499000 ,-76.2579910 ,42.9793720 
+323,"804-806 Milton Ave #6 Westside, Syracuse, NY",112900 ,-76.1909091 ,43.0541469 
+324,"15 Kingsley Pl Westside, Syracuse, NY",41900 ,-76.1926841 ,43.0578728 
+325,"1031 Cumberland Ave Eastside, Syracuse, NY",135000 ,-76.1121675 ,43.0261903 
+327,"116 Wheaton Rd Northside, Syracuse, NY",137400 ,-76.1258843 ,43.0685436 
+328,"4916 Tenterden Dr Syracuse, NY",204900 ,-76.1732685 ,43.0099314 
+329,"124 Brookfield Rd Syracuse, NY",86900 ,-76.1486060 ,43.0969610 
+330,"429 N Franklin St #101 Lakefront, Syracuse, NY",775000 ,-76.1562164 ,43.0553564 
+331,"367 Roxford Rd N Lyncourt, Syracuse, NY",109900 ,-76.1372210 ,43.0891090 
+332,"115 Hatherly Rd Eastside, Syracuse, NY",166900 ,-76.1028141 ,43.0399848 
+333,"265 Reed Ave Southside, Syracuse, NY",85000 ,-76.1812543 ,43.0283262 
+334,"121 Richardson Ave #23 Southside, Syracuse, NY",44900 ,-76.1526300 ,43.0179690 
+335,"1141 Teall Ave Northside, Syracuse, NY",82999 ,-76.1226784 ,43.0622052 
+336,"4336 Fay Rd Syracuse, NY",149900 ,-76.2134829 ,43.0296061 
+337,"208 Patterson Ave Syracuse, NY",149900 ,-76.2508082 ,43.0469265 
+338,"107 Earl Ave Syracuse, NY",115000 ,-76.1439509 ,43.1015367 
+339,"4342 Chickadee Cir Syracuse, NY",559000 ,-76.2556669 ,42.9832888 
+340,"1846 James St Eastwood, Syracuse, NY",139900 ,-76.1198195 ,43.0660497 
+341,"401 Greenway Ave Eastwood, Syracuse, NY",83835 ,-76.1197352 ,43.0565500 
+342,"104 Ormsby Dr Syracuse, NY",134900 ,-76.2101460 ,43.0306890 
+343,"508 Garfield Ave Southside, Syracuse, NY",50900 ,-76.1414651 ,43.0257433 
+344,"607 Boulevard St Syracuse, NY",104900 ,-76.1397000 ,43.0948030 
+345,"5887 Aries Way Syracuse, NY",389000 ,-76.2548513 ,43.0558345 
+346,"1121 Caleb Ave Eastwood, Syracuse, NY",114900 ,-76.1011118 ,43.0610069 
+347,"100 Alanson Rd Southside, Syracuse, NY",99000 ,-76.1729858 ,43.0269867 
+348,"210 W Borden Ave Southside, Syracuse, NY",45000 ,-76.1491182 ,43.0273933 
+349,"701 Maryland Ave Eastside, Syracuse, NY",240000 ,-76.1201857 ,43.0383645 
+350,"312 Schuyler St Westside, Syracuse, NY",99000 ,-76.1848031 ,43.0501276 
+351,"215 Maplehurst Ave Northside, Syracuse, NY",102900 ,-76.1398273 ,43.0798861 
+352,"1013 Milton Ave Westside, Syracuse, NY",84900 ,-76.1935189 ,43.0573096 
+353,"1715 W Onondaga St Southside, Syracuse, NY",49900 ,-76.1835089 ,43.0334048 
+354,"907 Carbon St Northside, Syracuse, NY",89900 ,-76.1581820 ,43.0697713 
+355,"139 Cannon St Southside, Syracuse, NY",27500 ,-76.1470416 ,43.0241238 
+356,"217 Primrose Ave Southside, Syracuse, NY",24500 ,-76.1458857 ,43.0146952 
+357,"400 Rowland St Westside, Syracuse, NY",75000 ,-76.1772430 ,43.0359820 
+358,"246 E Colvin St Southside, Syracuse, NY",51900 ,-76.1414828 ,43.0259135 
+359,"523 S Collingwood Ave Eastwood, Syracuse, NY",46800 ,-76.1064630 ,43.0588020 
+360,"102 Canfield Dr Syracuse, NY",149000 ,-76.2013443 ,43.0386395 
+361,"208 Hopper Rd Valley, Syracuse, NY",59000 ,-76.1596943 ,42.9999104 
+362,"248 Boston St Eastwood, Syracuse, NY",104900 ,-76.0907581 ,43.0656174 
+363,"326 Roberts Ave Southside, Syracuse, NY",135000 ,-76.1721121 ,43.0293368 
+364,"130 Grumbach Ave Northside, Syracuse, NY",49900 ,-76.1393295 ,43.0639241 
+365,"946 Emerson Ave Westside, Syracuse, NY",44184 ,-76.1955973 ,43.0595563 
+366,"104 S Alvord St Northside, Syracuse, NY",59000 ,-76.1418065 ,43.0606111 
+367,"304 E Colvin St Southside, Syracuse, NY",51900 ,-76.1409588 ,43.0259571 
+368,"316 Craig St Northside, Syracuse, NY",19900 ,-76.1458971 ,43.0705153 
+369,"1624 W Colvin St Southside, Syracuse, NY",69900 ,-76.1635310 ,43.0232480 
+370,"831 State Fair Blvd Syracuse, NY",127472 ,-76.2413060 ,43.0904350 
+371,"4902 Long Acre Dr Syracuse, NY",169900 ,-76.1749246 ,43.0010697 
+372,"148 Edgeware Rd Lyncourt, Syracuse, NY",60680 ,-76.1318002 ,43.0867086 
+373,"106 Columbia Ave Southside, Syracuse, NY",113900 ,-76.1683741 ,43.0222101 
+374,"219 Hancock Dr Southside, Syracuse, NY",99900 ,-76.1761684 ,43.0207842 
+375,"301 Medford Rd Lyncourt, Syracuse, NY",109900 ,-76.1358021 ,43.0872552 
+376,"109 Whitwell Dr Northside, Syracuse, NY",110875 ,-76.1376157 ,43.0640186 
+378,"111 Woods Ave S Lyncourt, Syracuse, NY",102835 ,-76.1172812 ,43.0744274 
+379,"114 Mark Ave Southside, Syracuse, NY",54295 ,-76.1499423 ,43.0250918 
+380,"114 Malverne Dr Northside, Syracuse, NY",75857 ,-76.1416454 ,43.0784673 
+381,"110 Harrington St Syracuse, NY",98500 ,-76.1469840 ,43.0933940 
+382,"201 Burdick Ave Northside, Syracuse, NY",99900 ,-76.1544329 ,43.0766465 
+383,"1012 Velasko Rd Southside, Syracuse, NY",114900 ,-76.1856275 ,43.0269365 
+384,"204 Hurlburt Rd Eastside, Syracuse, NY",169900 ,-76.1010699 ,43.0410670 
+385,"4682 Manor Hill Dr Syracuse, NY",269472 ,-76.2070897 ,42.9998733 
+386,"170 Greenland Dr Northside, Syracuse, NY",119900 ,-76.1411772 ,43.0743978 
+387,"240 Huntley St Northside, Syracuse, NY",89900 ,-76.1378349 ,43.0777055 
+388,"901 Milton Ave Westside, Syracuse, NY",99900 ,-76.1921174 ,43.0553810 
+389,"483 Hickok Ave Eastwood, Syracuse, NY",147376 ,-76.1129492 ,43.0590904 
+390,"1315 Court St Northside, Syracuse, NY",87703 ,-76.1487760 ,43.0773203 
+391,"211 Avery Ave Westside, Syracuse, NY",114900 ,-76.1910973 ,43.0467281 
+392,"708 Maryland Ave #10 Eastside, Syracuse, NY",288000 ,-79.9295974 ,40.4536954 
+393,"707 Maryland Ave Eastside, Syracuse, NY",240000 ,-76.1201755 ,43.0382426 
+394,"741 Maryland Ave #43 Eastside, Syracuse, NY",384000 ,-79.8860325 ,40.3230554 
+395,"110 Redfield Pl #12 Eastside, Syracuse, NY",288000 ,-76.1226567 ,43.0373323 
+396,"704 Maryland Ave #6 Eastside, Syracuse, NY",288000 ,-76.1206176 ,43.0382428 
+397,"1025 Westcott St #27 Eastside, Syracuse, NY",288000 ,-76.1185780 ,43.0328272 
+398,"1908 Bellevue Ave Southside, Syracuse, NY",109900 ,-76.1856398 ,43.0326557 
+399,"229 Hayden Ave Westside, Syracuse, NY",96591 ,-76.1972200 ,43.0538505 
+400,"125 Signal Rdg Syracuse, NY",151615 ,-76.2414210 ,43.0582640 
+404,"3542 Curtis Rd Syracuse, NY",59500 ,-76.2620800 ,42.9441210 
+405,"225 Ashdale Ave Eastwood, Syracuse, NY",55238 ,-76.1088849 ,43.0713967 
+406,"300 Sherwood Ave Northside, Syracuse, NY",89900 ,-76.1247746 ,43.0568764 
+407,"209 Hazelhurst Ave Eastwood, Syracuse, NY",9900 ,-76.1130542 ,43.0719026 
+408,"209 Hillsboro Pkwy Eastside, Syracuse, NY",104900 ,-76.0919074 ,43.0408184 
+409,"403 Center St Syracuse, NY",34000 ,-76.2203160 ,43.0592500 
+410,"1115 Carbon St Northside, Syracuse, NY",10000 ,-76.1617205 ,43.0712290 
+411,"173 Hopper Rd Valley, Syracuse, NY",61055 ,-76.1590816 ,43.0001897 
+412,"1006 Burnet Ave Northside, Syracuse, NY",25000 ,-76.1251540 ,43.0531080 
+413,"717 Ulster St Westside, Syracuse, NY",5000 ,-76.1918479 ,43.0454924 
+414,"3254 W Seneca Tpke Syracuse, NY",74900 ,-76.2843905 ,42.9835666 
+415,"1009 3rd St Syracuse, NY",84995 ,-76.2277290 ,43.0577890 
+416,"246 W Ostrander Ave Southside, Syracuse, NY",6900 ,-76.1470589 ,43.0141737 
+417,"1201 W Colvin St #5 Southside, Syracuse, NY",40000 ,-76.1582369 ,43.0229471 
+418,"377 W Onondaga St #309 Westside, Syracuse, NY",54900 ,-76.1563183 ,43.0411818 
+419,"209 Craton St Northside, Syracuse, NY",64800 ,-76.1230256 ,43.0569771 
+420,"2318 E Genesee St Eastside, Syracuse, NY",73000 ,-76.1149900 ,43.0449590 
+421,"204 Halcomb St Syracuse, NY",59900 ,-76.2439623 ,43.0894157 
+422,"1025 Park St Northside, Syracuse, NY",12900 ,-76.1490134 ,43.0646310 
+423,"2522 W Genesee St Syracuse, NY",125000 ,-76.2080706 ,43.0474117 
+424,"127 Brookfield Rd Syracuse, NY",79900 ,-76.1492810 ,43.0963030 
+425,"171 Genesee Park Dr Eastside, Syracuse, NY",62500 ,-76.1091805 ,43.0490442 
+426,"361 N Midler Ave #63 Eastwood, Syracuse, NY",79900 ,-76.1057299 ,43.0753844 
+427,"3665 Bussey Rd Syracuse, NY",139900 ,-76.2246001 ,42.9487108 
+428,"342 Noble Ave Lyncourt, Syracuse, NY",58000 ,-76.1161367 ,43.0788807 
+429,"210 Charles Ave #2 Syracuse, NY",99900 ,-76.2007760 ,43.0574080 
+430,"108 W Jefferson St #801 Downtown, Syracuse, NY",159900 ,-76.1529342 ,43.0473157 
+431,"203 Shirley Dr Valley, Syracuse, NY",7900 ,-76.1552035 ,43.0103223 
+432,"4771 W Seneca Tpke Syracuse, NY",64000 ,-76.1864691 ,43.0045892 
+433,"228 S Midler Ave Eastwood, Syracuse, NY",59900 ,-76.1050757 ,43.0654871 
+434,"252 Fitch St Westside, Syracuse, NY",27000 ,-76.1721460 ,43.0380250 
+435,"5194 Kasson Rd Syracuse, NY",134900 ,-76.2699044 ,43.0192056 
+436,"143 Kenmore Ave #47 Southside, Syracuse, NY",3500 ,-78.8231733 ,42.9582989 
+437,"133 Didama St #35 Eastside, Syracuse, NY",89900 ,-76.1067129 ,43.0466551 
+438,"147 Norwood Ave Eastwood, Syracuse, NY",54000 ,-76.1098431 ,43.0701897 
+439,"217 Helen St Northside, Syracuse, NY",99900 ,-76.1354509 ,43.0654316 
+440,"126 Freeman Ave Syracuse, NY",74900 ,-76.2031720 ,43.0589880 
+441,"4854 McDonald Rd Syracuse, NY",149900 ,-76.1788665 ,43.0176831 
+442,"1642 W Colvin St Southside, Syracuse, NY",62900 ,-76.1641553 ,43.0231285 
+443,"112 Worth Ave Syracuse, NY",8900 ,-76.2199150 ,43.0585870 
+444,"254 Rigi Ave Eastwood, Syracuse, NY",72900 ,-76.1040454 ,43.0724985 
+445,"317 Elliott St Westside, Syracuse, NY",5900 ,-76.1735890 ,43.0347540 
+446,"121 Gere Ave Westside, Syracuse, NY",5000 ,-76.1969807 ,43.0576742 
+447,"218 Jamesville Rd Syracuse, NY",106000 ,-76.0696162 ,43.0332601 
+448,"102 Marion Ave Syracuse, NY",124000 ,-76.2405701 ,43.0472626 
+449,"1201 W Colvin St #5 Southside, Syracuse, NY",40000 ,-76.1582369 ,43.0229471 
+450,"831 Lancaster Ave Eastside, Syracuse, NY",149900 ,-76.1227060 ,43.0356623 
+451,"5591 Thompson Rd Syracuse, NY",121900 ,-76.0684041 ,43.0417228 
+452,"236 Vincent St Eastside, Syracuse, NY",89900 ,-76.1312960 ,43.0212050 
+453,"1419 James St #25 Northside, Syracuse, NY",995000 ,-76.1271669 ,43.0628260 
+454,"502 Hillside Ave Syracuse, NY",114900 ,-76.1936815 ,43.0380851 
+455,"117 Pulaski St Lakefront, Syracuse, NY",75000 ,-76.1710787 ,43.0581396 
+456,"980 Meadowbrook Dr Eastside, Syracuse, NY",132500 ,-76.1108277 ,43.0346319 
+457,"423 Radcliffe Rd Syracuse, NY",119900 ,-76.0774705 ,43.0455482 
+458,"211 Grumbach Ave Northside, Syracuse, NY",1500 ,-76.1398530 ,43.0647260 
+459,"204 Massena St #6 Westside, Syracuse, NY",9900 ,-76.1676944 ,43.0400819 
+460,"106 Brookfield Rd Syracuse, NY",80000 ,-76.1471222 ,43.0968536 
+461,"2107 S State St Southside, Syracuse, NY",6900 ,-76.1425192 ,43.0247713 
+462,"206 Salisbury Rd Syracuse, NY",109900 ,-76.1958658 ,43.0423329 
+463,"133 Hatch St Southside, Syracuse, NY",3500 ,-76.1528964 ,43.0217095 
+464,"113 Richfield Blvd Syracuse, NY",70000 ,-76.1482740 ,43.0952530 
+465,"691 Allen St Eastside, Syracuse, NY",179900 ,-76.1160938 ,43.0392127 
+466,"806 Dewitt St Northside, Syracuse, NY",177900 ,-76.1340018 ,43.0697461 
+467,"390 Lillian Ave Eastwood, Syracuse, NY",44900 ,-76.1107077 ,43.0731283 
+468,"278 W Borden Ave Southside, Syracuse, NY",6900 ,-76.1514427 ,43.0267914 
+469,"606 Carbon St Northside, Syracuse, NY",5000 ,-76.1511691 ,43.0674072 
+470,"3798 Howlett Hill Rd Syracuse, NY",149900 ,-76.2498177 ,43.0144772 
+471,"3772 Griffin Rd Syracuse, NY",387900 ,-76.1918800 ,42.9498130 
+472,"810 Court St Northside, Syracuse, NY",59500 ,-76.1537373 ,43.0738446 
+473,"4827 W Seneca Tpke Syracuse, NY",129900 ,-76.1824979 ,43.0054529 
+474,"4873 Broad Rd Syracuse, NY",144900 ,-76.1707961 ,43.0076357 
+475,"1239 Avery Ave Westside, Syracuse, NY",4000 ,-76.1996109 ,43.0590700 
+476,"1201 Euclid Ave Eastside, Syracuse, NY",84900 ,-76.1136338 ,43.0372580 
+477,"123 Rugby Rd Eastwood, Syracuse, NY",179900 ,-76.1223146 ,43.0678440 
+478,"3766 Gray Ledge Ter Syracuse, NY",274900 ,-76.2503273 ,43.0090012 
+479,"312 Inwood Dr Syracuse, NY",81750 ,-76.2429802 ,43.0434017 
+480,"253 Hudson St #55 Southside, Syracuse, NY",42000 ,-74.0077741 ,40.7245343 
+481,"119 Hoefler St Westside, Syracuse, NY",49000 ,-76.1794999 ,43.0376958 
+483,"206 Marguerite Ave Southside, Syracuse, NY",5000 ,-76.1561808 ,43.0202556 
+484,"343 Park St Northside, Syracuse, NY",39900 ,-76.1394629 ,43.0629179 
+485,"9 Pebble Hill Rd S Syracuse, NY",199900 ,-76.0696415 ,43.0295628 
+486,"415 Wendell Ter Northside, Syracuse, NY",159000 ,-76.1301413 ,43.0700954 
+487,"527 Delmar Pl Lyncourt, Syracuse, NY",89999 ,-76.1283456 ,43.0798294 
+488,"200 Dewitt Rd Eastside, Syracuse, NY",360000 ,-76.0831363 ,43.0381788 
+489,"1419 James St #25 Northside, Syracuse, NY",995000 ,-76.1271669 ,43.0628260 
+490,"306 Roxford Rd S Lyncourt, Syracuse, NY",133000 ,-76.1337450 ,43.0812200 
+491,"215 Seward St Northside, Syracuse, NY",30225 ,-76.1434990 ,43.0602680 
+492,"535 W Colvin St Southside, Syracuse, NY",7900 ,-76.1519356 ,43.0237814 
+493,"4895 Sherwood Dr Syracuse, NY",149900 ,-76.2374994 ,43.0112424 
+494,"4519 S Salina St Valley, Syracuse, NY",39900 ,-76.1425736 ,43.0032672 
+495,"5044 Brittany Ln Syracuse, NY",799900 ,-76.1688320 ,42.9946550 
+496,"415 Blueberry Ln Syracuse, NY",220000 ,-76.2270415 ,43.0425838 
+497,"521 Roberts Ave Southside, Syracuse, NY",281500 ,-76.1710043 ,43.0273595 
+498,"4957 Cornish Heights Pkwy Syracuse, NY",399000 ,-76.1728569 ,42.9989348 
+499,"429 N Franklin St #112 Lakefront, Syracuse, NY",434000 ,-76.1562164 ,43.0553564 
+500,"109 Brookline Rd Syracuse, NY",59900 ,-76.1476990 ,43.0907160 
+501,"4478 Broad Rd Syracuse, NY",254900 ,-76.1648765 ,42.9882245 
+502,"5040 Velasko Rd Syracuse, NY",249000 ,-76.1839412 ,43.0152035 
+503,"2804 W Genesee St Syracuse, NY",199900 ,-76.2142800 ,43.0473190 
+504,"5093 Webster Mile Dr Syracuse, NY",469900 ,-76.1660729 ,42.9985791 
+505,"1203 Grand Ave Syracuse, NY",39999 ,-76.1951321 ,43.0348944 
+506,"133 Didama St #35 Eastside, Syracuse, NY",89900 ,-76.1067129 ,43.0466551 
+507,"122 Bishop Ave Southside, Syracuse, NY",5000 ,-76.1583012 ,43.0225657 
+508,"500 Bailey Rd Syracuse, NY",112000 ,-76.1562760 ,43.1126577 
+509,"420 Breakspear Rd Syracuse, NY",169900 ,-76.2147558 ,43.0389955 
+510,"4216 Wolf Hollow Rd Syracuse, NY",179900 ,-76.2226708 ,43.0295995 
+511,"125 Lookout Cir Syracuse, NY",124900 ,-76.2422045 ,43.0580414 
+512,"3783 Howlett Hill Rd Syracuse, NY",100000 ,-76.2504200 ,43.0153330 
+513,"413 Schaffer Ave Lyncourt, Syracuse, NY",104900 ,-76.1210989 ,43.0792784 
+514,"1610 Bellevue Ave #12 Southside, Syracuse, NY",69900 ,-90.3127406 ,38.6245384 
+515,"523 Richmond Ave #25 Westside, Syracuse, NY",40000 ,-78.8816658 ,42.9166903 
+516,"373 Ashdale Ave Eastwood, Syracuse, NY",83900 ,-76.1091331 ,43.0755628 
+517,"333 Park St Northside, Syracuse, NY",95000 ,-76.1387058 ,43.0629355 
+518,"130 Culbert St Northside, Syracuse, NY",7900 ,-76.1499267 ,43.0717282 
+519,"221 Wayland Rd Lyncourt, Syracuse, NY",74000 ,-76.1347521 ,43.0864636 
+520,"209 Kenmore Ave Southside, Syracuse, NY",5000 ,-76.1518676 ,43.0151590 
+521,"241 Lorraine Ave Eastside, Syracuse, NY",61000 ,-76.1319142 ,43.0230211 
+522,"306 Scott Ave Eastside, Syracuse, NY",169900 ,-76.1077620 ,43.0383670 
+523,"3408 Stiles Rd Syracuse, NY",75900 ,-76.2759780 ,43.1136450 
+524,"200 Brookline Rd Syracuse, NY",77900 ,-76.1465236 ,43.0903581 
+525,"111 Robert Dr Eastside, Syracuse, NY",123999 ,-76.1323307 ,43.0268787 
+526,"219 W Matson Ave Valley, Syracuse, NY",7900 ,-76.1458798 ,43.0130184 
+527,"317 Hixson Ave Eastwood, Syracuse, NY",46000 ,-76.1199113 ,43.0631295 
+528,"429 N Franklin St #504 Lakefront, Syracuse, NY",799900 ,-76.1562164 ,43.0553564 
+529,"217 Medford Rd Lyncourt, Syracuse, NY",84500 ,-76.1356792 ,43.0855509 
+530,"4692 Setting Sun Ter Syracuse, NY",269900 ,-76.1932910 ,42.9922120 
+531,"1026 Madison St #28 Eastside, Syracuse, NY",1230000 ,-76.1313721 ,43.0450802 
+532,"108 Stoney Dr Syracuse, NY",194777 ,-76.2254391 ,43.0375597 
+533,"116 Peridot Dr Syracuse, NY",223900 ,-76.2493954 ,43.0337014 
+534,"714 1/2 Matty Ave Syracuse, NY",87000 ,-76.1292530 ,43.0994130 
+535,"228 Amherst Ave Southside, Syracuse, NY",32400 ,-76.1408403 ,43.0231874 
+536,"125 Elmhurst Ave Southside, Syracuse, NY",5000 ,-76.1572416 ,43.0207346 
+537,"112 Bishop Ave #14 Southside, Syracuse, NY",5000 ,-72.8976685 ,41.6014351 
+538,"418 Merriman Ave Westside, Syracuse, NY",25000 ,-76.1717800 ,43.0402160 
+539,"204 Wynthrop Rd Syracuse, NY",290000 ,-76.2090420 ,43.0517120 
+540,"3610 Wildflower Cir Syracuse, NY",123000 ,-76.2619713 ,42.9826834 
+541,"138 Fage Ave Southside, Syracuse, NY",7900 ,-76.1486822 ,43.0237691 
+542,"453 Westcott St Eastside, Syracuse, NY",157500 ,-76.1191212 ,43.0425128 
+543,"401 Salt Springs Rd Eastside, Syracuse, NY",29587 ,-76.1089657 ,43.0455898 
+544,"235 Charles Ave Syracuse, NY",61195 ,-76.1999640 ,43.0561160 
+545,"432 Fellows Ave Eastside, Syracuse, NY",22830 ,-76.1152758 ,43.0359882 
+546,"225 Mackay Ave Syracuse, NY",53341 ,-76.2478783 ,43.0488830 
+547,"1065 Westmoreland Ave Eastside, Syracuse, NY",159900 ,-76.1133440 ,43.0332850 
+548,"108 Huntington Rd Southside, Syracuse, NY",55316 ,-76.1952971 ,43.0289620 
+549,"2124 James St Eastwood, Syracuse, NY",159000 ,-76.1170763 ,43.0674025 
+550,"144 Bennington Dr #46 Valley, Syracuse, NY",57900 ,-76.1402240 ,43.0116590 
+551,"145 E Cheltenham Rd Valley, Syracuse, NY",159000 ,-76.1416904 ,42.9954303 
+552,"3968 Stetson Cir Syracuse, NY",93998 ,-76.2426473 ,43.0114349 
+553,"121 Woods Ave S Lyncourt, Syracuse, NY",89900 ,-76.1173093 ,43.0747973 
+554,"1061 Lancaster Ave Eastside, Syracuse, NY",229000 ,-76.1222817 ,43.0303729 
+555,"405 Mosley Dr Eastwood, Syracuse, NY",64500 ,-76.1004247 ,43.0618432 
+556,"133 Walton St #137 Downtown, Syracuse, NY",209900 ,-76.1543281 ,43.0479338 
+557,"3769 Pleasant Valley Rd Syracuse, NY",1350000 ,-76.2558497 ,42.9719434 
+558,"714 W Seneca Tpke Valley, Syracuse, NY",38000 ,-76.1593408 ,43.0035891 
+559,"112 Stanton Ave Syracuse, NY",118900 ,-76.2145100 ,43.0602380 
+560,"917 Madison St #201 Eastside, Syracuse, NY",129900 ,-76.1330310 ,43.0456675 
+561,"211 Summit Ave Southside, Syracuse, NY",269900 ,-76.1657985 ,43.0306366 
+562,"4420 Dolomite Dr Syracuse, NY",339000 ,-76.2078770 ,43.0205790 
+563,"3837 Bussey Rd Syracuse, NY",359900 ,-76.2306846 ,42.9567594 
+564,"155 Burns Ave Eastwood, Syracuse, NY",36868 ,-76.0916167 ,43.0674157 
+565,"103 Onondaga Ave Southside, Syracuse, NY",3500 ,-76.1642532 ,43.0349299 
+566,"449 Maple St Eastside, Syracuse, NY",104553 ,-76.1251981 ,43.0455506 
+567,"340 Lillian Ave Eastwood, Syracuse, NY",43278 ,-76.1105789 ,43.0717765 
+568,"429 Warner Ave Southside, Syracuse, NY",9900 ,-76.1511172 ,43.0215347 
+569,"120 Terrace Cir Syracuse, NY",129900 ,-76.0730541 ,43.0478621 
+570,"523 Richmond Ave #25 Westside, Syracuse, NY",40000 ,-78.8816658 ,42.9166903 
+571,"143 Thurlow Dr Valley, Syracuse, NY",60000 ,-76.1365085 ,42.9956816 
+572,"222 Delhi St Northside, Syracuse, NY",44900 ,-76.1318829 ,43.0565549 
+573,"133 Columbus Ave Syracuse, NY",93723 ,-76.2424295 ,43.0479166 
+574,"120 E Lafayette Ave Southside, Syracuse, NY",7900 ,-76.1415383 ,43.0195836 
+575,"718 Lemoyne Ave Northside, Syracuse, NY",55000 ,-76.1593730 ,43.0743350 
+576,"118 Wilson St Northside, Syracuse, NY",164900 ,-76.1257947 ,43.0626942 
+577,"504 Sedgwick Dr Northside, Syracuse, NY",280000 ,-76.1325682 ,43.0683590 
+578,"1066 S Geddes St #70 Westside, Syracuse, NY",17671 ,-76.1735949 ,43.0369577 
+579,"110 W Newell St Southside, Syracuse, NY",7900 ,-76.1427254 ,43.0181093 
+580,"402 Hawley Ave Northside, Syracuse, NY",44900 ,-76.1388103 ,43.0530957 
+581,"121 E Beard Ave Southside, Syracuse, NY",9900 ,-76.1444048 ,43.0275888 
+582,"605 Catherine St Northside, Syracuse, NY",47000 ,-76.1448296 ,43.0568149 
+583,"3 Herman Dr #Lot 3 Syracuse, NY",99000 ,-85.0552798 ,32.5047961 
+584,"101 Elk St Southside, Syracuse, NY",38900 ,-76.1443580 ,43.0251119 
+585,"4771 Country Club Dr Syracuse, NY",279900 ,-76.1880153 ,43.0182353 
+586,"102 Hoover Dr Nedrow, Syracuse, NY",55000 ,-76.1437090 ,42.9821780 
+587,"210 Shuart Ave Northside, Syracuse, NY",77000 ,-76.1274393 ,43.0604138 
+588,"104 Fay Rd Syracuse, NY",149000 ,-76.1994815 ,43.0464425 
+589,"124 Forest Ave Southside, Syracuse, NY",26250 ,-76.1472858 ,43.0214130 
+590,"106 High St Northside, Syracuse, NY",73406 ,-76.1470215 ,43.0707099 
+591,"123 Orlando Ave Valley, Syracuse, NY",38250 ,-76.1418552 ,43.0019285 
+592,"305 Brookfield Rd Syracuse, NY",86416 ,-76.1534680 ,43.0961130 
+593,"132 Hamden Dr Lyncourt, Syracuse, NY",87500 ,-76.1352505 ,43.0850312 
+594,"217 Highland Ave Northside, Syracuse, NY",241000 ,-76.1362718 ,43.0610851 
+595,"950 Emerson Ave Westside, Syracuse, NY",84900 ,-76.1958246 ,43.0596053 
+596,"124 Leonard Ave Nedrow, Syracuse, NY",56418 ,-76.1442840 ,42.9806570 
+597,"236 W Brighton Ave #38 Southside, Syracuse, NY",8900 ,-76.1477477 ,43.0203879 
+598,"5035 Majors Dr Syracuse, NY",184900 ,-76.1664334 ,42.9976082 
+600,"1157 Cannon St #59 Southside, Syracuse, NY",8900 ,-76.1450845 ,43.0147665 
+601,"103 W High Ter Syracuse, NY",109800 ,-76.2005516 ,43.0414482 
+602,"713 Seeley Rd Eastside, Syracuse, NY",65533 ,-76.1033897 ,43.0477095 
+603,"110 Glahn Ave Southside, Syracuse, NY",5900 ,-76.1540665 ,43.0245225 
+604,"312 Broad St #14 Eastside, Syracuse, NY",250000 ,-81.9547007 ,33.4711313 
+606,"108 Hartley St Northside, Syracuse, NY",49900 ,-76.1425773 ,43.0683661 
+607,"415 Lemoyne Ave #19 Northside, Syracuse, NY",57000 ,-76.1623295 ,43.0714845 
+608,"120 Mark Ave Southside, Syracuse, NY",6900 ,-76.1497196 ,43.0247382 
+609,"123 Cheney St Southside, Syracuse, NY",25001 ,-76.1630462 ,43.0297970 
+610,"104 Mariposa St #6 Eastwood, Syracuse, NY",75824 ,-76.1216250 ,43.0618798 
+611,"1109 N McBride St Northside, Syracuse, NY",59243 ,-76.1513307 ,43.0618786 
+612,"800 Seeley Rd Eastside, Syracuse, NY",50942 ,-76.1038305 ,43.0472321 
+613,"309 Bradford Pkwy Eastside, Syracuse, NY",327900 ,-76.1027426 ,43.0375289 
+614,"430 Garden City Dr Syracuse, NY",99900 ,-76.1589060 ,43.0942950 
+615,"261 S Collingwood Ave Eastwood, Syracuse, NY",69000 ,-76.1069299 ,43.0645211 
+616,"4957 Saint John Dr Syracuse, NY",206000 ,-76.2264384 ,43.0102227 
+617,"831 Valley Dr Valley, Syracuse, NY",69900 ,-76.1557939 ,43.0086014 
+618,"202 Gillis St Syracuse, NY",379000 ,-76.2217380 ,43.0547270 
+619,"526 Plum St #302 Lakefront, Syracuse, NY",224900 ,-76.1580582 ,43.0560269 
+620,"111 Janet Dr Eastside, Syracuse, NY",161900 ,-76.1075432 ,43.0337879 
+621,"271-273 W Lafayette Ave #73 Southside, Syracuse, NY",68900 ,-80.7511088 ,39.9269600 
+622,"419 Richmond Ave Westside, Syracuse, NY",99500 ,-76.1738920 ,43.0499840 
+623,"125 Signal Rdg Syracuse, NY",99900 ,-76.2414210 ,43.0582640 
+624,"261 W Ostrander Ave Southside, Syracuse, NY",7900 ,-76.1474311 ,43.0138065 
+625,"4598 Ashfield Ter Syracuse, NY",358800 ,-76.1759662 ,42.9982847 
+626,"1710 S Geddes St Southside, Syracuse, NY",78500 ,-76.1754907 ,43.0302260 
+627,"1939 Caleb Ave Eastwood, Syracuse, NY",100000 ,-76.0884626 ,43.0636442 
+628,"111 Clearview Dr Syracuse, NY",134900 ,-76.2267026 ,43.0512637 
+629,"617 Nottingham Rd Syracuse, NY",169900 ,-76.1082620 ,43.0214300 
+630,"231 Grand Ave Westside, Syracuse, NY",16600 ,-76.1759000 ,43.0389160 
+631,"5029 Beef St Syracuse, NY",87481 ,-76.2779135 ,43.0137004 
+632,"129 South Ave Syracuse, NY",139999 ,-76.2214520 ,43.0569570 
+633,"1929 Teall Ave Lyncourt, Syracuse, NY",250000 ,-76.1233314 ,43.0763214 
+634,"182 W Florence Ave Valley, Syracuse, NY",54900 ,-76.1466592 ,43.0071327 
+635,"455 Tennyson Ave Westside, Syracuse, NY",79900 ,-76.1871485 ,43.0448412 
+636," Makyes Rd Syracuse, NY",22000 ,-76.1954467 ,42.9716504 
+637,"100 Xavier Cir Eastside, Syracuse, NY",299900 ,-76.1295497 ,43.0202904 
+638,"429 N Franklin St #307 Lakefront, Syracuse, NY",359900 ,-76.1562164 ,43.0553564 
+639," Hallinan Rd #Lot 16 Syracuse, NY",387940 ,-76.1610003 ,42.8540720 
+640,"219 Fletcher Ave Southside, Syracuse, NY",54900 ,-76.1663452 ,43.0153580 
+641,"201 Coral Ave Valley, Syracuse, NY",26096 ,-76.1500131 ,43.0092645 
+642,"144 Midler Ave Eastwood, Syracuse, NY",66095 ,-76.1051677 ,43.0701896 
+643,"2601 Bellevue Ave Syracuse, NY",239900 ,-76.1958435 ,43.0276202 
+644,"477 Westcott St Eastside, Syracuse, NY",550000 ,-76.1190457 ,43.0418519 
+645,"107 Alice Ave Syracuse, NY",119500 ,-76.2248060 ,43.0586244 
+646,"416 Bear St Northside, Syracuse, NY",44320 ,-76.1603389 ,43.0706090 
+647,"1518 Butternut St Northside, Syracuse, NY",49900 ,-76.1420914 ,43.0728925 
+648,"928 E Colvin St Eastside, Syracuse, NY",143090 ,-76.1325535 ,43.0251517 
+649,"714 Skyview Ter Syracuse, NY",279000 ,-76.2382591 ,43.0336144 
+650,"429 N Franklin St #112 Lakefront, Syracuse, NY",434000 ,-76.1562164 ,43.0553564 
+651,"523-525 Clarendon St Eastside, Syracuse, NY",275000 ,-76.1225599 ,43.0385499 
+652,"525 Hickok Ave Eastwood, Syracuse, NY",109900 ,-76.1128652 ,43.0581036 
+653,"526 Plum St #306 Lakefront, Syracuse, NY",239900 ,-76.1580582 ,43.0560269 
+654,"253 Hudson St #55 Southside, Syracuse, NY",42000 ,-74.0077741 ,40.7245343 
+655,"407 Skyview Ter Syracuse, NY",127500 ,-76.2380069 ,43.0364263 
+656,"217 Dixon Dr Syracuse, NY",137500 ,-76.2436540 ,43.0360420 
+657,"101 Barclay St Syracuse, NY",143542 ,-76.2098340 ,43.0569390 
+658,"117 Dawes Ave Valley, Syracuse, NY",7500 ,-76.1434581 ,43.0086267 
+660,"114 Windham Ave Lyncourt, Syracuse, NY",112900 ,-76.1328230 ,43.0829290 
+661,"21 Heritage Cir Syracuse, NY",127159 ,-76.2028610 ,43.0499269 
+662,"630 Audubon Pkwy Eastside, Syracuse, NY",118334 ,-76.0952943 ,43.0483223 
+663,"5370 Sedalia Cir Syracuse, NY",670000 ,-76.0951280 ,43.0319920 
+664," Kingsford Ter #Lot 210 Syracuse, NY",449900 ,-76.1701996 ,42.9922334 
+665,"211 W Jefferson St #406 Downtown, Syracuse, NY",429000 ,-76.1541621 ,43.0465936 
+666,"1215 Lancaster Ave Eastside, Syracuse, NY",83520 ,-76.1218455 ,43.0280876 
+667,"212 Ontario Ave Syracuse, NY",124900 ,-76.2515016 ,43.0988767 
+668,"206 W Pleasant Ave Southside, Syracuse, NY",7900 ,-76.1458687 ,43.0169466 
+669,"302 Dale St Eastwood, Syracuse, NY",54502 ,-76.1155190 ,43.0734766 
+670,"813 Northway St Eastside, Syracuse, NY",100464 ,-76.0931151 ,43.0530367 
+671,"232 Hudson St Southside, Syracuse, NY",35000 ,-76.1602581 ,43.0325609 
+672,"860 State Fair Blvd Syracuse, NY",119000 ,-76.2400390 ,43.0927880 
+673,"118 Concord Pl Eastside, Syracuse, NY",209900 ,-76.1174890 ,43.0395610 
+674,"133 Walton St #138 Downtown, Syracuse, NY",280000 ,-76.1543281 ,43.0479338 
+675,"928 Ackerman Ave #30 Eastside, Syracuse, NY",550000 ,-76.1240934 ,43.0333142 
+676,"217 E Cheltenham Rd Valley, Syracuse, NY",104900 ,-76.1393701 ,42.9955134 
+677,"141 Paul Ave Eastwood, Syracuse, NY",65967 ,-76.1205262 ,43.0687028 
+678,"804 Park St Northside, Syracuse, NY",50320 ,-76.1451105 ,43.0635613 
+679,"1632 Valley Dr #34 Valley, Syracuse, NY",61088 ,-76.1531000 ,43.0010860 
+680,"628 Roxford Rd S Lyncourt, Syracuse, NY",27334 ,-76.1247260 ,43.0814700 
+681,"125 Lincoln Park Dr Northside, Syracuse, NY",70688 ,-76.1307741 ,43.0581045 
+682,"902 Kirkpatrick St Northside, Syracuse, NY",49248 ,-76.1509296 ,43.0719886 
+683,"100 Benham Ave Syracuse, NY",99900 ,-76.1957689 ,43.0418168 
+684,"429 N Franklin St #501 Lakefront, Syracuse, NY",349900 ,-76.1562164 ,43.0553564 
+685,"901 Kirkpatrick St Northside, Syracuse, NY",49900 ,-76.1515085 ,43.0721908 
+686,"3812 Griffin Rd Syracuse, NY",214900 ,-76.1922557 ,42.9522112 
+687,"204 W Manchester Rd Syracuse, NY",145000 ,-76.2093708 ,43.0443908 
+688,"305 Bunker Hill Way Southside, Syracuse, NY",224900 ,-76.1839770 ,43.0249130 
+689,"144 Elton Ave Nedrow, Syracuse, NY",84900 ,-76.1461651 ,42.9793573 
+690,"145 Chester Dr Lyncourt, Syracuse, NY",95000 ,-76.1350454 ,43.0895849 
+691,"309 Kenwick Dr Northside, Syracuse, NY",114500 ,-76.1357134 ,43.0773842 
+692,"526 W Manchester Rd Syracuse, NY",174900 ,-76.2098994 ,43.0358496 
+693,"408-410 Durston Ave Northside, Syracuse, NY",144900 ,-76.1270890 ,43.0687771 
+694,"227 Sunstruck Dr Eastwood, Syracuse, NY",70086 ,-76.1214063 ,43.0604707 
+695,"235 Carbon St Northside, Syracuse, NY",54900 ,-76.1462221 ,43.0649961 
+696,"517 Plymouth Ave Syracuse, NY",110000 ,-76.1357443 ,43.1042639 
+697,"201 W Beard Ave Southside, Syracuse, NY",24900 ,-76.1481643 ,43.0262639 
+698,"116 Barclay St Syracuse, NY",128000 ,-76.2099304 ,43.0564495 
+699,"1118 Park St Northside, Syracuse, NY",114900 ,-76.1524926 ,43.0665663 
+700,"815 Kirkpatrick St Northside, Syracuse, NY",81124 ,-76.1519347 ,43.0716837 
+701,"519 Richmond Ave Westside, Syracuse, NY",50000 ,-76.1749318 ,43.0500661 
+702,"142 Wolcott Ave Southside, Syracuse, NY",107500 ,-76.1831967 ,43.0312804 
+703,"624 Wolcott Ave Southside, Syracuse, NY",114900 ,-76.1828345 ,43.0266312 
+704,"1025 Wadsworth St Northside, Syracuse, NY",89900 ,-76.1439175 ,43.0806619 
+705,"408 Euclid Ave Eastside, Syracuse, NY",385000 ,-76.1264389 ,43.0362244 
+706,"4852 Cornish Heights Pkwy Syracuse, NY",287900 ,-76.1747122 ,42.9985239 
+707,"110 Watchtower Ln Syracuse, NY",189900 ,-76.2273770 ,43.0513180 
+708,"106 Woodside Dr Eastside, Syracuse, NY",335000 ,-76.0993898 ,43.0352613 
+709,"615 Cannon St Southside, Syracuse, NY",42750 ,-76.1459206 ,43.0199122 
+710,"1270 W Belden Ave Westside, Syracuse, NY",47900 ,-76.1757182 ,43.0546861 
+711,"1911 Midland Ave Southside, Syracuse, NY",6900 ,-76.1492878 ,43.0207486 
+712,"106 Rowland St Westside, Syracuse, NY",28570 ,-76.1714197 ,43.0354052 
+713,"102 Menlo Dr Valley, Syracuse, NY",49900 ,-76.1384793 ,43.0116450 
+714,"211 Clarke St Eastside, Syracuse, NY",219900 ,-76.1154504 ,43.0392815 
+715,"133 Mayar St Northside, Syracuse, NY",79900 ,-76.1374688 ,43.0733809 
+716,"407 E Division St Northside, Syracuse, NY",74900 ,-76.1516147 ,43.0613346 
+717,"509 2nd North St Northside, Syracuse, NY",29675 ,-76.1586702 ,43.0745760 
+718,"413 Abell Ave Syracuse, NY",76861 ,-76.2225510 ,43.0577810 
+719,"301 Putnam St Westside, Syracuse, NY",38741 ,-76.1722573 ,43.0364481 
+720,"603 Earl Ave Syracuse, NY",77102 ,-76.1331990 ,43.1020930 
+721,"117 Sunnybrook Dr Syracuse, NY",77241 ,-76.2330630 ,43.0502563 
+722,"333 Grant Ave #35 Southside, Syracuse, NY",49900 ,-122.4057559 ,37.7901568 
+723,"706 Turtle St Northside, Syracuse, NY",53135 ,-76.1564194 ,43.0730839 
+724,"2036 South Ave Southside, Syracuse, NY",60938 ,-76.1623343 ,43.0176349 
+725,"509 Plymouth Ave Syracuse, NY",78489 ,-76.1358830 ,43.1037030 
+726,"318 Clairmonte Ave Southside, Syracuse, NY",74900 ,-76.1694170 ,43.0295637 
+727,"100 Pierce St Valley, Syracuse, NY",47900 ,-76.1491296 ,43.0117544 
+728,"141 Wolcott Ave Southside, Syracuse, NY",72987 ,-76.1826700 ,43.0313593 
+729,"415 Turtle St Northside, Syracuse, NY",85658 ,-76.1593487 ,43.0701018 
+730,"429 N Franklin St #208 Lakefront, Syracuse, NY",329000 ,-76.1562164 ,43.0553564 
+731,"2201 S State St Southside, Syracuse, NY",80000 ,-76.1420955 ,43.0239891 
+732,"102 Leo Ave Syracuse, NY",24900 ,-76.0956230 ,43.0700200 
+733,"106 Steuben St Northside, Syracuse, NY",5000 ,-76.1525827 ,43.0657591 
+734,"629 Lemoyne Ave #31 Northside, Syracuse, NY",116000 ,-76.1604893 ,43.0734957 
+735,"1411 Spring St Northside, Syracuse, NY",99900 ,-76.1606238 ,43.0722182 
+736,"1105 Wadsworth St Northside, Syracuse, NY",84900 ,-76.1450204 ,43.0814260 
+737,"319 W Pleasant Ave Southside, Syracuse, NY",9900 ,-76.1499326 ,43.0161340 
+738,"4500 S Salina St #2 Valley, Syracuse, NY",57000 ,-76.1433230 ,43.0036930 
+739,"416 E Division St Northside, Syracuse, NY",79900 ,-76.1509191 ,43.0612326 
+740,"2201 Bellevue Ave Southside, Syracuse, NY",179900 ,-76.1896490 ,43.0303300 
+741,"2626 E Genesee St Eastside, Syracuse, NY",117800 ,-76.1109619 ,43.0440270 
+743,"184 Leonard Ave Nedrow, Syracuse, NY",58500 ,-76.1475830 ,42.9802310 
+744,"15 Nursery Ln Eastside, Syracuse, NY",224900 ,-76.1274577 ,43.0221149 
+745,"103 Bradford Pkwy Eastside, Syracuse, NY",228966 ,-76.1064578 ,43.0421788 
+746,"211 W Jefferson St Downtown, Syracuse, NY",350000 ,-76.1541621 ,43.0465936 
+747,"115 Orlando Ave Valley, Syracuse, NY",59900 ,-76.1421010 ,43.0019031 
+748,"506 Euclid Ave Eastside, Syracuse, NY",385000 ,-76.1252138 ,43.0362980 
+750,"131 Somerset Rd Eastside, Syracuse, NY",159900 ,-76.1089757 ,43.0296447 
+751,"211 W Jefferson St #403 Downtown, Syracuse, NY",350000 ,-76.1541621 ,43.0465936 
+752," Hallinan Rd #Lot 15 Syracuse, NY",398840 ,-76.1610003 ,42.8540720 
+753,"271-273 W Lafayette Ave #73 Southside, Syracuse, NY",68900 ,-80.7511088 ,39.9269600 
+754,"343 Winton St #45 Northside, Syracuse, NY",90796 ,-76.1236896 ,43.0549622 
+755,"258 Rockland Ave Southside, Syracuse, NY",48694 ,-76.1586472 ,43.0241866 
+756,"901 Westcott St Eastside, Syracuse, NY",169063 ,-76.1184962 ,43.0353750 
+757,"802 N Main St Syracuse, NY",250000 ,-76.1256620 ,43.1444830 
+758,"103 Edgemont Dr Eastside, Syracuse, NY",95289 ,-76.0926301 ,43.0395423 
+759,"106 Schiller Ave Northside, Syracuse, NY",45000 ,-76.1411330 ,43.0712112 
+760,"108 Orwood Pl Northside, Syracuse, NY",30142 ,-76.1370252 ,43.0799772 
+761,"217 Scott Ave Syracuse, NY",107538 ,-76.2457629 ,43.0489956 
+762,"1600 Park St Northside, Syracuse, NY",89502 ,-76.1597120 ,43.0694860 
+763,"921 Ballantyne Rd Valley, Syracuse, NY",68654 ,-76.1540719 ,43.0096212 
+764,"130 Harwood Ave Eastside, Syracuse, NY",61254 ,-76.1024027 ,43.0480248 
+765,"186 W Lafayette Ave Southside, Syracuse, NY",14974 ,-76.1455550 ,43.0195150 
+766,"208 Elliott St Westside, Syracuse, NY",39419 ,-76.1725912 ,43.0349706 
+767,"114 Manilla St Northside, Syracuse, NY",56296 ,-76.1320290 ,43.0528670 
+768,"103 Morgan Ave Westside, Syracuse, NY",64900 ,-76.1987946 ,43.0569301 
+769,"101 Plymouth Ave Syracuse, NY",96733 ,-76.1354810 ,43.0988040 
+770,"214 Essex St Westside, Syracuse, NY",75000 ,-76.1961081 ,43.0557645 
+771,"4969 Elgin Cir Syracuse, NY",194210 ,-76.1719460 ,43.0065808 
+772,"219 Lakeview Ave Westside, Syracuse, NY",69018 ,-76.1785481 ,43.0505628 
+773,"110 Sizzano Trl Syracuse, NY",169698 ,-76.2396800 ,43.0577650 
+774,"38 Drumlins Ter Syracuse, NY",379000 ,-76.0994858 ,43.0170307 
+775,"4888 Cornish Heights Pkwy Syracuse, NY",339900 ,-76.1748808 ,42.9988461 
+776,"1722 W Genesee St Westside, Syracuse, NY",129000 ,-76.1903188 ,43.0518271 
+777,"120 Merrill St Northside, Syracuse, NY",94900 ,-76.1495275 ,43.0815987 
+778,"124 Josephine St Northside, Syracuse, NY",42900 ,-76.1473148 ,43.0612620 
+779,"4623 Kingsford Ter #250 Syracuse, NY",449900 ,-76.1701894 ,42.9944294 
+780,"111 White St Southside, Syracuse, NY",62000 ,-76.1601741 ,43.0367317 
+781,"679 Allen St Eastside, Syracuse, NY",159000 ,-76.1161892 ,43.0396776 
+782,"410 Schaffer Ave Lyncourt, Syracuse, NY",105055 ,-76.1209703 ,43.0797615 
+806,"306 Mc Kenney Ave Syracuse, NY",88000 ,-76.1405570 ,43.0937450 
+807,"307 Curtis St Northside, Syracuse, NY",47556 ,-76.1475725 ,43.0683518 
+808,"118 Myron Rd Syracuse, NY",77753 ,-76.2386380 ,43.0501640 
+809,"321 Primrose Ave Southside, Syracuse, NY",30340 ,-76.1489674 ,43.0145425 
+810,"317 N Beech St Northside, Syracuse, NY",40665 ,-76.1278361 ,43.0536678 
+811,"112 Wayne St Northside, Syracuse, NY",58000 ,-76.1416631 ,43.0543538 
+812,"408 Milton Ave Westside, Syracuse, NY",55118 ,-76.1880759 ,43.0506601 
+814,"116 Murray Ave Northside, Syracuse, NY",68900 ,-76.1560574 ,43.0770058 
+815,"109 Culbert St Northside, Syracuse, NY",38545 ,-76.1510634 ,43.0709531 
+816,"106 Candee Ave Eastside, Syracuse, NY",90627 ,-76.1052838 ,43.0482047 
+817,"115 Fairfield Ave Southside, Syracuse, NY",68453 ,-76.1638421 ,43.0167069 
+818,"207 Shirley Dr #9 Valley, Syracuse, NY",72539 ,-76.1552085 ,43.0102071 
+819,"218 Magnolia St Westside, Syracuse, NY",89000 ,-76.1744100 ,43.0435891 
+820,"1511 N State St Northside, Syracuse, NY",119000 ,-76.1592293 ,43.0655442 
+821,"602 Ash St Northside, Syracuse, NY",81285 ,-76.1477680 ,43.0613920 
+822,"109 Gilbert Ave Northside, Syracuse, NY",61915 ,-76.1460526 ,43.0669071 
+823,"105 Taft Ave Eastwood, Syracuse, NY",30518 ,-76.1149094 ,43.0725970 
+824,"333 Wilson St Northside, Syracuse, NY",74900 ,-76.1240378 ,43.0613081 
+825,"109 Skyview Ter Syracuse, NY",130613 ,-76.2393903 ,43.0415938 
+826,"105 Herbert St Northside, Syracuse, NY",52201 ,-76.1496580 ,43.0671037 
+827,"211 Knaul St Northside, Syracuse, NY",61873 ,-76.1409409 ,43.0667260 
+828,"114 Delong Ave Northside, Syracuse, NY",43996 ,-76.1494648 ,43.0707688 
+829,"127 Gere Ave Westside, Syracuse, NY",39632 ,-76.1972119 ,43.0575689 
+830,"313 Goodrich Ave Eastside, Syracuse, NY",117900 ,-76.1264119 ,43.0163968 
+831,"501 Helen St Northside, Syracuse, NY",91240 ,-76.1355876 ,43.0686522 
+832,"529 Dewitt St Northside, Syracuse, NY",89915 ,-76.1343115 ,43.0666123 
+833,"604 Rowland St Westside, Syracuse, NY",62626 ,-76.1801033 ,43.0358515 
+834,"175 Maplehurst Ave Northside, Syracuse, NY",46551 ,-76.1389972 ,43.0793308 
+835,"112 Wolcott Ave Southside, Syracuse, NY",45000 ,-76.1832409 ,43.0321038 
+836,"108 Swansea Ave Lyncourt, Syracuse, NY",71972 ,-76.1180137 ,43.0751477 
+837,"4528 Cedarvale Rd Syracuse, NY",117737 ,-76.2500722 ,42.9902451 
+838,"505 Nottingham Rd Syracuse, NY",140018 ,-76.1108689 ,43.0257239 
+839,"114 Didama St Eastside, Syracuse, NY",98832 ,-76.1072617 ,43.0464255 
+840,"121 Mayar St Northside, Syracuse, NY",54900 ,-76.1374073 ,43.0730529 
+841,"218 Rich St Southside, Syracuse, NY",58442 ,-76.1615995 ,43.0342890 
+842,"318 Basin St Northside, Syracuse, NY",46485 ,-76.1582559 ,43.0638903 
+843,"319 Brookfield Rd Syracuse, NY",83296 ,-76.1547680 ,43.0960460 
+844,"103 Cleveland Ave Northside, Syracuse, NY",57925 ,-76.1466244 ,43.0688043 
+845,"1340 Oak St Northside, Syracuse, NY",92734 ,-76.1362728 ,43.0704940 
+846,"218 Noble Ave Lyncourt, Syracuse, NY",68455 ,-76.1157227 ,43.0769195 
+847,"4223 Wild Rose Ln Syracuse, NY",146279 ,-76.1780836 ,42.9751778 
+848,"247 Genesee Park Dr Eastside, Syracuse, NY",97594 ,-76.1090449 ,43.0469271 
+849,"1428 S Geddes St Southside, Syracuse, NY",55005 ,-76.1754433 ,43.0331374 
+850,"208 Hamden Dr Lyncourt, Syracuse, NY",63195 ,-76.1340575 ,43.0847694 
+851,"600 W Brighton Ave Southside, Syracuse, NY",33284 ,-76.1558107 ,43.0193962 
+852,"303 Boyden St Northside, Syracuse, NY",76844 ,-76.1245519 ,43.0610655 
+853,"724 Winton St Northside, Syracuse, NY",59434 ,-76.1242692 ,43.0597393 
+854,"228 Roe Ave Eastside, Syracuse, NY",146891 ,-76.1247629 ,43.0177416 
+855,"415 Elliott St Westside, Syracuse, NY",64425 ,-76.1756456 ,43.0347933 
+856,"33 Wexford Rd Syracuse, NY",138819 ,-76.0629152 ,43.0378576 
+857,"159 Reed Ave Southside, Syracuse, NY",62341 ,-76.1813932 ,43.0308975 
+858,"224 Seeley Rd Eastside, Syracuse, NY",108885 ,-76.1041931 ,43.0514017 
+859,"403 Herkimer St Westside, Syracuse, NY",54900 ,-76.1931003 ,43.0526962 
+860,"1157 Lemoyne Ave Northside, Syracuse, NY",52582 ,-76.1544147 ,43.0798916 
+861,"321 Craig St Northside, Syracuse, NY",60000 ,-76.1461977 ,43.0707663 
+862,"318 Sunset Ave Northside, Syracuse, NY",65500 ,-76.1613526 ,43.0660174 
+863,"114 Hoefler St Westside, Syracuse, NY",45726 ,-76.1800309 ,43.0378154 
+864,"510 Tyson Pl Eastwood, Syracuse, NY",54900 ,-76.1070332 ,43.0706219 
+865,"106 Fage Ave Southside, Syracuse, NY",44155 ,-76.1475823 ,43.0239665 
+866,"117 Columbia Ave Southside, Syracuse, NY",124900 ,-76.1678057 ,43.0217917 
+867,"426 S Terry Rd Syracuse, NY",154900 ,-76.2202979 ,43.0387490 
+868,"211 W Jefferson St #308 Downtown, Syracuse, NY",370000 ,-76.1541621 ,43.0465936 
+869,"204 Ostrom Ave Eastside, Syracuse, NY",289950 ,-76.1289737 ,43.0449710 
+870,"1011 Milton Ave Westside, Syracuse, NY",65588 ,-76.1934259 ,43.0572246 
+871,"616 Barnes Ave Valley, Syracuse, NY",74423 ,-76.1592696 ,43.0063787 
+872,"125 Searlwyn Rd Valley, Syracuse, NY",111900 ,-76.1429443 ,42.9916465 
+873,"1017 Stolp Ave Southside, Syracuse, NY",74353 ,-76.1801241 ,43.0297046 
+874,"1049 Highland St Northside, Syracuse, NY",98462 ,-76.1421050 ,43.0679053 
+875,"237 Stonefield Rd Nedrow, Syracuse, NY",51671 ,-76.1487896 ,42.9842519 
+876,"207 Brookfield Rd Syracuse, NY",96595 ,-76.1502590 ,43.0962620 
+877,"711 Allen St Eastside, Syracuse, NY",179000 ,-76.1160619 ,43.0386611 
+878,"1411 Euclid Ave Eastside, Syracuse, NY",114839 ,-76.1101446 ,43.0371845 
+880,"214 Scoville Ave Northside, Syracuse, NY",104952 ,-76.1370302 ,43.0691500 
+882,"151 Malden Rd Syracuse, NY",97569 ,-76.1396760 ,43.1046984 
+883,"121 Elton Ave Nedrow, Syracuse, NY",54656 ,-76.1443962 ,42.9795979 
+884,"4769 Kasson Rd Syracuse, NY",259617 ,-76.2667570 ,42.9977630 
+885,"313 Milton Ave Westside, Syracuse, NY",84096 ,-76.1881036 ,43.0496839 
+886,"109 Willis Ave Westside, Syracuse, NY",80154 ,-76.1882330 ,43.0463172 
+887,"255 Kimber Ave Valley, Syracuse, NY",86130 ,-76.1573283 ,43.0035099 
+888,"4479 Renee Meadows Dr Syracuse, NY",64900 ,-76.1716700 ,42.9880039 
+889," Bear Rd #Lot 29.4 Syracuse, NY",60000 ,-81.3303209 ,28.4482916 
+890,"108 Sweeting St Northside, Syracuse, NY",135575 ,-76.1407354 ,43.0704017 
+891,"321 Kellogg St Westside, Syracuse, NY",82926 ,-76.1665900 ,43.0366454 
+892,"625 Gifford St Westside, Syracuse, NY",82119 ,-76.1681530 ,43.0427080 
+893,"201 Brooklea Dr Valley, Syracuse, NY",89350 ,-76.1504344 ,42.9935069 
+894,"373 W Kennedy St #75 Southside, Syracuse, NY",55000 ,-76.1568442 ,43.0283219 
+895,"5 Green Fir Cir Syracuse, NY",154661 ,-76.2335356 ,43.0335083 
+896,"420 Burdick Ave Northside, Syracuse, NY",127333 ,-76.1564270 ,43.0778560 
+897,"267 Mather St Northside, Syracuse, NY",159900 ,-76.1291767 ,43.0574144 
+898,"4638 Kingsford Ter Syracuse, NY",499500 ,-76.1695721 ,42.9945215 
+900,"206 E Molloy Rd Syracuse, NY",140000 ,-76.1409100 ,43.0977850 
+901,"138 Norwood Ave Eastwood, Syracuse, NY",127587 ,-76.1093866 ,43.0698590 
+902,"531 Tennyson Ave Westside, Syracuse, NY",91750 ,-76.1880394 ,43.0445377 
+903,"177 Grace St Westside, Syracuse, NY",102129 ,-76.1658448 ,43.0384951 
+904,"109 Woodland Ave Southside, Syracuse, NY",101799 ,-76.1446736 ,43.0299551 
+905,"817 N Townsend St Northside, Syracuse, NY",110513 ,-76.1508817 ,43.0593557 
+906,"137 Hillsdale Ave Eastwood, Syracuse, NY",108562 ,-76.1084635 ,43.0676214 
+907,"604 Parsons Dr Syracuse, NY",254573 ,-76.2130064 ,43.0364011 
+908,"223 Brattle Rd Northside, Syracuse, NY",227543 ,-76.1288181 ,43.0655238 
+909,"151 Harding Pl Valley, Syracuse, NY",90876 ,-76.1417416 ,42.9936770 
+910,"178 Sunhill Ter Southside, Syracuse, NY",139945 ,-76.1894396 ,43.0285028 
+911,"138 Gordon Pkwy Syracuse, NY",208734 ,-76.2557549 ,43.0485240 
+912,"204 Fillmore Ave Valley, Syracuse, NY",61900 ,-76.1394391 ,43.0096901 
+913,"706 Ballantyne Rd Valley, Syracuse, NY",107247 ,-76.1519294 ,43.0103239 
+914,"179 Leonard Ave Nedrow, Syracuse, NY",174821 ,-76.1472200 ,42.9797660 
+915,"106 Brantford Path Syracuse, NY",298000 ,-76.2314960 ,43.0384307 
+916,"153 Hall Ave Valley, Syracuse, NY",61900 ,-76.1440001 ,43.0122207 
+917,"5316 Terry Rd Syracuse, NY",161233 ,-76.2178541 ,43.0287635 
+918,"214 Riverdale Dr Valley, Syracuse, NY",242843 ,-76.1559658 ,43.0004658 
+919,"1208 Teall Ave Eastwood, Syracuse, NY",150103 ,-76.1222789 ,43.0630358 
+920,"205 E Cheltenham Rd Valley, Syracuse, NY",61687 ,-76.1397306 ,42.9955172 
+921,"620 Boston Rd Syracuse, NY",117227 ,-76.1341000 ,43.1063910 
+922,"1400 Caleb Ave Eastwood, Syracuse, NY",122573 ,-76.0980362 ,43.0612989 
+923,"176 Mayar St Northside, Syracuse, NY",93223 ,-76.1371654 ,43.0745863 
+924,"202 Lookout Cir Syracuse, NY",172291 ,-76.2400132 ,43.0591392 
+925,"102 Orrick Rd Syracuse, NY",183047 ,-76.0752151 ,43.0474846 
+926,"625 E Division St Northside, Syracuse, NY",112776 ,-76.1495981 ,43.0629160 
+927,"418 Abell Ave Syracuse, NY",148922 ,-76.2230580 ,43.0573490 
+928,"501 Galster Ave Lyncourt, Syracuse, NY",237801 ,-76.1195507 ,43.0748662 
+929,"327 Rugby Rd Northside, Syracuse, NY",242088 ,-76.1264284 ,43.0671183 
+930,"201 Elk St Southside, Syracuse, NY",110115 ,-76.1423878 ,43.0252165 
+931,"4269 Taunton Heights Dr Syracuse, NY",163024 ,-76.2159136 ,43.0308947 
+932,"211 W Jefferson St #406 Downtown, Syracuse, NY",429000 ,-76.1541621 ,43.0465936 
+933,"167 Parkway Dr Southside, Syracuse, NY",154544 ,-76.1619250 ,43.0241803 
+934,"107 Belle Ave Valley, Syracuse, NY",73464 ,-76.1431656 ,43.0113560 
+935,"206 Edgemere Rd Syracuse, NY",111128 ,-76.1460855 ,43.0911575 
+936,"156 Dorwin Ave Valley, Syracuse, NY",35000 ,-76.1459477 ,42.9854544 
+937,"442 S Alvord St Northside, Syracuse, NY",124650 ,-76.1472237 ,43.0628658 
+938,"111 Breman Ave Syracuse, NY",103338 ,-76.1365269 ,43.0992822 
+939,"131 Roney Rd Valley, Syracuse, NY",94093 ,-76.1415808 ,43.0027137 
+940,"127 Hoover Dr Nedrow, Syracuse, NY",110866 ,-76.1458306 ,42.9816897 
+941,"1010 Bellevue Ave Southside, Syracuse, NY",126643 ,-76.1704870 ,43.0333080 
+942,"806 Avery Ave Westside, Syracuse, NY",110000 ,-76.1947476 ,43.0528894 
+943,"107 Hensberry Rd Southside, Syracuse, NY",99588 ,-76.1832473 ,43.0287762 
+944,"102 Xavier Cir Eastside, Syracuse, NY",270000 ,-76.1295497 ,43.0202904 
+945,"319 Molloy Rd Syracuse, NY",133407 ,-76.1383029 ,43.0984690 
+946,"202 Ostrom Ave Eastside, Syracuse, NY",289950 ,-76.1292100 ,43.0450030 
+947,"133 Jaclyn Dr Valley, Syracuse, NY",197012 ,-76.1457655 ,42.9859051 
+948,"200 Ballantyne Rd Valley, Syracuse, NY",174208 ,-76.1453243 ,43.0107455 
+949,"300 Hillview Ave Southside, Syracuse, NY",98008 ,-76.1628269 ,43.0207320 
+950,"201 Landon Ave Southside, Syracuse, NY",64914 ,-76.1488714 ,43.0287788 
+951,"4357 Outlook Dr Syracuse, NY",460883 ,-76.1724330 ,42.9820319 
+952,"734 Allen St #36 Eastside, Syracuse, NY",224900 ,-96.7893304 ,32.7905391 
+953,"133 Leonard Ave Nedrow, Syracuse, NY",94353 ,-76.1449830 ,42.9800560 
+954,"2636 E Genesee St Eastside, Syracuse, NY",72000 ,-76.1106871 ,43.0439585 
+955,"328 Baker Ave #30 Southside, Syracuse, NY",111124 ,-71.3876310 ,42.4572931 
+956,"703 Spring St Northside, Syracuse, NY",146028 ,-76.1507117 ,43.0682359 
+957,"1522 S State St #24 Southside, Syracuse, NY",60082 ,-111.8886501 ,40.7364530 
+958,"148 Worden Ave Northside, Syracuse, NY",102501 ,-76.1399833 ,43.0737069 
+959,"307 Brookfield Rd Syracuse, NY",114554 ,-76.1536519 ,43.0961020 
+960,"136 Atkinson Ave Southside, Syracuse, NY",109900 ,-76.1848485 ,43.0283397 
+961,"1106 S Glencove Rd Eastwood, Syracuse, NY",66500 ,-76.0983046 ,43.0639028 
+965,"115 Feigel Ave Northside, Syracuse, NY",93960 ,-76.1244774 ,43.0719729 
+991,"176 Parkway Dr Southside, Syracuse, NY",28000 ,-76.1624791 ,43.0245483 
+1009,"4731 Cleveland Rd Syracuse, NY",26900 ,-76.1820380 ,43.0003370 
+1010," Gillespie Ave Syracuse, NY",15900 ,-76.2444984 ,43.0486762 
+1011,"1206 Carbon St Northside, Syracuse, NY",19900 ,-76.1623790 ,43.0721120 
+1012,"113 Jaclyn Dr Valley, Syracuse, NY",19900 ,-76.1445980 ,42.9859320 
+1013,"115 Avalon Ave Syracuse, NY",5000 ,-76.1964880 ,43.0334870 
+1014,"3965 Makyes Rd Syracuse, NY",49900 ,-76.2038214 ,42.9646637 
+1015,"506 Pearl St #24 Northside, Syracuse, NY",49000 ,-78.9079652 ,35.0656963 
+1016,"239 Norwood Ave Eastwood, Syracuse, NY",66572 ,-76.1100550 ,43.0718180 
+1018,"5145 Onondaga Rd Syracuse, NY",460000 ,-76.2212860 ,43.0194590 
+1019,"102 Carlton Dr North Syracuse, NY",139000 ,-76.1575430 ,43.1127640 
+1020,"14 Pine Ridge Cir North Syracuse, NY",124900 ,-76.1508430 ,43.1383330 
+1021,"112 Lawrence Ave North Syracuse, NY",38000 ,-76.1395180 ,43.1236400 
+1022,"127 Maxwell Ave Syr, NY",75900 ,-76.1249158 ,43.1397307 
+1023,"119 Bailey Rd North Syracuse, NY",97500 ,-76.1491052 ,43.1125959 
+1024,"319 Belmore Dr North Syracuse, NY",68179 ,-76.1454600 ,43.1297000 
+1025,"204 Maple Ln North Syracuse, NY",110000 ,-76.1491555 ,43.1155955 
+1026,"206 Crestwood Dr North Syracuse, NY",89900 ,-76.1569270 ,43.1146993 
+1027,"6732 Buckley Rd North Syracuse, NY",101940 ,-76.1681210 ,43.0969130 
+1028,"117 Lynnhaven Dr North Syracuse, NY",106500 ,-76.1534950 ,43.1297337 
+1029,"204 Hibiscus Dr North Syracuse, NY",119900 ,-76.1535489 ,43.1179879 
+1030,"302 Wells Ave W North Syracuse, NY",109500 ,-76.1386629 ,43.1315090 
+1031,"7765 Davis Rd S North Syracuse, NY",124900 ,-76.1356830 ,43.1460620 
+1032,"7217 Rosewood Cir North Syracuse, NY",156000 ,-76.1064853 ,43.1302144 
+1033,"126 Sand Rd North Syracuse, NY",114500 ,-76.1442335 ,43.1078564 
+1034,"105 Elaine Ave North Syracuse, NY",114900 ,-76.1317290 ,43.1273060 
+1035,"115 Dolores Ter S North Syracuse, NY",114900 ,-76.1583916 ,43.1106862 
+1036,"128 Wadsworth Rd North Syracuse, NY",122500 ,-76.1392120 ,43.1384530 
+1037,"120 Clarence Dr North Syracuse, NY",134900 ,-76.1174980 ,43.1318230 
+1038,"5349 Strawflower Dr North Syracuse, NY",224900 ,-76.1474960 ,43.1416540 
+1039,"509 N Orchard Rd #D Geddes, NY",179900 ,-76.2048742 ,43.0530153 
+1040,"7670 Totman Rd North Syracuse, NY",99900 ,-76.0905604 ,43.1410556 
+1041,"133-135 Tuller Rd Syr, NY",149900 ,-76.1244020 ,43.1433690 
+1042,"7351 Rosewood Cir North Syracuse, NY",125000 ,-76.1054317 ,43.1262378 
+1043,"226 Lynnhaven Dr North Syracuse, NY",135000 ,-76.1484213 ,43.1295597 
+1044,"509 Church St North Syracuse, NY",147900 ,-76.1131680 ,43.1322220 
+1045,"117 Circle Rd North Syracuse, NY",115000 ,-76.1514812 ,43.1107716 
+1046,"6121 Ridgecrest Dr North Syracuse, NY",149900 ,-76.0975600 ,43.1407890 
+1047,"113 Dolores Ter S North Syracuse, NY",111900 ,-76.1584002 ,43.1108716 
+1048,"5127 Coffee Tree Ln North Syracuse, NY",215000 ,-76.1709250 ,43.1327993 
+1049,"414 Abell Ave Solvay, NY",149900 ,-76.2230910 ,43.0575660 
+1050,"120 Helen St North Syracuse, NY",119900 ,-76.1385686 ,43.1347212 
+1051,"118 Wells Ave E North Syracuse, NY",68936 ,-76.1290980 ,43.1316420 
+1052,"326 Mitchell Ave Mattydale, NY",70507 ,-76.1415480 ,43.0936347 
+1053,"6167 Birchwood Rd North Syracuse, NY",139900 ,-76.0945990 ,43.1423850 
+1054,"600 Chestnut St North Syracuse, NY",139900 ,-76.1535080 ,43.1343920 
+1055,"6041 Lisi Gardens Dr North Syracuse, NY",277900 ,-76.0935255 ,43.1472594 
+1056,"141 Hazelhurst Ave North Syracuse, NY",135000 ,-76.1474829 ,43.1270620 
+1057," Cherry Vly Onon Hill, NY",23500 ,-76.2230497 ,42.9109593 
+1058,"31 Paradise Cir #B Geddes, NY",244150 ,-84.7794130 ,33.7908414 
+1059," W Seneca Tpke Onon Hill, NY",65000 ,-76.1942329 ,43.0018454 
+1061,"207 Church Pkwy Syr, NY",124900 ,-76.1109275 ,43.1331644 
+1062,"117 Herman Dr North Syracuse, NY",85165 ,-76.1439035 ,43.1336071 
+1064,"124 Brookfield Rd Mattydale, NY",86900 ,-76.1486060 ,43.0969610 
+1065,"7299 Greenbriar Rd North Syracuse, NY",103034 ,-76.1038460 ,43.1266660 
+1066,"135 Rockland Dr North Syracuse, NY",135000 ,-76.1489121 ,43.1255652 
+1067,"31 Paradise Cir #A Geddes, NY",244150 ,-84.7794130 ,33.7908414 
+1070," Howlett Hill Rd Onon Hill, NY",950000 ,-76.2156175 ,43.0125486 
+1071,"439 Church St North Syracuse, NY",69750 ,-76.1151520 ,43.1338710 
+1072,"7749 Cecilia Rd North Syracuse, NY",96800 ,-76.1040081 ,43.1436637 
+1073,"7231 Rosewood Cir North Syracuse, NY",109900 ,-76.1064649 ,43.1311886 
+1074,"211 Ridgewood Dr North Syracuse, NY",79900 ,-76.1074170 ,43.1318010 
+1075,"148 Crystal Dr North Syracuse, NY",69900 ,-76.1517770 ,43.1263122 
+1076,"225 Matty Ave Mattydale, NY",59760 ,-76.1390132 ,43.0994554 
+1077,"307 1st St Solvay, NY",49000 ,-76.2161660 ,43.0611350 
+1078,"32 Homeland Rd North Syracuse, NY",54900 ,-76.1519461 ,43.1277346 
+1079,"223 Chestnut St North Syracuse, NY",139900 ,-76.1349050 ,43.1357280 
+1080,"103 Helen St North Syracuse, NY",115999 ,-76.1376690 ,43.1353190 
+1081,"109 Kopp Ave North Syracuse, NY",93566 ,-76.1245450 ,43.1458280 
+1082,"239 Belmore Dr North Syracuse, NY",106900 ,-76.1460400 ,43.1314683 
+1083,"311 E Taft Rd North Syracuse, NY",114900 ,-76.1348230 ,43.1233069 
+1084,"418 David Dr North Syracuse, NY",239900 ,-76.1613976 ,43.1316244 
+1085,"126 Edden Ln North Syracuse, NY",103900 ,-76.1410159 ,43.1385544 
+1086,"117 Sheatree Ln North Syracuse, NY",125000 ,-76.1590560 ,43.1295290 
+1087,"205 Forest Dr North Syracuse, NY",119900 ,-76.1115873 ,43.1331524 
+1088,"6024 Lisi Gardens Dr North Syracuse, NY",245000 ,-76.0946960 ,43.1466980 
+1089,"106 Wells Ave E North Syracuse, NY",64972 ,-76.1302741 ,43.1316713 
+1090,"34 Pine Ridge Cir North Syracuse, NY",16212 ,-76.1497770 ,43.1374370 
+1091,"120 Wilshirl Dr North Syracuse, NY",89900 ,-76.1458580 ,43.1379969 
+1092,"101 Crestwood Dr North Syracuse, NY",88428 ,-76.1572307 ,43.1131714 
+1093,"589 Palmer Dr North Syracuse, NY",69283 ,-76.1411310 ,43.1332246 
+1094,"102 Bailey Rd North Syracuse, NY",93900 ,-76.1472290 ,43.1132050 
+1095,"5307 W Taft Rd North Syracuse, NY",119500 ,-76.1491142 ,43.1226557 
+1098,"100 Keith Dr North Syracuse, NY",109900 ,-76.1244320 ,43.1318840 
+1099,"307 Millen Dr North Syracuse, NY",15900 ,-76.1393181 ,43.1320232 
+1101,"107 Wadsworth Rd North Syracuse, NY",149900 ,-76.1397544 ,43.1365774 
+1102,"601 Bailey Rd North Syracuse, NY",81174 ,-76.1573355 ,43.1122297 
+1103,"409 1st St Solvay, NY",60681 ,-76.2195690 ,43.0607760 
+1104,"6129 Ridgecrest Dr North Syracuse, NY",106362 ,-76.0970240 ,43.1408140 
+1105,"7577 Daphne Dr North Syracuse, NY",159900 ,-76.1645310 ,43.1373330 
+1106,"108 Wally Rd North Syracuse, NY",79668 ,-76.1443488 ,43.1211652 
+1107,"100 Roxann Ave North Syracuse, NY",97931 ,-76.1230430 ,43.1337770 
+1114,"206 Herman Dr North Syracuse, NY",106250 ,-76.1442080 ,43.1324800 
+1115,"27 Homeland Rd North Syracuse, NY",81273 ,-76.1525659 ,43.1281630 
+1116,"31 Homeland Rd North Syracuse, NY",82714 ,-76.1522284 ,43.1281231 
+1117,"127 Maxwell Ave North Syracuse, NY",75900 ,-76.1249158 ,43.1397307 
+1118,"212 William St Solvay, NY",128887 ,-76.2055720 ,43.0605740 
+1119," Totman Rd Syr, NY",9900 ,-76.0907300 ,43.1371625 
+1120,"233 Chestnut St North Syracuse, NY",142433 ,-76.1361605 ,43.1360000 
+1121,"190 Canterbury Rd De Witt, NY",230551 ,-76.0686440 ,43.0319550 
+1122,"438 Church St North Syracuse, NY",164419 ,-76.1157880 ,43.1334600 
+1123,"6224 Kenlaren Cir North Syracuse, NY",294471 ,-76.0928232 ,43.1399186 
+1130,"3438 Fox Rd #3452 Onon Hill, NY",47000 ,-76.2617670 ,42.9395710 
+1131," Totman Rd Syr, NY",35000 ,-76.0907300 ,43.1371625 
+1132,"2 W Seneca Tpke W #A Onon Hill, NY",104900 ,-80.0042760 ,39.3470780 
+1133," Velasko Rd Onon Hill, NY",299000 ,-76.1844950 ,43.0164110 
+1134,"329 Lionel Ave Solvay, NY",148922 ,-76.2234030 ,43.0573220 

@@ -1,0 +1,572 @@
+ID,name,price,lon,lat
+1,"11 Imperial Dr Albany, NY",464000 ,-73.7567260 ,42.6995591 
+3,"34 Andriana Ln North Albany - Shaker Park, Albany, NY",293039 ,-73.7460591 ,42.6762668 
+4,"188 W Lawrence St Pine Hills, Albany, NY",296000 ,-73.7897494 ,42.6666375 
+5,"685 Park Ave Pine Hills, Albany, NY",120000 ,-73.7858307 ,42.6593076 
+6,"508 Greenwich Dr Dunes, Albany, NY",125000 ,-73.8595140 ,42.6977390 
+7,"120 S Lake Ave Park South, Albany, NY",167000 ,-73.7786326 ,42.6564605 
+8,"18 Matilda St Delaware Avenue, Albany, NY",128500 ,-73.7871889 ,42.6420302 
+9,"200 Homestead Ave Upper Washington Avenue, Albany, NY",169900 ,-73.7918643 ,42.6751973 
+10,"49 Pinewood Ave Helderberg, Albany, NY",189900 ,-73.7942638 ,42.6519336 
+11,"103 Green St #2 Pastures, Albany, NY",72000 ,-89.0901339 ,36.9691063 
+13,"436 Elk St West Hill, Albany, NY",24000 ,-73.7715028 ,42.6655096 
+14,"308 Hudson Ave Center Square, Albany, NY",300000 ,-73.7649271 ,42.6527859 
+16,"57 Wolfert Ave Albany, NY",225000 ,-73.7419883 ,42.6796470 
+17,"26 Cramond St Albany, NY",140896 ,-73.8005763 ,42.6930841 
+18,"281 Sheridan Ave Sheridan Hollow, Albany, NY",5000 ,-73.7624346 ,42.6598316 
+19,"516 Washington Ave Pine Hills, Albany, NY",99750 ,-73.7752332 ,42.6633837 
+20,"524 Hamilton St Pine Hills, Albany, NY",124500 ,-73.7825179 ,42.6619454 
+21,"859 Myrtle Ave Pine Hills, Albany, NY",157900 ,-73.7914242 ,42.6636193 
+23,"480 Livingston Ave West Hill, Albany, NY",34900 ,-73.7662310 ,42.6677370 
+24,"196 Shaker Rd Bishop's Gate, Albany, NY",325000 ,-73.7574109 ,42.6785202 
+25,"25 Westford St Buckingham Lake - Crestwood, Albany, NY",159900 ,-73.8112659 ,42.6538847 
+26,"357 Whitehall Rd Whitehall, Albany, NY",144900 ,-73.8074895 ,42.6497976 
+28,"80 Grand St Mansion Area, Albany, NY",100000 ,-73.7566863 ,42.6456574 
+29,"610 Western Ave Buckingham Lake - Crestwood, Albany, NY",239000 ,-73.7967485 ,42.6677518 
+31,"107 Alexander St South End, Albany, NY",12000 ,-73.7635392 ,42.6413490 
+32,"40 Campus View Dr Albany, NY",389000 ,-73.7630960 ,42.7206530 
+33,"37 Raymo St Delaware Avenue, Albany, NY",48500 ,-73.7755063 ,42.6406093 
+34,"5 Bryn Mawr Ct Albany, NY",315000 ,-73.7525226 ,42.6741102 
+35,"81 Walter St North Albany - Shaker Park, Albany, NY",149000 ,-73.7386618 ,42.6733806 
+37,"352 State St #6A Center Square, Albany, NY",299000 ,-73.7646300 ,42.6557660 
+38,"153 Van Rensselaer Blvd Albany, NY",257500 ,-73.7424257 ,42.6801772 
+39,"229 Jay St Center Square, Albany, NY",220000 ,-73.7655100 ,42.6543127 
+40,"134 Green St #2 Pastures, Albany, NY",30000 ,-71.1334775 ,42.4789113 
+41,"17 Marshall St Delaware Avenue, Albany, NY",129900 ,-73.7795394 ,42.6401623 
+42,"41 Melrose Ave Melrose, Albany, NY",163000 ,-73.7976531 ,42.6712421 
+43,"32 Pine Ln #A Dunes, Albany, NY",95000 ,-89.9495669 ,37.7368032 
+44,"71 Melrose Ave Melrose, Albany, NY",219900 ,-73.7987517 ,42.6722334 
+45,"137 Woodlawn Ave Pine Hills, Albany, NY",189898 ,-73.7874876 ,42.6558529 
+46,"59 Elizabeth St South End, Albany, NY",95000 ,-73.7617031 ,42.6405437 
+48,"237 Hansen Ave Pine Hills, Albany, NY",209000 ,-73.7924068 ,42.6599684 
+49,"4 Kent St Beverwyck, Albany, NY",84800 ,-73.7769275 ,42.6661819 
+50,"5 Greyledge Dr Bishop's Gate, Albany, NY",424900 ,-73.7529120 ,42.6794067 
+51,"56 Cheshire Way Albany, NY",374999 ,-73.7331650 ,42.7173210 
+52,"77 Hurst Ave Buckingham Lake - Crestwood, Albany, NY",189900 ,-73.8117605 ,42.6558725 
+53,"47 Huntleigh Dr Albany, NY",389000 ,-73.7817969 ,42.7220456 
+55,"45 Clifford Rd Albany, NY",139500 ,-73.7250951 ,42.6965088 
+56,"179 Benson St Beverwyck, Albany, NY",149900 ,-73.7822516 ,42.6688289 
+57,"30 Marion Ave Buckingham Lake - Crestwood, Albany, NY",550000 ,-73.8004837 ,42.6652464 
+59,"21 Marlborough Ct Whitehall, Albany, NY",149898 ,-73.8013906 ,42.6446133 
+60,"37 Dove St Center Square, Albany, NY",259000 ,-73.7626146 ,42.6543503 
+61,"904 Park Ave Pine Hills, Albany, NY",280000 ,-73.7934685 ,42.6631549 
+62,"69 Summit Ave Delaware Avenue, Albany, NY",249900 ,-73.7822930 ,42.6425720 
+63,"191 N Lake Ave West Hill, Albany, NY",89900 ,-73.7677630 ,42.6669770 
+64,"4 Maple Ave New Scotland, Albany, NY",209900 ,-73.7845428 ,42.6534477 
+65,"272 Orange St Sheridan Hollow, Albany, NY",75000 ,-73.7594428 ,42.6586181 
+67,"3 Marsdale St Buckingham Lake - Crestwood, Albany, NY",212900 ,-73.8140523 ,42.6575527 
+68,"10 Quail St West Hill, Albany, NY",74900 ,-73.7683400 ,42.6688371 
+69,"423 Partridge St New Scotland, Albany, NY",179900 ,-73.7902771 ,42.6558003 
+70,"263 Tampa Ave Buckingham Lake - Crestwood, Albany, NY",250000 ,-73.8173368 ,42.6619621 
+71,"30 Tillinghast Ave Albany, NY",194900 ,-73.7258938 ,42.6942685 
+72,"70 2nd St Arbor Hill, Albany, NY",100000 ,-73.7545516 ,42.6588979 
+73,"437 3rd St West Hill, Albany, NY",20000 ,-73.7684167 ,42.6683940 
+74,"523 Lark Dr Arbor Hill, Albany, NY",125000 ,-73.7515728 ,42.6640630 
+75,"218 Jay St Center Square, Albany, NY",279900 ,-73.7654946 ,42.6539060 
+76,"96 Whitehall Rd Delaware Avenue, Albany, NY",150000 ,-73.7883458 ,42.6413801 
+77,"33 Colonial Grn Albany, NY",550000 ,-73.7481070 ,42.6972530 
+78,"340 State St Center Square, Albany, NY",469000 ,-73.7639640 ,42.6554060 
+79,"26 Benjamin St Krank Park - Cherry Hill, Albany, NY",51780 ,-73.7624960 ,42.6370970 
+80,"11 Andriana Ln North Albany - Shaker Park, Albany, NY",274900 ,-73.7447946 ,42.6763257 
+81,"40 Andriana Ln North Albany - Shaker Park, Albany, NY",289900 ,-73.7463052 ,42.6762118 
+82,"2 1st St Ten Broeck Triangle, Albany, NY",279000 ,-73.7515790 ,42.6560569 
+84,"2 Carlton Ter Albany, NY",382900 ,-73.7749896 ,42.7107328 
+85,"14 Kim Dr Albany, NY",295000 ,-73.7746360 ,42.7162817 
+86,"3 Kerry Ln Bishop's Gate, Albany, NY",199900 ,-73.7549451 ,42.6748855 
+87,"219 S Main Ave New Scotland, Albany, NY",299900 ,-73.7973643 ,42.6570393 
+88,"13 Andriana Ln North Albany - Shaker Park, Albany, NY",279900 ,-73.7448270 ,42.6763208 
+89,"852 Myrtle Ave Pine Hills, Albany, NY",199900 ,-73.7914070 ,42.6630020 
+90,"1013 New Scotland Rd Normanskill, Albany, NY",189900 ,-73.8292455 ,42.6516130 
+91,"46 Pitch Pine Rd Dunes, Albany, NY",249900 ,-73.8686213 ,42.7027122 
+92,"50 Wolfert Ave Albany, NY",225000 ,-73.7412216 ,42.6790106 
+93,"21 Joy Dr Albany, NY",389000 ,-73.7745469 ,42.7148580 
+94,"115 Delaware Ave Albany, NY",139000 ,-73.7708668 ,42.6467212 
+95,"7 Park Ave Mansion Area, Albany, NY",85900 ,-73.7587502 ,42.6438510 
+96,"164 Madison Ave #66 Mansion Area, Albany, NY",389000 ,-73.9838448 ,40.7469404 
+97,"9 Kingston St Albany, NY",145000 ,-73.7378341 ,42.6807357 
+98,"355 State St #4EF Central Avenue, Albany, NY",194900 ,-73.7644184 ,42.6562079 
+99,"59 Rosemont St Melrose, Albany, NY",209900 ,-73.8024601 ,42.6737389 
+100,"222 Hackett Blvd Whitehall, Albany, NY",231900 ,-73.7998469 ,42.6504004 
+101,"21 Fletcher Rd Albany, NY",179900 ,-73.8801500 ,42.6929434 
+102,"19 Oxford Pl Albany, NY",178500 ,-73.8713350 ,42.6938910 
+103,"87 S Manning Blvd Pine Hills, Albany, NY",315000 ,-73.7976627 ,42.6648636 
+104,"496 Washington Ave Pine Hills, Albany, NY",139900 ,-73.7745157 ,42.6629728 
+105,"140 Cardinal Ave Whitehall, Albany, NY",375000 ,-73.8013672 ,42.6485703 
+106,"10 Cadillac Ave Albany, NY",254900 ,-73.8637090 ,42.7456032 
+108,"4 Buell St Upper Washington Avenue, Albany, NY",144900 ,-73.7965777 ,42.6768026 
+109,"439 Manning Blvd Beverwyck, Albany, NY",210000 ,-73.7805247 ,42.6705215 
+110,"4 Marwood St Whitehall, Albany, NY",190000 ,-73.7958376 ,42.6487242 
+111,"226 Davis Ave Buckingham Lake - Crestwood, Albany, NY",174900 ,-73.8139850 ,42.6631219 
+112,"101 Blockhouse Creek Ct Albany, NY",525000 ,-73.8854999 ,42.6896940 
+113,"168 Lincoln Ave Upper Washington Avenue, Albany, NY",199900 ,-73.7948545 ,42.6772891 
+114,"6 Friebel Rd Buckingham Lake - Crestwood, Albany, NY",170000 ,-73.8168881 ,42.6606677 
+115,"68 Clermont St Melrose, Albany, NY",231074 ,-73.8020145 ,42.6734396 
+116,"30 N Manning Blvd Albany, NY",65000 ,-73.7771143 ,42.6738796 
+117,"306 S Main Ave Helderberg, Albany, NY",252000 ,-73.8010422 ,42.6528534 
+118,"41 Trinity Pl Mansion Area, Albany, NY",139000 ,-73.7566280 ,42.6447780 
+119,"448 Bradford St Albany, NY",18000 ,-73.7838977 ,42.6728269 
+120,"343 State St Central Avenue, Albany, NY",569000 ,-73.7735818 ,42.6657137 
+124,"27 Chateau Ct Albany, NY",209900 ,-73.7772329 ,42.6952351 
+126,"12 Winchester Pl Albany, NY",389900 ,-73.7876425 ,42.7220609 
+127,"19 Buchanan St Albany, NY",69900 ,-73.7874753 ,42.6724464 
+129,"59 Governor Cir Buckingham Lake - Crestwood, Albany, NY",214000 ,-73.8161653 ,42.6539915 
+130,"353 Lark St Park South, Albany, NY",161716 ,-73.7695050 ,42.6511250 
+131,"35 S Main Ave Pine Hills, Albany, NY",239700 ,-73.7907720 ,42.6633010 
+132,"390 Clinton Ave Sheridan Hollow, Albany, NY",125000 ,-73.7639351 ,42.6620480 
+133,"469 State St Central Avenue, Albany, NY",699000 ,-73.7687280 ,42.6586319 
+134,"246 Lark St Center Square, Albany, NY",749000 ,-73.7653112 ,42.6544762 
+135,"7 Van Tassel Ct Albany, NY",439900 ,-73.7885872 ,42.7126849 
+136,"5 Victor Dr Albany, NY",229900 ,-73.8657829 ,42.6951310 
+137,"76-82 3rd Ave South End, Albany, NY",499900 ,-73.7622596 ,42.6399659 
+138,"15 Highland Ct Albany, NY",234900 ,-73.8822753 ,42.7128220 
+139,"102 Mount Hope Dr Mount Hope, Albany, NY",64072 ,-73.7674899 ,42.6320342 
+140,"310 State St Center Square, Albany, NY",650000 ,-73.7628435 ,42.6548629 
+141,"21 Homestead Ave Melrose, Albany, NY",217500 ,-73.7971120 ,42.6697510 
+143,"76 Andriana Ln North Albany - Shaker Park, Albany, NY",324700 ,-73.7447416 ,42.6758016 
+144,"131 Jefferson St Capitol Hill, Albany, NY",199900 ,-73.7642188 ,42.6499432 
+146,"734 S Pearl St Albany, NY",69900 ,-73.7681566 ,42.6270753 
+147,"270 Osborne Rd Albany, NY",174900 ,-73.7723045 ,42.7067257 
+148,"6 Grandview Ter Second Avenue, Albany, NY",85000 ,-73.7676800 ,42.6396419 
+149,"4 Fairlawn Ave Melrose, Albany, NY",219999 ,-73.8006316 ,42.6698902 
+152,"5 Fullerton St Delaware Avenue, Albany, NY",154900 ,-73.7900220 ,42.6431246 
+153,"699 State St Pine Hills, Albany, NY",239900 ,-73.7772879 ,42.6635794 
+156,"9 Andriana Ln North Albany - Shaker Park, Albany, NY",279900 ,-73.7447301 ,42.6763285 
+157,"9 Justin St Albany, NY",414800 ,-73.7087630 ,42.6620930 
+158,"11 Justin St Albany, NY",389800 ,-73.7090000 ,42.6618780 
+159,"18 Williams Park Rd Albany, NY",264500 ,-73.7816464 ,42.7170852 
+160,"633-637 2nd St West Hill, Albany, NY",98800 ,-73.7763070 ,42.6719850 
+161,"25 Eduardo Ct Albany, NY",439900 ,-73.8373457 ,42.6666658 
+163,"87 N Manning Blvd West Hill, Albany, NY",67764 ,-73.7744683 ,42.6726523 
+164,"4 Judson St West Hill, Albany, NY",46050 ,-73.7663369 ,42.6642530 
+165,"21 Greyledge Dr Bishop's Gate, Albany, NY",434900 ,-73.7549387 ,42.6780361 
+166,"44 Andriana Ln North Albany - Shaker Park, Albany, NY",299900 ,-73.7465262 ,42.6759939 
+167,"4 Avon Ct Buckingham Lake - Crestwood, Albany, NY",166765 ,-73.8191177 ,42.6598311 
+168,"38 Andriana Ln North Albany - Shaker Park, Albany, NY",299900 ,-73.7462029 ,42.6762379 
+172,"23 Victoria Way Whitehall, Albany, NY",239900 ,-73.8054230 ,42.6454790 
+173,"50 Meadow Ln Normanskill, Albany, NY",189900 ,-73.8379729 ,42.6426874 
+174,"6 Tioga Ter Normanskill, Albany, NY",205000 ,-73.8414917 ,42.6442724 
+175,"10 Zuni St Normanskill, Albany, NY",34500 ,-73.8245309 ,42.6540990 
+176,"194 Delaware Ave #196 Delaware Avenue, Albany, NY",30000 ,-73.6002229 ,40.6678798 
+177,"13 Danker Ave Upper Washington Avenue, Albany, NY",242900 ,-73.7939334 ,42.6761855 
+178,"73 Woodside Dr Albany, NY",209900 ,-73.8350570 ,42.6533770 
+180,"583 Washington Ave Beverwyck, Albany, NY",159900 ,-73.7787746 ,42.6660042 
+181,"5 Schuyler Meadows Club Rd Albany, NY",1795000 ,-73.7432061 ,42.7165935 
+183,"543 Loudon Rd Albany, NY",679000 ,-73.7554010 ,42.7210520 
+185,"12 Bryn Mawr Ct Bishop's Gate, Albany, NY",439900 ,-73.7527690 ,42.6735610 
+186,"16 Friar Tuck Rd Albany, NY",287500 ,-73.8774511 ,42.7005607 
+187,"12 Central Ave Central Avenue, Albany, NY",274500 ,-73.7637263 ,42.6574263 
+188,"17 Prospect Ave Albany, NY",279000 ,-73.7734695 ,42.6740970 
+189,"109 Central Ave Central Avenue, Albany, NY",198000 ,-73.7666073 ,42.6599676 
+190,"5 Wood Plot Rd Albany, NY",1049500 ,-73.7698310 ,42.7249089 
+191,"2 Highfield Ln #A Normanskill, Albany, NY",369900 ,-73.8349120 ,42.6483270 
+192,"543 Morris St Pine Hills, Albany, NY",159950 ,-73.7856815 ,42.6611394 
+194,"56 Catherine St South End, Albany, NY",25473 ,-73.7612109 ,42.6420444 
+195,"160 Shaker Rd Bishop's Gate, Albany, NY",234315 ,-73.7555873 ,42.6760711 
+196,"30 Grant Ave Albany, NY",63014 ,-73.7835200 ,42.6762180 
+197,"29 Ramsey Pl Helderberg, Albany, NY",148890 ,-73.7929143 ,42.6515518 
+198,"17 Chapel St Sheridan Hollow, Albany, NY",449900 ,-73.7513648 ,42.6539202 
+199,"23 Slingerland St Second Avenue, Albany, NY",69000 ,-73.7714612 ,42.6403340 
+200,"17 Oakwood St New Scotland, Albany, NY",180509 ,-73.7964342 ,42.6560935 
+201,"110 Fairlawn Ave Melrose, Albany, NY",269900 ,-73.7974135 ,42.6729981 
+202,"48 Grant Ave Albany, NY",89424 ,-73.7832114 ,42.6766739 
+203,"9 Marvill Dr Albany, NY",307112 ,-73.7828887 ,42.7181011 
+204,"43 Lindbergh Ave #A North Albany - Shaker Park, Albany, NY",176072 ,-73.7393612 ,42.6779567 
+205,"24 Campus View Dr Albany, NY",301425 ,-73.7602228 ,42.7190447 
+206,"37 Fairlawn Ave Melrose, Albany, NY",190397 ,-73.7988848 ,42.6708304 
+207,"27 Tennessee Ave Albany, NY",299700 ,-73.8623915 ,42.7407514 
+208,"158 Whitehall Rd Delaware Avenue, Albany, NY",231762 ,-73.7917617 ,42.6432851 
+209,"109 Kenosha St Delaware Avenue, Albany, NY",150298 ,-73.7840931 ,42.6356451 
+210,"83 McCarty Ave Second Avenue, Albany, NY",129900 ,-73.7677967 ,42.6345063 
+211,"263 Elm St Capitol Hill, Albany, NY",149900 ,-73.7674498 ,42.6511189 
+212,"21 Sloan St Second Avenue, Albany, NY",239000 ,-73.7640700 ,42.6396840 
+213,"70 Central Ave Central Avenue, Albany, NY",875000 ,-73.7662593 ,42.6589415 
+214,"55 Maxwell St Buckingham Lake - Crestwood, Albany, NY",528800 ,-73.8090119 ,42.6582806 
+215,"313 Hackett Blvd Buckingham Lake - Crestwood, Albany, NY",231666 ,-73.8071721 ,42.6537814 
+219,"107 Kenosha St Delaware Avenue, Albany, NY",150298 ,-73.7839520 ,42.6356650 
+220,"76 Judson St West Hill, Albany, NY",500 ,-73.7638709 ,42.6663924 
+221,"614 3rd St West Hill, Albany, NY",5000 ,-73.7764643 ,42.6726306 
+222,"282 Morris St Park South, Albany, NY",139500 ,-73.7781689 ,42.6563864 
+223,"351 2nd Ave Delaware Avenue, Albany, NY",74900 ,-73.7791075 ,42.6424185 
+224,"351 Clinton Ave West Hill, Albany, NY",25000 ,-73.7618370 ,42.6613282 
+226,"53 2nd Ave South End, Albany, NY",9500 ,-73.7441632 ,42.6371830 
+227,"278 Schoolhouse Rd Albany, NY",135000 ,-73.8473988 ,42.6663794 
+228,"467 Washington Ave Central Avenue, Albany, NY",84900 ,-73.7731829 ,42.6627952 
+229,"25 Alexander St South End, Albany, NY",63000 ,-73.7594581 ,42.6403032 
+230,"271 Partridge St Pine Hills, Albany, NY",169900 ,-73.7855950 ,42.6601760 
+231,"52 Broad St South End, Albany, NY",1500 ,-73.7580020 ,42.6408060 
+232,"143 Shaker Rd Bishop's Gate, Albany, NY",200000 ,-73.7552923 ,42.6767764 
+233,"9 Pansy St Albany, NY",129900 ,-73.8014440 ,42.6848910 
+234,"370 Clinton Ave Sheridan Hollow, Albany, NY",5000 ,-73.7634240 ,42.6616590 
+235,"11 Bancroft St Buckingham Lake - Crestwood, Albany, NY",148500 ,-73.8131033 ,42.6532913 
+236,"130 Western Ave Washington Park, Albany, NY",129900 ,-73.7740585 ,42.6605752 
+237,"48 Judson St West Hill, Albany, NY",10000 ,-73.7648280 ,42.6654985 
+239,"49 Park Ave Mansion Area, Albany, NY",10000 ,-73.7603020 ,42.6447540 
+240,"30 Albany St Albany, NY",10000 ,-73.7417203 ,42.6688854 
+241,"439 W Lawrence St New Scotland, Albany, NY",214900 ,-73.7968148 ,42.6592637 
+242,"65 Kenosha St Delaware Avenue, Albany, NY",65000 ,-73.7814488 ,42.6352274 
+243,"137 Green St Pastures, Albany, NY",50000 ,-73.7537871 ,42.6432291 
+244,"9 Bittersweet Ln Albany, NY",274900 ,-73.7790717 ,42.7210824 
+245,"52 S Swan St Central Avenue, Albany, NY",79900 ,-73.7584295 ,42.6551298 
+246,"384 Morris St Pine Hills, Albany, NY",165000 ,-73.7802397 ,42.6575526 
+248,"309 Orange St Sheridan Hollow, Albany, NY",8000 ,-73.7608193 ,42.6597808 
+249,"69 S Ferry St Pastures, Albany, NY",62900 ,-73.7551099 ,42.6429361 
+250,"73 Crestwood Ter Albany, NY",134900 ,-73.8758820 ,42.7129240 
+251,"864 Lancaster St Pine Hills, Albany, NY",209900 ,-73.7903404 ,42.6690096 
+252,"7 Bryn Mawr Ct Bishop's Gate, Albany, NY",369000 ,-73.7526186 ,42.6741189 
+253,"15 Campus View Dr Albany, NY",310000 ,-73.7584878 ,42.7183843 
+254,"356 Hudson Ave Center Square, Albany, NY",272500 ,-73.7662774 ,42.6535934 
+256,"512 Washington Ave Pine Hills, Albany, NY",65000 ,-73.7750918 ,42.6632998 
+257,"49 Academy Rd Helderberg, Albany, NY",172000 ,-73.7856060 ,42.6503800 
+258,"399 State St #903 Central Avenue, Albany, NY",125500 ,-73.7660061 ,42.6572433 
+259,"136 Livingston Ave Arbor Hill, Albany, NY",5000 ,-73.7520545 ,42.6594474 
+260,"260 2nd St West Hill, Albany, NY",10000 ,-73.7619683 ,42.6631300 
+261,"10 Thurlow Ter Washington Park, Albany, NY",799000 ,-73.7740463 ,42.6593374 
+262,"35 West St Central Avenue, Albany, NY",85000 ,-73.7715843 ,42.6623886 
+263,"99 Southern Blvd Delaware Avenue, Albany, NY",97000 ,-73.7830507 ,42.6369112 
+264,"56 Quail St West Hill, Albany, NY",5000 ,-73.7700151 ,42.6673377 
+265,"36 Park Dr Albany, NY",499000 ,-73.7392890 ,42.6896890 
+266,"301 Loudon Rd Albany, NY",800000 ,-73.7514047 ,42.6845880 
+267,"230 Loudonville Rd Bishop's Gate, Albany, NY",429000 ,-73.7503439 ,42.6793012 
+268,"28 Clare Ave Second Avenue, Albany, NY",90000 ,-73.7709265 ,42.6380062 
+269,"56 Fleetwood Ave Helderberg, Albany, NY",149900 ,-73.8003049 ,42.6526909 
+270,"73 Brevator St Melrose, Albany, NY",195000 ,-73.8035635 ,42.6740810 
+271,"425 Whitehall Rd Buckingham Lake - Crestwood, Albany, NY",199500 ,-73.8137637 ,42.6524876 
+272,"12 Lawn Ave North Albany - Shaker Park, Albany, NY",134900 ,-73.7372330 ,42.6752180 
+273,"8 Bogardus Rd New Scotland, Albany, NY",45000 ,-73.8040989 ,42.6613600 
+274,"9 Albany St Albany, NY",80000 ,-73.7408155 ,42.6688819 
+275,"20 Stephen St South End, Albany, NY",1000 ,-73.7616022 ,42.6386787 
+276,"34 E Ridge Rd Albany, NY",1950000 ,-73.7371509 ,42.7224296 
+278,"294 Hudson Ave Center Square, Albany, NY",226000 ,-73.7641410 ,42.6523340 
+279,"16 Lawn Ave North Albany - Shaker Park, Albany, NY",104900 ,-73.7374180 ,42.6752740 
+280,"87 Tampa Ave Buckingham Lake - Crestwood, Albany, NY",209000 ,-73.8107453 ,42.6680035 
+281,"346 Loudon Rd Albany, NY",949000 ,-73.7536478 ,42.6915438 
+282,"11 Stanwix St Delaware Avenue, Albany, NY",124900 ,-73.7814620 ,42.6400679 
+283,"186 2nd St Arbor Hill, Albany, NY",8000 ,-73.7591014 ,42.6614727 
+284,"127 Clinton St South End, Albany, NY",5000 ,-73.7607459 ,42.6382637 
+285,"33 Alexander St South End, Albany, NY",5000 ,-73.7598146 ,42.6403712 
+286,"18 Sparkill Ave Delaware Avenue, Albany, NY",167400 ,-73.7859407 ,42.6380036 
+287,"85 Delaware Ave Albany, NY",181000 ,-73.7698915 ,42.6482959 
+288,"40 Hills Rd Albany, NY",949900 ,-73.7633209 ,42.7220314 
+289,"8 Graffunder Dr Albany, NY",490000 ,-73.7451143 ,42.6963544 
+290,"49 Buell St Upper Washington Avenue, Albany, NY",129000 ,-73.7937963 ,42.6788365 
+291,"16 Lexington Ave West Hill, Albany, NY",2000 ,-73.7632230 ,42.6632298 
+292,"315 Orange St Sheridan Hollow, Albany, NY",2500 ,-73.7610146 ,42.6598924 
+293,"137 Broad St South End, Albany, NY",3000 ,-73.7603058 ,42.6378261 
+294,"399 State St #503 Central Avenue, Albany, NY",114900 ,-73.7660061 ,42.6572433 
+296,"166 Livingston Ave Arbor Hill, Albany, NY",10000 ,-73.7533074 ,42.6603532 
+297,"9 E Hills Blvd Albany, NY",999000 ,-73.7333107 ,42.7230958 
+298,"14 Pheasant Ln Albany, NY",1495000 ,-73.7363654 ,42.6991678 
+299,"11 Cadillac Ave Albany, NY",254900 ,-73.8629820 ,42.7458810 
+300,"48 Holmes Dl Buckingham Lake - Crestwood, Albany, NY",339900 ,-73.8053159 ,42.6669085 
+301,"42 Garfield Pl Albany, NY",26214 ,-73.7821514 ,42.6758074 
+302,"8 Leonard St Krank Park - Cherry Hill, Albany, NY",25000 ,-73.7648069 ,42.6381629 
+303,"355 State St #2ER Central Avenue, Albany, NY",199000 ,-73.7644184 ,42.6562079 
+304,"266 Colonie St Arbor Hill, Albany, NY",115084 ,-73.7555579 ,42.6628346 
+305,"831 Jay St Pine Hills, Albany, NY",184900 ,-73.7887057 ,42.6677789 
+306,"23 Teunis St South End, Albany, NY",1500 ,-73.7614327 ,42.6384218 
+308,"11 Eduardo Ct Albany, NY",539900 ,-73.8381347 ,42.6659807 
+309,"1 Guilder Ct Albany, NY",344900 ,-73.7307881 ,42.7175220 
+310,"511 2nd St West Hill, Albany, NY",49900 ,-73.7714777 ,42.6690345 
+311,"252 Yates St Pine Hills, Albany, NY",110000 ,-73.7787770 ,42.6575640 
+312,"848 Jay St Pine Hills, Albany, NY",152000 ,-73.7896756 ,42.6679041 
+313,"277 S Manning Blvd New Scotland, Albany, NY",289900 ,-73.8027080 ,42.6588020 
+314,"19 Hutton St Albany, NY",112500 ,-73.7376080 ,42.6787319 
+315,"30 Holmes Ct Delaware Avenue, Albany, NY",159900 ,-73.7922403 ,42.6412429 
+316,"1026 Washington Ave Melrose, Albany, NY",189900 ,-73.7956804 ,42.6751681 
+317,"87 Southern Blvd Delaware Avenue, Albany, NY",134900 ,-73.7837514 ,42.6371084 
+318,"98 3rd Ave Second Avenue, Albany, NY",5000 ,-73.7631420 ,42.6403214 
+319,"1 Warbler Way Dunes, Albany, NY",244500 ,-73.8652462 ,42.7078679 
+320,"249 3rd St West Hill, Albany, NY",87602 ,-73.7611046 ,42.6640375 
+321,"20 Willo Ln #A Albany, NY",489000 ,-73.7583900 ,42.6988790 
+323,"141 3rd Ave South End, Albany, NY",2500 ,-73.7644573 ,42.6413743 
+324,"706 Greenwich Dr Dunes, Albany, NY",119800 ,-73.8595140 ,42.6977390 
+325,"24 Fenway Dr Albany, NY",549900 ,-73.7462679 ,42.7062522 
+326,"328 Ontario St Pine Hills, Albany, NY",189000 ,-73.7835258 ,42.6590389 
+327,"59 Morris St Park South, Albany, NY",114038 ,-73.7703766 ,42.6523905 
+328,"102 Terrace Ave Melrose, Albany, NY",92502 ,-73.7970953 ,42.6719314 
+329,"58 Tremont St Albany, NY",17666 ,-73.8008848 ,42.6832165 
+330,"546 Myrtle Ave Pine Hills, Albany, NY",184557 ,-73.7802667 ,42.6566709 
+331,"53 Forest Ave Helderberg, Albany, NY",99657 ,-73.7899614 ,42.6496260 
+332,"328 Manning Blvd Albany, NY",125500 ,-73.7859820 ,42.6711260 
+333,"575 Washington Ave Beverwyck, Albany, NY",179999 ,-73.7783895 ,42.6657722 
+334,"383 Loudon Rd Albany, NY",769000 ,-73.7534330 ,42.6973061 
+335,"3 Locust Hill Rd Albany, NY",76457 ,-73.8893763 ,42.6944798 
+336,"973 New Scotland Rd Normanskill, Albany, NY",175000 ,-73.8259536 ,42.6528908 
+337,"777 Livingston Ave Albany, NY",59000 ,-73.7782800 ,42.6758910 
+338,"206 Kent St Albany, NY",89900 ,-73.7858310 ,42.6713450 
+339,"7 Winchester Pl Albany, NY",259717 ,-73.7888070 ,42.7223400 
+340,"604 Bedford Sq Albany, NY",798000 ,-73.8861596 ,42.6855043 
+341,"29 Bacon Ln Albany, NY",775000 ,-73.7512042 ,42.7062576 
+342,"622 Clinton Ave West Hill, Albany, NY",100000 ,-73.7723395 ,42.6669193 
+343,"52 Brent St Albany, NY",199900 ,-73.8545484 ,42.7421942 
+344,"702 Delaware Ave Albany, NY",139950 ,-73.7968798 ,42.6336355 
+345,"329 Madison Ave Center Square, Albany, NY",2395000 ,-73.7635572 ,42.6502593 
+346,"32 Teunis St South End, Albany, NY",5000 ,-73.7614207 ,42.6380765 
+347,"74 Bassett St South End, Albany, NY",9900 ,-73.7572871 ,42.6397445 
+348,"28 Benson St Beverwyck, Albany, NY",114900 ,-73.7762945 ,42.6649373 
+349,"6 Taprobane Ln Albany, NY",1298000 ,-73.7729372 ,42.7205833 
+350,"10 Sage Est Albany, NY",1400000 ,-73.7426330 ,42.6939319 
+353,"3 Burton Ln Albany, NY",634900 ,-73.7537560 ,42.7076260 
+354,"10 Chatham Cir Albany, NY",1150000 ,-73.7345370 ,42.7197650 
+355,"12 Joanne Ct Delaware Avenue, Albany, NY",47043 ,-73.7893556 ,42.6431867 
+356,"111 Clermont St Melrose, Albany, NY",91900 ,-73.7993333 ,42.6753673 
+357,"609 Livingston Ave West Hill, Albany, NY",79000 ,-73.7721796 ,42.6717404 
+358,"250 Yates St Pine Hills, Albany, NY",199340 ,-73.7787133 ,42.6575530 
+359,"27 Van Buren St Upper Washington Avenue, Albany, NY",125900 ,-73.7921836 ,42.6766366 
+360,"238 Ontario St Pine Hills, Albany, NY",176000 ,-73.7800550 ,42.6622134 
+361,"32 Liebel St Second Avenue, Albany, NY",55000 ,-73.7665755 ,42.6380832 
+362,"17 Albany St Albany, NY",42515 ,-73.7411220 ,42.6690370 
+363,"211 Quail St Pine Hills, Albany, NY",180000 ,-73.7779144 ,42.6615304 
+364,"172 Sycamore St Whitehall, Albany, NY",229900 ,-73.7977928 ,42.6488857 
+366,"894 Mercer St Pine Hills, Albany, NY",164000 ,-73.7954300 ,42.6621430 
+367,"28 Grant Ave Albany, NY",109000 ,-73.7834840 ,42.6761350 
+368,"1 Garden Pathway Albany, NY",103900 ,-73.8545233 ,42.7461812 
+369,"361 S Manning Blvd Whitehall, Albany, NY",299999 ,-73.8084615 ,42.6506591 
+370,"5 Sundance Ln Albany, NY",766000 ,-73.7477973 ,42.7096556 
+371,"273 Tampa Ave Buckingham Lake - Crestwood, Albany, NY",174900 ,-73.8176712 ,42.6612201 
+373,"211 Clinton Ave Arbor Hill, Albany, NY",189000 ,-73.7570050 ,42.6584981 
+374,"37-39 Sand St Delaware Avenue, Albany, NY",9000 ,-73.7723770 ,42.6409019 
+375,"118 Spring St Pine Hills, Albany, NY",110973 ,-73.7748282 ,42.6625122 
+376,"32 Van Buren St Upper Washington Avenue, Albany, NY",164900 ,-73.7923283 ,42.6771957 
+377,"779 Waldens Pond Rd Albany, NY",775000 ,-73.8899080 ,42.6818090 
+378,"95 Elizabeth St South End, Albany, NY",7500 ,-73.7629240 ,42.6390740 
+379,"216 Loudon Rd Bishop's Gate, Albany, NY",389800 ,-73.7497730 ,42.6783010 
+381,"43 Trinity Pl Mansion Area, Albany, NY",160000 ,-73.7565943 ,42.6447189 
+383,"541-545 Myrtle Ave Pine Hills, Albany, NY",520000 ,-73.7798610 ,42.6569650 
+385,"186 2nd Ave Second Avenue, Albany, NY",99752 ,-73.7694053 ,42.6390836 
+388,"52 Delaware St South End, Albany, NY",8000 ,-73.7615490 ,42.6411197 
+389,"277 Livingston Ave Arbor Hill, Albany, NY",30606 ,-73.7575787 ,42.6632513 
+391,"7 Seabee Ln Albany, NY",185000 ,-73.8596359 ,42.6669800 
+393,"9 Leonard Pl Albany, NY",140000 ,-73.7703328 ,42.6489283 
+394,"959 Washington Ave Upper Washington Avenue, Albany, NY",229900 ,-73.7917192 ,42.6735063 
+396,"230 Woodlawn Ave Winchester Gables, Albany, NY",207700 ,-73.7923588 ,42.6583573 
+397,"999 New Scotland Rd Normanskill, Albany, NY",244900 ,-73.8280823 ,42.6520566 
+398,"17 Chapel St #302 Sheridan Hollow, Albany, NY",449900 ,-70.7210317 ,41.7609146 
+400,"509 Hamilton St Pine Hills, Albany, NY",165500 ,-73.7817354 ,42.6618712 
+402,"14 Meadow Ln Normanskill, Albany, NY",237500 ,-73.8366354 ,42.6426573 
+403,"21 Watervliet Ave Albany, NY",465000 ,-73.7827888 ,42.6756369 
+404,"4 Graffunder Dr Albany, NY",449800 ,-73.7454954 ,42.6957512 
+405,"38 Trinity Pl Mansion Area, Albany, NY",152000 ,-73.7561797 ,42.6448068 
+406,"3 Edgewood Cir Albany, NY",779000 ,-73.7379245 ,42.6917193 
+407,"45 Benjamin St Krank Park - Cherry Hill, Albany, NY",111011 ,-73.7632775 ,42.6368509 
+408,"833 Lancaster St Pine Hills, Albany, NY",171110 ,-73.7886269 ,42.6685080 
+410,"73 Benson St Beverwyck, Albany, NY",59900 ,-73.7779856 ,42.6663819 
+411,"6 Coral Berry Cir Dunes, Albany, NY",239750 ,-73.8686088 ,42.7049677 
+412,"216 Whitehall Rd Whitehall, Albany, NY",160000 ,-73.7958556 ,42.6451082 
+413,"56 Andriana Ln North Albany - Shaker Park, Albany, NY",349900 ,-73.7458570 ,42.6756641 
+414,"172 Madison Ave Mansion Area, Albany, NY",129900 ,-73.7577901 ,42.6464728 
+415,"6 Manning Blvd Manning Boulevard, Albany, NY",174272 ,-73.7957624 ,42.6684926 
+416,"244 2nd Ave Delaware Avenue, Albany, NY",132821 ,-73.7747506 ,42.6439681 
+417,"131 N Pine Ave Pine Hills, Albany, NY",122014 ,-73.7891450 ,42.6708390 
+418,"582 Park Ave Pine Hills, Albany, NY",790000 ,-73.7820713 ,42.6566861 
+419,"17 Western Ave Central Avenue, Albany, NY",205000 ,-73.7692664 ,42.6595226 
+420,"44 Hurst Ave Buckingham Lake - Crestwood, Albany, NY",294800 ,-73.8137759 ,42.6561166 
+421," Oakland Ave Albany, NY",269000 ,-73.8061690 ,42.6928510 
+422,"8 Dana Ave Park South, Albany, NY",217225 ,-73.7688061 ,42.6518872 
+423,"399 State St Central Avenue, Albany, NY",114900 ,-73.7660061 ,42.6572433 
+424,"152 Dove St Capitol Hill, Albany, NY",139900 ,-73.7673563 ,42.6492580 
+425,"16 Trinity Pl #18 Mansion Area, Albany, NY",950000 ,-73.9035753 ,41.9234098 
+426,"13 W Van Vechten St Delaware Avenue, Albany, NY",138778 ,-73.7764724 ,42.6398325 
+427,"19 Rosemont St Melrose, Albany, NY",214700 ,-73.8043974 ,42.6718658 
+428,"384 2nd St West Hill, Albany, NY",65842 ,-73.7669270 ,42.6659918 
+429,"270 Hudson Ave #104 Center Square, Albany, NY",57759 ,-73.7634989 ,42.6519551 
+430,"4 Lexington Ave West Hill, Albany, NY",1500 ,-73.7628490 ,42.6635769 
+431,"333 Manning Blvd Beverwyck, Albany, NY",145000 ,-73.7863303 ,42.6707574 
+433,"5 Avalon Ct Albany, NY",484221 ,-73.7344183 ,42.7150623 
+434,"98 Columbia St Sheridan Hollow, Albany, NY",325000 ,-73.7528339 ,42.6530180 
+435,"520 Madison Ave Park South, Albany, NY",263937 ,-73.7710142 ,42.6540204 
+436,"818 Lancaster St Pine Hills, Albany, NY",224424 ,-73.7883813 ,42.6678502 
+438,"63 Governor Cir Buckingham Lake - Crestwood, Albany, NY",229000 ,-73.8160765 ,42.6540481 
+439,"128 Jefferson St Capitol Hill, Albany, NY",367500 ,-73.7646840 ,42.6498390 
+441,"544 Washington Ave Pine Hills, Albany, NY",154997 ,-73.7765283 ,42.6640857 
+442,"623 Myrtle Ave Pine Hills, Albany, NY",218282 ,-73.7826438 ,42.6585769 
+443,"267 Elm St Capitol Hill, Albany, NY",159000 ,-73.7675305 ,42.6512204 
+444,"220 Hansen Ave Pine Hills, Albany, NY",329900 ,-73.7913623 ,42.6588703 
+445,"579 Clinton Ave West Hill, Albany, NY",96712 ,-73.7698032 ,42.6659261 
+446,"47 Elm St Mansion Area, Albany, NY",62976 ,-73.7587300 ,42.6465440 
+447,"23 Westmere Ter Albany, NY",159000 ,-73.8589704 ,42.6903884 
+448,"19 Delaware Ter Delaware Avenue, Albany, NY",146736 ,-73.7751785 ,42.6448998 
+449,"15 Pitch Pine Rd Dunes, Albany, NY",197674 ,-73.8667167 ,42.7054234 
+450,"174 Ormond St Buckingham Lake - Crestwood, Albany, NY",174129 ,-73.8125004 ,42.6658382 
+451,"295 Lark St Center Square, Albany, NY",167142 ,-73.7673840 ,42.6530345 
+452,"8 Regent St Second Avenue, Albany, NY",67742 ,-73.7700709 ,42.6387293 
+453,"10 Swartson Ct Whitehall, Albany, NY",118425 ,-73.7976783 ,42.6453497 
+454,"269 Elm St Capitol Hill, Albany, NY",79195 ,-73.7675710 ,42.6512529 
+455,"330 2nd St West Hill, Albany, NY",70256 ,-73.7649253 ,42.6648159 
+456,"12 Mereline Ave Delaware Avenue, Albany, NY",147340 ,-73.7908790 ,42.6382500 
+458,"54 Glenwood Rd Albany, NY",226318 ,-73.6915019 ,42.6885584 
+459,"82 Walter St North Albany - Shaker Park, Albany, NY",226512 ,-73.7380797 ,42.6734976 
+460,"235 Elm St #A Capitol Hill, Albany, NY",375000 ,-71.1783240 ,42.2278864 
+461,"8 Dove St Sheridan Hollow, Albany, NY",183743 ,-73.7584199 ,42.6578960 
+462,"39 James Dr Albany, NY",266681 ,-73.7788098 ,42.7161261 
+463,"40 Clare Ave Second Avenue, Albany, NY",73403 ,-73.7710596 ,42.6377013 
+464,"458 Ontario St New Scotland, Albany, NY",202450 ,-73.7874280 ,42.6546140 
+465,"290 Mountain St Delaware Avenue, Albany, NY",163458 ,-73.7786139 ,42.6351084 
+466,"419 Elk St West Hill, Albany, NY",126828 ,-73.7706376 ,42.6651527 
+467,"7 Loren Ave Albany, NY",201875 ,-73.8815066 ,42.6903507 
+468,"752 S Pearl St Albany, NY",94513 ,-73.7686110 ,42.6266729 
+469,"319 2nd St West Hill, Albany, NY",121804 ,-73.7643277 ,42.6648669 
+470,"17 2nd St Arbor Hill, Albany, NY",244777 ,-73.7521560 ,42.6580080 
+471,"355 State St #2EF Central Avenue, Albany, NY",229000 ,-73.7644184 ,42.6562079 
+472,"64 Grandview Ter Second Avenue, Albany, NY",102753 ,-73.7663228 ,42.6397360 
+473,"443 Delaware Ave Delaware Avenue, Albany, NY",194340 ,-73.7830621 ,42.6408702 
+474,"36 Brookline Ave Buckingham Lake - Crestwood, Albany, NY",227567 ,-73.7995420 ,42.6676129 
+475,"64 Quail St West Hill, Albany, NY",10000 ,-73.7702910 ,42.6669890 
+476,"54 Slingerland St Delaware Avenue, Albany, NY",19900 ,-73.7720830 ,42.6413150 
+477,"517 Washington Ave Beverwyck, Albany, NY",132086 ,-73.7752753 ,42.6639558 
+478,"782 S Pearl St Albany, NY",111324 ,-73.7695100 ,42.6258810 
+479,"157 Myrtle Ave Capitol Hill, Albany, NY",128453 ,-73.7655353 ,42.6486864 
+480,"43 Hurlbut St Delaware Avenue, Albany, NY",167833 ,-73.7776666 ,42.6409222 
+481,"386 1st St West Hill, Albany, NY",135799 ,-73.7668530 ,42.6648319 
+482,"584 3rd St West Hill, Albany, NY",141643 ,-73.7753432 ,42.6720298 
+483,"11 Cornell Ave Albany, NY",289000 ,-73.8876354 ,42.6952488 
+485,"455 Myrtle Ave Park South, Albany, NY",260000 ,-73.7766800 ,42.6551660 
+486,"1045 Washington Ave Upper Washington Avenue, Albany, NY",165519 ,-73.7969582 ,42.6765591 
+487,"37 Colonial Ave Buckingham Lake - Crestwood, Albany, NY",299398 ,-73.8053941 ,42.6675613 
+488,"7 Cheshire Ct Whitehall, Albany, NY",239591 ,-73.8064550 ,42.6460740 
+489,"218 Morris St Park South, Albany, NY",230000 ,-73.7757520 ,42.6549700 
+490,"605 Delaware Ave Albany, NY",325000 ,-73.7919455 ,42.6372377 
+491,"15 Bradford St Central Avenue, Albany, NY",202203 ,-73.7683052 ,42.6603122 
+492,"50 Westerlo St Pastures, Albany, NY",137001 ,-73.7540455 ,42.6437397 
+493,"152 Holmes Dl Buckingham Lake - Crestwood, Albany, NY",314482 ,-73.8097207 ,42.6626736 
+494,"52 Glendale Ave Helderberg, Albany, NY",265930 ,-73.7881330 ,42.6505290 
+496,"92 Broad St South End, Albany, NY",222171 ,-73.7585866 ,42.6395886 
+497,"73 Clinton St South End, Albany, NY",221657 ,-73.7595292 ,42.6399825 
+498,"98 Ormond St Buckingham Lake - Crestwood, Albany, NY",308363 ,-73.8110758 ,42.6671762 
+499,"291 Lark St Center Square, Albany, NY",426519 ,-73.7673669 ,42.6531730 
+500,"17 Alexander St South End, Albany, NY",145162 ,-73.7588164 ,42.6401416 
+501,"152 Mount Hope Dr Mount Hope, Albany, NY",134331 ,-73.7687266 ,42.6310180 
+502,"101 S Main Ave Pine Hills, Albany, NY",222151 ,-73.7930646 ,42.6610284 
+503,"126 Jefferson St Capitol Hill, Albany, NY",367500 ,-73.7645360 ,42.6497559 
+504,"162 Dove St Capitol Hill, Albany, NY",184380 ,-73.7675406 ,42.6490000 
+505,"4 Lower Sage Hill Ln Albany, NY",548000 ,-73.7466340 ,42.6917850 
+506,"11 Beverly Dr Albany, NY",261006 ,-73.8439308 ,42.6663686 
+507,"24 Van Wie Ter Albany, NY",306600 ,-73.8774376 ,42.6913485 
+510,"11 Delaware Ter Delaware Avenue, Albany, NY",248447 ,-73.7749910 ,42.6446497 
+529,"41 Judson St West Hill, Albany, NY",20000 ,-73.7644964 ,42.6652765 
+561,"72 Belvidere Ave Melrose, Albany, NY",149900 ,-73.8043710 ,42.6731050 
+562,"37 Burton Ln Albany, NY",249000 ,-73.7468017 ,42.7069658 
+563,"36 Burton Ln Albany, NY",239000 ,-73.7459373 ,42.7076011 
+564,"831 Lancaster St Pine Hills, Albany, NY",171110 ,-73.7886080 ,42.6685040 
+566,"160 Dove St Capitol Hill, Albany, NY",18000 ,-73.7674790 ,42.6490300 
+567,"50 Clinton Ave Sheridan Hollow, Albany, NY",25000 ,-73.7520720 ,42.6550719 
+568,"116 Spring St Pine Hills, Albany, NY",110973 ,-73.7747930 ,42.6624560 
+569,"11 Villa Rd Albany, NY",236647 ,-73.8247170 ,42.6724290 
+570,"42 Clare Ave Second Avenue, Albany, NY",73403 ,-73.7712095 ,42.6376102 
+571,"133 N Pine Ave Pine Hills, Albany, NY",122014 ,-73.7890330 ,42.6709210 
+572," Wemple Rd Downtown, Albany, NY",299999 ,-73.8119052 ,42.5991999 
+573,"64 N Lake Ave Central Avenue, Albany, NY",939347 ,-73.7723010 ,42.6626090 
+574," Wemple Rd Downtown, Albany, NY",299999 ,-73.8119052 ,42.5991999 
+575,"82 Swan St Sheridan Hollow, Albany, NY",2077157 ,-73.7545316 ,42.6581658 
+576,"527 S Pearl St Krank Park - Cherry Hill, Albany, NY",144900 ,-73.7629544 ,42.6351804 
+577,"20 Ausable Frks Colonie, NY",314900 ,-73.8558539 ,42.7482120 
+578,"21 Mulberry Dr Colonie, NY",424000 ,-73.8051053 ,42.7134374 
+579,"1 Drake Ct Colonie, NY",156418 ,-73.7969008 ,42.7017258 
+580,"496 Loudon Rd Loudonville, NY",325000 ,-73.7559790 ,42.7148810 
+581,"11 Grace St Colonie, NY",122300 ,-73.8314929 ,42.7206932 
+582,"36 Rooney Ave Colonie, NY",122395 ,-73.8040691 ,42.6971480 
+583,"5 Prospect Ave Colonie, NY",165900 ,-73.7883877 ,42.6890749 
+585,"51 Brent St Colonie, NY",185000 ,-73.8549453 ,42.7418227 
+586,"195 Exchange St Colonie, NY",169900 ,-73.7932093 ,42.6927583 
+587,"5 Lake Rd Colonie, NY",179900 ,-73.8202920 ,42.7040190 
+588,"45 Locust Park Colonie, NY",169500 ,-73.8317437 ,42.7223050 
+589,"7 Brighton Ct Loudonville, NY",445000 ,-73.7312097 ,42.7228660 
+590,"302 Osborne Rd Loudonville, NY",242900 ,-73.7663040 ,42.7062462 
+591,"1 Stirrup Dr Colonie, NY",234900 ,-73.8290114 ,42.7251349 
+592,"56 Cheshire Way #HOMES! Loudonville, NY",374999 ,-73.7331650 ,42.7173210 
+593,"8 Susan Ln Colonie, NY",213900 ,-73.7836773 ,42.6940612 
+594,"41 Osborne Rd Colonie, NY",164800 ,-73.7986359 ,42.6928711 
+595,"18 Pinehurst Ave Colonie, NY",139900 ,-73.8003120 ,42.6825260 
+596,"5 Robert Dr Colonie, NY",174900 ,-73.8373264 ,42.7102862 
+597,"628 N Pearl St North Albany - Shaker Park, Menands, NY",135000 ,-73.7388233 ,42.6747367 
+598,"1105 Watervliet Shaker Rd Colonie, NY",204900 ,-73.8486379 ,42.7473030 
+599,"26 Carol Ann Dr Colonie, NY",269900 ,-73.7830274 ,42.6921926 
+600,"3 Martin Ter Colonie, NY",194900 ,-73.8139263 ,42.6993466 
+601,"22 Tanglewood Rd Colonie, NY",219898 ,-73.8302477 ,42.7095745 
+602,"20 Dowling Rd Colonie, NY",224500 ,-73.7790790 ,42.6947450 
+603,"9 Willowdale Ter Colonie, NY",359800 ,-73.7897239 ,42.6977337 
+604,"8 Klaasen Way Loudonville, NY",925000 ,-73.7355311 ,42.7150864 
+605,"15 Tremont Dr Colonie, NY",370000 ,-73.8510890 ,42.7534563 
+606,"114 Railroad Ave Colonie, NY",739000 ,-73.8301539 ,42.7007771 
+607,"536 Sand Creek Rd Colonie, NY",199900 ,-73.8206434 ,42.7221650 
+608,"65 Brent St Colonie, NY",219900 ,-73.8536983 ,42.7408805 
+609,"5 Schuyler Meadows Club Rd Loudonville, NY",1795000 ,-73.7432061 ,42.7165935 
+610,"88 Frederick Ave Colonie, NY",184900 ,-73.8010485 ,42.7009965 
+611,"6 Hartwood St Colonie, NY",229900 ,-73.8339916 ,42.7239971 
+613,"31 Willoughby Dr Colonie, NY",284900 ,-73.8496346 ,42.7509771 
+614,"79 Morris St Park South, Colonie, NY",34777 ,-73.7710942 ,42.6525606 
+615,"60 Delafield Dr Colonie, NY",339900 ,-73.8256130 ,42.7221250 
+616,"1 Carnevale Dr Colonie, NY",255000 ,-73.8707358 ,42.7459923 
+617,"33 Oliver St Colonie, NY",198538 ,-73.8613107 ,42.7456899 
+618,"22 Donna Dr Colonie, NY",174900 ,-73.8054749 ,42.7085321 
+619,"51 Forest Dr Colonie, NY",247500 ,-73.8244869 ,42.7199480 
+620,"11 Old Myers Dr Colonie, NY",204900 ,-73.7817979 ,42.6910402 
+621,"16 Woolard Ave Colonie, NY",144900 ,-73.8303445 ,42.7130614 
+622,"9 Justin St Loudonville, NY",414800 ,-73.7087630 ,42.6620930 
+623,"11 Justin St Loudonville, NY",389800 ,-73.7090000 ,42.6618780 
+624,"5 Arden Ct Colonie, NY",279900 ,-73.8027093 ,42.7043037 
+626,"4 Briarwood Rd Loudonville, NY",159635 ,-73.7775348 ,42.7241306 
+627,"284 Osborne Rd Loudonville, NY",265000 ,-73.7690286 ,42.7064574 
+628,"4 Katherine Rd #B Colonie, NY",225000 ,-73.8197918 ,42.7020257 
+629,"1298 Central Ave Colonie, NY",184900 ,-73.8132488 ,42.6998712 
+630,"275 Sand Creek Rd Colonie, NY",239900 ,-73.7965988 ,42.7021642 
+631,"16 Rapple Dr Colonie, NY",171653 ,-73.8460611 ,42.7262570 
+632,"33 Fuller Ter Colonie, NY",179301 ,-73.8355650 ,42.7249606 
+633,"458 Sand Creek Rd Colonie, NY",950000 ,-73.8108250 ,42.7149240 
+634,"26 Cramond St Colonie, NY",261472 ,-73.8005763 ,42.6930841 
+635,"21 Schuyler Rd Loudonville, NY",224900 ,-73.7417240 ,42.7035040 
+636,"56 Everett Rd Colonie, NY",89000 ,-73.7776922 ,42.6912027 
+637,"6 Kimberly St Colonie, NY",149000 ,-73.8336060 ,42.7230930 
+638,"11 Exchange St Colonie, NY",175000 ,-73.7798460 ,42.6837730 
+639,"135 Albany International Airport Siena, NY",219900 ,-73.8054981 ,42.7487124 
+640,"6 Van Buren Ave Colonie, NY",154900 ,-73.8143916 ,42.6998468 
+641,"9 Arden Ct Colonie, NY",239900 ,-73.8033850 ,42.7043330 
+642,"20 Hanifin Ave Colonie, NY",182500 ,-73.8413862 ,42.7328960 
+643,"1 Pfeil Ave Colonie, NY",161800 ,-73.7936067 ,42.7001221 
+644,"2 Loudon Hts N Loudonville, NY",729900 ,-73.7537412 ,42.6872413 
+645,"17 Callaway Cir Loudonville, NY",450000 ,-73.7312150 ,42.7246590 
+646,"2 Pettibone Dr Colonie, NY",232500 ,-73.7822987 ,42.7023534 
+647,"314 Loudon Rd Loudonville, NY",690000 ,-73.7525644 ,42.6865145 
+648,"33 Donna Dr Colonie, NY",319900 ,-73.8072723 ,42.7080086 
+649,"16 Crestone Rd Colonie, NY",189000 ,-73.7915773 ,42.6936014 
+650,"686 N Pearl St North Albany - Shaker Park, Menands, NY",129500 ,-73.7376640 ,42.6768120 
+651,"4 Beekman Ct Loudonville, NY",1159000 ,-73.7331463 ,42.7205364 
+652,"4 E Hills Blvd Loudonville, NY",779000 ,-73.7331500 ,42.7249470 
+653,"5 Broderick St Colonie, NY",110000 ,-73.8389452 ,42.7209382 
+654,"3 Medinah Ct Colonie, NY",439900 ,-73.8550209 ,42.7581101 
+655,"19 Deer Path Dr Colonie, NY",259900 ,-73.8444228 ,42.7456074 
+656,"1116 Broadway Menands, NY",12000 ,-73.7401150 ,42.6693340 
+657,"10 Fenway Dr Loudonville, NY",585000 ,-73.7476726 ,42.7038576 
+658,"118 Maxwell St Buckingham Lake - Crestwood, Colonie, NY",799900 ,-73.8090949 ,42.6585806 
+659,"91 Gorman Rd Menands, NY",395000 ,-73.7319023 ,42.6973403 
+660,"123 Exchange St Colonie, NY",56963 ,-73.7880581 ,42.6883556 
+661,"269 Sand Creek Rd Colonie, NY",68921 ,-73.7957305 ,42.7017596 
+662,"2 Gabriel Way Colonie, NY",91856 ,-73.8231964 ,42.7138266 
+663,"43 Gadsen Ct Colonie, NY",223900 ,-73.7850934 ,42.7050577 
+664,"31 Campagna Dr Colonie, NY",274900 ,-73.7947550 ,42.7057950 
+665,"1202 Broadway North Albany - Shaker Park, Menands, NY",129712 ,-73.7382260 ,42.6724800 
+666,"6 Shalimar Ct Loudonville, NY",1150000 ,-73.7751950 ,42.7255400 
+667,"40 Rapple Dr Colonie, NY",215000 ,-73.8481105 ,42.7249942 
+668,"34 Frederick Ave Colonie, NY",178695 ,-73.8056697 ,42.6981602 
+669,"124 Maxwell St Buckingham Lake - Crestwood, Colonie, NY",899990 ,-73.8090949 ,42.6585806 
+670,"18 Birch Ave Colonie, NY",117669 ,-73.8400404 ,42.7265267 
+671,"7 Landor Ln Colonie, NY",110000 ,-73.7429890 ,42.7780879 
+672,"34 Thoroughbred Ln Colonie, NY",209900 ,-73.8367898 ,42.7317536 
+673,"67 Hearthstone Dr Colonie, NY",219450 ,-73.8047356 ,42.7128169 
+674,"124 Everett Rd Colonie, NY",260000 ,-73.7707724 ,42.6958643 
+675,"9 Fairway Ct Normanskill, Colonie, NY",234900 ,-73.8343120 ,42.6468425 
+676,"2 Crosby St Colonie, NY",148205 ,-73.8471340 ,42.7392355 
+677,"25 Bauer Dr Colonie, NY",199767 ,-73.8324719 ,42.7099631 
+678,"16 Stewart St Colonie, NY",128477 ,-73.8468106 ,42.7367495 
+679,"107 Exchange St Colonie, NY",193623 ,-73.7868477 ,42.6878322 
+680,"25 Bacon Ln Loudonville, NY",217794 ,-73.7512457 ,42.7060881 
+681,"28 Miracle Ln Loudonville, NY",229852 ,-73.7852272 ,42.7092865 
+682,"11 Hartwood St Colonie, NY",206846 ,-73.8332131 ,42.7239722 
+683,"31 Gail Ave Colonie, NY",230241 ,-73.8439225 ,42.7206583 
+684,"19 Maryland Ave Colonie, NY",274748 ,-73.8617621 ,42.7400027 
+685,"15 Van Rensselaer Rd Colonie, NY",308565 ,-73.7767737 ,42.6872500 
+686,"31 Osborne Rd Colonie, NY",264222 ,-73.7991161 ,42.6924718 
+687,"8 Justin St Colonie, NY",402720 ,-73.7086070 ,42.6621000 
+688,"13 Justin St Colonie, NY",407220 ,-73.7086031 ,42.6617082 
+689,"37 Corthell St Colonie, NY",244099 ,-73.8026968 ,42.6937907 
+703,"328 Consaul Rd Colonie, NY",550000 ,-73.8597630 ,42.7579140 

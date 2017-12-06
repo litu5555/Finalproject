@@ -1,0 +1,466 @@
+ID,name,price,lon,lat
+1,"13 Tremont Ave Binghamton, NY",65000 ,-75.9095196 ,42.0914224 
+2,"21 N Depot St #3W Binghamton, NY",179000 ,-75.9091310 ,42.1043570 
+3,"46 Country Knoll Dr Binghamton, NY",324900 ,-75.8427540 ,42.1812770 
+4,"857 Chenango St Binghamton, NY",19900 ,-75.8926005 ,42.1430417 
+5,"109 Oak St Binghamton, NY",185000 ,-75.9202508 ,42.0987830 
+6,"21 Beethoven St Binghamton, NY",159900 ,-75.9348483 ,42.0944590 
+7,"31 Elm St Binghamton, NY",54900 ,-75.9194965 ,42.1082946 
+8,"7 Stratford Pl Binghamton, NY",254900 ,-75.9329420 ,42.0896408 
+9,"30 Park St Binghamton, NY",99900 ,-75.9449542 ,42.1052172 
+10,"34 Grace St Binghamton, NY",39681 ,-75.9288052 ,42.1084886 
+11,"136 Laurel Ave Binghamton, NY",110000 ,-75.9313007 ,42.1021037 
+12,"27 James St Binghamton, NY",68000 ,-75.9095850 ,42.0859295 
+13,"7 Duane Ave Binghamton, NY",99900 ,-75.9091007 ,42.0872337 
+14,"71 Daniel Dr Binghamton, NY",250000 ,-75.8652520 ,42.2074760 
+15,"45 Broome St Binghamton, NY",65000 ,-75.8936591 ,42.0980247 
+16,"8 Woodruff Ave Binghamton, NY",88900 ,-75.8967796 ,42.1231856 
+17,"3144 Hickory Ln Binghamton, NY",314900 ,-75.9328787 ,42.0768375 
+18,"54 Broad Ave Binghamton, NY",69900 ,-75.8886305 ,42.1091132 
+19,"560 Powers Rd Binghamton, NY",29900 ,-75.8507763 ,42.0654425 
+20,"3 Smith Ave Binghamton, NY",19900 ,-75.8924943 ,42.1198458 
+21,"48 Rush Ave Binghamton, NY",30000 ,-75.9184742 ,42.0862579 
+22,"61 Elm St Binghamton, NY",16900 ,-75.9247355 ,42.1079602 
+23,"10 Medford St Binghamton, NY",35000 ,-75.8812458 ,42.0978955 
+24,"52 Griswold St Binghamton, NY",39000 ,-75.8924494 ,42.1091017 
+25,"17 Way St Binghamton, NY",35000 ,-75.9076694 ,42.1049642 
+26,"30-32 2nd St Binghamton, NY",32500 ,-75.8945920 ,42.0939849 
+27,"32 Winding Way Binghamton, NY",30000 ,-75.9160302 ,42.1068699 
+29,"44 Schubert St Binghamton, NY",80000 ,-75.9352481 ,42.1023702 
+30,"19 Tudor St Binghamton, NY",42500 ,-75.9050824 ,42.0961306 
+31,"14 High St Binghamton, NY",19900 ,-75.9055507 ,42.0918713 
+32,"5 Orton Ave Binghamton, NY",53000 ,-75.9381416 ,42.1015719 
+33,"27 Rutherford St Binghamton, NY",51000 ,-75.9026184 ,42.1006336 
+34,"377 Conklin Ave Binghamton, NY",50318 ,-75.8822110 ,42.0993660 
+36,"4 Eight & 10 Airport Rd Binghamton, NY",40000 ,-76.6123556 ,38.5912855 
+37,"63 Ely St Binghamton, NY",39900 ,-75.8904389 ,42.1092333 
+38,"8 Downs Ave Binghamton, NY",39900 ,-75.9409842 ,42.1148927 
+39,"3900 Deer Run Ln Binghamton, NY",759900 ,-75.8895700 ,42.0360889 
+40,"40 Roosevelt Ave Binghamton, NY",84900 ,-75.8962878 ,42.1255229 
+41,"26 Crandall St Binghamton, NY",85000 ,-75.9263736 ,42.1035678 
+42,"5 Riverside Dr #205 Binghamton, NY",35900 ,-73.9851571 ,40.7807874 
+43,"34 Schubert St Binghamton, NY",79900 ,-75.9337486 ,42.1015755 
+44,"177 Bevier St Binghamton, NY",44388 ,-75.8838175 ,42.1171152 
+45,"25 Stuyvesant St Binghamton, NY",85000 ,-75.9034043 ,42.0995373 
+46,"16 Jerome Ave Binghamton, NY",94000 ,-75.9384555 ,42.1031634 
+47,"8 Gold St Binghamton, NY",45000 ,-75.8912439 ,42.1062596 
+48,"4514 Murphy Rd Binghamton, NY",139900 ,-75.8505650 ,42.0491180 
+49,"31 Colfax Ave Binghamton, NY",57500 ,-75.9322150 ,42.1097314 
+50,"19 May St Binghamton, NY",74900 ,-75.9306333 ,42.1113191 
+51,"136 Elaine Dr Binghamton, NY",129900 ,-75.9130328 ,42.1282813 
+52,"118 Walnut St Binghamton, NY",65000 ,-75.9221350 ,42.1030861 
+54,"1702 State Route 12 Binghamton, NY",99900 ,-75.8811979 ,42.1905282 
+55,"49 Tremont Ave Binghamton, NY",100000 ,-75.9091188 ,42.0885483 
+56,"366 Park Ave Binghamton, NY",669000 ,-75.9160290 ,42.0643170 
+57,"46 Winding Way Binghamton, NY",44272 ,-75.9165711 ,42.1073294 
+58,"22 Sherwood Ave Binghamton, NY",55474 ,-75.9130812 ,42.0805131 
+59,"1682 Hawleyton Rd Binghamton, NY",395000 ,-75.9333090 ,42.0559840 
+61,"61 Decatur St Binghamton, NY",73000 ,-75.8833198 ,42.0932271 
+62,"19 Front St #J Binghamton, NY",109900 ,-75.9196022 ,42.0935653 
+63,"23 N Morningside Dr Binghamton, NY",69900 ,-75.9073686 ,42.1412720 
+64,"1216 Vestal Ave Binghamton, NY",75000 ,-75.9121658 ,42.0894692 
+65,"10 Berlin St Binghamton, NY",78000 ,-75.9306624 ,42.1089366 
+66,"20 Euclid Ave Binghamton, NY",74011 ,-75.9074204 ,42.0890054 
+67,"35 Theresa Blvd Binghamton, NY",120000 ,-75.8837500 ,42.1708130 
+68,"29 Winding Way Binghamton, NY",59000 ,-75.9164464 ,42.1068126 
+69,"5 Deborah Dr Binghamton, NY",88384 ,-75.8413800 ,42.1962100 
+70,"7 Cliff Ave Binghamton, NY",49800 ,-75.9362492 ,42.1137241 
+71,"124 Schubert St Binghamton, NY",132500 ,-75.9420699 ,42.1061415 
+72,"25 Andrews Ave Binghamton, NY",56900 ,-75.8857600 ,42.1099761 
+73,"98 Park St Binghamton, NY",82900 ,-75.9447981 ,42.1099877 
+74,"1024 Center St Binghamton, NY",73000 ,-75.8869721 ,42.1448487 
+75,"30 Savitch Rd Binghamton, NY",99000 ,-75.8931378 ,42.1653233 
+76,"2067 Colchester Dr Binghamton, NY",219900 ,-75.9306379 ,42.0744666 
+77,"2 Fellows Ave Binghamton, NY",85000 ,-75.8789300 ,42.1120790 
+78,"92 Port Rd Binghamton, NY",114900 ,-75.8761610 ,42.1960539 
+79,"9 & 9 1/2 Lincoln Binghamton, NY",134900 ,-73.9393930 ,41.7979067 
+80,"465 Morgan Rd Binghamton, NY",54000 ,-75.9031390 ,42.0516099 
+81,"7 Grant St Binghamton, NY",105000 ,-75.8967009 ,42.1384820 
+82,"19 The Arena St Binghamton, NY",89900 ,-75.8887605 ,42.0948630 
+83,"1370 Hawleyton Rd Binghamton, NY",178500 ,-75.9263320 ,42.0405159 
+84,"71 Mill St Binghamton, NY",112500 ,-75.9058310 ,42.0871080 
+85,"9 Peer St Binghamton, NY",139900 ,-75.8720784 ,42.1781485 
+86,"10 Edwards St Binghamton, NY",115000 ,-75.9255475 ,42.1017231 
+87,"639 Chenango St Binghamton, NY",97000 ,-75.8980380 ,42.1263050 
+88,"105 Schubert St Binghamton, NY",108905 ,-75.9403382 ,42.1047904 
+89,"41 Rogers Mountain Way Binghamton, NY",179500 ,-75.8831740 ,42.1397690 
+90,"871 Park Ave Binghamton, NY",125000 ,-75.9111320 ,42.0310310 
+91,"93 Theresa Blvd Binghamton, NY",120000 ,-75.8835972 ,42.1710657 
+92,"260 Main St Binghamton, NY",109000 ,-75.9379798 ,42.1077486 
+93,"12 Field St Binghamton, NY",74900 ,-75.9295786 ,42.1100998 
+94,"1123 County Airport Rd Binghamton, NY",139900 ,-75.9427065 ,42.1464075 
+95,"21 Baltimore Ave Binghamton, NY",109900 ,-75.8820456 ,42.1011715 
+96,"10 Lillian Dr Binghamton, NY",124500 ,-75.8771410 ,42.0866810 
+97,"126 Crary Ave Binghamton, NY",141500 ,-75.9437593 ,42.1046228 
+98,"378 Bevier St Binghamton, NY",99900 ,-75.8696150 ,42.1227460 
+99,"206 Pennsylvania Ave Binghamton, NY",159000 ,-75.9179540 ,42.0757580 
+100,"190 Hawley St Binghamton, NY",60000 ,-75.9019751 ,42.0992908 
+101,"101 Trafford Rd Binghamton, NY",75000 ,-75.8886314 ,42.1693040 
+102,"28 Seymour St Binghamton, NY",70000 ,-75.9305578 ,42.1130367 
+103,"1849 Airport Rd Binghamton, NY",250000 ,-75.9637860 ,42.1742610 
+104,"27 Charlotte St Binghamton, NY",157667 ,-75.9321415 ,42.1053884 
+105,"3780 Mill St Binghamton, NY",425000 ,-75.8962910 ,42.0829250 
+106,"27 Winding Way Binghamton, NY",69000 ,-75.9164668 ,42.1067317 
+107,"300 Robinson St Binghamton, NY",59900 ,-75.8766168 ,42.1083274 
+108,"32 Decatur St Binghamton, NY",80000 ,-75.8829801 ,42.0953432 
+109,"10 Vermont Ave Binghamton, NY",155000 ,-75.9287965 ,42.0893839 
+110,"1 Harding Ln Binghamton, NY",129547 ,-75.8591520 ,42.1659350 
+111,"202 Conklin Ave Binghamton, NY",110500 ,-75.8962537 ,42.0944391 
+112,"46 Forest Hills Blvd Binghamton, NY",124900 ,-75.9099067 ,42.1401171 
+113,"5 Bellevue Hts Binghamton, NY",79900 ,-75.9385371 ,42.1045406 
+114,"196 Leroy St Binghamton, NY",185000 ,-75.9401501 ,42.0963319 
+115,"6 Beman St Binghamton, NY",69900 ,-75.9009790 ,42.1112820 
+116,"52 Gaylord St Binghamton, NY",67000 ,-75.8820004 ,42.1085394 
+117,"107 Felters Rd Binghamton, NY",119900 ,-75.8716745 ,42.0936222 
+118,"17 Pearl Ave Binghamton, NY",95000 ,-75.9080883 ,42.0867799 
+119,"57 Saratoga Ave Binghamton, NY",31521 ,-75.8802011 ,42.0991433 
+120,"47 Highland Ave Binghamton, NY",110000 ,-75.9397672 ,42.0999907 
+121,"55 Highland Ave Binghamton, NY",119900 ,-75.9407081 ,42.0999552 
+122,"100 Woodside Ave Binghamton, NY",4000 ,-75.8611420 ,42.0957030 
+123,"122 Conklin Ave Binghamton, NY",65000 ,-75.9032762 ,42.0930515 
+124,"55 Broad Ave Binghamton, NY",63750 ,-75.8892197 ,42.1090661 
+125,"16 Zane Rd Binghamton, NY",109900 ,-75.9178509 ,42.0886928 
+126,"9 Minden Ave Binghamton, NY",124900 ,-75.9411708 ,42.1041550 
+127,"8 Lincoln St Binghamton, NY",119900 ,-75.8959810 ,42.1396270 
+128,"34 Mozart St Binghamton, NY",135000 ,-75.9366907 ,42.1010970 
+129,"23 Gregory Ln Binghamton, NY",47500 ,-75.9237860 ,42.1065660 
+130,"4163 Brady Hill Rd Binghamton, NY",165000 ,-75.8714200 ,42.0127700 
+131,"89 Crestmont Rd Binghamton, NY",130000 ,-75.9421456 ,42.1033996 
+132,"145 S Washington St Binghamton, NY",82000 ,-75.9121919 ,42.0819173 
+133,"774 River Rd Binghamton, NY",175000 ,-75.8610140 ,42.1663360 
+134,"1 Arthur St Binghamton, NY",106250 ,-75.9255333 ,42.0979187 
+135,"302 Park Ave Binghamton, NY",139900 ,-75.9115510 ,42.0676772 
+136,"543 Park Ave Binghamton, NY",89900 ,-75.9157611 ,42.0529881 
+137,"13 Rutherford St #5 Binghamton, NY",60000 ,-75.9018306 ,42.0991478 
+138,"1867 Pierce Creek Rd Binghamton, NY",174000 ,-75.8778740 ,42.0671050 
+139,"125 Wisconsin Dr Binghamton, NY",269900 ,-75.8527080 ,42.1630730 
+140,"999 Vestal Ave Binghamton, NY",425000 ,-75.9316667 ,42.0862383 
+141,"2145 E Hamton Rd Binghamton, NY",309900 ,-75.9319068 ,42.0782645 
+142,"400 Port Rd Binghamton, NY",255000 ,-75.8688790 ,42.2153909 
+143,"34 Lanesboro St Binghamton, NY",169900 ,-75.9068935 ,42.0793238 
+144,"35 Lathrop Ave Binghamton, NY",184900 ,-75.9305251 ,42.0945139 
+145,"58 Rush Ave Binghamton, NY",60900 ,-75.9183461 ,42.0852883 
+146,"181 Crary Ave Binghamton, NY",214722 ,-75.9443628 ,42.1083014 
+147,"8 Vine St #5 Binghamton, NY",55250 ,-71.0184931 ,42.4638926 
+149,"70 Lincoln Ave Binghamton, NY",146900 ,-75.9340469 ,42.0963629 
+150,"19 Seymour St Binghamton, NY",110500 ,-75.9310624 ,42.1127567 
+151,"71 Grand Blvd Binghamton, NY",159900 ,-75.9421776 ,42.1075508 
+152,"5 Gaines St Binghamton, NY",55900 ,-75.9157500 ,42.1077350 
+153,"2431 Route 12 #12 Binghamton, NY",399000 ,-75.8499577 ,42.2273994 
+154,"751 Dimmock Hill Rd Binghamton, NY",299000 ,-75.9495200 ,42.1997760 
+155,"63 Matthews St Binghamton, NY",159900 ,-75.9428786 ,42.1007968 
+156,"146 Ahern Rd Binghamton, NY",132900 ,-75.8550640 ,42.0849320 
+157,"29 Charmel Dr Binghamton, NY",229900 ,-75.8616770 ,42.1715950 
+158,"1 Cedar St Binghamton, NY",165000 ,-75.9286175 ,42.0993150 
+159,"130 Flagg Rd Binghamton, NY",12000 ,-75.7735660 ,42.1387710 
+160,"1008 Vestal Ave Binghamton, NY",169900 ,-75.9287013 ,42.0850843 
+161,"24 Edwards St Binghamton, NY",198900 ,-75.9251478 ,42.1029275 
+162,"22 Edwards St Binghamton, NY",198900 ,-75.9252015 ,42.1028167 
+163,"265 Main St Binghamton, NY",179900 ,-75.9389615 ,42.1076096 
+164,"5 Holland St Binghamton, NY",54900 ,-75.9331706 ,42.1091878 
+165,"304 Lower Stella Ireland Rd Binghamton, NY",78000 ,-75.9442330 ,42.1358120 
+166,"31 Andrews Ave Binghamton, NY",69900 ,-75.8857985 ,42.1103885 
+167,"39 Travis Ave Binghamton, NY",57000 ,-75.8933252 ,42.1216792 
+169,"25 Forest Hills Blvd Binghamton, NY",129000 ,-75.9074502 ,42.1401852 
+170,"3239 Dogwood Dr Binghamton, NY",279900 ,-75.9313466 ,42.0750415 
+171,"6 Westland Ct Binghamton, NY",189900 ,-75.9382113 ,42.0961123 
+172,"20 Bennett Ave Binghamton, NY",168000 ,-75.9288109 ,42.0941443 
+173,"80 Carmichael Rd Binghamton, NY",32900 ,-75.8873222 ,42.1666645 
+174,"345 Conklin Ave Binghamton, NY",89900 ,-75.8851481 ,42.0983221 
+175,"1/4 Chadwick Rd Binghamton, NY",144900 ,-75.9245754 ,42.0847014 
+176,"2063 Partridge Ln Binghamton, NY",238500 ,-75.9316401 ,42.0744435 
+177,"708 W Chenango Rd Binghamton, NY",210000 ,-75.9590710 ,42.2016860 
+178,"44 Milford St Binghamton, NY",5990 ,-75.8773650 ,42.1077170 
+179,"82 Pine St Binghamton, NY",69900 ,-75.9010309 ,42.1021990 
+180,"1705 Old State Rd Binghamton, NY",69900 ,-75.7496840 ,42.1461600 
+181,"13 Mill St Binghamton, NY",114750 ,-75.9063817 ,42.0917494 
+182,"9 Clark Ave Binghamton, NY",118000 ,-75.8715561 ,42.1713274 
+184,"14 Larchmont Rd Binghamton, NY",188500 ,-75.9438288 ,42.0880723 
+185,"63 Adams St Binghamton, NY",106000 ,-75.9443558 ,42.1189204 
+186,"18 Abbott St Binghamton, NY",65000 ,-75.8902788 ,42.1130996 
+187,"11 Mill St Binghamton, NY",148750 ,-75.9063757 ,42.0919508 
+188,"6 Peer St Binghamton, NY",105000 ,-75.8724537 ,42.1777783 
+189,"184 W End Ave Binghamton, NY",110000 ,-75.9462900 ,42.1085513 
+190,"16 Abbott St Binghamton, NY",59000 ,-75.8904438 ,42.1129542 
+191,"20 Lourdes Rd Binghamton, NY",107183 ,-75.9337912 ,42.0907248 
+192,"28 N Louisa St Binghamton, NY",214000 ,-75.8891920 ,42.1296000 
+193,"1645 State Route 12 #12 Binghamton, NY",160000 ,-75.8823380 ,42.1894891 
+194,"13 Midway Dr Binghamton, NY",113378 ,-75.8500954 ,42.1007454 
+195,"352 Conklin Ave Binghamton, NY",120170 ,-75.8836083 ,42.0983782 
+196,"1 Jutland Rd Binghamton, NY",114000 ,-75.9374962 ,42.0871423 
+197,"25 Charlotte St Binghamton, NY",222467 ,-75.9319606 ,42.1053117 
+198,"2471 Maria Blvd Binghamton, NY",142500 ,-75.8678350 ,42.0939170 
+199,"640 Stratmill Rd Binghamton, NY",127988 ,-75.8273757 ,42.1456043 
+200,"36 Stacy Dr Binghamton, NY",349000 ,-75.9257329 ,42.1670460 
+201,"4380 Brady Hill Rd Binghamton, NY",192000 ,-75.8565810 ,42.0175100 
+202,"104 Springer Rd Binghamton, NY",139500 ,-75.7840790 ,42.1322920 
+203,"202 Conklin Ave Binghamton, NY",198500 ,-75.8962537 ,42.0944391 
+204,"25 Stuyvesant St Binghamton, NY",215000 ,-75.9034043 ,42.0995373 
+205,"41 Gaylord St Binghamton, NY",96847 ,-75.8823145 ,42.1074104 
+206,"13 Mill St Binghamton, NY",221000 ,-75.9063817 ,42.0917494 
+209,"117 Flagg Rd Binghamton, NY",74900 ,-75.7764980 ,42.1378230 
+211,"545 Perry Rd Binghamton, NY",14500 ,-75.9584190 ,42.2456860 
+212,"505 Perry Rd Binghamton, NY",29900 ,-75.9582370 ,42.2420180 
+213,"565 Leekville Rd Binghamton, NY",69000 ,-75.9609119 ,42.2561740 
+215,"47 & 49 Grand St Binghamton, NY",10000 ,-88.4206157 ,41.3044156 
+216,"310 Lower Stella Ireland Rd Binghamton, NY",35000 ,-75.9442310 ,42.1363440 
+217,"7 Fairview Ave Binghamton, NY",15000 ,-75.8768660 ,42.1051209 
+218,"36 Krager Rd Binghamton, NY",50000 ,-75.8654420 ,42.1178540 
+219,"512 Glenwood Rd Binghamton, NY",53000 ,-75.9261159 ,42.1346560 
+220,"494 Glenwood Rd Binghamton, NY",93000 ,-75.9255820 ,42.1338470 
+221,"102 Crestmont Rd Binghamton, NY",68000 ,-75.9417959 ,42.1042538 
+222,"2 Hill St Binghamton, NY",65000 ,-75.8891695 ,42.1159379 
+223,"11 Meadow St Binghamton, NY",34900 ,-75.9201690 ,42.1067311 
+224,"10 Janette Ave Binghamton, NY",42500 ,-75.9362317 ,42.1108758 
+227,"138 Smith Rd Binghamton, NY",29900 ,-75.8659720 ,42.0050470 
+229,"1280 Vestal Ave #5 Binghamton, NY",105000 ,-75.9061641 ,42.0905357 
+230,"3 Perry St Binghamton, NY",55750 ,-75.9278722 ,42.1033579 
+232,"16 Varick St Binghamton, NY",38986 ,-75.9035218 ,42.0967306 
+234,"51 Lake Ave Binghamton, NY",28500 ,-75.9436780 ,42.1135652 
+235,"33 Louisa St Binghamton, NY",25000 ,-75.8876440 ,42.1068263 
+236,"133 Washington St #5 Binghamton, NY",125000 ,-70.9658791 ,42.2176650 
+237,"76 Park Ave Binghamton, NY",20000 ,-75.9157668 ,42.0828362 
+238,"197 Oak St Binghamton, NY",30240 ,-75.9176201 ,42.1066961 
+239,"4 Roosevelt Ave Binghamton, NY",19900 ,-75.8972660 ,42.1227310 
+240,"9 Yager St Binghamton, NY",50000 ,-75.8978443 ,42.1179220 
+242,"52 Holland St Binghamton, NY",39000 ,-75.9336270 ,42.1119579 
+243,"12 Pleasant Ave Binghamton, NY",29900 ,-75.9033334 ,42.1132636 
+244,"28 Mason Ave Binghamton, NY",62000 ,-75.8829430 ,42.1064940 
+247,"611 State St Binghamton, NY",39900 ,-75.8969923 ,42.1181522 
+248,"1269 River Rd Binghamton, NY",74500 ,-75.8354190 ,42.1871900 
+249,"60 Colfax Ave Binghamton, NY",57500 ,-75.9319821 ,42.1118415 
+250,"321 Gratsinger Rd Binghamton, NY",67500 ,-75.8586650 ,42.0513930 
+251,"309 Prospect St Binghamton, NY",20000 ,-75.9401055 ,42.1155497 
+255,"44-46 Sowden St Binghamton, NY",14900 ,-75.9424360 ,42.1191419 
+257,"24 Cary St Binghamton, NY",29900 ,-75.8994980 ,42.1163110 
+259,"37 Roosevelt Ave Binghamton, NY",30437 ,-75.8970230 ,42.1254130 
+260,"16 Burr Ave Binghamton, NY",35803 ,-75.8873919 ,42.0955993 
+261,"3 John St Binghamton, NY",49000 ,-75.8997670 ,42.0935191 
+263,"429 Park Ave Binghamton, NY",169000 ,-75.9151877 ,42.0601183 
+264,"16 Elizabeth Ln Binghamton, NY",89900 ,-75.8977460 ,42.0870800 
+266,"4256 Renole Dr Binghamton, NY",224900 ,-75.8649650 ,42.0671240 
+267,"14 Tompkins St Binghamton, NY",45000 ,-75.8964064 ,42.0999879 
+268,"158 Conklin Ave Binghamton, NY",160000 ,-75.9004418 ,42.0937218 
+269,"197 Chapin St Binghamton, NY",75000 ,-75.9211579 ,42.1037339 
+270,"152 Mary St Binghamton, NY",122500 ,-75.9114092 ,42.0810700 
+271,"5 Riverview Rd Binghamton, NY",54500 ,-75.8985284 ,42.1295805 
+273,"28 Thorp St Binghamton, NY",59000 ,-75.9253406 ,42.1037083 
+274,"159 Murray St Binghamton, NY",68500 ,-75.9200519 ,42.1034129 
+275,"109 Park Ave Binghamton, NY",96500 ,-75.9152583 ,42.0807257 
+276,"850 Park Ave Binghamton, NY",190000 ,-75.9144830 ,42.0319590 
+277,"27 Avon Rd Binghamton, NY",425000 ,-75.9317894 ,42.0907671 
+278,"12 Green St Binghamton, NY",135000 ,-75.9025610 ,42.1177210 
+279,"64 Jackson St Binghamton, NY",85000 ,-75.8919781 ,42.0983547 
+280,"10 Fayette St Binghamton, NY",85000 ,-75.9034766 ,42.0981655 
+281,"27 Terrace Dr Binghamton, NY",18888 ,-75.9108755 ,42.1250898 
+282,"9 Mulberry St Binghamton, NY",42000 ,-75.8980161 ,42.1213153 
+283,"25 Grand Blvd Binghamton, NY",155000 ,-75.9380003 ,42.1052203 
+284,"125 Riverside Dr Binghamton, NY",465000 ,-75.9311860 ,42.0918500 
+286,"13 Davis Rd Binghamton, NY",159900 ,-75.8462810 ,42.1898210 
+287,"75 Pine St Binghamton, NY",49900 ,-75.9016299 ,42.1024829 
+288,"2341 Seneca St Binghamton, NY",47900 ,-75.8995170 ,42.0854750 
+289,"49 Hazel St Binghamton, NY",49900 ,-75.9343740 ,42.1119500 
+290,"8 Saddlebrook Dr Binghamton, NY",654700 ,-75.8492450 ,42.1770489 
+293,"1002 River Rd Binghamton, NY",109900 ,-75.8509158 ,42.1654756 
+294,"69 Tompkins St Binghamton, NY",45000 ,-75.8938883 ,42.0958961 
+295,"19 Baxter St Binghamton, NY",39900 ,-75.9374085 ,42.1132789 
+296,"60 Jackson St Binghamton, NY",43350 ,-75.8923220 ,42.0983116 
+297,"12 Birch St Binghamton, NY",77000 ,-75.9030043 ,42.0923637 
+298,"78 Carmichael Rd Binghamton, NY",39900 ,-75.8874430 ,42.1665523 
+299,"137 Smith Hill Rd Binghamton, NY",169900 ,-75.9152919 ,42.1510963 
+300,"19 Prentice Blvd Binghamton, NY",99900 ,-75.8792630 ,42.1585650 
+301,"25 Downs Ave Binghamton, NY",74900 ,-75.9427218 ,42.1151884 
+302,"32 Matthews St Binghamton, NY",169900 ,-75.9420750 ,42.0978939 
+304,"123 Crary Ave Binghamton, NY",80000 ,-75.9441498 ,42.1040335 
+305,"293 Clinton St Binghamton, NY",57000 ,-75.9350180 ,42.1090801 
+306,"138 Beethoven St Binghamton, NY",89000 ,-75.9330531 ,42.1029629 
+307,"4 Cleveland Ave Binghamton, NY",99900 ,-75.9480514 ,42.1044186 
+308,"206 S Washington St Binghamton, NY",63000 ,-75.9126296 ,42.0773657 
+309,"200 Murray St Binghamton, NY",78000 ,-75.9185752 ,42.1069954 
+310,"28 High St Binghamton, NY",48900 ,-75.9054249 ,42.0909347 
+311,"1424 River Rd Binghamton, NY",42120 ,-75.8494120 ,42.1973730 
+313,"38 Wilson Hill Rd Binghamton, NY",268497 ,-75.9285390 ,42.1638790 
+314,"271 Port Rd Binghamton, NY",110000 ,-75.8725700 ,42.2069350 
+315,"36 Airport Rd Binghamton, NY",13500 ,-75.8594330 ,42.1865450 
+316,"3 Green St Binghamton, NY",67500 ,-75.9028562 ,42.1181804 
+317,"157 Glenwood Rd Binghamton, NY",68900 ,-75.9404470 ,42.1189360 
+318,"23 Gerard Ave Binghamton, NY",99000 ,-75.9193614 ,42.1029643 
+319,"70 Park St Binghamton, NY",120500 ,-75.9451118 ,42.1077874 
+320,"10 Gates St Binghamton, NY",62900 ,-75.8852125 ,42.0989512 
+321,"41 Hayes St Binghamton, NY",49900 ,-75.8912907 ,42.0983183 
+322,"8 Sheldon St Binghamton, NY",99900 ,-75.9179205 ,42.0816250 
+324,"747 & 751 Conklin Rd Binghamton, NY",84900 ,-84.4612577 ,39.3462305 
+325,"94 Park Ave Binghamton, NY",54900 ,-75.9159143 ,42.0813678 
+326,"45 Oak St Binghamton, NY",380000 ,-75.9218621 ,42.0943717 
+327,"105 Moore Ave Binghamton, NY",179900 ,-75.9282953 ,42.0814765 
+328,"197 Riverside Dr Binghamton, NY",595000 ,-75.9396929 ,42.0932957 
+329,"59 Broome St Binghamton, NY",69999 ,-75.8933219 ,42.0972484 
+330,"25 Columbia Ave Binghamton, NY",93500 ,-75.9069809 ,42.0863447 
+331,"430 Park Ave Binghamton, NY",70000 ,-75.9155909 ,42.0601533 
+332,"16 Linda Dr Binghamton, NY",129500 ,-75.9267590 ,42.1316350 
+333,"959 Gillen Dr Binghamton, NY",260000 ,-75.9249498 ,42.0750838 
+334,"34 Thomas St Binghamton, NY",69900 ,-75.8767890 ,42.1738050 
+335,"27 Haendel St Binghamton, NY",108481 ,-75.9341537 ,42.1027344 
+337,"2 Tremont Ave #58 Binghamton, NY",490000 ,-75.9101190 ,42.0921563 
+338,"15 Highland Ave Binghamton, NY",159000 ,-75.9367399 ,42.1002587 
+340,"35 Terrace Dr Binghamton, NY",114900 ,-75.9112875 ,42.1252564 
+341,"1310 Chase Ave Binghamton, NY",120000 ,-75.8775970 ,42.1591669 
+342,"31 Moeller St Binghamton, NY",55000 ,-75.8863761 ,42.1066372 
+343,"165 Leroy St Binghamton, NY",155000 ,-75.9368568 ,42.0949796 
+344,"43 Mill St Binghamton, NY",75000 ,-75.9060233 ,42.0890408 
+348,"39 Blackstone Ave Binghamton, NY",215900 ,-75.9382486 ,42.0851828 
+349,"4 Bennett Ave Binghamton, NY",147500 ,-75.9273533 ,42.0941890 
+350,"73 Crary Ave Binghamton, NY",139000 ,-75.9439857 ,42.1024013 
+352,"342 Springer Rd Binghamton, NY",250000 ,-75.7828180 ,42.1419480 
+353,"20 Loretta Dr Binghamton, NY",119500 ,-75.9128890 ,42.1155810 
+354,"3 1/2 Downs Ave Binghamton, NY",135900 ,-75.9403800 ,42.1142666 
+355,"107 Schubert St Binghamton, NY",82700 ,-75.9404531 ,42.1048495 
+356,"124 Broad Ave Binghamton, NY",265000 ,-75.8891819 ,42.1144332 
+357,"4 White St Binghamton, NY",95000 ,-75.8726717 ,42.1794524 
+358,"21 Rexford St Binghamton, NY",38000 ,-75.9176370 ,42.0729470 
+359,"13 Floral Ave #5 Binghamton, NY",99500 ,-75.9454786 ,42.1104282 
+360,"146 Matthews St Binghamton, NY",90000 ,-75.9428823 ,42.1048634 
+361,"116 Mill St Binghamton, NY",154900 ,-75.9037636 ,42.0841992 
+362,"929 Castle Creek Rd Binghamton, NY",179900 ,-75.9152790 ,42.2167440 
+363,"12 Avon Rd Binghamton, NY",695000 ,-75.9309400 ,42.0897177 
+364,"4 Oak St #1 Binghamton, NY",145000 ,-71.4294902 ,42.1049803 
+365,"15 Seymour St Binghamton, NY",65000 ,-75.9313330 ,42.1127070 
+366,"14 Grand Blvd Binghamton, NY",160000 ,-75.9365311 ,42.1051056 
+367,"49 Kneeland Ave Binghamton, NY",110000 ,-75.9374848 ,42.0962424 
+368,"56 Schubert St Binghamton, NY",134500 ,-75.9370137 ,42.1033461 
+369,"29 Virginia Ave Binghamton, NY",255000 ,-75.9278671 ,42.0898937 
+370,"1425 Mill Rd Binghamton, NY",445000 ,-75.8880060 ,42.0707760 
+371,"7 Utica Ave Binghamton, NY",179000 ,-75.8885434 ,42.1463598 
+372,"214 Leroy St Binghamton, NY",183000 ,-75.9427570 ,42.0971040 
+373,"1463 & 64 Old State Rd Binghamton, NY",325000 ,-95.8457460 ,29.7342726 
+374,"8 Stone St Binghamton, NY",46500 ,-75.9127080 ,42.0877386 
+375,"14 Carhart Ave Binghamton, NY",99900 ,-75.9474831 ,42.1105466 
+376,"2 Newton Ave Binghamton, NY",119000 ,-75.9092776 ,42.0880338 
+377,"62 North St Binghamton, NY",135000 ,-75.9253679 ,42.1024439 
+378,"69 Park Ave #&-1 Binghamton, NY",109000 ,-73.9792759 ,40.7497819 
+380,"220 Robinson St Binghamton, NY",65900 ,-75.8844230 ,42.1075980 
+381,"31 Midwood Dr Binghamton, NY",199900 ,-75.9064248 ,42.0830401 
+383,"258 Stevens Rd Binghamton, NY",124900 ,-75.8931610 ,42.0488470 
+384,"3 Dennison Ave Binghamton, NY",40500 ,-75.8999459 ,42.1197776 
+386,"2104 W Hamton Rd Binghamton, NY",199900 ,-75.9335058 ,42.0764111 
+387,"1133 Daisy Dr Binghamton, NY",94500 ,-75.9419440 ,42.1470310 
+388,"4244 Renole Dr Binghamton, NY",220000 ,-75.8684750 ,42.0680790 
+389,"26 The Arena St Binghamton, NY",79900 ,-75.8890116 ,42.0943010 
+390,"27 Linden St Binghamton, NY",49900 ,-75.8971460 ,42.1206599 
+391,"14 Chestnut St Binghamton, NY",45000 ,-75.9263329 ,42.0935009 
+392,"4 Smith Ave Binghamton, NY",49900 ,-75.8920595 ,42.1196776 
+393,"50 Hayes St Binghamton, NY",73900 ,-75.8916507 ,42.0976048 
+394,"65 Rush Ave Binghamton, NY",95000 ,-75.9179422 ,42.0848839 
+395,"68 East St Binghamton, NY",74900 ,-75.8742280 ,42.1137070 
+396,"8 Jefferson Ave Binghamton, NY",117900 ,-75.9362872 ,42.0995944 
+397,"49 Country Knoll Dr Binghamton, NY",269900 ,-75.8416760 ,42.1809740 
+398,"221 Pennsylvania Ave Binghamton, NY",159900 ,-75.9193100 ,42.0747396 
+399,"14 Country Trl Binghamton, NY",259000 ,-75.9382910 ,42.1494810 
+400,"139 Pennsylvania Ave Binghamton, NY",42635 ,-75.9168275 ,42.0803239 
+402,"49 Lincoln Ave Binghamton, NY",139900 ,-75.9321668 ,42.0961690 
+403,"206 Leroy St Binghamton, NY",295000 ,-75.9420950 ,42.0969580 
+404,"1193 River Rd Binghamton, NY",279000 ,-75.8345710 ,42.1762100 
+405,"77 Matthew Dr Binghamton, NY",189999 ,-75.8452170 ,42.1950720 
+406,"4 Oak St #18 Binghamton, NY",136000 ,-71.4294902 ,42.1049803 
+407,"100 Woodland Ave Binghamton, NY",189900 ,-75.9018763 ,42.0784829 
+408,"36 Pierce St Binghamton, NY",175000 ,-75.8857948 ,42.0904889 
+409,"37 Nash St Binghamton, NY",79900 ,-75.8746660 ,42.1114520 
+410,"59 W End Ave Binghamton, NY",294900 ,-75.9458592 ,42.1000068 
+411,"5 Mason Ave Binghamton, NY",109900 ,-75.8832784 ,42.1049688 
+412,"49 Howard Ave Binghamton, NY",90000 ,-75.8847229 ,42.1091290 
+413,"228 Rundall Pl Binghamton, NY",149900 ,-75.9456660 ,42.1359300 
+414,"63 Windy Hill Rd Binghamton, NY",98500 ,-75.8622271 ,42.1116546 
+415,"1922 Airport Rd Binghamton, NY",239900 ,-75.9662170 ,42.1788490 
+416,"28 Badger Dr Binghamton, NY",197500 ,-75.8589492 ,42.1644816 
+417,"2057 Cheshire Rd Binghamton, NY",215000 ,-75.9295210 ,42.0738550 
+418,"31 Tremont Ave Binghamton, NY",59900 ,-75.9092657 ,42.0896985 
+419,"39 Dickinson St Binghamton, NY",41900 ,-75.9189600 ,42.1057119 
+420,"418 Pierce Creek Rd Binghamton, NY",173500 ,-75.8749330 ,42.0430580 
+421,"65 S Washington St Binghamton, NY",49900 ,-75.9127808 ,42.0882091 
+422,"40 Allendale Rd Binghamton, NY",172000 ,-75.9193417 ,42.0823907 
+423,"431 Bevier St Binghamton, NY",179000 ,-75.8677820 ,42.1254510 
+424,"15 Bellview Rd Binghamton, NY",114900 ,-75.8668230 ,42.1562960 
+425,"5 Weslar Ct Binghamton, NY",175000 ,-75.9268340 ,42.0747590 
+426,"1191 Chenango St Binghamton, NY",259000 ,-75.8850779 ,42.1527090 
+427,"113 Poplar Hill Rd Binghamton, NY",179900 ,-75.8561670 ,42.1750020 
+428,"1330 Colesville Rd Binghamton, NY",330000 ,-75.7382460 ,42.1402730 
+430,"1/2 Mill St Binghamton, NY",40000 ,-75.8962449 ,42.1366460 
+431,"54 Lincoln Ave Binghamton, NY",74252 ,-75.9326205 ,42.0964348 
+432,"16 Mason Ave Binghamton, NY",80930 ,-75.8828714 ,42.1056652 
+433,"2463 Bernice Blvd Binghamton, NY",141814 ,-75.8699890 ,42.0933960 
+434,"35 Downs Ave Binghamton, NY",110000 ,-75.9439460 ,42.1155740 
+435,"32 Hotchkiss St Binghamton, NY",110000 ,-75.9203760 ,42.0807940 
+437,"6 Florence Ave Binghamton, NY",77486 ,-75.9197308 ,42.0958373 
+438,"25 Brook Ave Binghamton, NY",45000 ,-75.9151895 ,42.0774080 
+439,"69 Schubert St Binghamton, NY",107000 ,-75.9374575 ,42.1031505 
+440,"20 College St Binghamton, NY",59900 ,-75.9293713 ,42.0992851 
+441,"16 May St Binghamton, NY",75000 ,-75.9308210 ,42.1110445 
+442,"141 Prospect Ave Binghamton, NY",101354 ,-75.9062679 ,42.1066850 
+443,"337 Conklin Ave Binghamton, NY",84435 ,-75.8858966 ,42.0979908 
+444,"129 Adams Dr Binghamton, NY",104572 ,-75.9112400 ,42.1279510 
+445,"16 Grand St Binghamton, NY",90620 ,-75.8995038 ,42.0916405 
+446,"168 W End Ave Binghamton, NY",95000 ,-75.9461823 ,42.1073631 
+447,"5 Kennedy St Binghamton, NY",63566 ,-75.8890352 ,42.0986516 
+448,"135 Iris Dr Binghamton, NY",66915 ,-75.9139930 ,42.1273110 
+449,"22 Floral Ave #5 Binghamton, NY",45000 ,-84.1966195 ,39.7666552 
+450,"111 E Hamton Rd Binghamton, NY",245000 ,-75.9278578 ,42.0762486 
+451,"42 Crestmont Rd Binghamton, NY",220000 ,-75.9410240 ,42.0989017 
+452,"46 Rogers Mountain Way Binghamton, NY",229900 ,-75.8776980 ,42.1404190 
+453,"36 Howell Rd Binghamton, NY",299900 ,-75.8811220 ,42.0484040 
+454,"97 Nowlan Rd Binghamton, NY",150000 ,-75.8801990 ,42.1486840 
+455,"11 Beacon St Binghamton, NY",129900 ,-75.8922012 ,42.1416272 
+456,"158 W End Ave Binghamton, NY",114900 ,-75.9460965 ,42.1066899 
+457,"742 River Rd Binghamton, NY",101690 ,-75.8643410 ,42.1666450 
+459,"2416 Theresa Blvd Binghamton, NY",121111 ,-75.8673930 ,42.0908820 
+460,"14 Nash St Binghamton, NY",74000 ,-75.8777144 ,42.1109067 
+461,"8 Boulevard Ter Binghamton, NY",119000 ,-75.9423669 ,42.1067061 
+462,"103 Schubert St Binghamton, NY",109900 ,-75.9402237 ,42.1047172 
+463,"12 Murray St Binghamton, NY",109900 ,-75.9230806 ,42.0910034 
+464,"138 Gaylord St Binghamton, NY",107244 ,-75.8827829 ,42.1141258 
+465,"8 W End Ave Binghamton, NY",24900 ,-75.9457376 ,42.0974111 
+466,"15 Merrill St Binghamton, NY",5500 ,-75.9436890 ,42.1150730 
+467,"43 Schubert St Binghamton, NY",125000 ,-75.9352184 ,42.1019336 
+468,"9 Westmoor Pl Binghamton, NY",128900 ,-75.9474089 ,42.1028030 
+469,"17 Westmoor Pl Binghamton, NY",129000 ,-75.9473759 ,42.1033777 
+470,"21 Division St Binghamton, NY",129900 ,-75.9486680 ,42.1055179 
+472,"122 Clifton Blvd Binghamton, NY",197000 ,-75.9457399 ,42.0878713 
+473,"21 Ardsley Rd Binghamton, NY",116650 ,-75.8739671 ,42.1059319 
+474,"14 Davis St Binghamton, NY",149000 ,-75.9287424 ,42.0974103 
+475,"5 Vincent St Binghamton, NY",229900 ,-75.9223891 ,42.0909947 
+476,"8 Meadowood Ln Binghamton, NY",599900 ,-75.8593999 ,42.1817260 
+477,"4160 Lisi Ln Binghamton, NY",301831 ,-75.8698431 ,42.0957550 
+478,"11 Kendall Ave Binghamton, NY",149900 ,-75.9198583 ,42.0853390 
+479,"21 Way St Binghamton, NY",135990 ,-75.9075051 ,42.1061207 
+480,"63 Grand Blvd Binghamton, NY",189900 ,-75.9416017 ,42.1072055 
+481,"537 North Rd Binghamton, NY",49900 ,-75.7490220 ,42.1294380 
+482,"33 Kirkwood Ave Binghamton, NY",174652 ,-75.8892461 ,42.1424711 
+483,"4163 Lisi Ln Binghamton, NY",386892 ,-75.8695907 ,42.0962483 
+484,"35 Rugby Rd Binghamton, NY",172000 ,-75.9448780 ,42.1012907 
+485,"373 Bevier St Binghamton, NY",135000 ,-75.8701035 ,42.1224366 
+486,"27 Maplewood Dr Binghamton, NY",149900 ,-75.8474220 ,42.1964800 
+487,"14 Addison Ct Binghamton, NY",89900 ,-75.8729430 ,42.1139409 
+488,"9 Forest Hills Blvd Binghamton, NY",159900 ,-75.9049675 ,42.1403206 
+489,"245 Fox Rd Binghamton, NY",249900 ,-75.9375246 ,42.2289024 
+490,"29 Clearview Pl Binghamton, NY",224900 ,-75.8398230 ,42.1801280 
+491,"67 Schubert St Binghamton, NY",137500 ,-75.9373302 ,42.1030642 
+492,"161 Murray St Binghamton, NY",199000 ,-75.9201852 ,42.1036123 
+493,"3 Lowell Dr Binghamton, NY",139900 ,-75.8631380 ,42.1686660 
+494,"5 Crestmont Rd Binghamton, NY",265900 ,-75.9413549 ,42.0952985 
+511,"16 Penny Ln Binghamton, NY",64769 ,-75.9206630 ,42.1144570 
+535,"12 Saddlebrook Dr Binghamton, NY",50000 ,-75.8478790 ,42.1771360 
+537,"14 Saddlebrook Dr Binghamton, NY",50000 ,-75.8468580 ,42.1773190 
+538,"13 Saddlebrook Dr Binghamton, NY",50000 ,-75.8476520 ,42.1792120 
+539,"1487 Hawleyton Rd Binghamton, NY",19900 ,-75.9283520 ,42.0467070 
+540," Pine Wood Dr Binghamton, NY",14900 ,-75.8728800 ,42.2007230 
+542,"773 Saddlemire Rd Binghamton, NY",28999 ,-75.8916650 ,42.0329630 
+543,"21 Airport Rd Binghamton, NY",79900 ,-75.8598050 ,42.1885400 
+544,"10 & 14 Travis Dr Binghamton, NY",13900 ,-99.8524149 ,30.5280337 
+545,"24 Popes Ravine Rd Binghamton, NY",4900 ,-75.8692620 ,42.1177680 
+546,"46 Park Terrace Pl Binghamton, NY",5000 ,-75.9163196 ,42.0734361 
+547,"52 Park Terrace Pl Binghamton, NY",5000 ,-75.9168300 ,42.0733231 
+548,"56 Park Terrace Pl Binghamton, NY",5000 ,-75.9171880 ,42.0732380 
+551,"50 Park Terrace Pl Binghamton, NY",5000 ,-75.9166707 ,42.0733751 
+555,"1603 State Route 12 Binghamton, NY",9995 ,-75.8576351 ,42.2020737 
+556,"106 Willis Rd Binghamton, NY",117000 ,-75.9219260 ,42.1553890 
+557,"367 & 353 Prospect St Dickinson, NY",279000 ,-90.2387829 ,38.7589204 
+558,"731 1/2 Chenango St Pt Dickinson, NY",229900 ,-75.8962939 ,42.1332949 
